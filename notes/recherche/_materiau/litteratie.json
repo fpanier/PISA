@@ -1,0 +1,486 @@
+{
+ "topic": "Littératie : de l'apprentissage de la lecture à la littératie avancée",
+ "headline": "L'enseignement systématique du code est la partie du dossier la mieux établie (d ≈ 0,41-0,44, et jusqu'à 0,66 pour les élèves défavorisés) mais ses effets s'estompent vers 10-11 ans sauf chez les élèves fragiles ; le vrai gisement de progrès pour la FWB se situe en aval — tempo et déchiffrabilité du code au CP, encodage quotidien, langage oral et vocabulaire précoces, curriculum riche en connaissances, écriture structurée et littératie disciplinaire — un terrain où les tailles d'effet sont plus modestes, les échecs de passage à l'échelle nombreux et documentés, et où plusieurs « solutions » populaires (stratégies de compréhension enseignées isolément, lecture silencieuse libre, Reading Recovery) ne tiennent pas la mesure rigoureuse.",
+ "transposability_fwb": "Ce qui se transpose sans difficulté majeure : (1) le socle scientifique sur le code et la fluence est indépendant de la langue, et le français est une orthographe plus transparente que l'anglais en lecture — les seuils opératoires ne sont donc PAS ceux de l'anglais, mais ceux établis en France par « Lire et écrire au CP » (Goigoux 2016) : ~14-15 correspondances graphophonémiques étudiées en 9 semaines, textes déchiffrables à ≥57 %, temps quotidien d'encodage. C'est la référence à utiliser, pas le National Reading Panel. (2) Le diagnostic sur le déficit de temps d'engagement effectif (20 h/an observées contre ~35 h estimées nécessaires) est directement pertinent pour la FWB, où il renvoie à un levier organisationnel et non budgétaire. (3) Un curriculum riche en connaissances est compatible avec le tronc commun et avec les référentiels FWB, à condition d'être porté par des ressources et non par un mandat pédagogique — point crucial en régime de liberté d'enseignement. Ce qui se transpose mal : (a) le phonics screening check anglais est un dispositif de reddition de comptes centralisée à l'échelle nationale, adossé à une inspection unifiée (Ofsted) ; en gouvernance partagée entre réseaux, un test obligatoire de décodage en 1re primaire serait juridiquement et politiquement contesté — l'alternative crédible est un outil d'évaluation diagnostique mis à disposition, non un check couperet, d'autant que son évaluation officielle (NFER/DfE 2015) n'a trouvé aucun effet identifiable sur la littératie. (b) Les résultats de Core Knowledge (Grissmer et al. 2023) proviennent de charter schools américaines à inscription volontaire et par tirage au sort, dans un marché scolaire sans équivalent ; ils ne disent rien de ce que produirait un curriculum riche imposé à des écoles non demandeuses. (c) Les programmes anglo-saxons de littératie disciplinaire (Reading Apprenticeship, ~+0,07 ET) supposent une tradition de « content-area literacy » et une organisation en départements disciplinaires du secondaire américain. (d) Les interventions intensives en petits groupes (NELI, STARI, Fresh Start) ont un coût en ressources humaines réel : NELI mobilise du personnel d'appui formé, 3 à 5 séances hebdomadaires ; sous contrainte de 1,5 Md € de déficit, seul un redéploiement (temps d'encadrement existant, aides-éducateurs, logopèdes) est envisageable, ce qui suppose une décision de gouvernance, pas un crédit nouveau. (e) Enfin, plusieurs dispositifs qui « marchent » en essai d'efficacité échouent en déploiement réel (Improving Writing Quality : +0,74 ET puis −0,09 ; Reading Recovery : >+0,50 ET puis −0,19 à −0,43 ET à 8-9 ans) : toute note de position pour la FWB devrait faire du passage à l'échelle, et non de la sélection de la « bonne méthode », le cœur de son argument.",
+ "searches_run": 38,
+ "items": [
+  {
+   "claim": "L'enseignement systématique du code (phonics) produit un effet moyen modéré et robuste sur la lecture — d = 0,41 (0,44 mesuré à la fin de la première année d'enseignement) — et cet effet est nettement plus élevé pour les élèves de milieu défavorisé (d = 0,66) que pour les élèves de classe moyenne (d = 0,44).",
+   "what_it_is": "Enseignement explicite, planifié et ordonné des correspondances entre graphèmes et phonèmes, avant et indépendamment de l'exposition au sens, en début de scolarité primaire. S'oppose à un enseignement incident ou « au fil des textes ». Le National Reading Panel américain a agrégé 66 comparaisons traitement-contrôle issues d'études expérimentales et quasi-expérimentales publiées entre 1970 et 2000.",
+   "evidence_level": "méta-analyse (66 comparaisons traitement-contrôle, majorité d'essais randomisés ou quasi-expérimentaux), confirmée par des méta-analyses ultérieures et par une revue de synthèse en Psychological Science in the Public Interest",
+   "effect_size": "d = 0,41 (fin de programme) ; d = 0,44 (fin de la première année scolaire) sur un indice composite de lecture, élèves de maternelle à 6e année ; d = 0,66 pour les élèves de faible statut socio-économique ; d = 0,43 quand l'enseignement débute en maternelle/1re année et se poursuit 2-3 ans ; mais seulement d = 0,27 lorsqu'il est introduit après la 1re année.",
+   "concrete_practice": "Une progression écrite de correspondances graphème-phonème, une séance quotidienne courte et ritualisée (15-30 min) de découverte, fusion (blending), segmentation et dictée, adossée à des textes dont les élèves peuvent effectivement déchiffrer la majorité des graphèmes, plus une évaluation périodique du nombre de correspondances maîtrisées.",
+   "concrete_example": "Angleterre, 2005-2010. Après le rapport Rose (DfES, 2006), qui a remplacé le modèle des « searchlights » (lecture guidée par quatre sources de repères : contexte, grammaire, reconnaissance de mots, repères graphiques) par la « simple view of reading », le ministère a lancé un pilote (Early Reading Development Pilot) dans 172 écoles et crèches de 18 Local Authorities en 2005-2006, puis l'a étendu par vagues successives sous le nom de Communication, Language and Literacy Development (CLLD). Le dispositif n'était pas un programme mais un appui intensif : un consultant faisait un audit initial de l'école, établissait un plan d'action, revenait modéliser ou co-enseigner la séance de code, puis accompagnait la planification ; les écoles étaient censées sortir du dispositif intensif en un an, les autres écoles de l'autorité locale recevant une formation continue. Machin, McNally et Viarengo ont exploité le déploiement échelonné entre autorités locales comme expérience naturelle sur les données administratives nationales (National Pupil Database, cohortes 2003-2012). Résultat : effet immédiat supérieur à 0,2 écart-type à 5 ans, encore 0,07 écart-type à 7 ans, statistiquement significatif pour les deux vagues (EDRp et CLLD).",
+   "conditions": "Trois conditions apparaissent dans les données : (1) démarrer tôt — l'effet est deux fois plus faible (d = 0,27) si le code est enseigné après la 1re année ; (2) durer — d = 0,43 quand l'enseignement commence en maternelle/1re année et se poursuit 2-3 ans ; (3) former réellement les enseignants — le dispositif anglais évalué n'était pas une injonction curriculaire mais un accompagnement par consultant avec observation, modélisation et co-enseignement. Le National Reading Panel note aussi que l'effet du code sur la compréhension est bien plus faible que sur le décodage et disparaît largement au-delà de la 1re année.",
+   "contested": "Fortement contesté sur la force de la preuve. Bowers (2020, Educational Psychology Review) a réexaminé 12 méta-analyses et conclut que la supériorité du phonics systématique sur les méthodes alternatives n'est pas démontrée, en s'appuyant aussi sur l'évolution des résultats anglais depuis 2007. Trois réfutations publiées existent : Buckingham (2020), Fletcher, Savage & Vaughn (2021) et Brooks (2023). Fletcher et al. concèdent un point important : la bonne question n'est pas « phonics contre méthode globale » mais comment combiner les composantes ; ils reprochent à Bowers de confondre phonics « systématique » et phonics « explicite ». Torgerson, Brooks, Gascoine & Higgins (2019) notent que l'essai décisif recommandé en 2006 pour comparer les approches n'a jamais été conduit. Deuxième limite, moins discutée : la quasi-totalité de ces preuves porte sur l'anglais, orthographe opaque ; l'ampleur des effets en français, plus transparent en lecture, est probablement différente.",
+   "sources": [
+    {
+     "author": "National Reading Panel (NICHD)",
+     "title": "Teaching Children to Read: An Evidence-Based Assessment of the Scientific Research Literature on Reading and Its Implications for Reading Instruction — Reports of the Subgroups",
+     "org": "National Institute of Child Health and Human Development, US",
+     "year": "2000",
+     "url": "https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/documents/report.pdf"
+    },
+    {
+     "author": "Machin, S., McNally, S. & Viarengo, M.",
+     "title": "\"Teaching to Teach\" Literacy (CEP Discussion Paper No 1425)",
+     "org": "Centre for Economic Performance, LSE",
+     "year": "2016",
+     "url": "https://cep.lse.ac.uk/pubs/download/dp1425.pdf"
+    },
+    {
+     "author": "Machin, S., McNally, S. & Viarengo, M.",
+     "title": "Changing How Literacy Is Taught: Evidence on Synthetic Phonics",
+     "org": "American Economic Journal: Economic Policy",
+     "year": "2018",
+     "url": "https://doi.org/10.1257/pol.20160514"
+    },
+    {
+     "author": "Castles, A., Rastle, K. & Nation, K.",
+     "title": "Ending the Reading Wars: Reading Acquisition From Novice to Expert",
+     "org": "Psychological Science in the Public Interest",
+     "year": "2018",
+     "url": "https://doi.org/10.1177/1529100618772271"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet du code seul s'estompe : dans l'évaluation causale anglaise, l'avantage initial (>0,2 ET à 5 ans) a entièrement disparu à 11 ans en moyenne — sauf pour les élèves les plus fragiles, chez qui il persiste (jusqu'à +0,18 ET pour les élèves cumulant allophonie et pauvreté).",
+   "what_it_is": "Le phénomène de « rattrapage » (catch-up) : les élèves du groupe témoin finissent par apprendre à décoder par d'autres voies, ce qui annule l'écart moyen ; l'effet net durable se concentre sur ceux qui, sans enseignement structuré, auraient échoué à décoder.",
+   "evidence_level": "quasi-expérimental de haute qualité (différences-de-différences sur déploiement échelonné entre autorités locales, données administratives exhaustives, cohortes 2001-2012, appariement individuel des scores à 7 et 11 ans)",
+   "effect_size": "À 5 ans : >0,2 ET. À 7 ans : 0,07 ET (les deux dispositifs). À 11 ans : effet moyen proche de zéro. Sous-groupes à 7 ans : élèves bénéficiaires des repas scolaires gratuits 0,135 ET (EDRp) et 0,136 ET (CLLD) contre 0,042 / 0,045 ET pour les autres. À 11 ans : 0,06 ET pour les défavorisés ; pour le groupe cumulant allophonie et pauvreté, ~0,2 ET à 7 ans et +0,18 ET (EDRp) / +0,10 ET (CLLD) à 11 ans.",
+   "concrete_practice": "Conséquence opérationnelle : un plan lecture qui s'arrêterait au code produirait un gain visible dans les évaluations de 1re-2e primaire et invisible dans PISA à 15 ans. Le ciblage sur les élèves à risque (allophones, milieu défavorisé) est ce qui donne un rendement durable.",
+   "concrete_example": "Angleterre, cohortes nées en 2001 et 2002. Machin, McNally et Viarengo relient les résultats du Foundation Stage Profile à 5 ans, du Key Stage 1 à 7 ans et du Key Stage 2 à 11 ans pour les mêmes élèves. Ils utilisent aussi la Millennium Cohort Study (~20 000 enfants suivis depuis la naissance) pour montrer que le déficit de vocabulaire à l'entrée à l'école est de l'ordre d'un écart-type entre locuteurs natifs et non natifs, et d'environ 0,6 écart-type entre enfants pauvres et non pauvres. Leur interprétation : le code résout le problème de ceux qui butent sur le décodage, mais ne touche pas au déficit de langage oral qui, lui, refait surface au moment où la compréhension devient l'enjeu.",
+   "conditions": "L'effet persiste uniquement là où le contrefactuel est mauvais : élèves qui, sans enseignement structuré, resteraient de faibles décodeurs. Dans un système où l'enseignement du code est déjà largement correct, le gain marginal d'une réforme du code sera faible. Inversement, la persistance chez les élèves allophones/défavorisés est l'argument d'équité le plus solide du dossier.",
+   "contested": "Les auteurs eux-mêmes signalent un résultat qu'ils ne savent pas expliquer : pour le dispositif EDRp, un coefficient négatif apparaît à 11 ans pour un sous-groupe (élèves natifs non bénéficiaires de repas gratuits). Limite de design : la sélection des autorités locales et des écoles dans le pilote n'a pas été faite selon des critères systématiques (capacité à livrer rapidement, expertise préexistante, volontariat des directions), ce qui peut biaiser la généralisation vers le haut. Enfin, l'absence d'effet moyen à 11 ans est parfois utilisée (par Bowers 2020) pour contester l'ensemble de la politique anglaise : c'est une lecture excessive, puisque les effets sur les publics fragiles subsistent.",
+   "sources": [
+    {
+     "author": "Machin, S., McNally, S. & Viarengo, M.",
+     "title": "\"Teaching to Teach\" Literacy (CEP Discussion Paper No 1425)",
+     "org": "Centre for Economic Performance, LSE",
+     "year": "2016",
+     "url": "https://cep.lse.ac.uk/pubs/download/dp1425.pdf"
+    },
+    {
+     "author": "Machin, S., McNally, S. & Viarengo, M.",
+     "title": "Changing How Literacy Is Taught: Evidence on Synthetic Phonics",
+     "org": "American Economic Journal: Economic Policy",
+     "year": "2018",
+     "url": "https://doi.org/10.1257/pol.20160514"
+    },
+    {
+     "author": "Bowers, J. S.",
+     "title": "Reconsidering the Evidence That Systematic Phonics Is More Effective than Alternative Methods of Reading Instruction",
+     "org": "Educational Psychology Review",
+     "year": "2020",
+     "url": "https://doi.org/10.1007/s10648-019-09515-y"
+    }
+   ]
+  },
+  {
+   "claim": "Le dépistage obligatoire du décodage (phonics screening check anglais) a modifié les pratiques et fait monter les résultats en décodage (58 % → 74 % d'élèves au standard attendu entre 2012 et 2014), mais son évaluation officielle sur trois ans n'a trouvé aucune amélioration de la lecture ni de l'écriture attribuable au dispositif.",
+   "what_it_is": "Test national obligatoire passé par tous les élèves de Year 1 (5-6 ans) en Angleterre depuis 2012 : 40 items (20 mots réels, 20 pseudo-mots) évaluant 85 correspondances graphème-phonème, avec un seuil de réussite et un repassage en Year 2 pour ceux qui échouent.",
+   "evidence_level": "évaluation nationale sans groupe témoin (série temporelle sur données administratives nationales appariées EYFSP → check → Key Stage 1, complétée par enquêtes auprès de 573 coordinateurs de littératie et 652 enseignants de Year 1, et 19 études de cas) — niveau de preuve faible pour l'effet causal, explicitement reconnu par les auteurs",
+   "effect_size": "Décodage : proportion d'élèves atteignant le standard attendu en Year 1 passée de 58 % (2012) à 69 % (2013) puis 74 % (2014) ; 88 % en fin de Year 2 en 2014. Littératie (lecture et écriture) : aucune amélioration de niveau ni de progrès « clairement attribuable » à l'introduction du check, ni pour l'ensemble des élèves ni selon le niveau initial. Aucune taille d'effet chiffrée ne peut être calculée faute de contrefactuel.",
+   "concrete_practice": "Le changement de pratique le plus fréquemment rapporté en 2014 est l'accélération du rythme d'enseignement du code, puis une attention accrue aux pseudo-mots et une augmentation des évaluations de phonologie. 48 % des coordinateurs déclarent avoir modifié leurs pratiques en 2014 (56 % en 2013, 34 % en 2012).",
+   "concrete_example": "Angleterre, 2012-2015. Évaluation du Phonics Screening Check commandée par le Department for Education et conduite par la NFER (Walker, Sainsbury, Worth, Bamforth & Betts), rapport final DFE-RR418A publié en juin 2015. Détail révélateur pour un débat FWB : malgré une politique officielle « synthetic phonics first and foremost » depuis 2006, 56 % des coordinateurs de littératie déclaraient encore en 2014 que « le code est enseigné de façon distincte à côté d'autres stratégies de repérage (cueing) » ou « toujours intégré comme l'une d'un ensemble de stratégies de repérage ». Autrement dit, huit ans après le rapport Rose et deux ans après l'introduction d'un test obligatoire, plus de la moitié des écoles anglaises n'appliquaient pas le modèle prescrit.",
+   "conditions": "Un test de dépistage ne produit d'effet que s'il est couplé à une réponse pédagogique organisée pour les élèves repérés ; l'évaluation NFER montre que les enseignants utilisaient surtout les résultats pour « réviser les plans d'enseignement en général », pas pour un suivi individuel. La validité du test lui-même est en cause : seules 15 des 85 correspondances censées être testables représentent 67 % des occurrences, et 27 des 85 n'apparaissent pas du tout (Darnell, Solity & Wall, 2017).",
+   "contested": "Vivement contesté. Duff, Mengoni, Bailey & Snowling (2015) concluent que le check est valide et sensible, mais que des ressources seraient mieux employées à former les enseignants au suivi continu. L'erratum et la réanalyse de Gilchrist & Snowling (2018) montrent que la valeur prédictive positive du check n'est que de 0,31 lorsqu'on la compare à un test de lecture standardisé (contre 0,84 face au jugement enseignant), soit une majorité de faux positifs. Darnell, Solity & Wall (2017) mettent en cause la validité de construction : la lecture des mots réels du test dépend du vocabulaire, pas seulement du décodage. L'évaluation NFER elle-même reconnaît que ses conclusions sont non concluantes faute de groupe témoin et en raison de la multiplicité des initiatives nationales simultanées.",
+   "sources": [
+    {
+     "author": "Walker, M., Sainsbury, M., Worth, J., Bamforth, H. & Betts, H.",
+     "title": "Phonics Screening Check Evaluation: Final report (DFE-RR418A)",
+     "org": "National Foundation for Educational Research / Department for Education (England)",
+     "year": "2015",
+     "url": "https://assets.publishing.service.gov.uk/media/5a8053beed915d74e622dd0b/RR418A_Phonics_screening_check_evaluation.pdf"
+    },
+    {
+     "author": "Darnell, C. A., Solity, J. E. & Wall, H.",
+     "title": "Decoding the Phonics Screening Check",
+     "org": "British Educational Research Journal",
+     "year": "2017",
+     "url": "https://doi.org/10.1002/berj.3269"
+    },
+    {
+     "author": "Duff, F. J., Mengoni, S. E., Bailey, A. M. & Snowling, M. J.",
+     "title": "Validity and Sensitivity of the Phonics Screening Check: Implications for Practice",
+     "org": "Journal of Research in Reading",
+     "year": "2015",
+     "url": "https://doi.org/10.1111/1467-9817.12029"
+    },
+    {
+     "author": "Gilchrist, J. M. & Snowling, M. J.",
+     "title": "On the Validity and Sensitivity of the Phonics Screening Check: Erratum and Further Analysis",
+     "org": "Journal of Research in Reading",
+     "year": "2018",
+     "url": "https://doi.org/10.1111/1467-9817.12095"
+    }
+   ]
+  },
+  {
+   "claim": "En français, la recherche la plus directement transposable identifie trois paramètres pilotables au CP : un tempo d'environ 14 à 15 correspondances graphophonémiques étudiées durant les 9 premières semaines, des textes déchiffrables à au moins 57 % par l'élève, et un temps significatif consacré à l'encodage (dictée, écriture) et à l'étude du vocabulaire — tous trois bénéficiant particulièrement aux élèves initialement faibles.",
+   "what_it_is": "La recherche collective « Lire et écrire au CP », pilotée par Roland Goigoux (Institut français de l'Éducation / ENS de Lyon), avec treize laboratoires universitaires français, année scolaire 2013-2014 : observation filmée et codée des pratiques réelles de 131 enseignants de CP et évaluation individuelle d'environ 2 500 élèves en début et en fin d'année, sur quatre domaines (code, compréhension en lecture autonome, compréhension en écoute, écriture).",
+   "evidence_level": "corrélationnel de grande ampleur avec contrôle du niveau initial (modèles multiniveaux, valeur ajoutée par classe) — pas d'assignation aléatoire, donc causalité non établie ; renforcé par une relation dose-réponse quadratique identifiant un optimum",
+   "effect_size": "Seuil de tempo : les élèves initialement faibles progressent d'autant plus que le nombre de correspondances graphophonémiques étudiées augmente, jusqu'à 14 correspondances en 9 semaines ; au-delà, les effets diminuent (relation quadratique). Le seuil optimal pour l'ensemble de l'échantillon est de 15 correspondances. Déchiffrabilité : les élèves faibles progressent davantage en identification de mots lorsque le rendement effectif des textes atteint au moins 57 % des graphèmes déchiffrables. Effets positifs significatifs de l'augmentation du temps consacré aux tâches d'encodage (dictées) et à l'étude du vocabulaire pour les élèves faibles. Les tailles d'effet en écart-type ne sont pas rapportées sous cette forme dans les synthèses accessibles.",
+   "concrete_practice": "Trois décisions concrètes de classe, mesurables et vérifiables : le nombre de correspondances effectivement étudiées à la Toussaint ; le taux de graphèmes déchiffrables des supports mis entre les mains des élèves (un manuel peut être « joli » et illisible pour un enfant de novembre) ; le nombre de minutes hebdomadaires où l'élève écrit lui-même des mots et des phrases sous dictée, plutôt que de copier ou de compléter.",
+   "concrete_example": "France, 2013-2014, recherche « Lire et écrire au CP ». Au-delà des seuils, un résultat organisationnel a un intérêt direct pour la FWB : Suchaut, Bougnères et Bouguen (2014), cités dans la note de synthèse de Viriot-Goeldel, estiment à environ 35 heures annuelles le temps d'engagement effectif nécessaire d'un élève de CP dans les tâches d'apprentissage de la lecture ; les élèves observés dans l'échantillon n'en bénéficiaient en moyenne que de 20 heures, soit un déficit de 15 heures. Goigoux souligne par ailleurs que les enseignants les plus efficaces (ceux qui élèvent le niveau moyen) sont aussi les plus équitables : ils réduisent simultanément les écarts entre élèves forts et faibles. La recherche est donc utilisable comme référentiel d'auto-analyse de pratique, pas comme prescription de méthode.",
+   "conditions": "Le seuil de 14-15 correspondances n'est pas un « plus c'est mieux » : la relation est quadratique et un tempo excessif dégrade les résultats. Le paramètre de déchiffrabilité suppose que les écoles aient accès à des supports dont le rendement effectif est connu — ce qui est une question de ressources et d'édition scolaire, non de circulaire. Le déficit de temps d'engagement (20 h contre 35 h) est un levier organisationnel : il ne coûte rien en budget mais suppose un arbitrage sur l'emploi du temps du CP, donc une négociation pédagogique.",
+   "contested": "Contesté sur deux plans. Méthodologiquement, il s'agit d'un design corrélationnel : les classes qui étudient plus de correspondances peuvent différer sur d'autres dimensions non mesurées. Sur le plan de la lecture des résultats, Crinon et Dias-Chiaruttini (2017, Repères) interrogent explicitement la manière dont l'efficacité des pratiques a été construite dans cette recherche. À signaler aussi : l'étude n'a pas été conçue pour comparer des méthodes commerciales et ne fournit donc pas d'argument en faveur d'un manuel particulier — toute utilisation en ce sens serait une surinterprétation.",
+   "sources": [
+    {
+     "author": "Goigoux, R.",
+     "title": "Apprendre à lire et à écrire au cours préparatoire : enseignements d'une recherche collective",
+     "org": "Revue française de pédagogie, n° 196",
+     "year": "2016",
+     "url": "https://doi.org/10.4000/rfp.5069"
+    },
+    {
+     "author": "Viriot-Goeldel, C.",
+     "title": "Quelles sont les pratiques d'enseignement de la lecture-écriture au cours préparatoire favorables aux élèves les plus faibles ? Note de synthèse",
+     "org": "Repères",
+     "year": "2017",
+     "url": "https://doi.org/10.4000/reperes.1171"
+    },
+    {
+     "author": "Goigoux, R., Cèbe, S. & Pironom, J.",
+     "title": "Les facteurs explicatifs des performances en lecture-compréhension à la fin du cours préparatoire",
+     "org": "Revue française de pédagogie",
+     "year": "2016",
+     "url": "https://doi.org/10.4000/rfp.5076"
+    },
+    {
+     "author": "Riou, J. & Fontanieu, V.",
+     "title": "La déchiffrabilité des écrits au cours préparatoire",
+     "org": "Éducation et didactique",
+     "year": "2021",
+     "url": "https://doi.org/10.4000/educationdidactique.9207"
+    }
+   ]
+  },
+  {
+   "claim": "La lecture orale répétée et guidée avec rétroaction améliore la fluence ET la compréhension (effet moyen pondéré d = 0,41 ; jusqu'à d = 0,55 sur la justesse) ; à l'inverse, les dispositifs de lecture silencieuse libre non accompagnée (lecture-plaisir, « quart d'heure lecture », Accelerated Reader) n'ont jamais démontré d'effet de manière claire et convaincante.",
+   "what_it_is": "Deux familles opposées : d'un côté la lecture orale répétée d'un même texte avec guidage et correction immédiate par un adulte ou un pair (repeated reading, paired reading, lecture assistée) ; de l'autre les programmes qui se contentent d'allouer du temps de lecture silencieuse autonome (Sustained Silent Reading, DEAR).",
+   "evidence_level": "méta-analyse pour la lecture orale guidée ; revue systématique concluant à l'insuffisance de preuves pour la lecture silencieuse libre — le National Reading Panel souligne explicitement que peu d'études existent et que la plupart ne mesurent même pas si les élèves ont effectivement lu davantage",
+   "effect_size": "Lecture orale répétée guidée : effet moyen pondéré d = 0,41 ; par sous-outcome, justesse de lecture d = 0,55, fluence d = 0,44, compréhension d = 0,35 ; d = 0,50 lorsque les mesures sont agrégées. Population : lecteurs non en difficulté jusqu'au moins la 4e année, et élèves en difficulté de lecture jusqu'à la fin du secondaire. Lecture silencieuse libre : aucune taille d'effet exploitable ; la majorité des études ne trouve pas de relation positive ni avec la quantité lue ni avec le niveau de lecture.",
+   "concrete_practice": "Concrètement : l'élève lit un passage à voix haute, l'adulte ou le pair corrige immédiatement les erreurs, l'élève relit le même passage jusqu'à un critère de débit et de justesse, et l'on mesure le nombre de mots correctement lus par minute. Ce n'est pas la même chose que « faire lire » : c'est une boucle courte lecture-rétroaction-relecture, avec une mesure.",
+   "concrete_example": "États-Unis, rapport du National Reading Panel (2000), chapitre Fluency. Le panel a d'abord recensé les procédures de pratique guidée (repeated reading, neurological impress, paired reading, tutorat assisté), puis les programmes d'encouragement à la lecture autonome. Sa conclusion comparative est explicitement formulée : « l'efficacité démontrée de la lecture orale guidée, comparée à l'absence d'efficacité démontrée des stratégies encourageant la lecture silencieuse indépendante, montre l'importance des approches instructionnelles explicites plutôt qu'implicites pour améliorer la fluence ». Le panel ajoute que dans les études de lecture libre, on ignore même si l'intervention a conduit à lire davantage ou si elle a simplement déplacé du temps de lecture que les élèves auraient consacré ailleurs.",
+   "conditions": "Le guidage est la condition active : c'est la rétroaction immédiate, pas la répétition, qui produit l'effet. La procédure est intensive en temps adulte (ou en organisation du tutorat entre pairs), ce qui en fait un dispositif de remédiation ciblée plutôt qu'une pratique de classe entière. Elle suppose des textes calibrés et une mesure régulière du débit.",
+   "contested": "Le résultat sur la lecture silencieuse libre est le plus mal reçu du rapport et reste discuté : les études recensées étaient peu nombreuses et couvraient une gamme étroite de procédures ; le National Reading Panel se garde d'affirmer que la lecture libre est inefficace et écrit seulement que « la recherche ne l'a pas démontré de manière claire et convaincante ». Je n'ai pas retrouvé, dans les sources primaires accessibles pour cette revue, de méta-analyse récente et fiable sur la lecture silencieuse libre permettant de trancher ; les affirmations circulant sur ce point (y compris celles que je croyais pouvoir citer) ne doivent donc pas être présentées comme établies. Par ailleurs, le rapport du NRP dans son ensemble a fait l'objet de critiques méthodologiques (critères d'inclusion, définition étroite de la preuve expérimentale) qui valent aussi pour ce chapitre.",
+   "sources": [
+    {
+     "author": "National Reading Panel (NICHD)",
+     "title": "Teaching Children to Read — Chapter 3: Fluency",
+     "org": "National Institute of Child Health and Human Development, US",
+     "year": "2000",
+     "url": "https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/documents/report.pdf"
+    },
+    {
+     "author": "Castles, A., Rastle, K. & Nation, K.",
+     "title": "Ending the Reading Wars: Reading Acquisition From Novice to Expert",
+     "org": "Psychological Science in the Public Interest",
+     "year": "2018",
+     "url": "https://doi.org/10.1177/1529100618772271"
+    }
+   ]
+  },
+  {
+   "claim": "Le déficit de langage oral précède le déficit de lecture et peut être réduit par une intervention structurée : l'intervention NELI produit environ +0,27 écart-type (≈ 4 mois de progrès) sur le langage oral pour les enfants les plus faibles, et c'est l'un des très rares dispositifs de littératie précoce à avoir franchi le passage à l'échelle nationale — plus de 6 600 écoles anglaises inscrites pour la seule année 2020-2021.",
+   "what_it_is": "Nuffield Early Language Intervention : programme de développement du langage oral ciblant les enfants aux compétences langagières faibles, à la transition entre la dernière année de maternelle et la première année du primaire. Trois séances hebdomadaires en petits groupes de 2 à 4 enfants, plus deux séances individuelles de 15 minutes en primaire, centrées sur l'écoute, le récit et le vocabulaire ; travail sur la conscience phonologique introduit dans les dix dernières semaines. Délivré par des assistants d'enseignement et du personnel de maternelle formés, pas par des orthophonistes.",
+   "evidence_level": "essai randomisé contrôlé (assignation aléatoire des enfants au sein des écoles), évaluation indépendante commandée par l'Education Endowment Foundation ; adossé à deux essais randomisés antérieurs de l'université de York",
+   "effect_size": "Version 30 semaines : 0,27 écart-type (IC 95 % : 0,07 à 0,46), soit l'équivalent d'environ 4 mois de progrès supplémentaires. Version 20 semaines (année de réception seule) : 0,16 écart-type (IC 95 % : −0,02 à 0,34), soit environ 2 mois, non significative. Population : 350 enfants dans 34 écoles du Yorkshire et du Sud-Est, sélectionnés pour leurs faibles compétences langagières. Dans l'essai princeps de Fricke et al. (2013, 180 enfants, 15 écoles maternelles), les gains en langage oral et récit se maintenaient 6 mois après l'intervention et se généralisaient à une mesure standardisée de compréhension en lecture.",
+   "concrete_practice": "Un assistant d'enseignement formé prend 3 ou 4 enfants repérés comme faibles en langage, trois fois par semaine, sur des séances courtes travaillant explicitement le vocabulaire (mots choisis, définis, réutilisés), la structure du récit et l'écoute active — puis ajoute la conscience phonologique en fin de parcours.",
+   "concrete_example": "Angleterre, 2020-2023. Après l'essai EEF de 2016 et un essai d'efficacité ultérieur, le Department for Education a financé le déploiement national de NELI pendant la période Covid. Les listes d'écoles inscrites publiées par le DfE permettent de chiffrer l'échelle précisément : 6 672 écoles inscrites pour l'année 2020-2021 et 4 422 pour 2021-2022. C'est, à ma connaissance, l'un des très rares cas documentés où un programme de littératie précoce évalué par essai randomisé a été porté par un État à l'échelle de plusieurs milliers d'écoles en moins de cinq ans. Contre-exemple utile pour la FWB : le passage à l'échelle a été rendu possible par un financement central fléché et une structure de formation unique, deux conditions qui n'existent pas telles quelles en gouvernance partagée entre réseaux.",
+   "conditions": "La durée est décisive : la version 30 semaines fonctionne, la version 20 semaines ne montre pas d'effet significatif. Le dispositif suppose du personnel d'appui formé et libéré (non pas l'enseignant de classe), un dépistage langagier fiable en début de parcours, et une fidélité d'implémentation soutenue. Un résultat de prudence important : Haley, Hulme, Bowyer-Crane, Snowling & Fricke (2017) ont publié un essai randomisé explicitement intitulé « une mise en garde » — une version de 15 semaines en préscolaire n'a produit d'effets que sur le vocabulaire enseigné, sans différence sur aucune mesure langagière standardisée.",
+   "contested": "Trois réserves. (1) L'essai EEF de 2016 porte sur 350 enfants seulement, échantillon modeste ; l'intervalle de confiance de la version 20 semaines inclut zéro. (2) Le résultat le plus commenté de l'essai de Fricke et al. (2013) — la généralisation à la compréhension en lecture — n'apparaît qu'au test de maintien à 6 mois, ce qui est fragile. (3) Le déploiement national anglais n'a pas, à ma connaissance, fait l'objet d'une évaluation causale de ses effets en conditions réelles ; l'ampleur du déploiement n'est donc pas une preuve d'efficacité à l'échelle. Je n'ai pas trouvé de telle évaluation et ne peux pas en citer une.",
+   "sources": [
+    {
+     "author": "Sibieta, L., Kotecha, M. & Skipp, A.",
+     "title": "Nuffield Early Language Intervention: Evaluation Report and Executive Summary",
+     "org": "Education Endowment Foundation",
+     "year": "2016",
+     "url": "https://files.eric.ed.gov/fulltext/ED581138.pdf"
+    },
+    {
+     "author": "Fricke, S., Bowyer-Crane, C., Haley, A. J., Hulme, C. & Snowling, M. J.",
+     "title": "Efficacy of Language Intervention in the Early Years",
+     "org": "Journal of Child Psychology and Psychiatry",
+     "year": "2013",
+     "url": "https://doi.org/10.1111/jcpp.12010"
+    },
+    {
+     "author": "Haley, A., Hulme, C., Bowyer-Crane, C., Snowling, M. J. & Fricke, S.",
+     "title": "Oral Language Skills Intervention in Pre-School — A Cautionary Tale",
+     "org": "International Journal of Language & Communication Disorders",
+     "year": "2017",
+     "url": "https://doi.org/10.1111/1460-6984.12257"
+    },
+    {
+     "author": "Department for Education (England)",
+     "title": "NELI (Nuffield Early Language Intervention programme) — listes des écoles inscrites par année scolaire",
+     "org": "GOV.UK",
+     "year": "2024",
+     "url": "https://www.gov.uk/government/publications/neli-nuffield-early-language-intervention-programme"
+    }
+   ]
+  },
+  {
+   "claim": "Les connaissances préalables sur le sujet d'un texte pèsent davantage sur ce qu'un élève retient que son niveau de lecture mesuré : c'est le résultat central qui fonde l'argument du curriculum riche en savoirs — mais la version forte de cet argument dépasse ce que l'étude fondatrice établit réellement.",
+   "what_it_is": "L'expérience dite « du baseball » de Recht et Leslie (1988) : on croise le niveau de lecture (bon / faible) et la connaissance du baseball (élevée / faible) chez des élèves de 7e et 8e année américaines, puis on leur fait lire un texte décrivant une manche de baseball et on mesure le rappel verbal, la reconstitution non verbale (déplacement de figurines sur un terrain miniature) et la rétention à long terme.",
+   "evidence_level": "essai expérimental de laboratoire à design factoriel croisé, petit échantillon (N = 64) — preuve expérimentale mais non généralisable telle quelle à un effet de curriculum",
+   "effect_size": "Effet principal significatif de la connaissance préalable sur le rappel et la rétention. Population : 32 élèves de 7e année et 32 élèves de 8e année (soit environ 12-14 ans), de niveaux de lecture haut et bas. Point crucial pour l'honnêteté de la citation : les auteurs rapportent qu'aucune interaction n'a été trouvée entre connaissance préalable et niveau de lecture. Les tailles d'effet en écart-type ne sont pas reprises dans le résumé indexé consultable.",
+   "concrete_practice": "Conséquence : un élève qui « ne comprend pas le texte » n'a pas nécessairement un déficit de stratégie de compréhension — il peut lui manquer le monde auquel le texte fait référence. La réponse pédagogique est alors de construire ce monde (séquences thématiques, texte en réseau autour d'un même domaine, vocabulaire du domaine) plutôt que d'ajouter un entraînement stratégique.",
+   "concrete_example": "États-Unis, 1988, Journal of Educational Psychology. Le protocole est le point fort de l'étude : la reconstitution non verbale avec figurines sur un terrain miniature permet de mesurer la représentation mentale construite indépendamment des capacités d'expression écrite, ce qui écarte l'explication par la seule compétence verbale. C'est ce dispositif, plus que les chiffres, qui explique la postérité de l'étude chez E. D. Hirsch et Daniel Willingham, et qui en fait un argument utilisable auprès d'un public non spécialiste : un enfant qui connaît le baseball « voit » le match dans le texte, un enfant qui ne le connaît pas lit une suite de mots.",
+   "conditions": "Le résultat vaut pour un domaine où la connaissance préalable est fortement structurée et inégalement distribuée. Il ne dit pas qu'on peut se passer d'apprendre à décoder, ni que le niveau de lecture ne compte pas : il dit que dans un domaine donné, la connaissance est un déterminant majeur, indépendant.",
+   "contested": "L'usage militant de cette étude est plus fort que ses résultats. Elle est très souvent citée pour affirmer que « les faibles lecteurs connaisseurs battent les bons lecteurs ignorants » — or Recht et Leslie ne rapportent aucune interaction significative entre connaissance et niveau de lecture, ce qui affaiblit précisément cette formulation. N = 64, un seul domaine, un seul texte, aucune réplication à grande échelle connue de moi. Schurer, Opitz & Schubert (2020, Frontiers in Education) rapportent au contraire que c'est la capacité de mémoire de travail, et non la connaissance préalable, qui prédit l'attention et la compréhension dans leur protocole — un résultat discordant qu'il faut mentionner. Citer Recht & Leslie comme preuve suffisante d'une politique curriculaire serait abusif : c'est un argument de mécanisme, pas un argument d'efficacité.",
+   "sources": [
+    {
+     "author": "Recht, D. R. & Leslie, L.",
+     "title": "Effect of Prior Knowledge on Good and Poor Readers' Memory of Text",
+     "org": "Journal of Educational Psychology, 80(1), 16-20",
+     "year": "1988",
+     "url": "https://doi.org/10.1037/0022-0663.80.1.16"
+    },
+    {
+     "author": "Schurer, T., Opitz, B. & Schubert, T.",
+     "title": "Working Memory Capacity but Not Prior Knowledge Impact on Readers' Attention and Text Comprehension",
+     "org": "Frontiers in Education",
+     "year": "2020",
+     "url": "https://doi.org/10.3389/feduc.2020.00026"
+    },
+    {
+     "author": "Castles, A., Rastle, K. & Nation, K.",
+     "title": "Ending the Reading Wars: Reading Acquisition From Novice to Expert",
+     "org": "Psychological Science in the Public Interest",
+     "year": "2018",
+     "url": "https://doi.org/10.1177/1529100618772271"
+    }
+   ]
+  },
+  {
+   "claim": "Intégrer l'enseignement de la lecture aux contenus disciplinaires (sciences, histoire) au primaire produit des effets substantiels sur le vocabulaire (ES = 0,91) et les connaissances (ES = 0,89), des effets moyens sur la compréhension mesurée par des tests maison (ES = 0,40) — mais des effets modestes et significatifs sur les tests standardisés de compréhension (ES = 0,25), et nuls sur le vocabulaire standardisé.",
+   "what_it_is": "Ce que les Anglo-Saxons appellent « content-rich literacy » ou « integrated literacy and content-area instruction » : au lieu de faire lire des textes sans lien entre eux avec un objectif stratégique, on organise l'enseignement de la lecture autour de séquences thématiques cohérentes en sciences ou en sciences humaines, où le même domaine est revisité sur plusieurs semaines, avec un vocabulaire de domaine explicitement enseigné.",
+   "evidence_level": "méta-analyse de 35 études expérimentales et quasi-expérimentales, modèles à effets aléatoires, élèves de maternelle à la 5e année américaine ; complétée par des essais randomisés individuels",
+   "effect_size": "Vocabulaire : ES = 0,91 (mesures propres aux études) ; vocabulaire sur mesures standardisées : effet non significatif. Compréhension : ES = 0,40 global, ES = 0,25 sur mesures standardisées (significatif). Connaissances de contenu : ES = 0,89. Population : élèves de la maternelle à la 5e année (environ 5-11 ans). Aucun modérateur significatif identifié, probablement en raison du petit nombre d'études.",
+   "concrete_practice": "Une unité de 4 à 8 semaines où tous les textes lus en classe portent sur un même domaine (les volcans, la Révolution, le système circulatoire), avec un ensemble de mots du domaine explicitement enseignés, réutilisés à l'oral et à l'écrit, et une production écrite qui mobilise le domaine — au lieu d'une succession de textes sans lien assortis d'exercices de « repérage de l'idée principale ».",
+   "concrete_example": "États-Unis, essai randomisé MORE (Model of Reading Engagement), James Kim et collègues. Dans la version longitudinale : 30 écoles élémentaires, 2 952 élèves, 144 enseignants, assignés aléatoirement au traitement ou au contrôle. Sur 12 mois, le groupe traité suit au printemps de la 1re année des leçons thématiques de littératie en sciences et sciences humaines organisées autour d'un schéma général explicite (« comment les scientifiques étudient les événements du passé »), puis lit largement des textes informatifs thématiquement liés pendant l'été, puis poursuit de l'automne au printemps de la 2e année par des leçons thématiques en sciences. Résultats mesurés : pertes d'apprentissage estivales plus faibles sur une mesure générale de lecture, puis effet de ES = 0,18 sur une mesure de compréhension de textes scientifiques, avec des effets de transfert variant selon la proximité thématique des textes (transfert proche, moyen, lointain). Un essai antérieur en 1re année (Kim, Burkhauser, Mesite & Asher, 2021) avait déjà montré des gains conjoints sur la compréhension, les connaissances scientifiques et l'engagement en lecture.",
+   "conditions": "L'effet sur les tests standardisés de compréhension (0,25) est trois à quatre fois plus faible que sur les mesures propres aux études (0,40-0,91) : c'est le signe que l'essentiel du gain est spécifique au domaine enseigné, et se transfère mal. La condition d'efficacité est donc la couverture curriculaire : pour que des gains de domaine deviennent un gain de compréhension générale, il faut une accumulation systématique sur plusieurs années, pas une unité isolée. Cela suppose un curriculum de savoirs cohérent et des ressources associées — l'enjeu opérationnel le plus lourd du levier.",
+   "contested": "Trois limites. (1) L'écart entre mesures maison et mesures standardisées est le talon d'Achille de toute cette littérature ; Cheung & Slavin ont montré que les mesures développées par les chercheurs gonflent substantiellement les tailles d'effet. (2) Le nombre d'études reste faible (35), les auteurs eux-mêmes attribuent l'absence de modérateurs significatifs à ce manque de puissance. (3) La théorie sous-jacente (la compréhension de lecture est un sous-produit des connaissances générales) est plausible mais n'a pas été testée à l'échelle d'un système éducatif entier ; c'est une extrapolation.",
+   "sources": [
+    {
+     "author": "Hwang, H., Cabell, S. Q. & Joyner, R. E.",
+     "title": "Effects of Integrated Literacy and Content-Area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-Analysis",
+     "org": "Scientific Studies of Reading",
+     "year": "2021",
+     "url": "https://doi.org/10.1080/10888438.2021.1954005"
+    },
+    {
+     "author": "Cabell, S. Q. & Hwang, H.",
+     "title": "Building Content Knowledge to Boost Comprehension in the Primary Grades",
+     "org": "Reading Research Quarterly",
+     "year": "2020",
+     "url": "https://doi.org/10.1002/rrq.338"
+    },
+    {
+     "author": "Kim, J. S., Burkhauser, M. A., Relyea, J. E., Gilbert, J. B., Scherer, E., Fitzgerald, J., Mosher, D. & McIntyre, J.",
+     "title": "A Longitudinal Randomized Trial of a Sustained Content Literacy Intervention from First to Second Grade: Transfer Effects on Students' Reading Comprehension",
+     "org": "Journal of Educational Psychology",
+     "year": "2023",
+     "url": "https://doi.org/10.1037/edu0000751"
+    },
+    {
+     "author": "Kim, J. S., Burkhauser, M. A., Mesite, L. M. & Asher, C. A.",
+     "title": "Improving Reading Comprehension, Science Domain Knowledge, and Reading Engagement through a First-Grade Content Literacy Intervention",
+     "org": "Journal of Educational Psychology",
+     "year": "2021",
+     "url": "https://doi.org/10.1037/edu0000465"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation par loterie la plus ambitieuse d'un curriculum explicitement centré sur les connaissances générales (Core Knowledge) rapporte des effets importants et durables en lecture — ITT = 0,241 et TOT = 0,473 écart-type de la 3e à la 6e année — mais ce travail n'était, dans sa version diffusée, ni soumis ni évalué par les pairs, ce qui impose la plus grande prudence.",
+   "what_it_is": "Le curriculum Core Knowledge (issu des travaux d'E. D. Hirsch) est un programme de la maternelle à la 8e année organisé autour de la construction explicite de connaissances générales sur le monde, avec une séquence de contenus précisée année par année. L'étude exploite quatorze loteries d'admission en maternelle sursouscrites dans neuf charter schools appliquant ce curriculum.",
+   "evidence_level": "essai randomisé par loterie d'admission (design expérimental fort), mais version publiquement disponible explicitement mentionnée comme « non soumise à publication ni évaluée par les pairs » ; la méthodologie de correction de biais employée est nouvelle et n'a donc pas été validée par la communauté",
+   "effect_size": "Résultat confirmatoire, lecture / English-LA agrégé de la 3e à la 6e année : ITT = 0,241 (p < 0,001) ; TOT = 0,473 (p < 0,001), avec des effets significatifs à chaque niveau. Analyses exploratoires : sciences en 5e année, ITT = 0,15 (p < 0,05), TOT = 0,300 (p < 0,05). Échantillon : 2 310 candidats, issus majoritairement de districts à revenus moyens et élevés.",
+   "concrete_practice": "Une séquence de contenus explicite, publiée et cumulative : ce que tout élève étudie en histoire, géographie, sciences, arts et littérature à chaque année de scolarité, avec les textes correspondants — de sorte que l'enseignant de 4e année sait ce que ses élèves ont rencontré en 3e.",
+   "concrete_example": "États-Unis, loteries d'admission en maternelle entre le début des années 2000 et 2010, résultats aux tests d'État collectés de la 3e à la 6e année, publiés en avril 2023 comme EdWorkingPaper n° 23-755 de l'Annenberg Institute (Brown University) par Grissmer, White, Buddin, Berends, Willingham, DeCoster, Duran, Hulleman, Murrah et Evans. Le résultat le plus frappant et le plus fragile concerne une école Core Knowledge implantée dans un district à bas revenus : ITT = 0,944 et TOT = 1,299 en English Language Arts, ITT = 0,735 et TOT = 0,997 en mathématiques, effets qui, selon les auteurs, effacent les écarts de réussite dans toutes les matières. Il s'agit d'une seule école, en analyse exploratoire, avec des coefficients qui diffèrent selon la spécification retenue à l'intérieur même du document (jusqu'à ITT = 1,089 dans le corps du texte).",
+   "conditions": "Le design mesure l'effet de fréquenter une charter school Core Knowledge, pas l'effet du curriculum isolé : tout ce qui distingue ces écoles (sélection des enseignants, culture d'établissement, attentes) est confondu avec le curriculum. La population de candidats provient majoritairement de familles à revenus moyens et élevés ayant fait la démarche de s'inscrire, ce qui limite la généralisation. Le résultat spectaculaire en district pauvre repose sur un seul établissement.",
+   "contested": "C'est l'élément le plus contestable de cette revue et il doit être présenté comme tel. (1) Le document consulté porte la mention explicite : « ce brouillon n'a pas été soumis pour publication ni évalué par les pairs ; les résultats et interprétations peuvent changer ». Je n'ai pas trouvé de version publiée dans une revue à comité de lecture ; en l'absence de cette vérification, il ne faut pas la présenter comme telle. (2) Les auteurs introduisent une méthodologie nouvelle destinée à corriger « deux sources de biais jusqu'ici non détectées » dans les loteries de maternelle incluant des familles aisées — une correction méthodologique inédite, non validée par la communauté, qui modifie substantiellement les estimations. (3) Daniel Willingham, co-auteur, est aussi l'un des principaux promoteurs publics de la thèse que l'étude teste, ce qui pose une question d'indépendance. (4) Les évaluations quasi-expérimentales du programme Core Knowledge Language Arts en district ordinaire sont bien moins favorables : Beaird (2018) ne trouve aucune différence significative pour la majorité des élèves suivis dans un district de 2 341 élèves.",
+   "sources": [
+    {
+     "author": "Grissmer, D., White, T., Buddin, R., Berends, M., Willingham, D., DeCoster, J., Duran, C., Hulleman, C., Murrah, W. & Evans, T.",
+     "title": "A Kindergarten Lottery Evaluation of Core Knowledge Charter Schools: Should Building General Knowledge Have a Central Role in Educational and Social Science Research and Policy? (EdWorkingPaper 23-755)",
+     "org": "Annenberg Institute at Brown University",
+     "year": "2023",
+     "url": "https://doi.org/10.26300/nsbq-hb21"
+    },
+    {
+     "author": "Grissmer, D. et al.",
+     "title": "EdWorkingPaper 23-755 — texte intégral",
+     "org": "Annenberg Institute at Brown University",
+     "year": "2023",
+     "url": "https://edworkingpapers.com/sites/default/files/ai23-755.pdf"
+    },
+    {
+     "author": "Beaird, B.",
+     "title": "Implementation of the Core Knowledge Language Arts Program in Pre-K through Third Grade",
+     "org": "ProQuest LLC (dissertation)",
+     "year": "2018",
+     "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:13421493"
+    }
+   ]
+  },
+  {
+   "claim": "L'enseignement des stratégies de compréhension en classe entière apprend surtout aux élèves à exécuter les stratégies (d = 0,79) et produit un effet très faible sur la compréhension mesurée par un test standardisé (d = 0,19) ; le même écart se retrouve pour l'enseignement du vocabulaire (d = 0,50 sur mesures maison contre d = 0,10 sur mesures standardisées).",
+   "what_it_is": "L'enseignement explicite de stratégies (prédire, résumer, clarifier, questionner, faire des inférences, s'auto-surveiller), popularisé par l'enseignement réciproque de Palincsar et Brown, transposé dans des dispositifs de classe entière où l'enseignant est le seul instructeur — par opposition aux expériences originales où un chercheur tutorait de petits groupes.",
+   "evidence_level": "deux méta-analyses. Okkinga et al. (2018) : 52 études, 125 effets, dispositifs en classe entière. Elleman et al. (2009) : 37 études d'interventions de vocabulaire, de la pré-maternelle à la 12e année.",
+   "effect_size": "Stratégies de compréhension en classe entière (Okkinga et al.) : compréhension en lecture d = 0,186 sur tests standardisés ; d = 0,431 sur tests développés par les chercheurs ; capacité stratégique d = 0,786. Les effets sont plus faibles dans les études contrôlant la structure hiérarchique des données (analyses multiniveaux) et plus élevés quand la fixation d'objectifs de lecture fait partie du dispositif. Vocabulaire (Elleman et al.) : compréhension d = 0,50 sur mesures maison, d = 0,10 sur mesures standardisées ; mais les élèves en difficulté de lecture en tirent trois fois plus de bénéfice (d = 1,23) que les autres (d = 0,39) sur les mesures maison ; la corrélation entre effets vocabulaire et effets compréhension n'est que de r = 0,43.",
+   "concrete_practice": "Ce que cela dit concrètement : consacrer des semaines à faire pratiquer « je prédis, je résume, je clarifie » sur des textes quelconques apprend aux élèves à produire des prédictions et des résumés, et très peu à comprendre un texte nouveau. Une dose courte d'enseignement stratégique intégrée à des textes disciplinaires cohérents est un usage plus défendable des mêmes heures.",
+   "concrete_example": "Pays-Bas, méta-analyse d'Okkinga, van Steensel, van Gelderen, van Schooten, Sleegers et Arends publiée dans Educational Psychology Review en 2018. Le point de départ est explicite dans l'article : les effets spectaculaires obtenus par Palincsar et Brown (1984) l'ont été dans des expériences contrôlées où des chercheurs tutoraient de petits groupes ; la question posée est de savoir ce qu'il en reste quand l'enseignant est seul face à une classe entière. La réponse mesurée sur 52 études est que la capacité stratégique se transfère très bien (d = 0,79) et la compréhension standardisée très mal (d = 0,19). C'est exactement le profil d'un apprentissage de procédure sans apprentissage de fond — pertinent pour la FWB, où les référentiels de français ont largement intégré les « stratégies de lecture » comme objet d'enseignement autonome.",
+   "conditions": "Deux modérateurs identifiés : la fixation d'objectifs de lecture (« setting reading goals ») intégrée au paquet stratégique augmente les effets ; et les études qui ne corrigent pas la structure hiérarchique des données surestiment les effets. La lecture la plus raisonnable de ces deux méta-analyses est que stratégies et vocabulaire sont des compléments utiles d'un enseignement riche en contenus, pas des substituts.",
+   "contested": "Ces résultats ne signifient pas qu'il ne faut rien enseigner : Castles, Rastle & Nation (2018) maintiennent qu'un enseignement stratégique bref et bien ciblé a une valeur. Le débat porte sur la dose et la place : plusieurs mois de « lessons on strategies » contre une intégration légère dans un enseignement de contenus. Limite importante à signaler : l'écart mesures maison / mesures standardisées peut aussi refléter le manque de sensibilité des tests standardisés à des apprentissages réels, pas seulement un gonflement artificiel — l'argument est symétrique et n'est pas tranché. Enfin, Elleman et al. rapportent que les élèves en difficulté de lecture bénéficient massivement plus du travail de vocabulaire : une politique qui abandonnerait le vocabulaire au vu du d = 0,10 global commettrait une erreur de ciblage.",
+   "sources": [
+    {
+     "author": "Okkinga, M., van Steensel, R., van Gelderen, A. J. S., van Schooten, E., Sleegers, P. J. C. & Arends, L. R.",
+     "title": "Effectiveness of Reading-Strategy Interventions in Whole Classrooms: A Meta-Analysis",
+     "org": "Educational Psychology Review",
+     "year": "2018",
+     "url": "https://doi.org/10.1007/s10648-018-9445-7"
+    },
+    {
+     "author": "Elleman, A. M., Lindo, E. J., Morphy, P. & Compton, D. L.",
+     "title": "The Impact of Vocabulary Instruction on Passage-Level Comprehension of School-Age Children: A Meta-Analysis",
+     "org": "Journal of Research on Educational Effectiveness",
+     "year": "2009",
+     "url": "https://doi.org/10.1080/19345740802539200"
+    },
+    {
+     "author": "Castles, A., Rastle, K. & Nation, K.",
+     "title": "Ending the Reading Wars: Reading Acquisition From Novice to Expert",
+     "org": "Psychological Science in the Public Interest",
+     "year": "2018",
+     "url": "https://doi.org/10.1177/1529100618772271"
+    }
+   ]
+  },
+  {
+   "claim": "La littératie disciplinaire au secondaire repose sur une base descriptive solide mais sur des preuves d'efficacité faibles : la synthèse la plus complète (69 études rigoureuses, 51 programmes) donne +0,08 écart-type aux approches centrées sur le contenu et +0,07 à la famille Reading Apprenticeship, très loin des espoirs placés dans ce levier — les effets les plus consistants viennent du tutorat et du travail coopératif.",
+   "what_it_is": "La littératie disciplinaire (Shanahan & Shanahan, 2008) part d'un constat empirique : un mathématicien, un chimiste et un historien lisent différemment leurs textes respectifs et mobilisent des stratégies de compréhension distinctes. Elle propose donc de remplacer le slogan « chaque enseignant est un enseignant de lecture » par un enseignement explicite, dans chaque discipline, des manières de lire, d'écrire et de raisonner propres à cette discipline.",
+   "evidence_level": "pour le cadre : étude descriptive d'experts et d'enseignants (Shanahan & Shanahan 2008). Pour l'efficacité : synthèse quantitative de 69 études dont 62 essais randomisés et 7 quasi-expériences de haute qualité, portant sur 51 programmes de lecture au secondaire",
+   "effect_size": "Approches centrées sur le contenu (7 études) : effet moyen pondéré +0,08 (p < 0,05). Famille Reading Apprenticeship (4 variantes combinées) : +0,07 — dont le modèle central évalué par Greenleaf et al. (2011) à +0,03 (n.s.), RAISE à +0,14 (n.s.), iRAISE à 0,00 (n.s.), RAAL à +0,10 (p < 0,05). Approches centrées sur le vocabulaire (4 études) : +0,06. Strategic Instruction Model (8 études, 5 variantes) : +0,09 (p < 0,001). ITSS, enseignement de la structure du texte : +0,18 (p < 0,05) en 7e année. En comparaison, le tutorat par personnel rémunéré donne des effets nettement supérieurs (jusqu'à +0,36 et +0,42 dans certaines évaluations). Population : élèves du secondaire inférieur et supérieur, essentiellement États-Unis et Angleterre.",
+   "concrete_practice": "Les sept recommandations du guide EEF pour le secondaire donnent le contenu opérationnel : prioriser la littératie disciplinaire dans tout le curriculum ; enseigner explicitement le vocabulaire dans chaque discipline (analyse des racines, construction de mots : « photo » → photosynthèse, photon) ; développer la capacité à lire des textes académiques complexes ; décomposer les tâches d'écriture complexes ; combiner écriture et lecture dans chaque matière ; organiser des temps de parole structurée ; et fournir des interventions ciblées de qualité aux élèves en difficulté.",
+   "concrete_example": "Angleterre, 2019. L'Education Endowment Foundation publie « Improving Literacy in Secondary Schools » (Quigley & Coleman), qui fait explicitement de la littératie disciplinaire son organisateur, et commande simultanément à Ariane Baye (Université de Liège), Robert Slavin, Cynthia Lake, Amanda Inns et Jonathan Haslam une revue systématique des programmes de lecture au secondaire. C'est ce décalage qui est instructif : le guide de pratique recommande la littératie disciplinaire, la revue de preuves commandée par le même organisme montre que les programmes de ce type produisent +0,07 à +0,08 écart-type. La revue conclut d'ailleurs que « les lecteurs du secondaire bénéficient davantage d'un enseignement socialement et cognitivement engageant que de périodes de lecture supplémentaires ou de technologie », et que les programmes offrant une période quotidienne de lecture en plus ne sont pas plus efficaces que les autres. Le guide EEF lui-même reconnaît qu'« il existe relativement peu de preuves sur la meilleure façon d'enseigner le vocabulaire de façon explicite ».",
+   "conditions": "La littératie disciplinaire suppose que les enseignants de discipline acceptent d'enseigner des manières de lire et d'écrire, ce qui est une transformation d'identité professionnelle et non un ajout de contenu — c'est probablement la raison des effets faibles en déploiement. Elle suppose aussi une organisation du secondaire permettant un travail inter-disciplinaire sur la langue, ce qui en FWB entre en tension avec le cloisonnement disciplinaire et l'autonomie des établissements.",
+   "contested": "Le cadre conceptuel est bien meilleur que sa preuve d'efficacité et il faut le dire. L'article fondateur de Shanahan & Shanahan (2008) est explicitement présenté par ses auteurs comme rapportant des « résultats préliminaires » des deux premières années d'une étude descriptive sur la façon dont experts et enseignants lisent. Project READI (Goldman, Lee, Greenleaf, Shanahan), l'entreprise la plus ambitieuse de conception dans ce champ, relève de la recherche orientée conception (design-based research) et non de l'évaluation d'impact. Quant à « Reading Reconsidered » (Lemov, Driggs & Woolway), très cité dans les milieux professionnels, je n'ai trouvé aucune évaluation causale indépendante de cette approche et il ne faut donc pas lui attribuer de niveau de preuve.",
+   "sources": [
+    {
+     "author": "Shanahan, T. & Shanahan, C.",
+     "title": "Teaching Disciplinary Literacy to Adolescents: Rethinking Content-Area Literacy",
+     "org": "Harvard Educational Review, 78(1)",
+     "year": "2008",
+     "url": "https://doi.org/10.17763/haer.78.1.v62444321p602101"
+    },
+    {
+     "author": "Baye, A., Slavin, R. E., Lake, C., Inns, A. & Haslam, J.",
+     "title": "Reading Programmes for Secondary Students: Evidence Review",
+     "org": "Education Endowment Foundation",
+     "year": "2019",
+     "url": "https://files.eric.ed.gov/fulltext/ED612242.pdf"
+    },
+    {
+     "author": "Quigley, A. & Coleman, R.",
+     "title": "Improving Literacy in Secondary Schools — Guidance Report",
+     "org": "Education Endowment Foundation",
+     "year": "2019",
+     "url": "https://files.eric.ed.gov/fulltext/ED612217.pdf"
+    },
+    {
+     "author": "Goldman, S. R., Britt, M. A., Brown, W., Cribb, G., George, M., Greenleaf, C., Lee, C. D. & Shanahan, C.",
+     "title": "Disciplinary Literacies and Learning to Read for Understanding: A Conceptual Framework for Disciplinary Literacy",
+     "org": "Educational Psychologist",
+     "year": "2016",
+     "url": "https://doi.org/10.1080/00461520.2016.1168741"
+    }
+   ]
+  },
+  {
+   "claim": "En écriture, ce qui marche est documenté (enseignement de stratégies de planification-révision d = 0,82, résumé d = 0,82, combinaison de phrases d = 0,50) et ce qui ne marche pas l'est aussi (l'enseignement traditionnel de la grammaire a un effet négatif, faible mais statistiquement significatif, sur la qualité des écrits) ; mais la base d'essais rigoureux est dramatiquement mince — 14 études pour 12 programmes contre 69 études pour 51 programmes en lecture.",
+   "what_it_is": "Deux corpus complémentaires : la méta-analyse « Writing Next » (Graham & Perin, 2007) sur les interventions d'écriture pour les élèves de la 4e à la 12e année américaines ; et la revue systématique commandée par l'EEF sur les approches d'écriture des Years 3 à 13 (Slavin, Lake, Inns, Baye, Dachet & Haslam, 2019), qui applique des critères d'inclusion stricts excluant les mesures développées par les concepteurs.",
+   "evidence_level": "méta-analyse (Writing Next, sur études expérimentales et quasi-expérimentales) et revue systématique à critères stricts (EEF 2019, incluant des essais randomisés en grappes)",
+   "effect_size": "Writing Next, effets sur la qualité des écrits, élèves de 4e à 12e année : stratégies d'écriture 0,82 (0,62 pour les études hors SRSD), résumé 0,82, écriture collaborative 0,75, objectifs de produit spécifiques 0,70, traitement de texte 0,55 (0,70 pour les scripteurs faibles), combinaison de phrases 0,50, pré-écriture 0,32, démarches d'investigation 0,32, approche processus 0,32 (0,46 si l'enseignant a été formé), étude de modèles 0,25, écriture pour apprendre un contenu 0,23 ; enseignement traditionnel de la grammaire : effet négatif, faible mais significatif. Revue EEF 2019 : effet moyen pondéré de +0,18 toutes catégories confondues ; modèles centrés sur le processus d'écriture +0,17 (n.s.) ; apprentissage coopératif +0,16 (n.s.) ; approches articulant lecture et écriture +0,19.",
+   "concrete_practice": "Trois pratiques à fort rendement et faible coût : enseigner explicitement une stratégie de planification et de révision avec un acronyme mémorisable, que l'élève finit par utiliser seul ; faire combiner des phrases simples en phrases complexes plutôt que faire réciter la nomenclature grammaticale ; fixer des objectifs de produit précis (« ce paragraphe doit contenir trois raisons et une objection ») plutôt que des consignes vagues.",
+   "concrete_example": "Angleterre, 2014-2018 : le cas Improving Writing Quality (IWQ / IPEELL), version britannique du Self-Regulated Strategy Development. Essai d'efficacité (Torgerson et al., 2014) : 23 écoles primaires, 261 élèves de Years 6-7 prédits en dessous du niveau attendu, 33 % éligibles aux repas gratuits, 50 % allophones, sur deux trimestres. Résultat spectaculaire : +0,74 sur l'écriture étendue (p < 0,001) — mais déjà −0,09 en lecture et −0,13 en orthographe-grammaire, et un effet nul (0,00) pour les élèves déjà au niveau 4a et au-dessus. Essai d'efficacité en conditions réelles (Torgerson et al., 2018) : 83 écoles, 2 465 élèves de Year 6 dans le Leeds et le Lancashire. Résultat : −0,09 sur l'écriture au Key Stage 2, et surtout des effets négatifs significatifs sur la lecture (−0,23, p < 0,05), l'orthographe (−0,22) et les mathématiques (−0,22). Sur la version deux ans (78 écoles, 2 196 élèves) : +0,11 en écriture mais −0,17 en lecture, −0,28 en orthographe et −0,30 en mathématiques, tous significatifs. C'est la démonstration la mieux documentée qu'un programme d'écriture peut gagner sur son objectif affiché et coûter sur le reste du curriculum.",
+   "conditions": "Deux conditions se dégagent. (1) Ciblage : IWQ produit +0,74 chez les élèves faibles et 0,00 chez les élèves déjà au niveau — un programme d'écriture intensif appliqué indistinctement à tous gaspille du temps pour une partie de la classe. (2) Coût d'opportunité : les effets négatifs sur la lecture, l'orthographe et les mathématiques en déploiement réel indiquent que le temps consacré au programme a été pris ailleurs. Toute décision FWB devrait raisonner en heures déplacées, pas en heures ajoutées.",
+   "contested": "Point le plus important pour le commanditaire : je n'ai trouvé aucune évaluation causale rigoureuse de « The Writing Revolution » / méthode Hochman. La revue systématique de l'EEF (Slavin, Lake, Inns, Baye, Dachet & Haslam, 2019), qui a passé au crible la littérature sur l'écriture des Years 3 à 13 avec des critères stricts, n'a retenu que 14 études portant sur 12 programmes — et The Writing Revolution n'en fait pas partie. Son niveau de preuve propre est donc, à ma connaissance, nul : sa plausibilité repose entièrement sur la transposition d'effets établis pour des composantes voisines (combinaison de phrases d = 0,50, objectifs de produit d = 0,70, effet négatif de la grammaire traditionnelle). Il faut le dire explicitement plutôt que lui prêter une caution qu'il n'a pas. À signaler également : le cas anglais Grammar for Writing, analysé par Wyse & Torgerson (2017, BERJ), qui documente un décalage persistant entre la politique curriculaire nationale anglaise sur l'écriture et les preuves disponibles. Enfin, les tailles d'effet de Writing Next sont élevées parce que la plupart des mesures sont des évaluations de qualité rédactionnelle spécifiques aux études, ce que Slavin et ses co-auteurs identifient comme une source majeure d'inflation.",
+   "sources": [
+    {
+     "author": "Graham, S. & Perin, D.",
+     "title": "Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools — A Report to Carnegie Corporation of New York",
+     "org": "Alliance for Excellent Education / Carnegie Corporation",
+     "year": "2007",
+     "url": "https://media.carnegie.org/filer_public/3c/f5/3cf58727-34f4-4140-a014-723a00ac56f7/ccny_report_2007_writing.pdf"
+    },
+    {
+     "author": "Slavin, R. E., Lake, C., Inns, A., Baye, A., Dachet, D. & Haslam, J.",
+     "title": "A Quantitative Synthesis of Research on Writing Approaches in Years 3 to 13 — Evidence Review",
+     "org": "Education Endowment Foundation",
+     "year": "2019",
+     "url": "https://files.eric.ed.gov/fulltext/ED612219.pdf"
+    },
+    {
+     "author": "Wyse, D. & Torgerson, C.",
+     "title": "Experimental Trials and 'What Works?' in Education: The Case of Grammar for Writing",
+     "org": "British Educational Research Journal",
+     "year": "2017",
+     "url": "https://doi.org/10.1002/berj.3315"
+    }
+   ]
+  },
+  {
+   "claim": "Les remédiations intensives pour adolescents faibles lecteurs produisent des effets réels mais petits (d = 0,18 à 0,21) et fragiles à la réplication ; et l'un des programmes de remédiation précoce les plus déployés au monde, Reading Recovery, produit des effets courts termes importants (>0,50 ET) mais des effets à long terme significativement NÉGATIFS (−0,19 à −0,43 ET en 3e et 4e année).",
+   "what_it_is": "Deux cas contrastés. STARI (Strategic Adolescent Reading Intervention) : programme annuel supplémentaire pour collégiens sous le seuil de compétence, combinant décodage de mots polysyllabiques, fluence, vocabulaire, compréhension et discussions entre pairs pour soutenir l'engagement. Reading Recovery : intervention individuelle quotidienne de 30 minutes pendant 12 à 20 semaines pour les lecteurs les plus faibles de 1re année, fondée sur les running records et l'usage combiné d'indices sémantiques, syntaxiques et visuels.",
+   "evidence_level": "STARI : essai randomisé intra-établissement (483 élèves) puis réplication randomisée en conditions dégradées (2021-22). Reading Recovery : essai randomisé multi-sites de très grande ampleur (plus de 10 000 élèves, plus de 1 000 écoles) pour le court terme, puis régression sur discontinuité (seuil d'éligibilité) sur 9 879 élèves en 3e année et 6 345 en 4e année pour le long terme",
+   "effect_size": "STARI, essai princeps : reconnaissance de mots d = 0,20 ; efficience de la compréhension de base d = 0,21 ; conscience morphologique d = 0,18 ; 483 élèves des 6e, 7e et 8e années américaines. Réplication 2021-22 (11 collèges, 2 districts urbains, n traité = 183 / contrôle = 215) : dans le seul district exploitable, effet de 0,32 sur le test d'État en ELA mais significatif seulement au seuil de 10 % (p = 0,071, n = 154) ; sous-tests de lecture entre 0,15 et 0,32, non significatifs. Reading Recovery : court terme en 1re année, ES > +0,50 ; long terme, ITT entre −0,11 et −0,16 ET, TOT entre −0,19 et −0,43 ET aux tests d'État de lecture/ELA en 3e et 4e année — soit, selon les auteurs, un demi-niveau à un niveau scolaire complet de retard.",
+   "concrete_practice": "Pour STARI : une période de cours entière (45 minutes minimum), au moins trois jours par semaine, en plus du cours ordinaire de langue — donc un arbitrage d'horaire, pas un supplément gratuit. Pour Reading Recovery : un enseignant spécialement formé, un élève, 30 minutes chaque jour de classe pendant 12 à 20 semaines.",
+   "concrete_example": "États-Unis, 2010-2019, Reading Recovery. En 2010, l'Ohio State University reçoit une subvention Investing in Innovation de 55 millions de dollars pour déployer Reading Recovery ; plus de 1 400 écoles dans plus de 30 États, plus de 80 000 élèves servis. L'essai randomisé multi-sites conduit par le Consortium for Policy Research in Education (Henry May et al.) confirme des effets importants en 1re année. Mais le design à traitement différé de l'essai ne permettait pas de mesurer au-delà. May, Blakeney, Shrestha, Mazal et Kennedy ont donc monté une régression sur discontinuité autour du score d'éligibilité, sur des cohortes tirées au sort dans les écoles Reading Recovery de 2011-2015 plus une cohorte 2016-17, et ont apparié les scores aux tests d'État de 3e et 4e année collectés entre 2013 et 2019 (avant la pandémie). Le résultat, publié dans le Journal of Research on Educational Effectiveness, est que les élèves passés par Reading Recovery en 1re année obtiennent en 3e et 4e année des scores significativement inférieurs à ceux d'élèves comparables non traités.",
+   "conditions": "Ce que ce cas enseigne au décideur : l'effet court terme d'une remédiation n'est pas un prédicteur de son effet long terme, et peut même être inversé. Deux mécanismes plausibles sont en jeu — la substitution (l'élève sorti du dispositif ne reçoit plus rien, tandis que les non-traités ont accès à d'autres services) et le contenu du programme lui-même (Reading Recovery s'appuie largement sur des stratégies d'indices contextuels et visuels plutôt que sur un enseignement systématique du code). Les auteurs ne tranchent pas entre les deux.",
+   "contested": "Sur Reading Recovery, la controverse est ouverte et les partisans du programme contestent la validité du design en régression sur discontinuité (comparaison locale autour d'un seuil, généralisation limitée) ainsi que la perte d'échantillon en suivi long — les auteurs répondent qu'avoir retrouvé 75 % de l'échantillon initial est élevé et ont testé la sensibilité aux largeurs de bande de ±3,0 à ±0,30 écart-type. Sur STARI, la réplication 2021-22 est explicitement sous-dimensionnée (le rapport reconnaît que la taille réduite de l'étude limite sa capacité à détecter un effet) et s'est déroulée pendant une année scolaire perturbée par la pandémie : elle ne peut pas être présentée comme une confirmation, seulement comme un résultat compatible. Une évaluation à plus grande échelle était annoncée à partir de 2023-24 ; je n'ai pas pu en vérifier les résultats.",
+   "sources": [
+    {
+     "author": "May, H., Blakeney, A., Shrestha, P., Mazal, M. & Kennedy, N.",
+     "title": "Long-Term Impacts of Reading Recovery through 3rd and 4th Grade: A Regression Discontinuity Study",
+     "org": "Journal of Research on Educational Effectiveness",
+     "year": "2024",
+     "url": "https://doi.org/10.1080/19345747.2023.2209092"
+    },
+    {
+     "author": "May, H., Blakeney, A., Shrestha, P., Mazal, M. & Kennedy, N.",
+     "title": "Long-Term Impacts of Reading Recovery through 3rd and 4th Grade — texte intégral",
+     "org": "ERIC (Grantee Submission ED628331)",
+     "year": "2023",
+     "url": "https://files.eric.ed.gov/fulltext/ED628331.pdf"
+    },
+    {
+     "author": "Kim, J. S., Hemphill, L., Troyer, M., Thomson, J. M., Jones, S. M., LaRusso, M. D. & Donovan, S.",
+     "title": "Engaging Struggling Adolescent Readers to Improve Reading Skills",
+     "org": "Reading Research Quarterly",
+     "year": "2017",
+     "url": "https://doi.org/10.1002/rrq.171"
+    },
+    {
+     "author": "Somers, M.-A.",
+     "title": "An Evaluation of the Strategic Adolescent Reading Intervention (STARI) in Two Urban School Districts during the COVID-19 Pandemic",
+     "org": "MDRC / ERIC (ED629340)",
+     "year": "2023",
+     "url": "https://files.eric.ed.gov/fulltext/ED629340.pdf"
+    },
+    {
+     "author": "Gorard, S., Siddiqui, N. & See, B. H.",
+     "title": "An Evaluation of Fresh Start as a Catch-Up Intervention: A Trial Conducted by Teachers",
+     "org": "Educational Studies",
+     "year": "2016",
+     "url": "https://doi.org/10.1080/03055698.2016.1148587"
+    }
+   ]
+  }
+ ]
+}

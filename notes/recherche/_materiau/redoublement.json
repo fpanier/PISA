@@ -1,0 +1,405 @@
+{
+ "topic": "Le redoublement et ses alternatives",
+ "headline": "Le redoublement tel qu'il est pratiqué en Europe continentale — comme sanction de fin d'année, sans dispositif de remédiation attaché — n'améliore pas les acquis (d = -0,08 sur 31 études européennes) et coûte à la Belgique 11,8 % de sa dépense d'enseignement obligatoire, le taux le plus élevé de l'OCDE ; mais les seules évaluations quasi-expérimentales qui trouvent des effets positifs (Floride) portent sur une rétention précoce, ciblée sur la lecture, assortie d'un camp d'été, d'un enseignant sélectionné et de 90 minutes quotidiennes de lecture — ce n'est pas le redoublement qui produit l'effet, c'est le dispositif, et changer la loi sans changer les croyances enseignantes ne réduit pas les taux.",
+ "searches_run": 31,
+ "transposability_fwb": "Ce qui se transpose directement. (1) Le chiffre de coût de l'OCDE est belge : USD 14 916 PPA par redoublant et par an, 11,8 % de la dépense totale primaire+secondaire — le rang le plus élevé de tous les pays documentés. Aucun autre levier de la note ne dispose d'un chiffrage aussi directement national ; sous contrainte de déficit de 1,5 Md EUR, c'est l'argument budgétaire le mieux sourcé disponible. (2) La revue AlteR (2025) est européenne et financée par la Commission : elle échappe au reproche d'importer des résultats américains, et elle couvre 14 études belges. (3) La conclusion de politique publique la plus robuste — « changer la loi ne suffit pas, la contrainte est la croyance enseignante » — est directement adressée à la FWB : le secondaire inférieur y pratique déjà la promotion automatique sur le papier, et la Belgique reste en tête des taux européens. Cela désigne la formation continue et les ressources de remédiation, pas un décret supplémentaire, comme le levier opérant — ce qui est compatible avec une gouvernance à réseaux multiples, puisque la formation et l'outillage se diffusent sans piloter centralement les décisions de conseil de classe.\n\nCe qui ne se transpose pas tel quel. (1) Le dispositif floridien suppose une évaluation externe standardisée en 3e année servant de seuil, une base de données longitudinale d'État, et un pouvoir d'imposer aux écoles l'affectation d'un enseignant performant et 90 minutes quotidiennes protégées. En FWB, la liberté d'enseignement et l'autonomie des pouvoirs organisateurs rendent l'imposition d'une organisation horaire et d'une affectation d'enseignant juridiquement délicate ; les évaluations externes certificatives existent (CEB, CE1D, CESS) mais ne sont pas conçues comme seuils de rétention. Transposer la logique — inverser la charge de la preuve, exiger un plan écrit et un dispositif nommé avant toute décision — est possible ; transposer le mécanisme tel quel ne l'est pas. (2) Le résultat de Figlio & Özek porte sur des élèves allophones dans un système d'immersion en anglais ; la FWB a une population DASPA et primo-arrivante substantielle mais un cadre d'accueil différent, et le résultat ne dit rien des élèves francophones natifs. (3) Le tutorat de Carlana & La Ferrara repose sur des étudiants universitaires bénévoles mobilisés en urgence pandémique ; la reproductibilité hors crise, à l'échelle de 900 000 élèves, et la disponibilité de bénévoles dans un bassin universitaire plus petit ne sont pas acquises — mais c'est aussi l'alternative la moins coûteuse du corpus, ce qui compte sous contrainte budgétaire. (4) Le contre-résultat colombien vient d'un système à forte proportion de privé payant et à journée continue variable ; il ne se transpose pas, mais il oblige à nommer le mécanisme qu'il révèle — l'effet d'exigence sur les élèves NON redoublants — que la FWB doit préserver si elle réduit le redoublement.\n\nLe risque propre à la FWB. Réduire le redoublement sans financer le dispositif de remplacement reproduirait l'échec documenté au Portugal et en Espagne, où la loi qualifie déjà le redoublement d'« exceptionnel » et où les taux restent respectivement à 17 % et 22 % à 15 ans. L'économie budgétaire du redoublement évité ne se matérialise qu'avec retard (les enseignants ne disparaissent pas l'année où les cohortes se dégonflent) alors que le coût de la remédiation est immédiat : la note de position doit présenter le redoublement comme une source de financement à moyen terme de ses propres alternatives, pas comme une économie sèche.",
+ "items": [
+  {
+   "claim": "Sur les études européennes récentes, le redoublement n'améliore pas les acquis et dégrade légèrement la trajectoire scolaire ultérieure ; l'effet moyen est négatif mais faible, et il est le plus marqué sur la carrière scolaire, pas sur les apprentissages.",
+   "what_it_is": "Revue systématique européenne des effets du redoublement, conduite par le réseau AlteR (Alternatives for Grade Retention) financé par la Commission européenne, couvrant les 37 unités nationales du réseau Eurydice. 56 études sur les effets ont été retenues (dont 14 belges, 11 espagnoles, 8 françaises, 7 allemandes), 29 observationnelles et 26 quasi-expérimentales, la majorité comparant les redoublants à des pairs de même âge.",
+   "evidence_level": "Revue systématique avec agrégation d'effets, portant majoritairement sur des devis observationnels et quasi-expérimentaux (pas d'essai randomisé — le redoublement ne peut éthiquement être randomisé)",
+   "effect_size": "Acquis scolaires : d = -0,08 (31 études, 239 tailles d'effet). Carrière scolaire (redoublement ultérieur, mobilité, orientation spécialisée, décrochage, non-accès au supérieur) : d = -0,19 (9 études, 48 effets). Fonctionnement psychosocial : d = -0,01 (29 études, 402 effets). Comportements de santé : d = -0,28 (2 études seulement, 4 effets). Carrière professionnelle : d = -0,09 (2 études seulement, 15 effets). Population : élèves du primaire et du secondaire inférieur en Europe.",
+   "concrete_practice": "Dans les 37 pays étudiés, la décision est prise en fin d'année par le conseil de classe (enseignants + direction), sur la base des résultats disciplinaires ; dans quelques pays seulement un psychologue ou un service d'orientation est requis. Le redoublement fonctionne comme le point d'arrivée de l'évaluation certificative annuelle, non comme l'entrée dans un protocole de remédiation.",
+   "concrete_example": "Le réseau AlteR, coordonné par Maastricht University avec l'ISPA-Instituto Universitário (Lisbonne), l'Université de Hasselt et la Medical School Berlin, a publié en février 2025 deux rapports jumeaux (Maastricht University Press) : l'un codant les règlements de redoublement des 37 pays Eurydice par analyse documentaire et questionnaires adressés aux ministères, l'autre agrégeant 79 études européennes (23 sur les prédicteurs, 56 sur les effets). Résultat pour la Belgique : 31 % des élèves de 15 ans déclaraient avoir redoublé au moins une fois en PISA 2018, 27 % en PISA 2022 — premier rang des 37 unités nationales, devant les Pays-Bas (23 %), l'Espagne (22 %), l'Allemagne (19 %), le Portugal (17 %) et l'Autriche (16 %).",
+   "conditions": "La revue agrège des contextes institutionnels très hétérogènes. Les effets dépendent fortement du groupe de comparaison retenu : comparer un redoublant à un pair de même âge (qui a un an d'école en moins) et le comparer à un pair de même niveau d'étude (qui a un an de moins de vie) ne donnent pas le même signe. La revue le signale explicitement comme variable de codage.",
+   "contested": "Les auteurs signalent eux-mêmes que les effets sur la santé et la carrière professionnelle ne reposent que sur 2 études chacun et appellent à la prudence. Un d = -0,08 sur les acquis est très petit et compatible avec l'absence d'effet ; ce n'est pas la démonstration d'un effet massivement destructeur souvent invoquée dans le débat public. Surtout, la majorité des devis inclus sont observationnels, donc exposés au biais de sélection : les redoublants diffèrent des non-redoublants sur des caractéristiques non observées, ce qui biaise mécaniquement l'estimation vers le négatif — c'est précisément la critique que porte Allen et al. (2009), traitée séparément.",
+   "sources": [
+    {
+     "author": "Pipa, J., Pepels, J., Gaitas, S., Goos, M., Peixoto, F., Belfi, B., Meissner, F., & Klapproth, F.",
+     "title": "Summary of predictors and effects of grade retention in Europe",
+     "org": "Maastricht University Press / réseau AlteR, financé par la Commission européenne",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2502.en"
+    },
+    {
+     "author": "Goos, M., Pipa, J., & Peixoto, F.",
+     "title": "Effectiveness of grade retention: A systematic review and meta-analysis",
+     "org": "Educational Research Review, 34, 100401",
+     "year": "2021",
+     "url": "https://doi.org/10.1016/j.edurev.2021.100401"
+    }
+   ]
+  },
+  {
+   "claim": "La Belgique est, de tous les pays documentés par l'OCDE, celui où le redoublement coûte le plus cher : USD 14 916 PPA par redoublant et par an, soit 11,8 % de la dépense totale d'enseignement primaire et secondaire.",
+   "what_it_is": "Estimation OCDE du coût annuel du redoublement, additionnant le coût direct (une année de scolarité supplémentaire au coût unitaire national) et le coût d'opportunité (entrée retardée sur le marché du travail), sous l'hypothèse que les redoublants atteignent au plus le secondaire inférieur.",
+   "evidence_level": "Comptabilité descriptive à partir de données administratives (Regards sur l'éducation) et des taux de redoublement PISA — ce n'est pas une évaluation causale, c'est un chiffrage de dépense",
+   "effect_size": "Coût annuel total par élève (USD PPA) et en % de la dépense totale primaire+secondaire : Belgique 14 916 / 11,8 % ; Espagne 11 680 / 10,9 % ; Pays-Bas 13 022 / 10,0 % ; Portugal 8 380 / 9,6 % ; Allemagne 9 054 / 8,6 % ; Italie 7 111 / 6,4 % ; Autriche 5 093 / 4,1 % ; États-Unis 6 165 / 3,7 % ; France 2 754 / 2,3 % ; Pologne 679 / 1,5 % ; Japon, Corée, Norvège 0 / 0 %. Année de référence 2009/10.",
+   "concrete_practice": "Le coût n'apparaît nulle part comme ligne budgétaire : il est dissous dans le coût global des cohortes. Un système à 27-35 % de redoublants finance en permanence un stock d'élèves en surnombre par rapport à une progression normale, sans que cette dépense soit jamais arbitrée contre un usage alternatif.",
+   "concrete_example": "La figure 4.4 du rapport OCDE Responsive School Systems (2018), dont les données sources sont téléchargeables en statlink (fichier 912018151P1G021.XLSX), classe 31 pays. La Belgique y occupe le dernier rang du classement croissant — c'est-à-dire le coût le plus élevé, en valeur absolue par redoublant (14 916 USD PPA) comme en part de la dépense éducative (11,8 %). Trois pays affichent un coût strictement nul (Japon, Corée, Norvège) parce qu'ils ne pratiquent pas le redoublement. La source primaire de la figure est l'OCDE (2011), PISA in Focus n° 6, figure 2.",
+   "conditions": "L'économie n'est réalisable que si la réduction du redoublement se traduit par une baisse effective d'effectifs, donc avec un décalage de plusieurs années et à condition que les moyens libérés ne soient pas immédiatement réabsorbés. L'estimation suppose aussi que les redoublants n'atteignent au plus que le secondaire inférieur, hypothèse conservatrice mais discutable.",
+   "contested": "L'OCDE note explicitement que ces estimations n'intègrent ni les bénéfices potentiels du redoublement ni le coût des dispositifs qui devraient le remplacer — c'est un coût brut, pas une économie nette. Les données datent de 2009/10 et n'ont pas été actualisées dans la publication de 2018. Enfin, le coût d'opportunité (salaires perdus) est une projection, pas une observation ; il repose sur des hypothèses de trajectoire professionnelle que la littérature causale (voir ter Meulen) chiffre différemment.",
+   "sources": [
+    {
+     "author": "OCDE",
+     "title": "Responsive School Systems: Connecting Facilities, Sectors and Programmes for Student Success, chapitre 4, figure 4.4 « Cost of grade repetition, 2009/10 » (données statlink)",
+     "org": "OECD Publishing, Paris",
+     "year": "2018",
+     "url": "https://doi.org/10.1787/888933831469"
+    },
+    {
+     "author": "OCDE",
+     "title": "When Students Repeat Grades or Are Transferred Out of School: What Does it Mean for Education Systems?, PISA in Focus n° 6",
+     "org": "OECD Publishing, Paris",
+     "year": "2011",
+     "url": "https://doi.org/10.1787/5k9h362n5z45-en"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation par discontinuité de la rétention en Floride trouve des gains d'apprentissage importants à court terme — mais les auteurs attribuent l'essentiel de ces gains à la combinaison de la rétention ET des interventions supplémentaires imposées pendant l'année redoublée, et ces gains s'effacent entièrement en sept ans.",
+   "what_it_is": "En 2002, la législature de Floride a imposé le redoublement des élèves de 3e année (CM1) situés sous le niveau 2 sur 5 au test de lecture FCAT, sauf exemption. Schwerdt, West et Winters exploitent la discontinuité de probabilité de rétention au seuil de score pour estimer l'effet causal, sur données administratives couvrant tous les élèves des écoles publiques de Floride de la 3e à la 12e année, de 2000-01 à 2013-14, sur six cohortes.",
+   "evidence_level": "Quasi-expérimental — régression sur discontinuité avec estimation par variables instrumentales, sur population exhaustive d'État ; le devis causal le plus crédible disponible sur le redoublement",
+   "effect_size": "Comparaison à même âge, échelle de scores rééchelonnée : lecture +0,58 écart-type après un an, retombée à +0,11 ET à la quatrième année, non significatif ensuite ; mathématiques +0,42 ET après un an, non significatif dès la quatrième année, légèrement négatif après cinq ans. Sur échelle brute : lecture +0,23 ET après un an et +0,49 ET après deux ans ; mathématiques +0,30 ET après un an, +0,36 ET après trois ans ; moyenne sur les trois premières années : +0,31 ET en lecture et +0,23 ET en mathématiques. Lycée : moyenne générale +0,067 point (12 % d'un ET), 1,61 cours de remédiation en moins (dont 1,26 en lecture et 0,35 en mathématiques), aucun effet sur la probabilité de diplomation, diplomation retardée de 0,63 an. Population : élèves de 3e année proches du seuil.",
+   "concrete_practice": "La loi floridienne n'impose pas seulement de faire redoubler. Elle impose aussi que l'élève retenu (1) se voie offrir la place au camp d'été de lecture de son district, (2) fasse l'objet d'un plan d'amélioration académique écrit, (3) soit affecté à un « enseignant performant » au sens de son évaluation professionnelle, et (4) reçoive quotidiennement 90 minutes ininterrompues d'enseignement de la lecture fondé sur la recherche. Six motifs d'exemption (« good cause exemptions ») permettent la promotion malgré l'échec au test, dont la démonstration de la maîtrise par un portfolio de travaux. À partir de 2004-05, une promotion en cours d'année est possible si l'élève démontre la maîtrise attendue.",
+   "concrete_example": "L'application de la loi a fait passer le nombre de redoublants de 3e année en Floride de 4 819 (2,8 %) en 2002 à 21 799 (13,5 %) en 2003. Ce nombre est ensuite retombé continûment à 9 562 (5,6 %) en 2008 — non par relâchement, mais principalement parce que de moins en moins d'élèves échouaient au seuil. Les auteurs ont vérifié le mécanisme : les élèves redoublants sont bien affectés à des classes plus petites et ont 8 points de pourcentage de chances en moins d'avoir un enseignant de moins de deux ans d'expérience — mais uniquement pendant l'année de redoublement ; en 4e et 5e année, aucune différence de taille de classe, d'expérience ou de valeur ajoutée enseignante ne subsiste.",
+   "conditions": "Trois conditions sont indissociables du résultat : rétention précoce (3e année, soit ~8-9 ans), ciblage sur une compétence unique et fondatrice (la lecture), et paquet de remédiation obligatoire et financé. Les auteurs écrivent explicitement que l'amélioration de la qualité enseignante pendant l'année redoublée peut expliquer une partie des gains de court terme mais n'est probablement pas le seul mécanisme, et que « l'essentiel des gains est attribuable à la combinaison d'un effet de rétention pur et des interventions supplémentaires reçues pendant l'année de redoublement ».",
+   "contested": "Le résultat est fragile sur trois points. D'abord, l'effacement est total : significatif encore à six ans en lecture (+0,11 ET), nul ensuite. Ensuite, aucun effet sur la diplomation — le seul résultat terminal qui compte vraiment — et un retard de 0,63 an à l'obtention du diplôme, soit un coût réel. Enfin, les auteurs relèvent que le recours croissant aux exemptions au fil du temps modifie la population traitée, ce qui complique la lecture des cohortes tardives. Le résultat est donc mal résumé par « le redoublement marche » : il montre qu'un dispositif intensif attaché à une décision de rétention produit un effet transitoire, sans bénéfice terminal démontré.",
+   "sources": [
+    {
+     "author": "Schwerdt, G., West, M. R., & Winters, M. A.",
+     "title": "The Effects of Test-Based Retention on Student Outcomes over Time: Regression Discontinuity Evidence from Florida, NBER Working Paper 21509 (août 2015, révisé avril 2017)",
+     "org": "National Bureau of Economic Research",
+     "year": "2017",
+     "url": "https://www.nber.org/papers/w21509"
+    },
+    {
+     "author": "Schwerdt, G., West, M. R., & Winters, M. A.",
+     "title": "The effects of test-based retention on student outcomes over time: Regression discontinuity evidence from Florida",
+     "org": "Journal of Public Economics",
+     "year": "2017",
+     "url": "https://doi.org/10.1016/j.jpubeco.2017.06.004"
+    }
+   ]
+  },
+  {
+   "claim": "Le seul sous-groupe pour lequel la rétention précoce accompagnée produit des bénéfices durables et substantiels est celui des élèves allophones — pour eux, l'année supplémentaire est du temps d'acquisition linguistique, pas une sanction.",
+   "what_it_is": "Figlio et Özek appliquent le même devis de régression sur discontinuité à la politique floridienne, mais en isolant les élèves classés « English learners » (allophones en apprentissage de l'anglais), sur 12 districts scolaires de Floride.",
+   "evidence_level": "Quasi-expérimental — régression sur discontinuité sur données administratives, sur sous-population",
+   "effect_size": "Réduction de moitié du temps nécessaire pour atteindre la maîtrise de l'anglais ; réduction d'un tiers de la probabilité de suivre des cours d'anglais de remédiation au collège ; doublement de la probabilité de suivre des cours avancés de mathématiques et de sciences au collège ; triplement de l'inscription à des cours créditant au niveau universitaire au lycée. Population : élèves allophones de 3e année proches du seuil de rétention, 12 districts de Floride.",
+   "concrete_practice": "L'élève allophone redoublant reçoit les mêmes 90 minutes quotidiennes de lecture et le camp d'été que les autres redoublants, mais dans son cas ce temps agit sur le goulot d'étranglement réel — la langue d'enseignement — et non sur une difficulté cognitive diffuse. Notons que la loi floridienne exempte de rétention les élèves allophones ayant moins de deux ans d'instruction en anglais : les élèves étudiés sont donc ceux déjà scolarisés depuis plus de deux ans.",
+   "concrete_example": "Étude publiée comme NBER Working Paper 25472 (janvier 2019). Les auteurs documentent que les bénéfices sont plus importants pour les élèves nés à l'étranger, pour ceux ayant de meilleurs scores en mathématiques (donc dont la difficulté est linguistique et non cognitive), pour les hispanophones, et pour les élèves scolarisés dans des écoles à plus faible taux de pauvreté.",
+   "conditions": "Le résultat suppose un système d'immersion linguistique où la langue de scolarisation est l'obstacle principal et identifiable. L'hétérogénéité documentée est elle-même l'enseignement : ce sont les élèves dont le déficit est ciblé et diagnostiquable qui bénéficient, pas les élèves en difficulté générale. C'est un argument pour le diagnostic, pas pour la rétention.",
+   "contested": "Résultat non répliqué hors Floride à ma connaissance, et je n'ai pas retrouvé de réplication européenne sur les primo-arrivants — je le signale explicitement plutôt que d'en citer une. Portée limitée à 12 districts. Surtout, le résultat ne dit rien des élèves francophones natifs en difficulté, qui constituent la masse des redoublants en FWB : le transposer à l'ensemble du système serait une surinterprétation grave.",
+   "sources": [
+    {
+     "author": "Figlio, D. N., & Özek, U.",
+     "title": "An Extra Year to Learn English? Early Grade Retention and the Human Capital Development of English Learners, NBER Working Paper 25472",
+     "org": "National Bureau of Economic Research",
+     "year": "2019",
+     "url": "https://www.nber.org/papers/w25472"
+    }
+   ]
+  },
+  {
+   "claim": "Une partie substantielle de l'effet négatif attribué au redoublement est un artefact de devis de recherche : plus la qualité du devis augmente, moins l'effet estimé est négatif — et la méta-analyse qui l'établit conclut qu'elle « conteste la vision largement répandue selon laquelle le redoublement a un impact négatif sur les acquis ».",
+   "what_it_is": "Allen, Chen, Willson et Hughes modélisent par régression multiniveau la variabilité des tailles d'effet dans la littérature post-1990 sur le redoublement, en traitant la qualité du devis comme variable de niveau étude, et le niveau scolaire du redoublement et le nombre d'années écoulées depuis comme variables de niveau individuel.",
+   "evidence_level": "Méta-analyse multiniveau (méta-régression) — 207 tailles d'effet issues de 22 études publiées entre 1990 et 2007",
+   "effect_size": "La méta-analyse ne publie pas un effet moyen unique mais des modérateurs : la qualité du devis est associée à des effets moins négatifs ; le nombre d'années écoulées depuis le redoublement est négativement associé à l'effet, et cette dégradation est plus forte pour les études comparant à même niveau scolaire que pour celles comparant à même âge. Pour référence, la synthèse antérieure de Holmes (1989) sur 47 études concluait que les redoublants obtenaient des résultats inférieurs de 0,19 à 0,31 écart-type à ceux d'élèves comparables non redoublants.",
+   "concrete_practice": "En pratique, les études qui apparient redoublants et promus sur des critères non académiques (sexe, origine sociale, âge) produisent des effets nettement plus négatifs que celles qui les apparient sur le niveau ou l'aptitude antérieurs. Comme la décision de redoublement se fonde précisément sur des informations que l'enseignant possède et que le chercheur n'observe pas (attitude, maturité, soutien familial), tout appariement incomplet impute au redoublement ce qui relève de la sélection.",
+   "concrete_example": "Schwerdt, West et Winters illustrent l'ampleur du biais sur leurs propres données floridiennes : les estimations par moindres carrés ordinaires, qui contrôlent pourtant des scores antérieurs, suggèrent des effets négatifs du redoublement sur les acquis, alors que les estimations par régression sur discontinuité, sur les mêmes élèves et les mêmes tests, indiquent des effets positifs importants. L'écart entre les estimations MCO et par variables instrumentales dépasse un tiers d'écart-type — c'est-à-dire que le biais de sélection est du même ordre de grandeur que tous les effets discutés dans la littérature.",
+   "conditions": "Ce résultat ne dit pas que le redoublement fonctionne. Il dit que les estimations les plus alarmistes sont probablement surestimées, et que le débat doit se déplacer des corrélations vers les devis causaux — lesquels, en Europe, sont rares (26 des 56 études de la revue AlteR, et aucun essai randomisé).",
+   "contested": "C'est le point où la note doit être la plus honnête : Allen et al. (2009) est régulièrement omis des plaidoyers anti-redoublement, alors qu'il est une méta-analyse publiée dans une revue à comité de lecture de premier rang (Educational Evaluation and Policy Analysis) et cité plus de 110 fois. Inversement, ses défenseurs en tirent parfois que « le redoublement est réhabilité », ce que le texte ne dit pas : il dit que l'effet est moins négatif que ne le suggèrent les mauvais devis, pas qu'il est positif. Les 22 études incluses sont largement nord-américaines, où le redoublement est un dernier recours et non une pratique de masse comme en Belgique — la transposition du modérateur « qualité de devis » à un système à 27-35 % de redoublants n'est pas établie.",
+   "sources": [
+    {
+     "author": "Allen, C. S., Chen, Q., Willson, V. L., & Hughes, J. N.",
+     "title": "Quality of Research Design Moderates Effects of Grade Retention on Achievement: A Meta-Analytic, Multilevel Analysis",
+     "org": "Educational Evaluation and Policy Analysis, 31(4), 480-499",
+     "year": "2009",
+     "url": "https://doi.org/10.3102/0162373709352239"
+    },
+    {
+     "author": "Schwerdt, G., West, M. R., & Winters, M. A.",
+     "title": "The Effects of Test-Based Retention on Student Outcomes over Time (NBER WP 21509), section 1 et section 4.1 (comparaison MCO / VI, référence à Holmes 1989)",
+     "org": "National Bureau of Economic Research",
+     "year": "2017",
+     "url": "https://www.nber.org/papers/w21509"
+    }
+   ]
+  },
+  {
+   "claim": "Le coût économique du redoublement pour l'individu ne passe pas par une moindre réussite scolaire mais par une année de vie active perdue : aux Pays-Bas, redoubler ne change pas le niveau de diplôme atteint mais réduit le revenu annuel à 28 ans d'environ 3 000 EUR, soit 8,5 %.",
+   "what_it_is": "Simon ter Meulen exploite le seuil d'examen de fin de cycle des filières générales du secondaire néerlandais (où l'échec implique le redoublement) en régression sur discontinuité, et suit les élèves jusqu'à leurs revenus déclarés à 28 ans.",
+   "evidence_level": "Quasi-expérimental — régression sur discontinuité sur seuil d'examen, avec appariement aux données fiscales de long terme",
+   "effect_size": "Aucun effet détecté sur le niveau final d'éducation atteint ; diplomation plus tardive ; perte de revenu annuel à 28 ans de 3 000 EUR, soit 8,5 %, attribuée à la moindre expérience accumulée sur le marché du travail. Population : élèves néerlandais du secondaire général au voisinage du seuil d'examen.",
+   "concrete_practice": "Le redoublement de fin de secondaire ne « rattrape » rien de mesurable en termes de certification : l'élève obtient le même diplôme, un an plus tard. Le coût est donc intégralement un coût de retard, supporté par l'individu sous forme d'une année de salaire et de cotisations, et par la collectivité sous forme d'une année de scolarité financée.",
+   "concrete_example": "L'auteur qualifie explicitement son papier de premier à quantifier cet arbitrage : le redoublement offre du temps supplémentaire pour maîtriser la matière non maîtrisée, mais réduit l'expérience professionnelle en retardant l'entrée sur le marché du travail. Sa conclusion est que, pour les élèves au voisinage du seuil, « le redoublement n'apporte aucun bénéfice ».",
+   "conditions": "Résultat établi pour un redoublement tardif (fin du secondaire), dans un système à filières et à examen externe, sur des élèves marginaux au seuil. Il ne se généralise pas au redoublement précoce, dont la logique (rattraper un fondamental avant qu'il ne bloque tout le reste) est différente — et pour lequel les résultats floridiens vont en sens opposé.",
+   "contested": "Le papier est un document de travail SSRN (2023) ; je n'ai pas pu vérifier sa publication ultérieure dans une revue à comité de lecture, et je le signale plutôt que de lui attribuer un statut qu'il n'a peut-être pas. La revue AlteR estime un effet sur la carrière professionnelle de d = -0,09 mais à partir de 2 études seulement, et appelle explicitement à la prudence : la base probante sur les effets de long terme au marché du travail est mince. Manacorda (2012), sur l'Uruguay, est la référence historique sur le coût du redoublement en termes de scolarité achevée, mais je n'ai pas pu accéder au texte intégral pour en citer les tailles d'effet et je m'abstiens donc de les avancer.",
+   "sources": [
+    {
+     "author": "ter Meulen, S.",
+     "title": "Long-Term Effects of Grade Retention",
+     "org": "SSRN Working Paper 4329471",
+     "year": "2023",
+     "url": "https://doi.org/10.2139/ssrn.4329471"
+    },
+    {
+     "author": "Pipa, J., et al.",
+     "title": "Summary of predictors and effects of grade retention in Europe, tableau 7",
+     "org": "Maastricht University Press / réseau AlteR",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2502.en"
+    },
+    {
+     "author": "Manacorda, M.",
+     "title": "The Cost of Grade Retention",
+     "org": "Review of Economics and Statistics",
+     "year": "2012",
+     "url": "https://doi.org/10.1162/REST_a_00165"
+    }
+   ]
+  },
+  {
+   "claim": "Un résultat contraire majeur, rarement cité : en Colombie, la levée du plafond légal de redoublement a amélioré les résultats aux examens de fin de secondaire — et le gain a porté principalement sur les élèves NON redoublants, ce qui désigne un effet d'exigence, pas un effet de rattrapage.",
+   "what_it_is": "En 2010, la Colombie a abrogé la règle interdisant aux écoles de faire redoubler plus de 5 % de leurs élèves. Parra-Cely, Golsteyn et Ferreira-Sequeda exploitent la variation des taux de redoublement entre écoles et dans le temps en différences-de-différences, sur les résultats aux tests de sortie du secondaire.",
+   "evidence_level": "Quasi-expérimental — différences-de-différences exploitant un changement législatif national",
+   "effect_size": "Les auteurs rapportent que des taux de redoublement scolaires plus élevés ont amélioré les résultats aux tests de sortie du secondaire. Les gains ne diffèrent pas entre matières STEM et non-STEM. Ils bénéficient de façon disproportionnée aux élèves NON redoublés, aux élèves de milieu socio-économique plus favorisé, aux écoles privées et aux écoles fonctionnant en journée complète. La taille d'effet chiffrée n'est pas donnée dans le résumé publié consulté.",
+   "concrete_practice": "Lorsque le redoublement redevient possible, la menace crédible d'échec modifie le comportement de tous les élèves et de tous les enseignants de l'établissement, pas seulement celui des redoublants. C'est un mécanisme d'exigence collective, distinct du mécanisme de rattrapage individuel habituellement débattu.",
+   "concrete_example": "L'abrogation de 2010 a levé un plafond que les écoles colombiennes atteignaient effectivement : sous la règle des 5 %, un établissement dont plus de 5 % des élèves échouaient devait promouvoir des élèves qu'il jugeait non prêts. Après abrogation, les écoles ont fait diverger leurs taux, et c'est cette divergence inter-établissements qui identifie l'effet. L'étude a circulé comme document de travail de Maastricht University dès 2018 et a été publiée dans PLOS One en 2026.",
+   "conditions": "Le résultat suppose que le plafond était contraignant, que les écoles disposent d'une marge réelle de décision, et il est identifié au niveau de l'école et non de l'élève — il mesure donc l'effet d'un régime de redoublement, pas l'effet d'un redoublement sur un enfant donné.",
+   "contested": "C'est le résultat le plus inconfortable du corpus et il ne doit pas être escamoté, mais ses limites sont réelles. Le fait que les gains se concentrent sur les élèves favorisés, les écoles privées et les journées complètes signale un effet régressif : la menace du redoublement fonctionne là où les familles peuvent y répondre. Le devis en différences-de-différences est plus faible que les régressions sur discontinuité de Floride ou des Pays-Bas, et l'hypothèse de tendances parallèles entre écoles ayant fait diverger leurs taux est forte. Le contexte colombien (forte part de privé payant, journée scolaire variable) est éloigné de l'Europe continentale. Mais le mécanisme qu'il identifie — l'effet de l'exigence sur les non-redoublants — est celui qu'une réforme FWB de réduction du redoublement doit expressément préserver.",
+   "sources": [
+    {
+     "author": "Parra-Cely, S., Golsteyn, B. H. H., & Ferreira-Sequeda, M.",
+     "title": "The effect of grade retention on secondary school performance: Evidence from a natural experiment",
+     "org": "PLOS One",
+     "year": "2026",
+     "url": "https://doi.org/10.1371/journal.pone.0345322"
+    }
+   ]
+  },
+  {
+   "claim": "Les pays qui ont réduit leur redoublement l'ont fait lentement et jamais par la seule loi : le Portugal, l'Espagne, la France et la Grèce qualifient tous le redoublement d'« exceptionnel » dans leur législation, et pourtant le Portugal reste à 17 % et l'Espagne à 22 % d'élèves de 15 ans ayant redoublé.",
+   "what_it_is": "Cartographie réglementaire des 37 pays du réseau Eurydice (analyse documentaire, questionnaires aux ministères, croisement avec les taux déclarés en PISA 2018 et 2022), publiée par le réseau AlteR.",
+   "evidence_level": "Comparaison internationale descriptive et corrélationnelle — pas d'identification causale de l'effet des réformes",
+   "effect_size": "Évolution du taux d'élèves de 15 ans ayant redoublé au moins une fois, PISA 2018 → PISA 2022 : Belgique 31 % → 27 % ; Espagne 29 % → 22 % ; Portugal 27 % → 17 % ; France 17 % → 11 % ; Pologne 3 % → 3 %. Taux 2022 dans le primaire (CITE 1) : Belgique 16 %, Portugal 14 %, Pays-Bas 14 %, Allemagne 11 %, Espagne 10 %, France 7 %, Pologne ≤1 % ; moyenne des 37 unités : 4 %. Dans le secondaire inférieur (CITE 2) : Espagne 15 %, Allemagne 10 %, Pays-Bas 9 %, Belgique 7 %, Portugal 5 %, France ~3-4 %, Pologne ≤1 % ; moyenne : ~3 %.",
+   "concrete_practice": "Chaque pays a adossé la restriction légale à des dispositifs nommés. Espagne : redoublement interdit en 1re, 3e et 5e années, possible une seule fois et obligatoirement accompagné d'un « plan de renforcement personnalisé », deux fois au maximum sur toute la scolarité obligatoire, et seulement après épuisement d'autres mesures (examens de rattrapage, plans de renforcement, tests, progression conditionnelle). Portugal : redoublement interdit en 1re année, critères centralisés uniquement en 4e, 6e et 9e année, et mesures préventives explicitement listées — évaluation formative, suivi individualisé des élèves, tutorat, co-enseignement, tests d'absentéisme, progression conditionnelle. Pologne : promotion automatique en années 1 à 3, où le redoublement exige la justification d'un psychologue ET l'accord parental ; dès l'année 4, l'élève ayant une note insuffisante passe d'abord un examen de rattrapage, et ne redouble qu'en cas d'échec à cet examen. France : redoublement en dernier recours après épuisement des programmes personnalisés et plans d'accompagnement, avec appel tranché par l'Inspecteur de l'Éducation nationale.",
+   "concrete_example": "Le contraste Pologne / Portugal est le plus instructif. La Pologne combine promotion automatique en années 1 à 3 (avec double verrou : avis de psychologue et accord parental) et, à partir de l'année 4, un sas d'examen de rattrapage obligatoire avant toute décision de redoublement — et affiche 3 % à 15 ans, contre 1,5 % du budget éducatif en coût de redoublement selon l'OCDE. Le Portugal, dont la loi dit également « exceptionnel » et qui a listé six dispositifs alternatifs, est passé de 27 % à 17 % en quatre ans, mais reste à 9,6 % de sa dépense éducative engloutie dans le redoublement. La loi seule n'explique pas l'écart ; l'existence d'un sas procédural opposable (l'examen de rattrapage polonais) et l'accord parental obligatoire, si.",
+   "conditions": "La comparaison repose sur les déclarations d'élèves de 15 ans en PISA : elle mesure un stock cumulé sur toute la scolarité, avec un décalage de plusieurs années par rapport aux réformes. Une baisse observée en 2022 reflète des décisions prises entre 2010 et 2021. Les taux 2018-2022 sont aussi affectés par la pandémie, plusieurs pays ayant suspendu ou assoupli le redoublement (la Grèce l'a fait explicitement).",
+   "contested": "Ces évolutions ne sont pas des effets causaux de réformes : elles corrèlent des changements législatifs et des changements de taux, sans contrefactuel. Rien n'établit dans ces données que la baisse portugaise ou française ait amélioré les acquis — la FWB ne doit pas promettre ce que ces chiffres ne démontrent pas. Le rapport AlteR est explicite sur ce point : « définir le redoublement comme mesure exceptionnelle et prévoir des limitations dans la législation peut néanmoins conduire à des taux de redoublement élevés ».",
+   "sources": [
+    {
+     "author": "Meissner, F., Pepels, J., et al. (réseau AlteR)",
+     "title": "Grade retention during compulsory school education in Europe: regulations and practices",
+     "org": "Maastricht University Press / réseau AlteR, financé par la Commission européenne",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2501.en"
+    },
+    {
+     "author": "Eurydice",
+     "title": "Grade retention during compulsory education in Europe: Regulations and statistics",
+     "org": "Commission européenne / EACEA",
+     "year": "2011",
+     "url": "https://op.europa.eu/en/publication-detail/-/publication/10f14860-12a3-4f9e-b10a-32bee875420d"
+    }
+   ]
+  },
+  {
+   "claim": "La variable qui explique le mieux qu'un système à législation restrictive garde des taux de redoublement élevés est la croyance des enseignants dans les vertus du redoublement — et c'est un facteur de niveau classe, modifiable par la formation, non par le décret.",
+   "what_it_is": "La revue AlteR identifie les prédicteurs du redoublement à trois niveaux (élève, classe, école) sur 23 études européennes, puis explique par cette voie l'écart persistant entre le droit et la pratique dans les pays à taux élevés.",
+   "evidence_level": "Revue systématique de devis observationnels (prédicteurs) — corrélationnel, pas causal",
+   "effect_size": "Les élèves européens ont 3 à 7 fois plus de risques de redoubler s'ils présentent un faible niveau antérieur, des attitudes plus négatives envers les tâches d'apprentissage, un âge plus élevé, un statut socio-économique plus faible, un bien-être moindre, un concept de soi plus faible et davantage de problèmes de comportement — mais aussi s'ils sont scolarisés dans une classe au climat d'apprentissage moins positif et chez un enseignant croyant davantage aux bénéfices du redoublement. Population : élèves du primaire et du secondaire inférieur, 37 pays Eurydice.",
+   "concrete_practice": "La décision de redoublement est prise, dans la majorité des 37 pays, par le conseil de classe. Les critères légaux (résultats disciplinaires) laissent une marge d'appréciation considérable, remplie par les représentations professionnelles de l'équipe. Deux élèves aux mêmes résultats, dans deux classes du même établissement, n'ont pas la même probabilité de redoubler.",
+   "concrete_example": "La recommandation explicite du rapport AlteR aux décideurs est de ne pas passer par la loi : « les décideurs auraient intérêt à investir du temps et de l'argent pour fournir aux enseignants des alternatives fondées sur les preuves, non par la loi mais en pratique, via des formations continues de qualité et des ressources supplémentaires ». Le rapport documente ce facteur à partir d'études nationales convergentes, dont une étude francophone directement pertinente pour la FWB : Crahay, Marbaise et Issaieva (2013), « What is teachers' belief in the virtues of student retention founded on? », Italian Journal of Educational Research, 6(11), 75-94 — qui interroge précisément les fondements de la croyance enseignante en le redoublement. S'y ajoutent Asberger, Thomm & Bauer (2020) en Allemagne, qui ont construit un inventaire des « croyances discutables en éducation » (QUEBEC), Cipriano & Martins (2021) au Portugal, Juchtmans et al. (2012) et Talloen et al. (2020) en Belgique.",
+   "conditions": "Cela n'est opérant que si les alternatives proposées aux enseignants sont réellement disponibles et financées dans leur école. Une formation qui déconseille le redoublement sans fournir de dispositif de remplacement transforme la décision en simple renoncement, ce qui est le scénario d'échec identifié au Portugal et en Espagne.",
+   "contested": "Les données sur les croyances enseignantes sont corrélationnelles : on observe que les enseignants qui croient au redoublement font davantage redoubler, pas que changer leurs croyances change leurs décisions. Je n'ai pas identifié d'essai randomisé évaluant une formation continue visant à modifier les croyances enseignantes sur le redoublement et mesurant l'effet sur les taux effectifs — c'est un trou dans la base probante, et il porte précisément sur le levier que le rapport AlteR recommande. La recommandation est donc raisonnée, pas démontrée. Par ailleurs, il existe une littérature ancienne (Tomchin & Impara, 1992, American Educational Research Journal) montrant que les enseignants tiennent le redoublement pour inoffensif en maternelle et primaire mais se divisent sur les années 4 à 7 : la croyance n'est pas homogène et une action de formation indifférenciée risque de manquer sa cible.",
+   "sources": [
+    {
+     "author": "Pipa, J., Pepels, J., Gaitas, S., Goos, M., Peixoto, F., Belfi, B., Meissner, F., & Klapproth, F.",
+     "title": "Summary of predictors and effects of grade retention in Europe",
+     "org": "Maastricht University Press / réseau AlteR",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2502.en"
+    },
+    {
+     "author": "Meissner, F., Pepels, J., et al.",
+     "title": "Grade retention during compulsory school education in Europe: regulations and practices, chapitre 3 « Recommendations for educational policymakers »",
+     "org": "Maastricht University Press / réseau AlteR",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2501.en"
+    },
+    {
+     "author": "Goos, M., Schreier, B. M., Knipprath, H. M. E., De Fraine, B., Van Damme, J., & Trautwein, U.",
+     "title": "How Can Cross-Country Differences in the Practice of Grade Retention Be Explained? A Closer Look at National Educational Policy Factors",
+     "org": "Comparative Education Review, 57(1), 54-84",
+     "year": "2013",
+     "url": "https://doi.org/10.1086/667655"
+    }
+   ]
+  },
+  {
+   "claim": "Le tutorat intensif est l'alternative au redoublement la mieux étayée par des essais randomisés : effet moyen de 0,37 écart-type sur des dizaines d'expériences, et 0,20 à 0,22 écart-type en mathématiques dans un essai italien à grande échelle reposant sur des étudiants bénévoles.",
+   "what_it_is": "Nickow, Oreopoulos et Quan réalisent une revue systématique et méta-analyse des essais randomisés de tutorat (individuel ou en très petit groupe, par enseignants, personnels d'appui, bénévoles ou parents) de la maternelle à la fin du secondaire. Carlana et La Ferrara évaluent le Tutoring Online Program (TOP) italien par affectation aléatoire.",
+   "evidence_level": "Méta-analyse d'essais contrôlés randomisés (Nickow et al.) ; essai contrôlé randomisé à deux vagues (Carlana & La Ferrara, publié dans l'American Economic Review)",
+   "effect_size": "Nickow, Oreopoulos & Quan : effet moyen agrégé de 0,37 écart-type sur les acquis, avec des effets plus forts pour les tuteurs enseignants et personnels d'appui que pour les bénévoles et les parents, plus forts dans les petites classes, et plus forts pour le tutorat pendant le temps scolaire que hors temps scolaire ; en lecture les effets sont plus élevés dans les petites classes, en mathématiques dans les classes plus avancées. Carlana & La Ferrara : trois heures de tutorat individuel par semaine augmentent les performances en mathématiques de 0,22 écart-type en 2020 et de 0,20 écart-type en 2022 ; les effets sur les aspirations, les compétences socio-émotionnelles et le bien-être psychologique ne sont présents que pendant les fermetures d'école. Population : collégiens italiens défavorisés désignés par leurs chefs d'établissement.",
+   "concrete_practice": "Trois heures hebdomadaires, en individuel, avec un tuteur identifié et stable, pendant le temps scolaire de préférence. Le dosage est le paramètre critique : Carlana et La Ferrara montrent qu'un dosage plus élevé produit des effets plus forts, et que le tutorat en groupe produit des effets plus faibles que l'individuel.",
+   "concrete_example": "Le Tutoring Online Program italien : les chefs d'établissement de collèges dressent une liste d'élèves défavorisés bénéficiaires potentiels ; des étudiants d'université se portent volontaires pour au moins trois heures hebdomadaires ; les tuteurs sont ensuite affectés aléatoirement aux élèves de la liste, ce qui fournit l'identification. Le dispositif a été déployé pendant le confinement de 2020 puis reconduit hors crise en 2022, avec des effets quasi identiques en mathématiques (0,22 puis 0,20 ET) — ce qui écarte l'objection que l'effet ne tiendrait qu'à la privation d'école. Les auteurs mesurent aussi l'effet sur les tuteurs eux-mêmes et trouvent une hausse de leur empathie.",
+   "conditions": "Le tutorat par bénévoles produit des effets plus faibles que par enseignants ou personnels d'appui (Nickow et al.) ; le TOP italien montre qu'il peut néanmoins atteindre 0,20 ET s'il est individuel, dosé à trois heures et structuré. La transposition à grande échelle dépend de l'existence d'un vivier étudiant et d'une logistique d'appariement et de suivi.",
+   "contested": "L'effet agrégé de 0,37 ET des méta-analyses de tutorat est probablement surestimé par le biais de publication et par le fait que la plupart des essais sont de petite échelle, menés par les concepteurs du programme, et en conditions favorables. La mise à l'échelle nationale du tutorat a échoué à reproduire ces effets ailleurs — je n'ai pas pu accéder à l'évaluation du National Tutoring Programme britannique pour en citer les résultats, et je le signale plutôt que d'en avancer des chiffres. Par ailleurs, les effets socio-émotionnels du TOP disparaissent hors période de fermeture : le tutorat est un levier d'apprentissage, pas un levier de bien-être en régime ordinaire. Enfin, aucun de ces essais ne compare directement tutorat et redoublement sur la même population : la substituabilité est une inférence, pas un résultat.",
+   "sources": [
+    {
+     "author": "Nickow, A., Oreopoulos, P., & Quan, V.",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning: A Systematic Review and Meta-Analysis of the Experimental Evidence, NBER Working Paper 27476",
+     "org": "National Bureau of Economic Research",
+     "year": "2020",
+     "url": "https://www.nber.org/papers/w27476"
+    },
+    {
+     "author": "Carlana, M., & La Ferrara, E.",
+     "title": "Apart but Connected: Online Tutoring, Cognitive Outcomes, and Soft Skills",
+     "org": "American Economic Review",
+     "year": "2025",
+     "url": "https://doi.org/10.1257/aer.20240401"
+    }
+   ]
+  },
+  {
+   "claim": "Les dispositifs estivaux de lecture améliorent les acquis en compréhension des élèves de milieu défavorisé, et le bénéfice est significativement plus grand pour eux que pour les élèves de milieu mixte — ce qui en fait un instrument d'équité, pas seulement de rattrapage.",
+   "what_it_is": "Méta-analyse de Kim et Quinn portant sur 41 interventions estivales de lecture conduites aux États-Unis et au Canada entre 1998 et 2011, distinguant les interventions en classe (leçons de littératie dirigées par un enseignant) et les interventions à domicile (lecture de livres à l'initiative de l'enfant), de la maternelle à la 8e année.",
+   "evidence_level": "Méta-analyse d'évaluations contrôlées (41 interventions), avec analyses de sensibilité fondées sur des comparaisons intra-étude",
+   "effect_size": "Les auteurs rapportent une amélioration significative sur plusieurs mesures de lecture pour les deux formats, et un effet du traitement positif pour les interventions employant un enseignement de la lecture fondé sur la recherche et comptant une majorité d'enfants de milieu défavorisé. Les analyses de sensibilité intra-étude montrent des bénéfices significativement plus importants pour les enfants de milieu défavorisé que pour ceux issus d'un mélange de milieux. La taille d'effet agrégée chiffrée n'apparaît pas dans le résumé consulté et je ne l'invente pas.",
+   "concrete_practice": "Deux formats distincts et non équivalents. Format « classe » : des leçons de littératie explicites, dirigées par un enseignant, pendant l'été. Format « domicile » : mise à disposition de livres appariés au niveau de l'enfant, avec activités de lecture à son initiative. Le modérateur décisif identifié par la méta-analyse n'est pas le format mais le contenu : les programmes employant un enseignement de la lecture fondé sur la recherche produisent l'effet, les autres non.",
+   "concrete_example": "Le dispositif floridien fournit l'exemple institutionnel le plus abouti et directement lié au redoublement : la loi de 2002 impose au district d'offrir à chaque élève retenu en 3e année une place au « summer reading camp » du district, en plus du plan d'amélioration écrit et des 90 minutes quotidiennes de lecture pendant l'année redoublée. L'été n'y est pas un dispositif isolé mais le premier maillon d'une chaîne de remédiation attachée à une décision de non-promotion — ce qui est précisément l'architecture que la FWB n'a pas.",
+   "conditions": "Le contenu doit être un enseignement structuré de la lecture, pas une occupation. Le public doit être majoritairement défavorisé pour que l'effet apparaisse. Le calendrier scolaire belge (deux mois d'été depuis la réforme des rythmes) et la disponibilité d'enseignants volontaires en juillet-août sont des contraintes matérielles non triviales.",
+   "contested": "La méta-analyse est entièrement nord-américaine (États-Unis et Canada, 1998-2011) et s'inscrit dans le cadre du « summer learning loss », dont l'existence et l'ampleur sont elles-mêmes contestées : plusieurs travaux réanalysant les données de pertes estivales concluent que l'effet a été surestimé par des artefacts d'échelle de test et de comparabilité entre sessions. Les interventions à domicile, en particulier, reposent sur l'engagement parental, qui est justement plus faible dans les familles ciblées — un problème de sélection que la méta-analyse ne résout pas. Enfin, aucun essai de cette littérature ne teste l'école d'été comme substitut au redoublement : la comparaison directe n'existe pas.",
+   "sources": [
+    {
+     "author": "Kim, J. S., & Quinn, D. M.",
+     "title": "The Effects of Summer Reading on Low-Income Children's Literacy Achievement From Kindergarten to Grade 8: A Meta-Analysis of Classroom and Home Interventions",
+     "org": "Review of Educational Research, 83(3)",
+     "year": "2013",
+     "url": "https://doi.org/10.3102/0034654313483906"
+    },
+    {
+     "author": "Schwerdt, G., West, M. R., & Winters, M. A.",
+     "title": "The Effects of Test-Based Retention on Student Outcomes over Time (NBER WP 21509), section 2.1 (description du dispositif floridien)",
+     "org": "National Bureau of Economic Research",
+     "year": "2017",
+     "url": "https://www.nber.org/papers/w21509"
+    }
+   ]
+  },
+  {
+   "claim": "Le dépistage précoce des difficultés de langage suivi d'une intervention structurée produit des gains encore mesurables deux ans après la fin du programme — contredisant l'idée que tout effet éducatif s'efface, et déplaçant l'action en amont du point où le redoublement se décide.",
+   "what_it_is": "Le Nuffield Early Language Intervention (NELI) est un programme d'intervention sur le langage oral destiné aux enfants de 4-5 ans entrant à l'école avec des faiblesses langagières, identifiés par un dépistage. Il a été évalué dans quatre essais robustes, dont un essai d'efficacité à grande échelle en conditions réelles, suivi d'une mesure de persistance deux ans après la fin de l'intervention.",
+   "evidence_level": "Essai contrôlé randomisé à grande échelle en conditions réelles, avec suivi longitudinal à deux ans (publié dans le Journal of Child Psychology and Psychiatry)",
+   "effect_size": "À deux ans de suivi, les enfants ayant reçu NELI ont de meilleurs résultats en langage oral (d = 0,22 ; d = 0,33 pour les enfants au langage initialement plus faible), en compréhension de lecture (d = 0,16 ; d = 0,24 pour les enfants au langage plus faible) et en lecture de mots isolés (d = 0,16 ; d = 0,22 pour les enfants au langage plus faible). Population : enfants de 4-5 ans entrant à l'école en Angleterre avec faiblesses langagières.",
+   "concrete_practice": "Dépistage systématique du langage oral à l'entrée à l'école ; les enfants repérés reçoivent un programme structuré de développement du langage oral, délivré par des personnels d'appui formés au sein de l'école, sur plusieurs semaines. Le déclencheur n'est pas l'échec constaté en fin d'année mais un repérage à l'entrée — c'est le renversement de logique complet par rapport au redoublement.",
+   "concrete_example": "Hulme, West, Rios Diaz, Hearne, Korell, Duta et Snowling (2025) ont retesté, environ deux ans après la fin de l'intervention, les enfants d'un essai d'efficacité à grande échelle mené en conditions réelles (donc pas en laboratoire ni sous supervision des concepteurs). Le programme avait déjà démontré des améliorations du langage dans quatre essais robustes ; l'apport de cette publication est de mesurer la durabilité, contre l'objection standard de l'effacement (« fade-out »). Les auteurs concluent que, bien que les effets d'effacement soient courants dans la recherche en éducation, cette intervention produit des améliorations durables avec des tailles d'effet éducativement importantes.",
+   "conditions": "L'effet repose sur un dépistage systématique et précoce (à l'entrée à l'école, pas à 8 ou 10 ans), sur un programme manualisé et sur des personnels formés. Il cible une compétence unique et fondatrice — le langage oral — dont dépend l'apprentissage de la lecture. C'est la même logique de ciblage que dans le cas floridien réussi (la lecture en 3e année) et dans le cas Figlio-Özek (la langue de scolarisation).",
+   "contested": "Les tailles d'effet à deux ans (d = 0,16 à 0,22 en population générale ciblée) sont modestes, et une partie du débat porte sur ce qui constitue un seuil « éducativement important ». Le programme a été développé et évalué par des équipes largement chevauchantes (Snowling et Hulme sont à la fois concepteurs et évaluateurs), ce qui est un facteur de risque documenté de surestimation dans la littérature d'intervention. Le contexte anglais — école à 4 ans, personnels d'appui nombreux en classe — n'a pas d'équivalent direct en FWB, où la maternelle est structurée différemment. Enfin, aucun de ces essais ne mesure l'effet sur le taux de redoublement ultérieur : le lien entre dépistage précoce et réduction du redoublement est logique, pas démontré.",
+   "sources": [
+    {
+     "author": "Hulme, C., West, G., Rios Diaz, M., Hearne, E., Korell, L., Duta, M., & Snowling, M. J.",
+     "title": "The Nuffield Early Language Intervention (NELI) programme is associated with lasting improvements in children's language and reading skills",
+     "org": "Journal of Child Psychology and Psychiatry",
+     "year": "2025",
+     "url": "https://doi.org/10.1111/jcpp.14157"
+    }
+   ]
+  },
+  {
+   "claim": "Le passage d'une logique de sanction à une logique de diagnostic passe par un mécanisme procédural précis : inverser la charge de la preuve, de sorte que l'école doive démontrer positivement que la promotion est indiquée, et que toute décision soit adossée à un plan écrit et à un dispositif nommé.",
+   "what_it_is": "Le dispositif floridien, tel que décrit par ses évaluateurs, ne constitue pas un « test de promotion » au sens propre : combiné à six motifs d'exemption, il transforme un score bas en un déplacement de la charge de la preuve. Plusieurs systèmes européens ont construit des sas procéduraux analogues.",
+   "evidence_level": "Description institutionnelle documentée, adossée à des évaluations quasi-expérimentales du dispositif d'ensemble (Floride) et à une cartographie réglementaire comparative (37 pays) — le mécanisme procédural lui-même n'a pas été isolé causalement",
+   "effect_size": "Non disponible : aucun devis n'isole l'effet propre de l'inversion de la charge de la preuve. L'indice indirect le plus fort est la trajectoire floridienne : le taux de redoublement en 3e année passe de 2,8 % (2002) à 13,5 % (2003, mise en œuvre) puis redescend à 5,6 % (2008), les évaluateurs attribuant cette baisse principalement à la réduction du nombre d'élèves n'atteignant plus le seuil.",
+   "concrete_practice": "Quatre briques procédurales identifiables. (1) Floride : pour un élève hors enseignement spécialisé, un score bas fait que « les éducateurs doivent construire un argumentaire positif pour que l'élève soit promu » — dont la démonstration de la maîtrise par un portfolio de travaux, ou un score au-dessus du 51e percentile national à un autre test standardisé. (2) Espagne : le redoublement, quand il est décidé, est obligatoirement assorti d'un plan de renforcement personnalisé écrit. (3) Pologne (années 1 à 3) : le redoublement exige la justification d'un psychologue évaluant la situation de l'élève ET l'accord parental. (4) Portugal : évaluation formative et suivi individualisé listés comme préalables, avec un dispositif de progression conditionnelle.",
+   "concrete_example": "Le portfolio floridien est l'exemple le plus concret d'un basculement vers le diagnostic : un élève ayant échoué au test peut être promu si l'école constitue un dossier de travaux démontrant qu'il maîtrise en réalité les compétences de lecture attendues. Le test cesse d'être le verdict et devient le déclencheur d'un examen de dossier. La Floride a en outre ajouté, dès l'année scolaire 2004-05, une possibilité de promotion en cours d'année pour les élèves retenus qui démontrent la maîtrise attendue avant la fin de l'année — ce qui transforme le redoublement d'une peine d'un an en une durée variable indexée sur les progrès mesurés.",
+   "conditions": "Ce mécanisme suppose des instruments de mesure des acquis partagés et crédibles, une capacité administrative à instruire des dossiers, et l'acceptation par les enseignants que leur jugement soit encadré par une procédure. Sans instrument de mesure commun, l'inversion de la charge de la preuve devient une formalité déclarative.",
+   "contested": "Deux critiques sérieuses. Premièrement, Schwerdt et ses coauteurs observent que le recours aux exemptions a augmenté au fil du temps, ce qui suggère que la procédure se relâche par usure — le portfolio peut devenir un moyen de contourner l'exigence plutôt que de la documenter. Deuxièmement, la littérature critique nord-américaine sur les « third-grade trigger laws » (par exemple DellaVecchia, 2022, « Retention in Grade and Third-Grade Trigger Laws: History, Politics, and Pitfalls », et Barrett-Tatum sur les conséquences réelles des interventions obligatoires en lecture) documente des effets pervers : rétrécissement du curriculum autour du test, pression sur les enseignants, et stigmatisation des élèves concernés. Je n'ai pas pu accéder au texte intégral de ces travaux et je les signale comme littérature critique existante sans en citer de résultats chiffrés. Enfin, l'effet propre de la procédure n'a jamais été isolé des ressources qui l'accompagnaient — c'est la limite centrale de tout ce dossier.",
+   "sources": [
+    {
+     "author": "Schwerdt, G., West, M. R., & Winters, M. A.",
+     "title": "The Effects of Test-Based Retention on Student Outcomes over Time (NBER WP 21509), section 2.1 et section 4",
+     "org": "National Bureau of Economic Research",
+     "year": "2017",
+     "url": "https://www.nber.org/papers/w21509"
+    },
+    {
+     "author": "Meissner, F., Pepels, J., et al.",
+     "title": "Grade retention during compulsory school education in Europe: regulations and practices (fiches Espagne, Pologne, Portugal ; chapitre 2)",
+     "org": "Maastricht University Press / réseau AlteR",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2501.en"
+    },
+    {
+     "author": "DellaVecchia, G. P.",
+     "title": "Retention in Grade and Third-Grade « Trigger » Laws: History, Politics, and Pitfalls, in How Education Policy Shapes Literacy Instruction",
+     "org": "Springer",
+     "year": "2022",
+     "url": "https://doi.org/10.1007/978-3-031-08510-9_2"
+    }
+   ]
+  },
+  {
+   "claim": "L'argument le plus fréquemment avancé contre le redoublement en FWB — l'atteinte à l'estime de soi — est celui que la preuve européenne soutient le moins : l'effet agrégé sur le fonctionnement psychosocial est d = -0,01, c'est-à-dire nul.",
+   "what_it_is": "Sur les 56 études européennes d'effets recensées par le réseau AlteR, 29 portent sur le fonctionnement psychosocial (motivation scolaire, concept de soi, bien-être, comportement) — c'est le domaine le plus étudié, avec 402 tailles d'effet.",
+   "evidence_level": "Revue systématique européenne, devis majoritairement observationnels et quasi-expérimentaux — c'est le domaine où la base est la plus fournie du corpus",
+   "effect_size": "d = -0,01 sur le fonctionnement psychosocial (29 études, 402 tailles d'effet). À comparer, dans la même revue, à d = -0,19 sur la carrière scolaire (9 études, 48 effets) et d = -0,28 sur les comportements de santé (2 études seulement). Population : élèves européens du primaire et du secondaire inférieur.",
+   "concrete_practice": "Le discours institutionnel et syndical sur le redoublement mobilise massivement le registre de la souffrance, de l'humiliation et de la perte de confiance. La revue européenne conclut au contraire que « le redoublement n'a pas d'impact sur divers résultats psychosociaux, allant de la motivation scolaire des élèves à des facteurs psychologiques plus larges ».",
+   "concrete_example": "La revue AlteR constate explicitement, dans sa synthèse, que « le fonctionnement psychosocial des élèves est le domaine le moins impacté » — alors même que c'est le domaine le plus abondamment étudié (402 effets sur 708 recensés au total, soit plus de la moitié du corpus européen). Autrement dit : la recherche européenne a massivement cherché l'effet psychologique du redoublement, et ne le trouve pas. Les travaux belges flamands de Van Canegem, Van Houtte et Demanet (2021, British Educational Research Journal) poursuivent cette question en examinant si la composition de l'établissement en redoublants modère la relation entre redoublement et concept de soi académique — ce qui indique que la question reste ouverte plutôt que tranchée dans un sens ou dans l'autre.",
+   "conditions": "Le résultat est un effet moyen agrégé. Il n'exclut ni des effets hétérogènes forts (certains élèves très affectés, d'autres pas), ni des effets sur des dimensions non couvertes par les instruments utilisés, ni des effets différés. La revue signale par ailleurs un effet d = -0,28 sur les comportements de santé (consommation de drogues, usage d'écrans), mais fondé sur 2 études seulement — donc non concluant.",
+   "contested": "Il faut aller jusqu'au bout de l'inconfort : l'argument émotionnel le plus mobilisé dans le débat FWB est le moins soutenu par la preuve européenne, tandis que les arguments les mieux soutenus sont budgétaires (11,8 % de la dépense éducative en Belgique) et trajectoriels (d = -0,19 sur la carrière scolaire : redoublement ultérieur, orientation spécialisée, décrochage, non-accès au supérieur). Une note de position qui plaide sur l'estime de soi s'expose à être réfutée sur sa propre base de preuve ; une note qui plaide sur le coût et la trajectoire ne s'y expose pas. À l'inverse, un d = -0,01 agrégé peut masquer une hétérogénéité réelle, et l'absence d'effet moyen sur des échelles psychométriques standard ne vaut pas démonstration de l'innocuité subjective du redoublement pour l'enfant concerné.",
+   "sources": [
+    {
+     "author": "Pipa, J., Pepels, J., Gaitas, S., Goos, M., Peixoto, F., Belfi, B., Meissner, F., & Klapproth, F.",
+     "title": "Summary of predictors and effects of grade retention in Europe, tableau 7 et synthèse du chapitre 2",
+     "org": "Maastricht University Press / réseau AlteR",
+     "year": "2025",
+     "url": "https://doi.org/10.26481/mup.rep.alter.2502.en"
+    },
+    {
+     "author": "Van Canegem, T., Van Houtte, M., & Demanet, J.",
+     "title": "Grade retention and academic self-concept: A multilevel analysis of the effects of schools' retention composition",
+     "org": "British Educational Research Journal",
+     "year": "2021",
+     "url": "https://doi.org/10.1002/berj.3729"
+    }
+   ]
+  },
+  {
+   "claim": "La synthèse économique de référence conclut que le redoublement est peu susceptible d'être une politique efficiente — non parce que ses bénéfices seraient nuls, mais parce que ses coûts dépassent aisément des bénéfices faibles — et recommande explicitement soit des politiques alternatives, soit des politiques combinées au redoublement.",
+   "what_it_is": "Valbuena, Mediavilla, Choi et Gil passent en revue systématiquement les études empiriques cherchant à identifier les effets causaux du redoublement (et non ses corrélats), en exploitant la disponibilité récente de données longitudinales détaillées permettant des stratégies d'identification traitant le biais de sélection et l'hétérogénéité non observée.",
+   "evidence_level": "Revue systématique de la littérature restreinte aux études appliquant l'inférence causale, publiée dans le Journal of Economic Surveys",
+   "effect_size": "Non applicable — la revue ne produit pas d'effet agrégé unique, par construction : elle souligne au contraire que les effets varient selon plusieurs dimensions (moment du redoublement dans la scolarité, groupe de comparaison retenu, horizon temporel de la mesure, cadre institutionnel), et que c'est cette variabilité qui interdit un chiffre unique.",
+   "concrete_practice": "La conclusion opérationnelle est double et doit être citée sans la couper : « il est nécessaire d'envisager des politiques alternatives au redoublement, ou des politiques pouvant être utilisées EN COMBINAISON avec lui, afin d'améliorer la performance des élèves faibles ». La revue ne prescrit donc pas l'abolition mais la substitution ou l'adjonction.",
+   "concrete_example": "C'est exactement la lecture que confirment les deux jeux de résultats les plus solides du dossier, qui se répondent. En Floride, la rétention combinée à un paquet de remédiation obligatoire (camp d'été, enseignant sélectionné, 90 minutes quotidiennes de lecture, plan écrit) produit +0,58 ET en lecture la première année ; aux Pays-Bas, la rétention seule en fin de secondaire, sans dispositif attaché, ne change pas le niveau de diplôme atteint et coûte 3 000 EUR de revenu annuel à 28 ans. Le facteur discriminant entre les deux n'est pas le redoublement — présent dans les deux cas — mais la présence ou l'absence du dispositif qui l'accompagne.",
+   "conditions": "La conclusion « les coûts dépassent les bénéfices » dépend entièrement du niveau des coûts, qui varie d'un facteur considérable entre systèmes : de 0 % de la dépense éducative au Japon, en Corée et en Norvège à 11,8 % en Belgique selon l'OCDE. Un système à 11,8 % n'est pas dans la même situation d'arbitrage qu'un système à 1,5 % (Pologne) ou 2,3 % (France) : plus le taux de redoublement est élevé, plus le seuil de bénéfice requis pour justifier la pratique est haut, et plus la marge de financement d'alternatives dégagée par sa réduction est importante.",
+   "contested": "La revue est datée de 2020-2021 et n'intègre donc ni le résultat colombien (publié en 2026) ni la revue européenne AlteR (2025) — dont les conclusions vont dans le même sens mais sur une base différente. Sa restriction aux études d'inférence causale est à la fois sa force et sa limite : elle exclut par construction la littérature psychologique observationnelle, y compris les travaux fondateurs de Jimerson, dont les tailles d'effet exactes ne peuvent donc pas être vérifiées par ce canal — je n'ai pas pu accéder au texte intégral de Jimerson (2001) et je m'abstiens de citer les chiffres qu'on lui attribue couramment. Enfin, la conclusion sur l'inefficience reste un jugement d'ensemble des auteurs, non un calcul coût-bénéfice formalisé.",
+   "sources": [
+    {
+     "author": "Valbuena, J., Mediavilla, M., Choi, A., & Gil, M.",
+     "title": "Effects of Grade Retention Policies: A Literature Review of Empirical Studies Applying Causal Inference",
+     "org": "Journal of Economic Surveys, 35(2), 408-451",
+     "year": "2021",
+     "url": "https://doi.org/10.1111/joes.12406"
+    },
+    {
+     "author": "Jimerson, S. R.",
+     "title": "A Synthesis of Grade Retention Research: Looking Backward and Moving Forward",
+     "org": "The California School Psychologist, 6, 47-59",
+     "year": "2001",
+     "url": "https://doi.org/10.1007/BF03340883"
+    },
+    {
+     "author": "Crahay, M.",
+     "title": "Peut-on conclure à propos des effets du redoublement ?",
+     "org": "Revue française de pédagogie, n° 148",
+     "year": "2004",
+     "url": "https://doi.org/10.3406/rfp.2004.3246"
+    }
+   ]
+  }
+ ]
+}

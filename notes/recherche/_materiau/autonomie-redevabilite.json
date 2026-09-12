@@ -1,0 +1,428 @@
+{
+ "topic": "Autonomie des établissements et redevabilité : ce que l'évaluation causale établit, et ce qu'elle ne permet pas de transposer à la Fédération Wallonie-Bruxelles",
+ "headline": "L'autonomie scolaire n'a pas d'effet propre : elle est fortement positive là où un dispositif externe rend les résultats observables et où le système est déjà performant (seuil estimé à 485 points PISA), négative ou nulle ailleurs — ce qui place la FWB, à 472 points, sans épreuve externe corrigée hors de l'école et sans publication des résultats, du mauvais côté du seuil ; les effets spectaculaires des academies anglaises et des charters urbaines « No Excuses » (0,14 à 0,36 écart-type) proviennent de reprises en main de directions dans des écoles en échec, s'accompagnent d'améliorations documentées du recrutement d'élèves (0,11 à 0,20 σ) et de sorties inexpliquées massives, et ne se transposent pas sans un appareil de redevabilité dont la FWB ne dispose pas.",
+ "searches_run": 22,
+ "transposability_fwb": "Trois verrous structurels commandent la transposabilité et doivent être dits sans ménagement.\n\n(1) Le verrou du niveau de performance. Le résultat le mieux identifié de la littérature comparative (Hanushek, Link & Woessmann 2013, panel PISA 2000-2009, effets fixes pays) donne un seuil chiffré : l'effet de l'autonomie sur les contenus d'enseignement devient positif au-dessus de 485 points PISA, celui de l'autonomie sur le personnel au-dessus de 449 points. Avec un score de 472 points (donnée de cadrage), la FWB se situe entre les deux : la littérature prédit un effet positif d'une autonomie de recrutement, mais un effet encore négatif d'une autonomie pédagogique sur les contenus. Plaider pour « plus d'autonomie » en bloc serait donc contraire à la meilleure preuve disponible. Ce seuil est toutefois une estimation ponctuelle issue d'une régression sur 42 pays, avec un intervalle de confiance non publié dans le texte : il indique une direction, pas une frontière exacte.\n\n(2) Le verrou de la redevabilité. Le résultat OCDE central — l'autonomie budgétaire est associée à +2,6 points de lecture là où toutes les écoles publient leurs résultats, et à -3,2 points là où aucune ne les publie (OCDE 2010, tableau IV.2.5) — suppose un dispositif d'observabilité externe. La FWB n'a ni examen de sortie externe à enjeux au sens de Woessmann et al. (le CE1D et le CESS sont des épreuves communes mais corrigées dans l'établissement), ni publication des résultats par école, et le décret « inscriptions » ainsi que la culture professionnelle rendent la publication de palmarès politiquement inenvisageable. Deux conséquences : d'abord, importer l'autonomie sans le dispositif d'observabilité, c'est importer la branche négative de la relation ; ensuite, la correction interne des épreuves externes est précisément la configuration où Bertoni, Brunello & Rocco (2013) mesurent en Italie une inflation des scores de 5,5 à 8,5 % — le levier le moins coûteux et le plus transposable pour la FWB n'est donc pas l'autonomie mais la correction externalisée ou l'échantillon surveillé du CE1D/CESS, qui ne change rien à la liberté d'enseignement et ne touche pas aux réseaux.\n\n(3) Le verrou institutionnel. Les trois grands corpus causaux — academies anglaises, charters américaines, outsourcing libérien — reposent tous sur un pouvoir de reprise en main du personnel et de la direction qui n'existe pas en FWB : Eyles & Machin attribuent l'effet au changement de chef d'établissement et d'équipe de direction ; les charters de Boston ne sont pas syndiquées et portent la durée d'instruction de 1 110 à 1 500 heures annuelles ; le prestataire dominant au Liberia a écarté 74 % des enseignants en place. En FWB, le statut des enseignants, les commissions paritaires, la nomination à titre définitif et la gouvernance par pouvoirs organisateurs rendent ces mécanismes inopérants. Un plaidoyer honnête doit donc dire que l'effet mesuré en Angleterre n'est pas l'effet de l'autonomie en tant que telle mais celui d'un pouvoir de remplacement des équipes dirigeantes.\n\nCe qui se transpose réellement, par ordre décroissant de crédibilité : (a) l'inspection ciblée avec conséquence réelle pour les écoles en difficulté — Hussain trouve +0,1 σ, concentré sur les élèves les plus faibles, sans gaming détecté, dans un système continental-compatible où l'inspecteur observe la classe ; la FWB dispose déjà depuis 2019 d'un Service général de l'Inspection indépendant du gouvernement et des réseaux, avec environ 200 inspecteurs, ce qui est l'actif institutionnel le plus proche de ce qui a été évalué positivement ailleurs ; (b) la fiabilisation des épreuves externes existantes ; (c) l'évaluation d'impact des contrats d'objectifs eux-mêmes, qui couvrent 96 % des écoles (2 564 établissements en septembre 2023) et dont aucune évaluation causale n'existe — c'est la lacune la plus coûteuse et la moins chère à combler, la vague 1 de 588 écoles offrant un décalage temporel exploitable en différences-de-différences.\n\nCe qui ne se transpose pas : le statut d'academy et la multi-academy trust (nécessitent un pouvoir de transfert de propriété et de personnel que la liberté d'enseignement constitutionnelle exclut) ; la charter school et le modèle No Excuses (dépendent d'un marché du travail enseignant sans statut, d'un vivier de jeunes diplômés très mobiles — 70 % des enseignants des charters urbaines du Massachusetts ont 32 ans ou moins contre 20 % dans le public — et d'une acceptabilité culturelle de la discipline stricte qui n'existe pas en Europe continentale) ; la publication de classements d'écoles ; et toute contractualisation externalisant la gestion à des opérateurs privés, dont l'évaluation randomisée la plus rigoureuse conclut à un effet positif obtenu au prix d'un doublement du coût par élève et d'effets d'éviction sur les écoles voisines.\n\nEnfin, une mise en garde budgétaire : les dispositifs efficaces documentés ici sont tous coûteux en ressources humaines (inspection renforcée, délégués au contrat d'objectifs, accompagnement des écoles), non en dépenses de fonctionnement. Dans un contexte où l'enseignement pèse 54 % des dépenses de la FWB, le seul argument défendable est un redéploiement — de l'encadrement administratif vers l'évaluation externe — et non une dépense supplémentaire.",
+ "items": [
+  {
+   "claim": "Dans les données PISA, l'autonomie des écoles en matière d'allocation des ressources n'est associée à de meilleurs résultats que dans les systèmes où les résultats sont rendus publics ; là où aucune école ne publie ses résultats, la relation s'inverse et devient négative.",
+   "what_it_is": "Analyse de l'OCDE sur PISA 2009 croisant deux indices construits à partir du questionnaire « établissement » : le degré d'autonomie de l'école sur l'allocation de ses ressources (budget, affectation interne) et la proportion d'écoles du système qui publient publiquement leurs résultats aux évaluations.",
+   "evidence_level": "comparaison internationale corrélationnelle (régression multiniveau sur données transversales, avec contrôle du milieu socio-économique des élèves et des écoles)",
+   "effect_size": "Dans les systèmes OCDE où aucune école ne publie ses résultats : un élève d'une école ayant une autonomie de ressources supérieure à la moyenne obtient 3,2 points PISA de LECTURE de MOINS qu'un élève d'une école à autonomie moyenne. Dans un système où toutes les écoles publient : +2,6 points. Écart total de la relation : environ 5,8 points PISA, soit moins d'un cinquième d'année de scolarité — effet faible en valeur absolue mais dont le SIGNE s'inverse. Population : élèves de 15 ans des pays OCDE, PISA 2009 (tableau IV.2.5).",
+   "concrete_practice": "Concrètement, dans un système « publiant » (Royaume-Uni, Pays-Bas, États-Unis), le directeur qui décide de l'affectation de son enveloppe sait que le résultat agrégé de son école sera consultable par les parents et l'autorité l'année suivante ; dans un système non publiant, la même décision n'est observable par personne d'extérieur. L'OCDE interprète l'inversion comme un problème d'agence : l'autonomie budgétaire ouvre la possibilité d'un comportement opportuniste local qui, non observable, n'est pas sanctionné.",
+   "concrete_example": "Le travail sous-jacent cité par l'OCDE (Woessmann, Luedemann, Schuetz & West, Document de travail OCDE n°13, sur PISA 2003, 265 000 élèves de 37 pays, sous-échantillon de régression : 219 794 élèves, 8 245 écoles, 29 pays OCDE) chiffre précisément l'interaction en mathématiques : la présence d'un examen externe de sortie au niveau du pays vaut +23,7 points PISA ; l'autonomie de l'école pour formuler son budget vaut -11,7 points ; l'interaction des deux vaut +10,0 points. Autrement dit, l'effet négatif de l'autonomie budgétaire disparaît (passe de -11,7 à environ -1,7, non significatif) dès lors qu'un examen externe existe. La figure 7 du rapport résume : sans examen ni autonomie, référence 0 ; sans examen mais avec autonomie budgétaire, -11,7 ; avec examen mais sans autonomie, +33,6 ; avec les deux, +35,4.",
+   "conditions": "Le mécanisme suppose que l'information publiée soit (i) comparable entre écoles, (ii) corrigée du profil social des élèves faute de quoi elle mesure le recrutement et non l'école, et (iii) effectivement utilisée par une autorité ou par les parents. Elle échoue si la publication ne déclenche aucune conséquence, ou si l'école peut agir sur le numérateur (sélection des élèves) plutôt que sur l'enseignement.",
+   "contested": "Trois limites sérieuses, qu'il serait malhonnête de taire. Premièrement, il s'agit de corrélations transversales : les pays qui publient leurs résultats diffèrent des autres sur des dimensions non observées (culture managériale, confiance institutionnelle, structure du marché du travail enseignant), et rien n'exclut que ce soit cette différence-là, et non la publication, qui produise l'écart. L'OCDE elle-même écrit que « ce n'est pas une relation simple dans laquelle toute politique d'accroissement de l'autonomie, de la redevabilité ou du choix améliorerait les résultats des élèves ». Deuxièmement, et c'est rarement cité par les promoteurs de ce levier, l'interaction n'est PAS uniformément positive dans le tableau 4 de Woessmann et al. : l'autonomie de RECRUTEMENT des enseignants vaut +24,4 points seule, mais son interaction avec l'examen externe est fortement NÉGATIVE (-35,0, significative à 1 %) — soit l'inverse exact de la thèse générale. Le récit « autonomie + redevabilité » lisse donc une structure de résultats contradictoire selon le domaine de décision. Troisièmement, les tailles d'effet dans PISA 2009 (2,6 à 3,2 points) sont si petites qu'elles sont sans signification pratique prise isolément ; seul le changement de signe est informatif.",
+   "sources": [
+    {
+     "title": "PISA 2009 Results: What Makes a School Successful? Resources, Policies and Practices (Volume IV)",
+     "org": "OCDE",
+     "year": "2010",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2010/12/pisa-2009-results-what-makes-a-school-successful_g1g114f7/9789264091559-en.pdf"
+    },
+    {
+     "author": "Ludger Woessmann, Elke Luedemann, Gabriela Schuetz, Martin R. West",
+     "title": "School Accountability, Autonomy, Choice, and the Level of Student Achievement: International Evidence from PISA 2003 (OECD Education Working Paper No. 13)",
+     "org": "OCDE",
+     "year": "2007",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/12/school-accountability-autonomy-choice-and-the-level-of-student-achievement_g17a1a23/246402531617.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet de l'autonomie scolaire dépend du niveau de performance du système : il est négatif dans les systèmes peu performants et ne devient positif qu'au-dessus d'environ 485 points PISA pour l'autonomie sur les contenus d'enseignement, et 449 points pour l'autonomie sur le personnel.",
+   "what_it_is": "Estimation en panel des quatre vagues PISA (2000, 2003, 2006, 2009) exploitant les variations INTERNES à chaque pays de la part d'écoles autonomes au fil du temps, avec effets fixes pays et année — donc en neutralisant toutes les caractéristiques nationales stables (culture, institutions, richesse structurelle) qui polluent les comparaisons transversales.",
+   "evidence_level": "quasi-expérimental (panel avec effets fixes pays et année ; identification par la variation temporelle intra-pays, pas de randomisation)",
+   "effect_size": "Pour un pays au niveau initial de 400 points PISA (un écart-type sous la moyenne OCDE), le passage de zéro à pleine autonomie sur les contenus réduit la performance de 0,63 écart-type ; sur le personnel, de 0,33 écart-type. Le point de bascule où l'effet change de signe est estimé à 485 points PISA pour l'autonomie de contenu et 449 points pour l'autonomie de personnel. À l'autre extrémité (Hong Kong, 560,5 points), l'effet positif atteint +0,56 écart-type (contenu) et +0,72 écart-type (personnel). Échantillon : plus de 1 000 000 d'élèves, 42 pays, 154-155 couples pays-vague.",
+   "concrete_practice": "Le paramètre mesuré est la part, dans un pays donné, d'écoles déclarant décider elles-mêmes des contenus enseignés, du recrutement et des salaires, ou de leur budget — et son évolution entre deux vagues PISA. Certains pays ont décentralisé sur la période (Pologne, Portugal), d'autres recentralisé, ce qui fournit la variation exploitée.",
+   "concrete_example": "L'étude documente la divergence des trajectoires : sur 2000-2009, des pays ont accru la part d'écoles autonomes tandis que d'autres l'ont réduite, et c'est cette opposition de mouvements qui identifie l'effet. Le résultat le plus net porte sur l'autonomie de contenu : dans les pays à faible revenu et faible performance, l'accroissement de l'autonomie sur ce qui est enseigné dégrade significativement les résultats, tandis que dans les pays à haut revenu il les améliore. Le tableau 8 du papier (matières lecture, sciences, mathématiques) montre un coefficient principal de l'autonomie de contenu négatif (-12,9 à -28,5 points PISA au niveau de référence de 8 000 $ de PIB/habitant) et un coefficient d'interaction avec le PIB initial positif et significatif (+1,1 à +2,1 points par millier de dollars). Les auteurs ajoutent une interaction avec l'existence d'examens centraux de sortie : elle est positive et significative pour l'autonomie de contenu, confirmant que la redevabilité externe déplace le seuil vers le bas — mais il n'y a PAS de triple interaction significative entre autonomie, examens et niveau de développement, ce qui signifie que les examens externes ne compensent pas le déficit de capacité d'un système peu performant.",
+   "conditions": "L'interprétation causale suppose que les réformes d'autonomie ne soient pas systématiquement décidées en réaction à une évolution des résultats (endogénéité de la réforme). Les auteurs testent une large batterie de spécifications alternatives (taille du pays, homogénéité ethnique, régime politique, corruption, gouvernance, inégalité de revenu) sans que le résultat central change. Le mécanisme supposé est la capacité : dans un système à faible capacité administrative et professionnelle, l'autonomie transfère la décision à des acteurs qui n'ont ni l'information ni la formation pour l'exercer, et ouvre la porte à l'opportunisme.",
+   "contested": "Limites à ne pas minorer. D'abord, l'unité d'observation est le pays-vague : avec 42 pays et 4 vagues, la puissance statistique est faible et les auteurs eux-mêmes signalent que certaines interactions sont « à la limite de la significativité ». Ensuite, la mesure d'autonomie provient du questionnaire déclaratif des chefs d'établissement, dont la comparabilité internationale et la stabilité temporelle sont douteuses : un changement de formulation ou de compréhension du questionnaire entre vagues se traduirait mécaniquement en « réforme ». Enfin, le seuil de 485 points est une estimation ponctuelle issue d'une interaction linéaire ; il ne faut pas le traiter comme une frontière précise mais comme l'indication d'une dépendance au niveau de départ. Je n'ai pas trouvé de réplication indépendante de ce seuil sur les vagues PISA postérieures à 2009, ce qui est une faiblesse notable pour un résultat aussi mobilisé en débat public.",
+   "sources": [
+    {
+     "author": "Eric A. Hanushek, Susanne Link, Ludger Woessmann",
+     "title": "Does school autonomy make sense everywhere? Panel estimates from PISA",
+     "org": "Journal of Development Economics, vol. 104, p. 212-232",
+     "year": "2013",
+     "url": "https://hanushek.stanford.edu/sites/default/files/publications/Hanushek+Link+Woessmann%202013%20JDevEcon%20104_0.pdf"
+    },
+    {
+     "author": "Eric A. Hanushek, Susanne Link, Ludger Woessmann",
+     "title": "Does School Autonomy Make Sense Everywhere? Panel Estimates from PISA (NBER Working Paper 17591)",
+     "org": "National Bureau of Economic Research",
+     "year": "2011",
+     "url": "https://www.nber.org/papers/w17591"
+    }
+   ]
+  },
+  {
+   "claim": "Les sponsored academies anglaises — reprises en main d'écoles en échec par un sponsor externe avec changement de direction — ont relevé les résultats des élèves d'environ 0,14 écart-type en moyenne, jusqu'à 0,35 écart-type trois ans après conversion, mais uniquement dans les écoles qui gagnaient le plus d'autonomie par rapport à leur statut antérieur.",
+   "what_it_is": "Les academies sont des écoles financées sur fonds publics mais sorties du contrôle de l'autorité locale, libres de leur programme, de leurs conditions de travail et de leur organisation du temps scolaire. La première vague (2002-2009, gouvernement travailliste) ciblait explicitement des écoles secondaires en échec et défavorisées, converties avec un sponsor (entreprise, fondation, université) et, dans la quasi-totalité des cas, un nouveau chef d'établissement et une nouvelle équipe de direction.",
+   "evidence_level": "quasi-expérimental (différences-de-différences avec étude d'événement et estimation par variables instrumentales ; groupe de contrôle constitué des écoles converties APRÈS la fin de la période d'observation, donc comparables sur la sélection dans le programme)",
+   "effect_size": "+0,139 écart-type en moyenne sur les résultats de fin de scolarité obligatoire (Key Stage 4, examens GCSE) pour les élèves des academies converties depuis une « community school ». Effet croissant avec la durée d'exposition : +0,075 σ l'année de conversion, +0,351 σ à trois ans, +0,304 σ pour quatre années complètes d'exposition. Pour les conversions depuis des écoles non-community (qui gagnaient moins d'autonomie car elles en avaient déjà), l'effet initial est nul (-0,011 σ) et n'atteint que +0,207 σ à trois ans. Population : élèves de 4e secondaire (year 11) des 203 sponsored academies opérationnelles en mai 2010, données administratives nationales appariées élève par élève.",
+   "concrete_practice": "Le dispositif n'est pas « de l'autonomie » en général mais une reprise en main : l'école est fermée administrativement et rouverte sous un nouveau nom, avec un nouveau chef d'établissement, une nouvelle équipe de direction, souvent un nouvel uniforme et un nouveau règlement, et la liberté de sortir des conventions collectives locales. Les auteurs identifient explicitement le changement de chef d'établissement et de structure de direction comme le mécanisme principal.",
+   "concrete_example": "Le cas d'école du programme est une secondaire urbaine défavorisée, classée en échec, dont l'autorité locale perd le contrôle au profit d'un sponsor. Quantitativement, le résultat le plus révélateur n'est pas la performance mais le RECRUTEMENT : après conversion, les élèves entrant en 1re secondaire (year 7) dans une academy ont un score de fin de primaire (Key Stage 2) supérieur de 0,109 écart-type à celui des élèves entrant dans les écoles qui deviendront academies plus tard, et cet écart croît à 0,198 écart-type trois ans après la conversion. L'effet est présent aussi bien pour les conversions depuis community schools (+0,093 σ puis +0,220 σ) que pour les autres (+0,077 σ puis +0,140 σ). Une part de l'amélioration constatée provient donc d'une amélioration du public accueilli, pas seulement d'un meilleur enseignement — les auteurs contrôlent ce facteur dans les estimations de performance (spécifications en valeur ajoutée nettant le score de fin de primaire), mais l'effet de composition reste un fait établi du programme.",
+   "conditions": "Le résultat dépend d'au moins quatre conditions rarement réunies : (1) la population traitée était composée d'écoles en échec avéré, avec une marge de progression maximale ; (2) l'autorité disposait du pouvoir juridique de fermer une école et d'en changer la direction ; (3) les conversions se sont accompagnées de financements de démarrage substantiels ; (4) un examen national externe à enjeux (GCSE) rendait les résultats comparables et publics, condition sans laquelle aucun effet n'aurait été mesurable ni sanctionnable.",
+   "contested": "Deux critiques majeures. D'une part, l'effet de sélection documenté ci-dessus : si une academy améliore son recrutement de 0,2 écart-type, elle dégrade mécaniquement celui des écoles voisines, et l'étude ne mesure pas ces effets d'éviction — le gain net pour le système est donc inconnu. D'autre part, une controverse sur le périmètre : ces résultats portent EXCLUSIVEMENT sur la première vague de conversions ciblées d'écoles en échec sous sponsor. Les auteurs écrivent eux-mêmes que les academies créées après 2010 « ne se caractérisent pas, en moyenne, par de mauvais résultats et un environnement défavorisé dans leur état antérieur » et que certaines n'ont pas de sponsor. Extrapoler ces 0,14 à 0,35 σ à une politique d'autonomie généralisée est une erreur d'interprétation que les auteurs récusent explicitement. Enfin, aucune estimation de rentabilité (coût par écart-type) n'est fournie.",
+   "sources": [
+    {
+     "author": "Andrew Eyles, Stephen Machin",
+     "title": "The Introduction of Academy Schools to England's Education",
+     "org": "Journal of the European Economic Association, vol. 17(4), p. 1107-1146",
+     "year": "2019",
+     "url": "https://academic.oup.com/jeea/article/17/4/1107/5049125"
+    },
+    {
+     "author": "Andrew Eyles, Stephen Machin",
+     "title": "The Introduction of Academy Schools to England's Education (version de travail complète, mai 2016)",
+     "org": "Centre for Economic Performance, LSE / UCL",
+     "year": "2016",
+     "url": "https://personal.lse.ac.uk/machin/pdf/ae%20sm%20may%202016.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'extension massive du statut d'academy après 2010 aux écoles déjà performantes (converter academies) n'a pas reproduit les effets de la première vague, et la structure de gouvernance (chaîne d'écoles ou autorité locale) explique beaucoup moins la performance que la variation entre établissements à l'intérieur de chaque structure.",
+   "what_it_is": "Après l'Academies Act de 2010, toute école anglaise, y compris primaire et performante, a pu se convertir en academy, seule (single-academy trust) ou en rejoignant une chaîne (multi-academy trust, MAT). Environ 63 % des secondaires et 15 % des primaires étaient converties au moment de l'analyse d'Eyles et Machin.",
+   "evidence_level": "mélange : quasi-expérimental (Eyles, Machin & Silva ; Neri & Pasini) et descriptif/comparatif ajusté (rapports de l'Education Policy Institute, qui comparent des scores de progrès sans identification causale)",
+   "effect_size": "Au niveau national anglais, le score moyen de Progress 8 des élèves des MAT éligibles était de -0,02 contre 0,01 pour l'ensemble des écoles publiques — soit une différence pratiquement nulle. En 2019, 39 % des MAT éligibles avaient un Progress 8 inférieur ou très inférieur à la moyenne nationale, 31 % supérieur ou très supérieur, 29 % non significativement différent. Pour l'analyse EPI au primaire, sur les 30 meilleurs groupes d'écoles 12 étaient des MAT, mais 9 des 23 plus mauvais l'étaient aussi ; au secondaire, 6 des 20 meilleurs mais 9 des 20 plus mauvais.",
+   "concrete_practice": "Une MAT est une fondation unique qui détient juridiquement plusieurs écoles, mutualise les fonctions support (paie, informatique, achats, ressources pédagogiques), impose souvent un curriculum et des procédures communes, et peut déplacer des cadres d'une école à l'autre. Une single-academy trust est une école isolée ayant gagné l'autonomie sans appui de réseau.",
+   "concrete_example": "Le contraste entre têtes et queues de classement est l'illustration la plus parlante : au primaire, la Harris Federation figure au sommet des groupes d'écoles tandis que l'Education Fellowship Trust en occupe le bas ; au secondaire, l'Inspiration Trust est le meilleur groupe tous types confondus, le College Academies Trust le plus faible — et, dans les deux cas, des autorités locales classiques (Redcar and Cleveland au primaire, 3e tous groupes confondus ; Barnet au secondaire, 2e) se classent devant la majorité des chaînes. Le Sutton Trust, analysant spécifiquement les élèves bénéficiaires du pupil premium (issus de milieux défavorisés) sur le Progress 8, l'Attainment 8 et l'obtention de notes 9-4 en anglais et mathématiques, conclut que deux tiers des chaînes d'academies se situent sous la moyenne nationale de l'ensemble des écoles publiques pour ce public. L'EPI en tire la formule que « l'academisation n'élève pas automatiquement les standards » et recommande de cibler la sous-performance « qu'il s'agisse d'une MAT très performante ou d'une autorité locale ».",
+   "conditions": "Les effets positifs, quand ils existent, semblent liés à la capacité réelle du groupe à faire circuler des pratiques et des cadres, non au statut juridique. Neri & Pasini (2023) trouvent des résultats supérieurs pour les academies en chaîne par rapport aux academies isolées, avec des effets plus forts pour les élèves faibles et les conversions précoces, et une efficience supérieure (meilleurs résultats pour une dépense totale inférieure, les économies portant sur l'informatique, les ressources pédagogiques et les fonctions support).",
+   "contested": "Le corpus est ici nettement plus faible que pour la première vague. Les analyses de l'EPI et du Sutton Trust sont DESCRIPTIVES : elles comparent des scores de progrès sans stratégie d'identification, et souffrent d'un biais de sélection évident (les MAT reprennent souvent des écoles déjà en difficulté, ce qui pénalise mécaniquement leurs scores ; inversement les converters volontaires étaient déjà performants). Les recherches en ligne signalent un résultat selon lequel les conversions tardives (2008-2009) n'auraient eu d'effet bénéfique pour aucun niveau d'élève tandis que les conversions précoces auraient profité aux élèves de niveau moyen à élevé, et selon lequel la conversion n'aurait aucun effet dans le primaire — mais je n'ai pas pu vérifier ces chiffres sur le texte intégral d'Eyles, Machin & Silva (2018) ni sur celui de l'étude sur le primaire, et je m'abstiens donc de les présenter comme établis. Ce qui est solidement documenté, c'est l'absence d'avantage systématique du statut, non une absence d'effet démontrée.",
+   "sources": [
+    {
+     "author": "Andrew Eyles, Stephen Machin, Olmo Silva",
+     "title": "Academies 2 – The New Batch: The Changing Nature of Academy Schools in England",
+     "org": "Fiscal Studies, vol. 39(1), p. 121-158",
+     "year": "2018",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-5890.2017.12146"
+    },
+    {
+     "title": "School performance in multi-academy trusts and local authorities",
+     "org": "Education Policy Institute",
+     "year": "2019",
+     "url": "https://epi.org.uk/publications-and-research/school-performance-multi-academy-trusts-local-authorities/"
+    },
+    {
+     "title": "Chain Effects 2018: The impact of academy chains on low-income pupils",
+     "org": "Sutton Trust",
+     "year": "2018",
+     "url": "https://www.suttontrust.com/wp-content/uploads/2019/12/Chain-Effects-2018.pdf"
+    },
+    {
+     "author": "L. Neri, E. Pasini",
+     "title": "Heterogeneous effects of school autonomy in England",
+     "org": "Economics of Education Review, vol. 94",
+     "year": "2023",
+     "url": "https://research-repository.st-andrews.ac.uk/handle/10023/27110"
+    }
+   ]
+  },
+  {
+   "claim": "Les tirages au sort d'admission aux charter schools de Boston établissent des gains très importants — environ 0,36 écart-type par année en mathématiques — tandis que les pilot schools de la même ville, autonomes mais restées dans le district et couvertes par la convention collective, n'obtiennent aucun gain et parfois des effets négatifs.",
+   "what_it_is": "Comparaison de deux degrés d'autonomie dans une même ville. Les charter schools de Boston sont financées publiquement mais opèrent hors du cadre réglementaire et des conventions collectives, et risquent la fermeture si elles échouent. Les pilot schools ont une partie de l'indépendance des charters (curriculum, promotion des élèves, discipline) mais restent dans le district, sont couvertes par de nombreuses clauses de la convention collective du syndicat enseignant (BTU) et ne risquent quasiment pas la fermeture.",
+   "evidence_level": "essai quasi-randomisé (exploitation des loteries d'admission légalement obligatoires en cas de sur-inscription ; estimation en doubles moindres carrés, l'offre issue du tirage servant d'instrument pour les années effectivement passées dans l'école)",
+   "effect_size": "Charters, par année passée dans l'école (modèle avec contrôles démographiques et score initial) : collège +0,359 σ en mathématiques et +0,198 σ en anglais ; lycée +0,364 σ en mathématiques et +0,265 σ en anglais. Pilot schools : collège -0,223 σ en mathématiques (significatif à 5 %) et -0,041 σ en anglais (non significatif) ; lycée +0,021 σ en mathématiques et -0,058 σ en anglais, aucun significatif. Effectifs : 3 317 observations élève-test au collège pour les charters, 4 777 pour les pilots.",
+   "concrete_practice": "La différence tangible est le temps d'enseignement et le régime du travail. L'année scolaire officielle du district de Boston compte 180 jours et un peu plus de 6 heures d'instruction par jour, soit environ 1 110 heures annuelles ; les pilot schools dépassent légèrement ce chiffre mais restent sous 1 200 heures, leur convention limitant les heures supplémentaires non rémunérées. Les charter middle schools de l'échantillon offrent en moyenne 1 500 heures d'instruction annuelles, les charter high schools environ 1 400 — soit de 25 % à 35 % de temps d'enseignement en plus. Les charters ne sont quasiment pas syndiquées et recrutent et licencient sans contrainte d'ancienneté.",
+   "concrete_example": "Le dispositif évalué est la loterie elle-même : quand une charter de Boston reçoit plus de candidatures que de places, la loi du Massachusetts impose un tirage au sort public. Les auteurs ont récupéré les registres de ces tirages auprès des écoles et les ont appariés aux données administratives de l'État (Massachusetts Comprehensive Assessment System). Comparer les admis aux non-admis d'une même loterie élimine toute différence de motivation familiale. Le résultat visuel décisif : le graphique reliant, pour chacun des 19 groupes de loterie charter, l'écart de score à l'écart d'années passées en charter, donne une droite de pente 0,458 en mathématiques au collège — la relation n'est donc pas portée par quelques écoles atypiques. Pour les 42 groupes de loterie pilot, la même droite a une pente de -0,009.",
+   "conditions": "Trois conditions structurelles portent le résultat : la possibilité de sortir de la convention collective (temps de travail, recrutement, licenciement) ; la menace crédible de fermeture ; et un marché du travail enseignant offrant un vivier de jeunes diplômés acceptant des horaires très longs. Les auteurs notent que les charters à loterie contraignante obtiennent des gains supérieurs aux autres charters, ce qui suggère que la demande des familles sélectionne aussi les écoles efficaces.",
+   "contested": "Le point aveugle est la validité EXTERNE, pas interne. Les charters de Boston scolarisent une population différente de celle des écoles traditionnelles : 7 % d'élèves en apprentissage de l'anglais contre 20 % dans le public traditionnel, moins d'élèves en éducation spécialisée, et une sur-représentation des filles (60 % au lycée contre 50 % dans les écoles traditionnelles). Les loteries corrigent ce biais pour l'estimation causale, mais elles ne disent rien de ce que produirait le modèle appliqué à l'ensemble de la population, en particulier aux élèves à besoins spécifiques qui ne candidatent pas. Les auteurs testent l'accusation selon laquelle les gains seraient dus à l'éviction des élèves faibles et ne la confirment pas sur leur échantillon, mais l'analyse des sorties reste limitée. Enfin, il n'y a « aucune preuve claire » d'effet sur le taux de diplomation ni sur le redoublement, avec un seul an de recul : les gains aux tests ne se traduisent pas encore en résultats de parcours établis.",
+   "sources": [
+    {
+     "author": "Atila Abdulkadiroğlu, Joshua D. Angrist, Susan M. Dynarski, Thomas J. Kane, Parag A. Pathak",
+     "title": "Accountability and Flexibility in Public Schools: Evidence from Boston's Charters and Pilots",
+     "org": "The Quarterly Journal of Economics, vol. 126(2), p. 699-748",
+     "year": "2011",
+     "url": "https://economics.mit.edu/sites/default/files/publications/The%20Quarterly%20Journal%20of%20Economics-2011-Abdulkadir.pdf"
+    },
+    {
+     "author": "Atila Abdulkadiroğlu, Joshua D. Angrist, Susan M. Dynarski, Thomas J. Kane, Parag A. Pathak",
+     "title": "Accountability and Flexibility in Public Schools: Evidence from Boston's Charters and Pilots (NBER Working Paper 15549)",
+     "org": "National Bureau of Economic Research",
+     "year": "2009",
+     "url": "https://www.nber.org/papers/w15549"
+    }
+   ]
+  },
+  {
+   "claim": "Les effets des charter schools ne sont pas un effet du statut mais d'un modèle pédagogique précis : dans le même État du Massachusetts, les charters urbaines relèvent les résultats de 0,32 écart-type par an en mathématiques alors que les charters non urbaines les DÉGRADENT de 0,12 écart-type — et cette différence s'explique entièrement par l'adoption du modèle « No Excuses ».",
+   "what_it_is": "Extension de l'analyse par loteries à l'ensemble des charters du Massachusetts admettant en 4e-7e année (collège) et en 9e (lycée), croisée avec une enquête auprès des directions sur les pratiques effectives de l'école (temps scolaire, temps d'enseignement des fondamentaux, discipline, tutorat, adhésion déclarée à la philosophie No Excuses).",
+   "evidence_level": "essai quasi-randomisé pour les effets (loteries d'admission, doubles moindres carrés) ; corrélationnel pour l'explication par les pratiques (les pratiques ne sont pas randomisées)",
+   "effect_size": "Collège, par année : charters urbaines +0,321 σ en mathématiques et +0,146 σ en anglais ; charters non urbaines -0,123 σ en mathématiques et -0,144 σ en anglais (toutes significatives à 1 %). Lycée, par année : urbaines +0,339 σ en mathématiques et +0,264 σ en anglais ; non urbaines -0,020 σ et -0,046 σ, non significatifs. Effectifs : 11 941 observations urbaines et 4 602 non urbaines au collège en mathématiques ; 3 519 et 531 au lycée.",
+   "concrete_practice": "Le modèle No Excuses combine cinq éléments mesurables : allongement de la journée et de l'année scolaires, temps massivement accru sur la lecture et les mathématiques, discipline et tenue très strictes, tutorat intensif, et attentes explicitement élevées pour tous. Les auteurs montrent que c'est l'adhésion à ce faisceau, et non le statut de charter, qui prédit l'efficacité : dans leur échantillon, les charters urbaines NON-No Excuses ne font pas mieux que les charters non urbaines, c'est-à-dire pas mieux que rien.",
+   "concrete_example": "Les écarts de pratiques relevés par l'enquête sont concrets et chiffrés. L'année scolaire moyenne dure 189 jours dans les charters urbaines contre 183 dans les non urbaines ; la journée moyenne 471 minutes contre 440. Le temps quotidien d'enseignement des mathématiques est de 97 minutes en urbain contre 70 en non urbain, et celui de la lecture de 91 minutes contre 52 — soit 27 et 39 minutes quotidiennes supplémentaires. 19 % des charters urbaines organisent cours le samedi, aucune charter non urbaine. Deux tiers des directions urbaines se reconnaissent en partie ou totalement dans la pédagogie No Excuses, aucune direction non urbaine. Le corps enseignant diffère radicalement : 70 % des enseignants des charters urbaines ont 32 ans ou moins (contre 33 % en non urbain et 20 % dans le public traditionnel), et seuls 62 % sont titulaires de la licence d'enseignement correspondant à leur affectation, contre 98 % dans le public traditionnel. Les effets sont les plus forts pour les publics les plus défavorisés : au collège urbain, +0,421 σ en mathématiques pour les élèves noirs et hispaniques (contre +0,133 σ pour les élèves blancs), +0,348 σ pour les bénéficiaires de la cantine subventionnée, et +0,388 σ en mathématiques et +0,279 σ en anglais pour le quartile d'élèves les plus faibles à l'entrée.",
+   "conditions": "Le modèle suppose un vivier d'enseignants très jeunes, peu coûteux, non syndiqués, acceptant une charge horaire élevée et un fort taux de rotation ; une dépense par élève au moins égale à celle du public (13 668 $ en charter urbaine contre 13 047 $ dans le public traditionnel du Massachusetts, donc PAS d'économie) ; et une acceptabilité culturelle de la discipline stricte. Le résultat ne porte que sur des élèves qui ont activement candidaté.",
+   "contested": "Trois objections sérieuses. D'abord, la partie explicative est observationnelle : les pratiques ne sont pas assignées au hasard, et une école qui adopte No Excuses peut différer sur d'autres dimensions non mesurées (qualité de la direction, sélection des familles les plus engagées). Ensuite, le modèle No Excuses est vivement contesté sur le plan éducatif et éthique — discipline punitive, taux de sortie élevés, effets non mesurés sur le bien-être et les compétences non cognitives — et l'étude ne mesure que les scores aux tests standardisés du Massachusetts. Enfin, la généralisation est fragile : l'échantillon final ne retient que 17 collèges et 6 lycées sur les 34 et 16 éligibles, les autres étant sous-inscrits ou dépourvus de registres de loterie exploitables — les écoles étudiées sont donc, par construction, les plus demandées. Les auteurs signalent que l'expérimentation de Fryer (2011) implantant des stratégies No Excuses dans neuf écoles publiques ordinaires de Houston aurait produit des gains substantiels, ce qui suggérerait que le modèle est détachable du statut — mais je n'ai pas vérifié directement cette étude et je ne la présente pas comme établie ici.",
+   "sources": [
+    {
+     "author": "Joshua D. Angrist, Parag A. Pathak, Christopher R. Walters",
+     "title": "Explaining Charter School Effectiveness",
+     "org": "American Economic Journal: Applied Economics, vol. 5(4), p. 1-27",
+     "year": "2013",
+     "url": "https://seii.mit.edu/wp-content/uploads/2012/12/Explaining-Charter-School-Effectiveness.pdf"
+    },
+    {
+     "author": "Joshua D. Angrist, Parag A. Pathak, Christopher R. Walters",
+     "title": "Explaining Charter School Effectiveness (NBER Working Paper 17332)",
+     "org": "National Bureau of Economic Research",
+     "year": "2011",
+     "url": "https://www.nber.org/papers/w17332"
+    }
+   ]
+  },
+  {
+   "claim": "À l'échelle nationale américaine, l'effet moyen des charter schools est proche de zéro (0,028 écart-type en lecture et 0,011 en mathématiques), très en deçà des effets mesurés par loterie sur les charters urbaines — l'écart entre ces deux chiffres est le principal enseignement du dossier.",
+   "what_it_is": "Troisième étude nationale du CREDO de Stanford, qui compare chaque élève de charter à un « jumeau virtuel » statistiquement apparié (mêmes scores antérieurs, mêmes caractéristiques démographiques, même statut de cantine subventionnée) scolarisé dans une école de district voisine, et exprime les écarts en « jours d'apprentissage » sur une base de 180 jours par an.",
+   "evidence_level": "corrélationnel (appariement sur observables sans randomisation ni instrument ; explicitement non expérimental)",
+   "effect_size": "Effet moyen national : 16 jours d'apprentissage supplémentaires en lecture et 6 jours en mathématiques par an — soit, en unités standard, 0,028 écart-type en lecture et 0,011 écart-type en mathématiques. Charters urbaines : 29 jours en lecture et 28 jours en mathématiques. Élèves pauvres : 23 jours en lecture, 17 en mathématiques. Élèves noirs en situation de pauvreté : 37 jours en lecture, 36 en mathématiques. Élèves hispaniques en situation de pauvreté : 36 jours en lecture, 30 en mathématiques. Champ : 29 États, le District de Columbia et la ville de New York, données 2014-2019, environ 1,8 million d'élèves de charter.",
+   "concrete_practice": "L'exercice consiste à reconstituer, pour chaque élève de charter, un contrefactuel composite à partir d'élèves d'écoles de district que l'élève aurait pu fréquenter, puis à agréger les écarts de progression annuelle. Il n'y a pas de « dispositif » scolaire évalué : c'est une photographie de l'ensemble du secteur, tous modèles pédagogiques confondus.",
+   "concrete_example": "L'apport principal de cette étude est comparatif dans le temps : sur les quinze années couvertes par les trois vagues CREDO, la progression en lecture des élèves de charter s'est améliorée de 23 jours d'apprentissage par an et celle en mathématiques de 37 jours — autrement dit, le secteur en 2019 n'est plus celui de 2009, les écoles les plus faibles ayant fermé et les réseaux efficaces s'étant étendus. C'est un argument en faveur d'une redevabilité à conséquence réelle (fermeture des établissements défaillants) davantage qu'en faveur de l'autonomie.",
+   "conditions": "La validité repose entièrement sur la qualité de l'appariement, donc sur l'hypothèse qu'aucun facteur non observé ne distingue les familles qui choisissent une charter de celles qui n'en choisissent pas.",
+   "contested": "Cette étude est vivement contestée et il serait malhonnête de la présenter comme un point d'appui. La recension du National Education Policy Center par Joseph J. Ferrare (University of Washington Bothell) relève que le devis non expérimental ne peut pas neutraliser les motivations non mesurées des familles qui choisissent une charter ; que les effets rapportés — 0,028 σ en lecture et 0,011 σ en mathématiques — n'atteignent pas le seuil minimal que les spécialistes considèrent comme significatif en pratique, et que le CREDO lui-même avait qualifié des écarts de cette taille de « dénués de signification » lorsqu'ils favorisaient les écoles publiques traditionnelles ; et que la métrique des « jours d'apprentissage » obscurcit plus qu'elle n'éclaire. D'autres critiques méthodologiques documentées portent sur l'exclusion d'environ un élève de charter sur cinq faute de jumeau virtuel adéquat, sur l'appariement grossier du handicap (deux élèves « en situation de handicap » peuvent avoir des situations sans rapport), et sur l'usage des scores de tests à la fois comme variable dépendante et comme variable d'appariement, qui peut introduire un biais. Caroline Hoxby a formulé la critique de fond : l'étude ne dispose pas des données de loteries et n'utilise donc pas de méthode fondée sur la randomisation, méthode que les auteurs du CREDO reconnaissent eux-mêmes comme supérieure. Le NEPC a formulé des objections comparables aux éditions 2009, 2013, 2015 et 2017. Conclusion à retenir : l'effet moyen du STATUT de charter est proche de zéro ; seuls certains modèles urbains, évalués par loterie, produisent des effets importants.",
+   "sources": [
+    {
+     "title": "As a Matter of Fact: The National Charter School Study III 2023",
+     "org": "CREDO, Stanford University",
+     "year": "2023",
+     "url": "https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf"
+    },
+    {
+     "author": "Joseph J. Ferrare",
+     "title": "CREDO Report Makes Overstated Claims of Charter School Gains (NEPC Review)",
+     "org": "National Education Policy Center, University of Colorado Boulder",
+     "year": "2023",
+     "url": "https://nepc.colorado.edu/publication-announcement/2023/09/charter-study"
+    },
+    {
+     "title": "Charter Schools: New Evidence of Student Success (NCSS3)",
+     "org": "Hoover Institution, Stanford University",
+     "year": "2023",
+     "url": "https://www.hoover.org/research/charter-schools-new-evidence-student-success-matter-fact-national-charter-school-study-iii"
+    }
+   ]
+  },
+  {
+   "claim": "La seule évaluation randomisée d'une contractualisation par objectifs déléguant la gestion d'écoles publiques à des opérateurs externes trouve un gain de 0,18 écart-type après un an, mais obtenu au prix d'un doublement du coût par élève, d'une hétérogénéité massive entre opérateurs, et de comportements documentés de transfert des élèves et enseignants excédentaires vers les écoles voisines.",
+   "what_it_is": "Programme Partnership Schools for Liberia (PSL) : en 2016, le gouvernement libérien a délégué la gestion de 93 écoles primaires publiques tirées au sort à huit opérateurs privés, en conservant la propriété publique, la gratuité et le personnel enseignant fonctionnaire. Les opérateurs recevaient 50 dollars par élève EN SUS des 50 dollars dépensés par élève dans les écoles de contrôle.",
+   "evidence_level": "essai contrôlé randomisé au niveau de l'école (93 écoles traitées, 92 témoins, tirage au sort public, préenregistré)",
+   "effect_size": "+0,18 écart-type en anglais (p < 0,001) et +0,18 écart-type en mathématiques (p < 0,001) après une année scolaire ; indice composite +0,18 σ. Hétérogénéité très forte entre opérateurs : l'estimation par opérateur va d'environ -0,17 σ à +0,42 σ sur l'indice composite. Aucune hétérogénéité selon l'âge, le sexe, la richesse du ménage ou le handicap de l'élève. Échantillon : 93 écoles traitées, soit 3,4 % des écoles primaires publiques du pays et 8,6 % de leurs effectifs ; 185 écoles au total dans l'analyse au niveau école, 1 167 enseignants.",
+   "concrete_practice": "Les opérateurs recevaient des ressources supplémentaires (un enseignant garanti par niveau, plus de financement), pouvaient plafonner la taille des classes, demander le redéploiement d'enseignants sous-performants, et étaient libres du mix pédagogique (manuels, formation, supervision). En pratique, les écoles PSL comptaient en moyenne 9,62 enseignants contre 7,02 dans les témoins, un ratio élèves/enseignant de 32,2 contre 40,0, et 4,81 nouveaux enseignants contre 1,77 — le « traitement » inclut donc un apport massif de ressources qui n'est pas séparable de l'effet de gestion.",
+   "concrete_example": "Le cas de Bridge International Academies, le plus grand opérateur, illustre ce que produit une contractualisation incomplète. N'ayant pas participé à l'appel d'offres concurrentiel mais négocié un accord bilatéral distinct avec le gouvernement, cet opérateur a pris le contrôle d'écoles à classes surchargées, en a retiré les élèves excédentaires et a écarté 74 % des enseignants en place, les reversant vers d'autres écoles publiques ou hors du système. Le contrat interdisait l'écrémage social mais n'interdisait ni le plafonnement des effectifs dans les écoles sur-demandées ni le transfert d'enseignants. Les auteurs en tirent une conclusion opérationnelle directe : l'uniformité des règles contractuelles et le recours à un appel d'offres concurrentiel pour TOUS les opérateurs sont une condition de la validité du dispositif. Ils signalent en outre que deux opérateurs ont été mis en cause dans des affaires d'abus sexuels graves, l'un d'eux étant une organisation à but non lucratif américaine par ailleurs bien considérée.",
+   "conditions": "L'effet est conditionné à (1) un doublement des ressources par élève, ce qui exclut toute transposition à coût constant ; (2) un point de départ très bas en qualité ; (3) une capacité de l'autorité publique à rédiger, attribuer et contrôler des contrats — capacité dont le cas Bridge montre précisément qu'elle a fait défaut. Les auteurs soulignent que le maintien du statut de fonctionnaire des enseignants signifie que l'hypothèse centrale du programme était que les opérateurs peuvent obtenir de la redevabilité par le suivi et l'appui, non par la récompense et la menace.",
+   "contested": "Les auteurs eux-mêmes formulent les objections les plus dures. Le programme est un « paquet » : ressources supplémentaires, plafonnement des classes, nouveaux enseignants, gestion privée — l'effet de la seule délégation de gestion n'est pas isolé, et les auteurs écrivent qu'il faut davantage de recherches pour l'isoler. Les externalités négatives sur les écoles voisines (élèves et enseignants refoulés, captation préférentielle de ressources rares) sont identifiées mais NON mesurées, alors qu'elles pourraient annuler le gain net pour le système. La dispersion entre opérateurs est telle que la moyenne a peu de sens décisionnel. Enfin, un résultat à un an sur des scores de tests, dans un pays où le taux d'alphabétisation est inférieur à 50 %, ne dit rien de l'effet d'une contractualisation en Europe continentale.",
+   "sources": [
+    {
+     "author": "Mauricio Romero, Justin Sandefur, Wayne Aaron Sandholtz",
+     "title": "Outsourcing Education: Experimental Evidence from Liberia",
+     "org": "American Economic Review, vol. 110(2), p. 364-400",
+     "year": "2020",
+     "url": "https://mauricio-romero.com/pdfs/papers/aer.20181478.pdf"
+    },
+    {
+     "author": "Mauricio Romero, Justin Sandefur, Wayne Aaron Sandholtz",
+     "title": "Outsourcing Education: Experimental Evidence from Liberia",
+     "org": "American Economic Association",
+     "year": "2020",
+     "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.20181478"
+    }
+   ]
+  },
+  {
+   "claim": "Une inspection concluant à un échec produit un gain causal d'environ 0,1 écart-type sur les résultats des élèves, concentré sur les élèves les plus faibles à l'entrée, et sans que les écoles parviennent à gonfler artificiellement leurs résultats — c'est le résultat le plus directement transposable à un système continental à inspection existante.",
+   "what_it_is": "Évaluation du régime d'inspection anglais (Ofsted) dans lequel des inspecteurs indépendants visitent l'école avec deux jours de préavis maximum, combinent des données objectives (scores) et des observations directes de classe, publient leur rapport en ligne, et où les écoles jugées défaillantes s'exposent à des inspections plus fréquentes et intensives.",
+   "evidence_level": "quasi-expérimental (stratégie d'identification originale comparant les écoles jugées défaillantes en début d'année scolaire — septembre à novembre — à celles jugées défaillantes en fin d'année — mi-mai à mi-juin — ce qui neutralise le problème classique de régression vers la moyenne ; confirmé par une estimation en différences-de-différences)",
+   "effect_size": "+0,12 écart-type sur les scores standardisés de mathématiques dans la spécification de base, et environ +0,1 écart-type de façon robuste à travers toutes les spécifications et méthodes. Le résultat est stable quand on ajoute les caractéristiques individuelles des élèves puis leurs scores à 7 ans, ce qui exclut que le gain vienne de l'éviction d'élèves faibles des épreuves. Écoles primaires anglaises jugées défaillantes lors des années scolaires 2005/06 à 2008/09, erreurs types groupées au niveau de l'école. Sans aucune variable de contrôle, l'effet estimé est de 0,10 écart-type.",
+   "concrete_practice": "Le mécanisme concret est un préavis de deux jours (contre plusieurs mois avant la réforme de septembre 2005), une observation directe des pratiques de classe, une notation publiée sur internet, et un régime de suivi renforcé pour les écoles en échec. L'auteur montre d'abord, sur une étape préalable, que les notes des inspecteurs sont corrélées à des mesures indépendantes de qualité de l'école construites à partir d'enquêtes auprès des élèves et des parents, même après contrôle des caractéristiques observables de l'école : les inspecteurs discriminent effectivement entre écoles plus et moins efficaces.",
+   "concrete_example": "L'expérience naturelle est élégante et vérifiable : deux écoles primaires anglaises reçoivent le même verdict d'échec la même année scolaire, l'une en octobre, l'autre en juin. Les examens nationaux ayant lieu en mai, la première dispose de sept mois pour réagir avant l'évaluation des élèves, la seconde de quelques jours. La différence de résultats entre les deux groupes mesure l'effet causal de l'inspection. L'auteur montre en outre que l'effet décroît régulièrement à mesure que la date d'inspection se rapproche de mai : pour les écoles inspectées en avril, l'effet est petit et non significativement différent de zéro — ce qui est exactement le profil attendu si c'est bien la réaction de l'école, et non un artefact, qui produit le gain. Les gains sont particulièrement importants pour les élèves ayant les scores les plus faibles au test de 7 ans (Key Stage 1), et l'auteur note qu'ils sont grands comparés à d'autres interventions possibles, comme le fait de fréquenter une école à meilleurs résultats ou de s'inscrire en charter school.",
+   "conditions": "Le dispositif suppose (1) un préavis court, qui empêche la préparation cosmétique ; (2) une observation directe de la classe par l'inspecteur, et non seulement un examen de données — c'est ce que l'auteur identifie comme la raison pour laquelle le gaming ne se produit pas ; (3) une publication du verdict et (4) une conséquence réelle pour les écoles défaillantes. L'effet est nul pour les écoles bien notées : l'évaluation et le retour d'information sont sans effet mesurable sur les écoles non défaillantes.",
+   "contested": "L'effet est faible et étroit, et la littérature internationale est loin de le confirmer partout. Aux Pays-Bas, Luginbuhl, Webbink et de Wolf (2009) trouvent une hausse de 2 à 3 % d'écart-type dans un modèle à effets fixes, mais un effet nul ou quasi nul sur un échantillon d'écoles sélectionnées aléatoirement — ce qui suggère que l'estimation à effets fixes est sensible au biais de sélection dans le ciblage des inspections. La synthèse systématique de Hofer, Holzberger et Reiss (2020), portant sur 30 ans de recherche internationale et 30 études inférentielles, conclut qu'aucune preuve n'établit que l'inspection conduit automatiquement à une amélioration de la qualité éducative : 58 % des effets recensés sont non significatifs, les effets les plus constants apparaissant sur les tests standardisés de mathématiques et de langue maternelle. Enfin, le coût humain du régime anglais est devenu un enjeu politique majeur : le gouvernement britannique a supprimé les notations en un mot avec effet immédiat en septembre 2024, après qu'une enquête du coroner eut conclu que le processus d'inspection avait probablement contribué au suicide de la directrice Ruth Perry, dont l'école avait été déclassée d'« outstanding » à « inadequate ». Un système de redevabilité efficace n'est donc pas nécessairement un système soutenable.",
+   "sources": [
+    {
+     "author": "Iftikhar Hussain",
+     "title": "Subjective Performance Evaluation in the Public Sector: Evidence from School Inspections",
+     "org": "Journal of Human Resources, vol. 50(1), p. 189-221",
+     "year": "2015",
+     "url": "https://jhr.uwpress.org/content/50/1/189"
+    },
+    {
+     "author": "Iftikhar Hussain",
+     "title": "Subjective Performance Evaluation in the Public Sector: Evidence from School Inspections (CEE Discussion Paper 135)",
+     "org": "Centre for the Economics of Education, LSE",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED545669.pdf"
+    },
+    {
+     "author": "Rob Luginbuhl, Dinand Webbink, Inge de Wolf",
+     "title": "Do Inspections Improve Primary School Performance?",
+     "org": "Educational Evaluation and Policy Analysis, vol. 31(3), p. 221-237",
+     "year": "2009",
+     "url": "https://journals.sagepub.com/doi/10.3102/0162373709338315"
+    },
+    {
+     "author": "Sarah I. Hofer, Doris Holzberger, Kristina Reiss",
+     "title": "Evaluating school inspection effectiveness: A systematic research synthesis on 30 years of international research",
+     "org": "Studies in Educational Evaluation",
+     "year": "2020",
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0191491X20301127"
+    },
+    {
+     "title": "One-word Ofsted judgements for schools scrapped immediately",
+     "org": "ITV News",
+     "year": "2024",
+     "url": "https://www.itv.com/news/2024-09-01/one-word-ofsted-judgments-for-schools-scrapped-by-government"
+    }
+   ]
+  },
+  {
+   "claim": "Quand une épreuve externe est corrigée ou surveillée à l'intérieur de l'école, une part importante des résultats est fabriquée : la seule présence d'un examinateur externe tiré au sort fait chuter la proportion de bonnes réponses de 5,5 à 8,5 %.",
+   "what_it_is": "Expérience naturelle construite par l'administrateur du test national italien (INVALSI), qui affecte aléatoirement des examinateurs externes à une partie des classes d'écoles primaires pour surveiller la passation et la correction, les autres classes étant surveillées par leurs propres enseignants.",
+   "evidence_level": "essai quasi-randomisé (affectation aléatoire des examinateurs externes aux classes et aux écoles, permettant de séparer l'effet direct — sur la classe surveillée — de l'effet indirect — sur les autres classes de la même école)",
+   "effect_size": "Effet total de la présence d'un examinateur externe : réduction de la proportion de bonnes réponses de 5,5 à 8,5 %. Effet direct (classe surveillée) : 4,3 à 6,6 %. Effet indirect (autres classes de l'école surveillée) : 1,2 à 1,9 %. Population : élèves d'écoles primaires italiennes, test national INVALSI.",
+   "concrete_practice": "Le dispositif est d'une simplicité et d'un coût dérisoires : un examinateur mandaté par l'agence nationale, extérieur à l'établissement, est présent dans la salle pendant la passation et supervise la correction. Rien d'autre ne change — ni le test, ni les élèves, ni les enseignants.",
+   "concrete_example": "L'INVALSI tire au sort, chaque année, un échantillon de classes qui recevront un examinateur externe ; les autres classes passent le même test le même jour sous la surveillance de leurs propres enseignants. Les auteurs comparent alors les scores des classes surveillées à ceux des classes non surveillées de la même école, puis les scores des classes non surveillées d'écoles ayant reçu un examinateur à ceux des classes d'écoles n'en ayant reçu aucun. Le premier écart mesure la tricherie dans la classe elle-même, le second mesure l'effet de dissuasion sur le reste de l'école — d'où le titre : « quand le chat est près, les souris ne jouent pas ». Les auteurs écartent explicitement les explications alternatives (anxiété, distraction due à la présence d'un inconnu) et concluent que la baisse mesurée traduit une réduction de la tricherie, par les élèves ou par les enseignants.",
+   "conditions": "Le résultat porte sur un test à faibles enjeux individuels mais dont les résultats agrégés sont visibles. L'ampleur de la tricherie dépend probablement du niveau d'enjeu attaché aux résultats et de la culture professionnelle ; elle est susceptible d'être plus forte encore dans un système où les résultats d'une épreuve externe sont utilisés dans un contrat d'objectifs.",
+   "contested": "Aucune controverse identifiée sur le résultat lui-même, qui est méthodologiquement propre et publié dans une revue de premier plan. Deux réserves de portée : d'abord, l'ampleur mesurée en Italie, où la fraude aux tests est un problème reconnu et géographiquement concentré, ne se transpose pas mécaniquement ; ensuite, le résultat démontre l'existence d'un biais de mesure mais ne dit rien sur l'effet d'un dispositif de redevabilité sur l'apprentissage réel — il implique surtout que toute mesure d'effet fondée sur des épreuves corrigées en interne est surestimée. À noter, ce résultat va dans le même sens que le constat inverse de Hussain sur Ofsted : quand l'évaluateur observe la pratique et non seulement le résultat chiffré, le gaming est bien plus difficile.",
+   "sources": [
+    {
+     "author": "Marco Bertoni, Giorgio Brunello, Lorenzo Rocco",
+     "title": "When the cat is near, the mice won't play: The effect of external examiners in Italian schools",
+     "org": "Journal of Public Economics, vol. 104, p. 65-77",
+     "year": "2013",
+     "url": "https://ideas.repec.org/a/eee/pubeco/v104y2013icp65-77.html"
+    }
+   ]
+  },
+  {
+   "claim": "L'autonomie assortie d'une redevabilité sur les résultats produit des sorties d'élèves inexpliquées à grande échelle, concentrées sur les élèves vulnérables : en Angleterre, un élève sur dix a connu une sortie inexpliquée au cours de sa scolarité secondaire, et les trois quarts de ces élèves sont vulnérables.",
+   "what_it_is": "L'off-rolling désigne, selon la définition de l'Ofsted, le retrait d'un élève des registres d'une école sans exclusion formelle, ou en incitant un parent à retirer son enfant, lorsque ce retrait sert principalement l'intérêt de l'établissement et non celui de l'élève. L'Education Policy Institute en a mesuré l'ampleur en exploitant plus d'une décennie de données de la National Pupil Database.",
+   "evidence_level": "descriptif quantitatif sur données administratives exhaustives (pas d'identification causale de la responsabilité du régime de redevabilité)",
+   "effect_size": "10,1 % de la cohorte arrivant en dernière année de secondaire en 2017 a connu au moins une sortie inexpliquée pendant sa scolarité secondaire, contre 9,0 % pour la cohorte 2014 ; 1,2 % en a connu deux ou plus (contre 0,9 % en 2014). 75,8 % des élèves concernés étaient vulnérables à un titre ou un autre, contre 57,4 % de l'ensemble des élèves. Environ 24 000 enfants de la cohorte 2017 sortis vers une destination inconnue ne reviennent jamais dans une école publique — quatre sur dix de ceux qui connaissent une sortie inexpliquée, et sept sur dix de ceux qui sortent vers une destination inconnue.",
+   "concrete_practice": "Le mécanisme est simple et invisible dans les indicateurs : une école soumise à un indicateur de progrès agrégé (Progress 8) a intérêt à ce que les élèves dont les résultats seront faibles ne figurent pas dans ses effectifs au moment du calcul. Les leviers sont l'exclusion définitive, le « managed move » négocié entre chefs d'établissement, ou la pression sur les familles pour une déscolarisation à domicile.",
+   "concrete_example": "Les chiffres par sous-population rendent le phénomène tangible : près de deux élèves sur cinq ayant connu une exclusion définitive, près d'un tiers des enfants placés ou anciennement placés, plus d'un quart des élèves identifiés avec des difficultés sociales, émotionnelles ou de santé mentale, un quart des élèves ayant connu une exclusion temporaire, un cinquième des enfants suivis par la protection de l'enfance, un sur six des élèves à besoins éducatifs particuliers et des élèves bénéficiant de la gratuité des repas, et un sur sept des élèves à faible niveau initial ou d'origine ethnique noire ont connu une sortie inexpliquée. Sur le plan de la gouvernance, l'EPI constate que la variation est énorme — de zéro sortie inexpliquée sur toute la scolarité à plus de 3 % des élèves par trimestre — et qu'elle traverse les structures : on trouve des autorités locales comme des multi-academy trusts parmi les groupes à taux élevés. Mais un motif est spécifique à l'autonomie en réseau : TOUTES les grandes MAT (au moins dix écoles secondaires) ont un taux de sorties inexpliquées supérieur à la moyenne, et toutes sauf deux (Delta Academies Trust et Harris Federation) ont aussi un taux d'exclusions définitives supérieur à la moyenne — configuration qu'on n'observe ni chez les autorités locales, quelle que soit leur taille, ni chez les petites MAT. Par ailleurs, seuls 12,8 % des sorties inexpliquées de la cohorte 2017 correspondent à des « managed moves » formalisés ; seuls 4,4 % des élèves reviennent dans leur école d'origine ; et 5 000 élèves passent d'une école jugée « bonne ou mieux » à une école jugée « moins que bonne ».",
+   "conditions": "Le phénomène apparaît là où un indicateur agrégé de résultats conditionne la réputation, l'inspection ou la survie de l'école, ET où l'école dispose du pouvoir de modifier sa population. Retirer l'un des deux termes supprime l'incitation.",
+   "contested": "L'attribution causale au régime de redevabilité n'est pas démontrée : l'EPI mesure une prévalence et une corrélation avec la structure de gouvernance, pas un effet causal du système d'indicateurs. L'Ofsted, de son côté, avait avancé des chiffres différents (5 800 élèves à besoins particuliers et 19 000 élèves au total ayant quitté leur école entre la 4e et la 3e année du secondaire entre janvier 2017 et janvier 2018, dont 9 700 non retrouvés) — écart qui tient à des définitions et des périmètres différents et qui doit inciter à la prudence sur les ordres de grandeur. Les autorités locales contestent par ailleurs la méthodologie de classification des « sorties inexpliquées », l'EPI ayant lui-même révisé sa méthode entre l'édition d'avril 2019 et celle d'octobre 2019 après consultation. Ce qui n'est pas contesté : le phénomène existe, il est massif, il frappe les élèves les plus fragiles, et il a conduit l'Ofsted à en faire un motif de classement en « inadequate » dans son cadre d'inspection depuis septembre 2019.",
+   "sources": [
+    {
+     "author": "Whitney Crenna-Jennings, Jo Hutchinson",
+     "title": "Unexplained pupil exits from schools: Further analysis and data by multi-academy trust and local authority",
+     "org": "Education Policy Institute",
+     "year": "2019",
+     "url": "https://epi.org.uk/wp-content/uploads/2019/10/Unexplained-pupil-moves_LAs-MATs_EPI-2019.pdf"
+    },
+    {
+     "title": "Unexplained pupil exits from schools: A growing problem?",
+     "org": "Education Policy Institute",
+     "year": "2019",
+     "url": "https://epi.org.uk/publications-and-research/unexplained-pupil-exits/"
+    },
+    {
+     "title": "Off-rolling in English schools (Commons Library Briefing Paper CBP-8444)",
+     "org": "House of Commons Library",
+     "year": "2019",
+     "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8444/CBP-8444.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Un indicateur de redevabilité fondé sur un seuil de réussite conduit les enseignants à concentrer leur effort sur les élèves proches du seuil et à délaisser les plus faibles — le gain agrégé est alors obtenu au détriment exact du public que la réforme prétend servir.",
+   "what_it_is": "Le « triage éducatif » : lorsqu'une école est jugée sur la proportion d'élèves atteignant un seuil de compétence (et non sur la progression de tous), il devient rationnel de concentrer les ressources pédagogiques sur les élèves dont le score est juste sous le seuil — les « bubble students » — et de renoncer à ceux qui en sont trop loin.",
+   "evidence_level": "quasi-expérimental (exploitation de l'introduction du No Child Left Behind en 2002 au niveau fédéral et d'une réforme comparable au niveau du district de Chicago en 1996, avec analyse de la distribution des gains par niveau initial)",
+   "effect_size": "L'étude ne rapporte pas un effet moyen unique mais une redistribution des gains le long de la distribution : hausses notables des scores de lecture et de mathématiques chez les élèves du MILIEU de la distribution, et absence de gain chez les élèves les moins avantagés scolairement. Publication dans The Review of Economics and Statistics, vol. 92(2), p. 263-283.",
+   "concrete_practice": "Concrètement, l'école identifie les élèves situés quelques points sous le seuil de « proficiency » et leur affecte le soutien supplémentaire, les groupes de remédiation et le temps d'enseignant ; les élèves très en dessous du seuil, jugés hors d'atteinte dans l'année, ne reçoivent pas ce surcroît de ressources car leur progression ne modifierait pas l'indicateur de l'école.",
+   "concrete_example": "Le cas de Chicago en 1996 est le plus documenté : le district a introduit une responsabilisation des écoles fondée sur la proportion d'élèves atteignant un seuil de compétence, avant même la loi fédérale. Les auteurs comparent l'évolution de la distribution des scores avant et après, et constatent que les gains se concentrent au milieu de la distribution, pas au bas. Le même profil se reproduit après l'introduction nationale du No Child Left Behind en 2002. Les auteurs formulent le mécanisme sans détour : les responsables scolaires estiment que les élèves en retard sont simplement incapables de bien réussir aux tests, et redirigent l'effort vers ceux qui sont « sur la bulle » et paraissent donc susceptibles d'atteindre le seuil.",
+   "conditions": "Le triage est une conséquence directe de la FORME de l'indicateur, non de la redevabilité en soi. Un indicateur de progression continue (valeur ajoutée sur l'ensemble de la distribution) ou un indicateur explicitement pondéré sur les élèves faibles supprime l'incitation. C'est le principal enseignement actionnable de ce corpus.",
+   "contested": "Le résultat n'est pas universel. Lauen et Gaddis (2016) réexaminent la question sous l'angle de la pression de redevabilité et des standards académiques et parviennent à des conclusions plus nuancées, tout comme d'autres travaux publiés dans Education Finance and Policy sur la question de savoir si le NCLB a effectivement encouragé le triage. Je n'ai pas pu vérifier le détail des résultats de ces réplications sur les textes intégraux, et je signale donc la controverse sans en trancher le contenu : l'existence du mécanisme d'incitation est théoriquement incontestée, son ampleur empirique est débattue. La limite majeure pour la FWB : ces travaux portent sur un système à tests annuels standardisés dans toutes les écoles, configuration qui n'existe pas en Belgique francophone.",
+   "sources": [
+    {
+     "author": "Derek Neal, Diane Whitmore Schanzenbach",
+     "title": "Left Behind by Design: Proficiency Counts and Test-Based Accountability",
+     "org": "The Review of Economics and Statistics, vol. 92(2), p. 263-283",
+     "year": "2010",
+     "url": "https://direct.mit.edu/rest/article-abstract/92/2/263/58591/Left-Behind-by-Design-Proficiency-Counts-and-Test"
+    },
+    {
+     "author": "Derek Neal, Diane Whitmore Schanzenbach",
+     "title": "Left Behind By Design: Proficiency Counts and Test-Based Accountability (NBER Working Paper 13293)",
+     "org": "National Bureau of Economic Research",
+     "year": "2007",
+     "url": "https://www.nber.org/system/files/working_papers/w13293/w13293.pdf"
+    },
+    {
+     "author": "Douglas Lee Lauen, S. Michael Gaddis",
+     "title": "Accountability Pressure, Academic Standards, and Educational Triage",
+     "org": "Educational Evaluation and Policy Analysis",
+     "year": "2016",
+     "url": "https://journals.sagepub.com/doi/abs/10.3102/0162373715598577"
+    }
+   ]
+  },
+  {
+   "claim": "La Fédération Wallonie-Bruxelles a déjà généralisé une contractualisation par objectifs couvrant 96 % de ses écoles obligatoires, adossée à un service d'inspection indépendant d'environ 200 agents — mais aucune évaluation causale de son effet sur les apprentissages n'existe, et c'est la lacune la plus coûteuse du dossier.",
+   "what_it_is": "Le dispositif « plan de pilotage / contrat d'objectifs » institué par le Pacte pour un Enseignement d'excellence : chaque école élabore avec son équipe un plan de pilotage à partir d'une analyse de ses données, le négocie avec un délégué au contrat d'objectifs (DCO) représentant l'autorité, puis le plan validé par l'administration devient un contrat d'objectifs liant l'école, son pouvoir organisateur et la FWB pour six ans, avec évaluation intermédiaire à trois ans et évaluation finale à six ans. En parallèle, le décret adopté en janvier 2019 a réformé le Service général de l'Inspection, placé sous l'autorité directe du gouvernement et doté d'un statut garantissant l'indépendance de ses agents à l'égard des écoles et des pouvoirs organisateurs.",
+   "evidence_level": "descriptif (suivi administratif de mise en œuvre ; aucune évaluation d'impact identifiée)",
+   "effect_size": "Non disponible — aucune estimation d'effet sur les apprentissages n'a été produite ni, à ma connaissance, engagée. Les seules données quantifiées portent sur la mise en œuvre : 2 564 écoles dotées d'un contrat d'objectifs en septembre 2023, soit 96 % des établissements de l'enseignement obligatoire.",
+   "concrete_practice": "L'école analyse ses indicateurs, sélectionne des objectifs (par exemple la différenciation pédagogique ou la réduction du redoublement), définit des actions et un calendrier, et rencontre régulièrement son DCO. Environ 200 inspecteurs, répartis en cinq services (fondamental jusqu'à la 3e secondaire, secondaire supérieur, promotion sociale, enseignement artistique, centres PMS), assurent le contrôle du niveau des études et conduisent des audits complets ou ciblés dans les établissements.",
+   "concrete_example": "Le déploiement s'est fait en trois vagues : 588 écoles ont signé leur contrat en 2019 (vague 1, évaluations intermédiaires en 2023-2024), une deuxième vague en 2021 (évaluations en 2024-2025), une troisième en août 2022 puis janvier et août 2023 (évaluations en 2025-2026). Le suivi administratif de la vague 1 montre que 97 % des écoles avaient concrètement entamé leurs actions ; sur 12 517 actions prévues, 49 % étaient en cours, 27 % finalisées et 18 % reportées ; 86 % des écoles avaient organisé plus de deux rencontres avec leur DCO ; 86 % avaient mobilisé au moins la moitié de leur équipe ; 80 % avaient suivi au moins la moitié des formations prévues ; et 90 % des écoles fondamentales mettaient en œuvre des actions de différenciation pédagogique. Ces chiffres décrivent une activité, pas un résultat d'apprentissage.",
+   "conditions": "Le décalage temporel entre les trois vagues constitue un actif méthodologique rare et gratuit : il fournit un design en différences-de-différences exploitable pour estimer l'effet du contrat d'objectifs sur les résultats aux épreuves externes (CEB, CE1D, CESS) et sur le redoublement, en comparant les écoles de la vague 1 à celles des vagues 2 et 3 avant leur propre entrée dans le dispositif — exactement la stratégie qu'Eyles et Machin utilisent pour les academies anglaises. Cette fenêtre se referme à mesure que toutes les écoles entrent dans le dispositif.",
+   "contested": "Le point critique est l'absence de mesure d'effet, non une controverse sur des résultats. Deux faiblesses de conception ressortent du corpus international présenté plus haut. Premièrement, les épreuves externes de la FWB (CE1D, CESS) sont communes mais corrigées dans l'établissement, configuration dans laquelle Bertoni, Brunello et Rocco mesurent en Italie une inflation des scores de 5,5 à 8,5 % — l'indicateur sur lequel repose la contractualisation n'est donc pas indépendant de l'établissement évalué. Deuxièmement, la charge administrative du dispositif est reconnue comme problématique : le gouvernement de la FWB a adopté un paquet de simplification administrative visant explicitement à réduire la charge pesant sur les directions, dont une part significative porte sur les plans de pilotage — signal que le coût de transaction du dispositif est jugé élevé au regard de bénéfices non démontrés. Aucune publication scientifique évaluant l'impact du dispositif n'a été identifiée lors de cette recherche ; si une telle évaluation existe, elle n'est pas accessible par les canaux consultés.",
+   "sources": [
+    {
+     "title": "Pilotage des écoles et mise en œuvre des contrats d'objectifs : où en est-on ?",
+     "org": "PROF, magazine de la Fédération Wallonie-Bruxelles",
+     "year": "2024",
+     "url": "https://prof.cfwb.be/article/pilotage-des-ecoles-et-mise-en-oeuvre-des-contrats-dobjectifs-ou-en-est-on"
+    },
+    {
+     "title": "Le pilotage des écoles",
+     "org": "Pacte pour un Enseignement d'excellence, Fédération Wallonie-Bruxelles",
+     "year": "2024",
+     "url": "https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-pilotage-des-ecoles-2/"
+    },
+    {
+     "title": "Le nouveau pilotage des écoles : soutenir, responsabiliser, dialoguer",
+     "org": "enseignement.be, Fédération Wallonie-Bruxelles",
+     "year": "2019",
+     "url": "http://enseignement.be/index.php?page=28608"
+    },
+    {
+     "title": "Enseignement : la réforme de l'inspection définitivement approuvée au Parlement de la Fédération Wallonie-Bruxelles",
+     "org": "BX1",
+     "year": "2019",
+     "url": "https://bx1.be/categories/news/enseignement-reforme-de-linspection-definitivement-approuvee-parlement-de-federation-wallonie-bruxelles/"
+    },
+    {
+     "title": "Le Service général de l'Inspection",
+     "org": "enseignement.be, Fédération Wallonie-Bruxelles",
+     "year": "2024",
+     "url": "http://www.enseignement.be/index.php?page=24234"
+    }
+   ]
+  },
+  {
+   "claim": "La contractualisation entre une autorité publique et des opérateurs d'école existe depuis plus de vingt ans à Bogotá, mais son évaluation ne repose que sur des méthodes d'appariement, ce qui la rend impropre à fonder une décision.",
+   "what_it_is": "Le programme des « colegios en concesión » lancé par la ville de Bogotá en 1999 : la municipalité construit et finance des écoles, puis en confie la gestion par contrat à des opérateurs privés (souvent des écoles privées reconnues) pour scolariser gratuitement des élèves de milieux défavorisés, avec obligation de résultats et possibilité de non-renouvellement.",
+   "evidence_level": "quasi-expérimental faible (scores de propension et estimateurs d'appariement, sans randomisation ni instrument ; pas de discontinuité exploitée)",
+   "effect_size": "Non disponible sous forme chiffrée vérifiée. L'étude teste trois hypothèses et conclut en faveur des trois : taux d'abandon plus faibles dans les écoles en concession que dans des écoles publiques comparables ; taux d'abandon plus faibles dans les écoles publiques voisines des écoles en concession que dans les écoles publiques hors zone d'influence ; scores aux tests plus élevés dans les écoles en concession. Je n'ai pas pu vérifier les magnitudes sur la source primaire et je m'abstiens donc de citer des chiffres.",
+   "concrete_practice": "L'opérateur privé reçoit un forfait par élève, recrute et gère son personnel selon le droit privé, définit son projet pédagogique, et rend compte de résultats mesurés. La propriété des bâtiments reste publique et la scolarité reste gratuite pour les familles — c'est le modèle de contractualisation le plus proche, sur le papier, d'une gouvernance à réseaux multiples comme celle de la FWB.",
+   "concrete_example": "Le dispositif concret : la municipalité de Bogotá construit un établissement dans un quartier pauvre, lance un appel d'offres, et signe avec l'opérateur retenu un contrat de longue durée prévoyant le nombre d'élèves, le forfait par élève et des obligations de résultats mesurées par les tests nationaux colombiens. L'évaluation de Barrera-Osorio compare ces écoles à des écoles publiques appariées sur leurs caractéristiques observables, et compare également les écoles publiques situées dans la zone d'influence géographique d'une école en concession à celles qui en sont éloignées — ce second test cherchant à capter un effet de concurrence. Le modèle a été promu par la Banque mondiale, la Banque interaméricaine de développement et l'UNESCO comme stratégie d'accroissement simultané de la couverture et de la qualité.",
+   "conditions": "Le dispositif suppose une capacité municipale de passation et de contrôle de marchés complexes, et un écart de qualité initial important entre le public et les opérateurs retenus. Il suppose aussi que les opérateurs ne puissent pas sélectionner leurs élèves, condition dont l'application effective n'est pas documentée dans les sources consultées.",
+   "contested": "Le niveau de preuve est notoirement insuffisant pour fonder une politique. L'appariement sur observables ne neutralise pas la sélection des familles ni celle des sites : si la municipalité a implanté les concessions dans les quartiers les plus dynamiques ou si les familles les plus mobilisées y inscrivent leurs enfants, l'effet estimé est surestimé. Une littérature critique colombienne substantielle conteste frontalement le bilan : une analyse publiée dans la Revista Colombiana de Educación intitulée « Los colegios en concesión de Bogotá: los límites de la eficiencia económica de los programas chárter » met en cause l'efficience économique du modèle, et d'autres travaux documentent des problèmes de conditions de travail et de rotation des enseignants au sein des écoles en concession — c'est-à-dire un transfert de coût vers le personnel plutôt qu'un gain de productivité. En l'état, ce cas doit être présenté comme une expérience institutionnelle instructive, jamais comme une preuve d'efficacité.",
+   "sources": [
+    {
+     "author": "Felipe Barrera-Osorio",
+     "title": "The impact of private provision of public education: Empirical evidence from Bogota's concession schools (Policy Research Working Paper)",
+     "org": "Banque mondiale",
+     "year": "2006",
+     "url": "https://documents.worldbank.org/curated/en/366271468018843703/The-impact-of-private-provision-of-public-education-empirical-evidence-from-Bogotas-concession-schools"
+    },
+    {
+     "title": "Los colegios en concesión de Bogotá: los límites de la eficiencia económica de los programas chárter",
+     "org": "Revista Colombiana de Educación",
+     "year": "2019",
+     "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-39162019000100091"
+    }
+   ]
+  }
+ ]
+}

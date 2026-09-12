@@ -1,0 +1,419 @@
+{
+ "topic": "Tutorat intensif et soutien ciblé",
+ "headline": "Le tutorat est l'un des rares leviers dont l'effet moyen est établi par des dizaines d'essais randomisés (≈ 0,29 écart-type dans la version publiée de la méta-analyse de référence), mais cet effet est presque entièrement porté par un petit nombre de paramètres de conception — tuteurs professionnels ou para-professionnels, pendant le temps scolaire, au moins trois fois par semaine, en très petit groupe — et il s'effondre quasiment à zéro (0,04 à 0,09 g en Angleterre) dès que la mise à l'échelle dilue la dose ; le vrai enjeu pour la FWB n'est donc pas « faut-il du tutorat ? » mais « quelle dose, par qui, à quel coût, et comment éviter l'échec de passage à l'échelle du National Tutoring Programme ».",
+ "searches_run": 44,
+ "items": [
+  {
+   "claim": "Le tutorat (individuel ou en très petit groupe) produit un effet moyen positif et robuste sur les apprentissages, mais la taille de cet effet a été révisée à la baisse entre la version working paper et la version publiée de la méta-analyse de référence : de 0,37 à 0,288 écart-type.",
+   "what_it_is": "Revue systématique et méta-analyse de 96 essais randomisés de programmes de tutorat en préscolaire et scolaire (732 estimations d'effet), menée par Andre Nickow (Northwestern), Philip Oreopoulos (Toronto/NBER) et Vincent Quan (J-PAL North America). Le tutorat y est défini comme un enseignement supplémentaire en un-à-un ou en très petit groupe, dispensé par des enseignants, des para-professionnels, des bénévoles ou des parents, en complément (et non en remplacement) de l'enseignement en classe.",
+   "evidence_level": "méta-analyse d'essais randomisés (96 ECR, 732 estimations)",
+   "effect_size": "Version publiée (AERJ 2024) : effet groupé de 0,288 écart-type (erreur-type 0,029, p<0,001), tous élèves préscolaire–secondaire confondus. Version working paper (NBER 2020) : 0,37 écart-type. À titre de comparaison, la méta-analyse indépendante de Dietrichson et al. (2017, Review of Educational Research, 101 études) trouvait 0,36 écart-type pour les interventions de tutorat auprès d'élèves de milieu défavorisé.",
+   "concrete_practice": "Concrètement : un adulte prend en charge un ou deux élèves pendant 30 à 50 minutes, plusieurs fois par semaine, sur un programme structuré aligné sur ce que l'élève fait en classe ordinaire ; l'adulte diagnostique les lacunes, cible l'enseignement dessus, et les progrès sont suivis par des évaluations formatives fréquentes. Le tutorat s'ajoute au temps d'enseignement ordinaire ou se substitue à une option, jamais au cours de la discipline concernée.",
+   "concrete_example": "L'échantillon méta-analysé illustre le continuum réel : à un extrême, des programmes de lecture individualisés en maternelle/1re primaire conduits par des enseignants ou des assistants formés atteignent 0,50 à 0,61 écart-type ; à l'autre, des programmes confiés aux parents à domicile plafonnent à 0,16 écart-type. Les auteurs notent que la relation entre effet et taille d'échantillon est décroissante — les études de moins de 50 élèves donnent 0,45 écart-type contre 0,25 pour celles de plus de 400 — mais que l'effet se stabilise (« plateau ») au-delà de 400 élèves, et que ce sont des valeurs extrêmes en littératie sur petits échantillons qui expliquent l'essentiel de l'écart.",
+   "conditions": "L'effet suppose que le tutorat soit (1) additionnel à l'enseignement ordinaire et explicitement articulé avec lui, (2) structuré par un curriculum, (3) délivré par quelqu'un de formé et supervisé, (4) avec un suivi des progrès. Sans ces conditions, on retombe sur les catégories les plus faibles de la méta-analyse.",
+   "contested": "Trois critiques sérieuses. (1) La révision à la baisse de 0,37 à 0,288 entre le working paper de 2020 — massivement cité dans le débat public et par les gouvernements pendant la pandémie — et la version relue par les pairs est rarement signalée ; le titre lui-même a été changé de « The Impressive Effects of Tutoring » à « The Promise of Tutoring », ce qui traduit une prudence accrue des auteurs. (2) Les auteurs affirment que le biais de publication n'est pas un problème majeur, au motif que les études non publiées ont des effets PLUS élevés (0,46) que les publiées (0,35) ; l'argument est recevable mais la décroissance de l'effet avec la taille d'échantillon reste compatible avec un biais de petites études. (3) Les évaluations menées par les organismes prestataires eux-mêmes donnent systématiquement des effets plus élevés — c'est une des deux raisons pour lesquelles l'Education Endowment Foundation ne classe la solidité de sa propre synthèse sur le tutorat individuel qu'en « modérée ».",
+   "sources": [
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "National Bureau of Economic Research",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning: A Systematic Review and Meta-Analysis of the Experimental Evidence (NBER Working Paper 27476)",
+     "url": "https://www.nber.org/papers/w27476",
+     "year": "2020"
+    },
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "American Educational Research Journal, 61(1), 74-107",
+     "title": "The Promise of Tutoring for PreK–12 Learning: A Systematic Review and Meta-Analysis of the Experimental Evidence",
+     "url": "https://doi.org/10.3102/00028312231208687",
+     "year": "2024"
+    },
+    {
+     "author": "Jens Dietrichson, Martin Bøg, Trine Filges, Anne-Marie Klint Jørgensen",
+     "org": "Review of Educational Research, 87(2), 243-282",
+     "title": "Academic Interventions for Elementary and Middle School Students With Low Socioeconomic Status: A Systematic Review and Meta-Analysis",
+     "url": "https://doi.org/10.3102/0034654316687036",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "claim": "Qui tutore change l'effet d'un facteur deux à trois : enseignants (0,45) et para-professionnels (0,42) devancent nettement les bénévoles non professionnels (0,29) et surtout les parents (0,16).",
+   "what_it_is": "Décomposition de l'effet du tutorat par type de tuteur dans la méta-analyse Nickow-Oreopoulos-Quan, corroborée par les essais britanniques sur des associations de tutorat recourant à des étudiants.",
+   "evidence_level": "méta-analyse (sous-groupes) + essais randomisés indépendants (Education Endowment Foundation)",
+   "effect_size": "Nickow et al. (version NBER, Table 3A) : enseignants 0,45 écart-type (18 études) ; para-professionnels 0,42 (46 études) ; non-professionnels/bénévoles 0,29 (50 études) ; parents 0,16 (7-8 études). Dans la régression multivariée, les coefficients relatifs aux para-professionnels (-0,04), non-professionnels (-0,11) et parents (-0,13) ne sont toutefois pas statistiquement significatifs. Sur l'échelle de l'EEF : tutorat individuel +5 mois de progrès en moyenne, mais les programmes conduits par des bénévoles ou des assistants « peuvent être moins efficaces que ceux menés par des enseignants expérimentés et spécifiquement formés ».",
+   "concrete_practice": "Trois modèles de recrutement coexistent : (a) enseignants de l'école rémunérés en heures supplémentaires, (b) para-professionnels salariés et formés (assistants d'éducation, « academic mentors », jeunes diplômés en service civique), (c) bénévoles (étudiants, retraités). Le point décisif n'est pas le diplôme mais la combinaison formation initiale + curriculum structuré + supervision quotidienne + continuité de la relation.",
+   "concrete_example": "Le Tutor Trust, association de Manchester qui recrute et forme des étudiants d'université pour tutorer en 1:1 et petits groupes, a été évalué trois fois par essai randomisé pour l'EEF. Ses deux premiers essais ont donné -1 mois de progrès en primaire et +1 mois en secondaire — c'est-à-dire rien. Le troisième essai (« second trial »), mené en conditions ordinaires en mathématiques, a donné +3 mois de progrès. Le même modèle organisationnel, avec le même type de tuteurs, produit donc des résultats allant de nuls à modestes selon la version du dispositif — alors que Saga Education, avec des tuteurs à plein temps encadrés par un directeur de site dans chaque école, obtient 0,16 à 0,37 écart-type.",
+   "concrete_practice_note": "",
+   "conditions": "Ce qui semble compter davantage que le statut : la densité de supervision (Saga place un directeur de site à temps plein par école), la durée d'engagement du tuteur (une année scolaire complète plutôt que quelques heures hebdomadaires), et l'existence d'un curriculum écrit que le tuteur applique. L'EEF précise que lorsque le tutorat est assuré par des bénévoles ou des assistants, « la formation et l'usage d'un programme structuré sont recommandés ».",
+   "contested": "L'écart enseignants/bénévoles n'est PAS statistiquement significatif dans la régression multivariée de Nickow et al. — les auteurs eux-mêmes écrivent que même 0,20-0,25 écart-type pour des tuteurs non professionnels reste substantiel. Par ailleurs, les catégories sont confondues avec d'autres variables : les programmes à tuteurs professionnels se déroulent plus souvent pendant le temps scolaire et avec une fréquence plus élevée, de sorte qu'une partie de « l'effet tuteur » est en réalité un effet de dose et de moment. Enfin, les auteurs soulignent que les effets faibles des programmes parentaux et périscolaires tiennent en partie à l'impossibilité de vérifier que le tutorat a effectivement eu lieu : en intention de traiter, la non-participation tire l'effet vers le bas.",
+   "sources": [
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "National Bureau of Economic Research",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning (NBER WP 27476), Tables 3A et 4",
+     "url": "https://www.nber.org/papers/w27476",
+     "year": "2020"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation (What Works Centre désigné par le gouvernement britannique)",
+     "title": "Teaching and Learning Toolkit — One to one tuition (123 études, revue mise à jour en juillet 2021) ; liste des essais EEF associés, dont Tutor Trust – Affordable Tutoring – second trial (+3 mois, mathématiques) et les deux premiers essais Tutor Trust (-1 mois primaire, +1 mois secondaire)",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "claim": "Le moment, la fréquence et la durée pèsent autant que le contenu : pendant le temps scolaire l'effet est de 0,40 écart-type contre 0,21 après l'école ; quatre à cinq séances par semaine donnent 0,41 contre 0,24 pour une à deux ; et les programmes courts (≤ 20 semaines) font mieux que les longs.",
+   "what_it_is": "Décomposition de l'effet du tutorat par paramètres de mise en œuvre (moment dans la journée, fréquence hebdomadaire, durée totale, ratio tuteur/élèves) dans la méta-analyse Nickow-Oreopoulos-Quan, confirmée par le résumé de la version publiée.",
+   "evidence_level": "méta-analyse (sous-groupes et régression multivariée)",
+   "effect_size": "Pendant le temps scolaire : 0,40 écart-type (78 études) ; après l'école : 0,21 (17 études) — dans la régression multivariée, le coefficient « après l'école » vaut -0,20 (erreur-type 0,091), significatif à 5 %. Fréquence : 1-2 jours/semaine 0,24 ; 3 jours 0,34 ; 4-5 jours 0,41. Durée : ≤ 20 semaines 0,39 ; > 20 semaines 0,29. Ratio : 1:1 = 0,38 ; 1:2 = 0,29 ; 1:3 ou plus = 0,36 (différences non significatives). Niveau scolaire : préscolaire/maternelle 0,50 ; 1re primaire 0,40 ; primaire 2e-5e 0,21 ; secondaire (6e-11e US) 0,23. Le résumé publié dans l'AERJ synthétise : les effets sont les plus grands pour les programmes qui « emploient des enseignants ou des para-professionnels, ont lieu dans les petites classes, se déroulent au moins trois jours par semaine et pendant le temps scolaire ».",
+   "concrete_practice": "Traduction opérationnelle : inscrire le tutorat à la grille horaire (par exemple en substituant une option, jamais le cours de la discipline visée), à raison de trois à cinq séances hebdomadaires courtes, sur un bloc de 10 à 20 semaines, plutôt que d'ouvrir une offre d'accompagnement facultative après 16 h étalée sur toute l'année. L'EEF précise l'optimum observé : séances d'environ 30 minutes, trois à cinq fois par semaine, sur une période déterminée allant jusqu'à dix semaines.",
+   "concrete_example": "Le dispositif Saga Education à Chicago incarne exactement ce profil : le tutorat est une période de cours quotidienne inscrite à l'horaire de l'élève, en plus du cours de mathématiques ordinaire, avec un ratio de deux élèves par tuteur, soit jusqu'à 140 heures de contact par an. Pour les élèves de 9e année de la première étude, cette période remplaçait une seconde heure d'algèbre ; pour l'étude 2, elle remplaçait une option (arts plastiques ou éducation physique). À l'inverse, les « supplemental educational services » financés par le No Child Left Behind, auxquels environ 25 % des élèves du groupe de contrôle avaient accès, représentaient une vingtaine d'heures de tutorat de mathématiques par an après la classe, sans curriculum ni supervision communs — et n'ont pas empêché Saga de produire ses effets.",
+   "conditions": "L'inscription à l'horaire est ce qui garantit la présence : le tutorat périscolaire échoue d'abord par non-participation, non par inefficacité pédagogique intrinsèque. Cela suppose de disposer de créneaux et de locaux, donc d'arbitrer sur la grille-horaire — arbitrage politique et non technique.",
+   "contested": "Les comparaisons de sous-groupes d'une méta-analyse ne sont pas randomisées : les programmes menés pendant le temps scolaire diffèrent aussi par le type de tuteur, le financement et le niveau scolaire, et la causalité n'est pas établie. Les auteurs eux-mêmes proposent une lecture alternative de l'écart pendant/après : dans les programmes périscolaires, la participation effective n'est pas vérifiable, donc les estimations en intention de traiter sous-estiment l'effet sur les participants réels. Enfin, la supériorité des programmes courts est contre-intuitive et pourrait refléter un biais de sélection (les programmes longs sont souvent ceux menés sur des publics les plus en difficulté).",
+   "sources": [
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "National Bureau of Economic Research",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning (NBER WP 27476), Tables 3A et 3B",
+     "url": "https://www.nber.org/papers/w27476",
+     "year": "2020"
+    },
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "American Educational Research Journal, 61(1)",
+     "title": "The Promise of Tutoring for PreK–12 Learning (résumé publié)",
+     "url": "https://doi.org/10.3102/00028312231208687",
+     "year": "2024"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — One to one tuition",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "claim": "Saga Education à Chicago est la démonstration la plus solide qu'un tutorat très intensif peut doubler voire tripler ce qu'un adolescent apprend en mathématiques en un an — et qu'il le peut avec des tuteurs non enseignants, pour environ un cinquième du coût annuel de scolarisation d'un élève.",
+   "what_it_is": "Deux essais contrôlés randomisés indépendants menés par la Crime Lab et l'Education Lab de l'Université de Chicago sur le modèle de tutorat « à haute dose » de Saga Education, dans des lycées publics de Chicago, publiés dans l'American Economic Review.",
+   "evidence_level": "essais randomisés (deux réplications indépendantes, N total = 5 343 élèves)",
+   "effect_size": "Étude 1 (2013-14, 2 633 élèves de 9e et 10e année, 12 lycées publics de Chicago) : effet en intention de traiter 0,08 écart-type sur les scores standardisés de mathématiques, effet sur les traités 0,16 écart-type — soit environ ce qu'un lycéen moyen apprend en une année, donc un doublement du gain annuel. Effets concomitants : +0,56 point de moyenne en mathématiques sur une échelle de 0 à 4, et -49 % d'échecs aux cours de mathématiques. Étude 2 (2014-15, 2 710 élèves) : effet sur les traités 0,37 écart-type, soit environ le double de l'étude 1. Persistance : +0,22 écart-type en 11e année (échantillons poolés) et +0,18 point de moyenne. Diplomation : +1,9 point de pourcentage, mais imprécis (intervalle de -4,8 à +8,6 points). Coût : environ 3 800 $ par élève et par an (fourchette défendable 3 500-4 300 $) au moment de l'étude.",
+   "concrete_practice": "Le tuteur travaille avec deux élèves à la fois, une période de cours par jour, en plus du cours de mathématiques ordinaire. Chaque séance suit une routine : 4-5 minutes d'échauffement, 40 minutes de tutorat sur du matériel adapté à l'élève, puis 1 à 3 problèmes de vérification. Environ la moitié du temps sert à combler les lacunes de base (curriculum propre à Saga), l'autre moitié est alignée sur ce qui se fait en classe — le directeur de site rencontre chaque semaine les professeurs de mathématiques pour savoir quels standards sont enseignés. Évaluations formatives fréquentes : mini-contrôles quotidiens, tests avant/après chacune des 7 à 10 unités, contrôles de maîtrise trimestriels de 80 items avec objectif de 90 % de réussite.",
+   "concrete_example": "Les tuteurs ne sont pas des enseignants : ce sont majoritairement de jeunes diplômés recrutés sur leurs compétences mathématiques (test de sélection Saga) et interpersonnelles (entretien incluant une séance de tutorat simulée), rémunérés 16 000 $ plus avantages pour neuf mois scolaires au moment de l'étude, après quatre semaines de formation à temps plein l'été. Chaque tuteur assure six périodes par jour ; chaque école dispose d'un directeur de site qui gère la discipline dans la salle de tutorat, assure la liaison avec l'établissement et fournit un retour quotidien et de la formation continue aux tuteurs. Les auteurs formulent l'idée centrale : le tutorat « simplifie radicalement la tâche d'enseignement », ce qui élargit le vivier des personnes capables de le faire — c'est la substitution d'une méthode à une qualification qui rend le coût soutenable.",
+   "conditions": "Le modèle repose sur quatre piliers non négociables : intégration à la grille horaire ; ratio 2:1 ; un tuteur à temps plein sur l'année entière (relation continue) ; un encadrant à demeure dans l'établissement. Il suppose aussi un vivier de jeunes diplômés acceptant une année de service à bas salaire — condition institutionnelle américaine (culture du « service year », subvention AmeriCorps) qui n'existe pas telle quelle en Europe continentale.",
+   "contested": "Plusieurs limites reconnues par les auteurs. (1) Les deux études ne sont pas comparables terme à terme : dans l'étude 1 le tutorat remplaçait une seconde heure d'algèbre (donc le contrefactuel était déjà du soutien en mathématiques), dans l'étude 2 il remplaçait une option — ce qui explique probablement l'écart entre 0,16 et 0,37 écart-type et interdit de retenir 0,37 comme l'effet « vrai ». (2) L'effet sur la diplomation, seule vraie variable de long terme, n'est pas statistiquement distinguable de zéro. (3) L'extrapolation du ratio bénéfice/coût « comparable au Perry Preschool » repose sur une conversion des gains de score en gains de salaires, méthode contestable. (4) Le même auteur principal (Fryer) a conduit un essai de tutorat intensif en LECTURE en collège à New York (au moins 130 heures en ratio 4:1) qui n'a produit AUCUN effet significatif sur les scores d'anglais pour l'ensemble des élèves, seuls les élèves noirs enregistrant +0,09 écart-type par an : la réplication du modèle Saga hors des mathématiques est loin d'être acquise.",
+   "sources": [
+    {
+     "author": "Jonathan Guryan, Jens Ludwig, Monica P. Bhatt, Philip J. Cook, Jonathan M.V. Davis, Kenneth Dodge, George Farkas, Roland G. Fryer Jr., Susan Mayer, Harold Pollack, Laurence Steinberg",
+     "org": "National Bureau of Economic Research (NBER Working Paper 28531)",
+     "title": "Not Too Late: Improving Academic Outcomes Among Adolescents",
+     "url": "https://www.nber.org/papers/w28531",
+     "year": "2021"
+    },
+    {
+     "author": "Jonathan Guryan, Jens Ludwig, Monica P. Bhatt et al.",
+     "org": "American Economic Review",
+     "title": "Not Too Late: Improving Academic Outcomes among Adolescents (version publiée)",
+     "url": "https://doi.org/10.1257/aer.20210434",
+     "year": "2023"
+    },
+    {
+     "author": "Roland G. Fryer Jr., Meghan Howard Noveck",
+     "org": "NBER Working Paper 23792 / Journal of Labor Economics",
+     "title": "High-Dosage Tutoring and Reading Achievement: Evidence from New York City",
+     "url": "https://www.nber.org/papers/w23792",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "claim": "Le National Tutoring Programme anglais est le cas d'école du passage à l'échelle : il a atteint son objectif quantitatif (2,14 millions de parcours en 2021-22, soit 110 % de la cible) tout en produisant des effets quasi nuls — parce que l'échelle a été obtenue en abandonnant précisément ce qui fait marcher le tutorat.",
+   "what_it_is": "Programme national anglais lancé en 2020-21 pour un coût public culminant à 985 millions de livres en 2022-23, organisé en trois filières : « Tuition Partners » (prestataires externes agréés), « Academic Mentors » (mentors salariés placés dans l'école) et, à partir de la deuxième année, « School-Led Tutoring » (l'école recrute ses propres tuteurs). Évalué par le National Audit Office et, année après année, par le NFER pour le Department for Education.",
+   "evidence_level": "évaluation quasi-expérimentale à grande échelle (appariement d'écoles et d'élèves sur données administratives exhaustives) + audit public",
+   "effect_size": "Année 3 (2022-23) : effets de Hedges' g allant de 0,037 (mathématiques KS2, niveau école, tous élèves) à 0,094 (mathématiques KS2, niveau élève, élèves à faible niveau antérieur) ; au KS4 (fin de secondaire) 0,016 à 0,039, souvent non significatifs. Traduit sur l'échelle EEF : « un mois de progrès supplémentaire ou moins », parfois zéro. Année 2 : la filière School-Led Tutoring atteint g = 0,077 au mieux, tandis que la filière Academic Mentors/Tuition Partners descend à g = -0,065 (mathématiques KS4, niveau élève, tous élèves) — c'est-à-dire un effet négatif statistiquement significatif au niveau école pour les mathématiques KS4. À comparer aux 0,288-0,37 écart-type de la littérature expérimentale.",
+   "concrete_practice": "Le DfE subventionnait une part du coût (75 % en 2021-22, 60 % en 2022-23, 50 % en 2023-24), l'école complétant sur son « pupil premium ». Les recommandations officielles : 12 à 15 heures de tutorat par élève, en groupes allant de 1:1 à 1:6 maximum, en présentiel ou en ligne. C'est-à-dire environ un dixième de la dose Saga, avec un ratio jusqu'à trois fois plus large.",
+   "concrete_example": "La chronologie du dérapage est documentée par le National Audit Office. En 2020-21, 311 000 parcours seulement sont ouverts. Pour 2021-22, le DfE confie la gestion des filières Tuition Partners et Academic Mentors à un prestataire unique, l'agence d'intérim Randstad : la filière Tuition Partners n'atteint que 45 % de sa cible et la filière Academic Mentors 65 %. Le total de 2,14 millions de parcours (110 % de la cible globale de 1,96 million) n'est atteint que parce que la filière School-Led Tutoring — celle où l'école recrute elle-même ses tuteurs, souvent son propre personnel, en présentiel — explose et représente 81 % des parcours, touchant 1,3 million d'élèves, soit un élève sur cinq. Le DfE ne reconduit pas le contrat Randstad pour 2022-23. À la fin de l'exercice 2021-22, il subsiste 226 millions de livres de sous-consommation. Et c'est précisément la filière School-Led — la plus « artisanale », la moins centralisée — qui est la seule à produire des effets positifs constants dans les évaluations d'impact, l'évaluation de l'année 2 attribuant ce résultat au fait que les tuteurs étaient des adultes déjà connus des élèves, délivrant le tutorat en présentiel.",
+   "conditions": "Les leçons opérationnelles sont explicites : le pilotage par un opérateur unique extérieur au système scolaire a échoué ; la filière qui a fonctionné est celle qui a confié aux écoles le choix du tuteur et du format ; et la participation s'effondre dès que le taux de subvention baisse — dans l'enquête finale du NFER, 47 % des écoles non participantes invoquent l'incapacité à financer leur part du coût, et la chute du taux de subvention à 50 % en 2023-24 est la raison principale des abandons.",
+   "contested": "Les évaluateurs du NFER insistent, à juste titre, sur deux biais qui tirent leurs estimations vers le bas : la « dilution » (dans l'analyse au niveau école, tous les élèves ne sont pas tutorés, et la matière tutorée n'est pas connue) et un biais de sélection négatif (les écoles choisissent les élèves les plus en difficulté). Ils concluent donc que l'effet vrai est supérieur aux chiffres publiés, et « peut être compatible avec l'impact attendu du tutorat » une fois ces biais corrigés. Cette défense est honnête mais invérifiable : aucune randomisation n'a été possible sur le NTP, ce qui est en soi une faute de conception d'une politique publique à un milliard de livres. Symétriquement, les effets négatifs de la filière Tuition Partners ne peuvent pas non plus être interprétés avec certitude comme causaux — le NFER lui-même écrit qu'on ne peut exclure qu'ils soient des artefacts de sélection.",
+   "sources": [
+    {
+     "author": "National Audit Office",
+     "org": "National Audit Office (Royaume-Uni)",
+     "title": "Education recovery in schools in England (HC 1001)",
+     "url": "https://www.nao.org.uk/wp-content/uploads/2023/01/education-recovery-in-schools-in-england.pdf",
+     "year": "2023"
+    },
+    {
+     "author": "Emma Moore, Chris Morton, Gemma Schwendel, Stephen Welbourne (NFER)",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "National Tutoring Programme Year 3 Impact Report",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-year-3-impact-evaluation",
+     "year": "2024"
+    },
+    {
+     "author": "NFER pour le Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "Independent Evaluation of the National Tutoring Programme: Year 2 Impact Evaluation",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-year-2-impact-evaluation",
+     "year": "2023"
+    },
+    {
+     "author": "NFER pour le Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "National Tutoring Programme: evaluation and reflections (RR1444)",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-evaluation-and-reflections",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "La variable qui meurt systématiquement au passage à l'échelle est la DOSE : la littérature expérimentale repose sur 100 à 140 heures par élève en ratio 1:1 ou 2:1, les programmes nationaux distribuent 12 à 15 heures en groupes jusqu'à 1:6 — un rapport de un à dix qui suffit à expliquer l'écart entre 0,30 et 0,04 écart-type.",
+   "what_it_is": "Comparaison des paramètres de dose entre les dispositifs évalués par essai randomisé et les dispositifs déployés à l'échelle nationale, et estimation empirique de la dose optimale par l'évaluation anglaise.",
+   "evidence_level": "méta-analyse (dose-réponse par sous-groupes) + estimation quasi-expérimentale de la fonction dose-réponse sur données administratives",
+   "effect_size": "Nickow et al. : 4-5 séances hebdomadaires = 0,41 écart-type, 3 séances = 0,34, 1-2 séances = 0,24. Évaluation NTP année 3 : la meilleure estimation du nombre d'heures par élève tutoré maximisant les résultats de l'école est de 31 heures en mathématiques et 20 heures en lecture au KS2 — soit deux fois la recommandation officielle de 12-15 heures — mais avec une incertitude très large, et le modèle n'a pas pu être estimé au KS4. Évaluation NTP année 2 : une dose et une concentration plus élevées sont associées à de meilleurs résultats pour la filière School-Led, mais pas pour la filière externalisée.",
+   "concrete_practice": "Le paramétrage de la dose est le premier arbitrage budgétaire d'un programme de tutorat : à enveloppe donnée, on choisit entre beaucoup d'élèves peu servis et peu d'élèves bien servis. L'évidence pousse clairement vers la seconde option — mais c'est la première qui est politiquement attractive parce qu'elle produit des chiffres de couverture.",
+   "concrete_example": "Comparaison directe des deux dispositifs les mieux documentés. Saga Education (Chicago) : une période de cours par jour, toute l'année, jusqu'à 140 heures de contact, deux élèves par tuteur, un tuteur à plein temps, un directeur de site par école → 0,16 à 0,37 écart-type en mathématiques. National Tutoring Programme (Angleterre) : recommandation officielle de 12 à 15 heures par élève, ratios autorisés jusqu'à 1:6, tuteurs souvent externes et en ligne, sur quelques semaines → 0,037 à 0,094 g au KS2 et des effets indistinguables de zéro (voire négatifs) au KS4. Les deux dispositifs portent le même nom — « tutorat » — et ne sont pas la même intervention.",
+   "conditions": "Une politique de tutorat crédible doit poser d'emblée un plancher de dose (au minimum trois séances hebdomadaires sur un bloc d'au moins dix semaines, en ratio maximal 1:3) et accepter de servir moins d'élèves. Elle doit aussi cibler : l'évaluation anglaise de l'année 3 trouve une indication (fragile) que les élèves à faible niveau antérieur bénéficient davantage que l'ensemble des élèves ou que les seuls élèves défavorisés — le ciblage pertinent est le niveau scolaire, pas le statut social.",
+   "contested": "L'estimation de la dose optimale par le NFER n'est pas causale : elle ne repose pas sur un nouvel appariement entre écoles à dose différente, et les auteurs le signalent explicitement. Elle est de plus dérivée en supposant une répartition des heures par matière, l'information sur la matière tutorée n'étant pas disponible en année 3. Par ailleurs, Nickow et al. trouvent que les ratios 1:1, 1:2 et 1:3+ ne diffèrent pas significativement (0,38 / 0,29 / 0,36), et l'EEF note que les études comparant 1:1 et petit groupe donnent des résultats mitigés, parfois en faveur du petit groupe : l'idée qu'il faille absolument du un-à-un n'est pas soutenue par les données, ce qui est une bonne nouvelle budgétaire.",
+   "sources": [
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "National Bureau of Economic Research",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning (NBER WP 27476), Table 3A",
+     "url": "https://www.nber.org/papers/w27476",
+     "year": "2020"
+    },
+    {
+     "author": "NFER pour le Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "National Tutoring Programme Year 3 Impact Report (analyse de dosage) et National Tutoring Programme: evaluation and reflections (recommandations de 12-15 h et ratios jusqu'à 1:6)",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-year-3-impact-evaluation",
+     "year": "2024"
+    },
+    {
+     "author": "Jonathan Guryan et al.",
+     "org": "NBER / American Economic Review",
+     "title": "Not Too Late: Improving Academic Outcomes Among Adolescents (description du protocole Saga : 140 heures, ratio 2:1)",
+     "url": "https://www.nber.org/papers/w28531",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "claim": "Le tutorat par les pairs est le seul format de soutien ciblé à la fois très bon marché et adossé à une base de preuves large : +6 mois de progrès en moyenne, avec un bénéfice identique pour le tuteur et pour le tutoré.",
+   "what_it_is": "Synthèse de l'Education Endowment Foundation sur le « peer tutoring » — des élèves travaillent par paires ou petits groupes, l'un jouant le rôle de tuteur sur un contenu que l'enseignant a structuré, soit entre élèves de niveaux différents d'une même classe, soit entre élèves d'âges différents, soit en tutorat réciproque (les rôles alternent).",
+   "evidence_level": "méta-analyse / synthèse d'évidence (145 études), solidité de la preuve notée « élevée » par l'EEF",
+   "effect_size": "+6 mois de progrès supplémentaires sur une année scolaire en moyenne. Secondaire +7 mois, primaire +5 mois. Élèves à faible niveau +6 mois (davantage que les élèves à haut niveau). Tutorat réciproque +7 mois. Les tuteurs progressent autant que les tutorés (+6 mois). Coût attendu : « très faible » (formation des enseignants et matériel), charge en temps de personnel modérée.",
+   "concrete_practice": "L'enseignant structure des séquences où un élève plus avancé guide un pair sur une tâche cadrée (lecture appariée, résolution de problèmes avec protocole de questionnement), 20 à 30 minutes plusieurs fois par semaine, avec un matériel fourni et une rotation planifiée des rôles. Le coût marginal est nul en personnel : il s'agit d'une réorganisation du temps de classe, pas d'un recrutement.",
+   "concrete_example": "Dans la version « tutorat réciproque », qui obtient le meilleur résultat de la synthèse (+7 mois), deux élèves alternent les rôles de tuteur et de tutoré sur la même tâche selon un protocole écrit : le tuteur pose des questions préparées, signale les erreurs et demande une correction, puis les rôles s'inversent. C'est le format où l'élève faible n'est jamais cantonné au rôle de receveur — et c'est aussi celui où l'effet sur celui qui explique (l'effet « enseigner pour apprendre ») est maximal, ce que confirme le fait que l'EEF mesure un gain de 6 mois pour les tuteurs eux-mêmes, réponse directe à l'objection scolaire courante selon laquelle le tuteur « perdrait du temps ».",
+   "conditions": "L'EEF insiste sur le fait que l'effet dépend d'une formation des enseignants au dispositif et d'un protocole structuré ; le tutorat entre pairs improvisé n'a pas de raison de produire ces résultats. La durée d'implantation doit être suffisante pour que les élèves maîtrisent le protocole.",
+   "contested": "L'EEF a retiré un « cadenas » de solidité à cette rubrique parce qu'une grande partie des études n'ont pas été évaluées de façon indépendante — or les évaluations menées par les organismes promoteurs donnent systématiquement des effets plus élevés. Par ailleurs, Kraft et Falken identifient explicitement le tutorat par les pairs et le tutorat virtuel comme les deux domaines où « le besoin de preuves causales supplémentaires est manifeste » — autrement dit, la base d'essais randomisés récents et indépendants sur le peer tutoring est plus mince que le chiffre de 145 études ne le laisse croire. Enfin, Nickow et al. excluent le tutorat entre pairs de leur méta-analyse (Dietrichson et al. le classent comme « apprentissage coopératif »), de sorte que les +6 mois de l'EEF et les 0,288 écart-type de l'AERJ ne portent pas sur le même objet et ne doivent pas être additionnés.",
+   "sources": [
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — Peer tutoring (145 études)",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/peer-tutoring",
+     "year": "2021"
+    },
+    {
+     "author": "Matthew A. Kraft, Grace T. Falken",
+     "org": "Annenberg Institute at Brown University (EdWorkingPaper 20-335)",
+     "title": "A Blueprint for Scaling Tutoring Across Public Schools",
+     "url": "https://edworkingpapers.com/sites/default/files/ai20-335.pdf",
+     "year": "2021"
+    },
+    {
+     "author": "Andre Nickow, Philip Oreopoulos, Vincent Quan",
+     "org": "NBER",
+     "title": "The Impressive Effects of Tutoring on PreK-12 Learning (NBER WP 27476), note sur l'exclusion du tutorat par les pairs",
+     "url": "https://www.nber.org/papers/w27476",
+     "year": "2020"
+    }
+   ]
+  },
+  {
+   "claim": "Le tutorat en ligne fonctionne — un essai randomisé italien mesure +0,20 à +0,23 écart-type en mathématiques avec trois heures hebdomadaires données par des étudiants bénévoles — mais uniquement en individuel, et les résultats du déploiement anglais montrent que le format en ligne externalisé est le plus fragile en conditions réelles.",
+   "what_it_is": "Le Tutoring Online Program (TOP), dispositif italien mis en place pendant la fermeture des écoles, appariant des collégiens défavorisés avec des étudiants d'université bénévoles pour du tutorat entièrement à distance, évalué par deux essais randomisés successifs (2020, pendant la fermeture ; 2022, après réouverture) par Michela Carlana (Harvard) et Eliana La Ferrara (Harvard).",
+   "evidence_level": "essai randomisé (deux vagues, dont une réplication post-pandémie) ; complété par une synthèse d'évidence et une évaluation quasi-expérimentale à grande échelle",
+   "effect_size": "Trois heures hebdomadaires de tutorat INDIVIDUEL en ligne : +0,23 écart-type en mathématiques en 2020 et +0,20 écart-type en 2022 ; l'intensité plus élevée donne des effets plus forts ; le tutorat en GROUPE donne des bénéfices nettement plus faibles. Effets additionnels sur les aspirations, les compétences socio-émotionnelles et le bien-être psychologique, mais seulement pendant la fermeture des écoles. Effet mesuré aussi sur les tuteurs : hausse de l'empathie. L'EEF, de son côté, indique que « les études impliquant la technologie numérique montrent des effets globalement similaires » à celles du tutorat individuel en présentiel.",
+   "concrete_practice": "Recrutement et formation d'étudiants d'université bénévoles ; appariement stable un tuteur–un élève ; trois séances hebdomadaires d'une heure en visioconférence sur toute une période ; suivi et supervision par l'organisation coordinatrice. Le coût marginal est très faible puisque les tuteurs ne sont pas rémunérés.",
+   "concrete_example": "Le TOP a été monté au printemps 2020 par des chercheurs et des universités italiennes : des collégiens signalés par leurs enseignants comme en difficulté et issus de familles défavorisées ont été aléatoirement affectés à un tuteur — un étudiant bénévole — pour trois heures de visioconférence par semaine. La réplication de 2022, écoles rouvertes, est la donnée décisive : l'effet académique de +0,20 écart-type persiste hors contexte de confinement, tandis que les gains socio-émotionnels, eux, disparaissent. C'est donc un dispositif d'apprentissage, pas un dispositif de soutien psychologique, et il tient en régime scolaire normal.",
+   "conditions": "L'effet est conditionné à l'individualisation stricte (le format groupe en ligne perd l'essentiel du bénéfice), à une intensité réelle (trois heures par semaine, pas quelques séances) et à un appariement stable dans le temps. Le dispositif suppose un vivier d'étudiants bénévoles organisé — en Italie, il a reposé sur des universités partenaires.",
+   "contested": "Le contraste avec l'Angleterre est frontal. La filière « Tuition Partners » du NTP, la plus externalisée et la plus souvent délivrée en ligne, est celle qui produit les effets les plus mauvais — jusqu'à g = -0,065 — et les évaluateurs du NFER avancent explicitement comme explication que la filière School-Led, en présentiel et confiée à du personnel déjà connu des élèves, a mieux fonctionné. Par ailleurs, l'EEF référence un « Online Tuition pilot » dont l'impact en mois de progrès n'a pas été établi. Enfin, dans les pays à bas revenu, le tutorat à distance par téléphone a échoué dans au moins un essai : Crawfurd, Evans, Hares et Sandefur (Center for Global Development) montrent que les appels de tutorat en Sierra Leone n'ont pas amélioré les apprentissages, résultat cité par le panel GEEAP. La conclusion prudente est que le tutorat en ligne marche quand il reproduit les conditions du tutorat efficace (individuel, intensif, relation durable), et pas parce qu'il est en ligne.",
+   "sources": [
+    {
+     "author": "Michela Carlana, Eliana La Ferrara",
+     "org": "National Bureau of Economic Research (NBER Working Paper 32272) ; version publiée annoncée dans l'American Economic Review (2025)",
+     "title": "Apart but Connected: Online Tutoring, Cognitive Outcomes, and Soft Skills",
+     "url": "https://www.nber.org/papers/w32272",
+     "year": "2024"
+    },
+    {
+     "author": "NFER pour le Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "Independent Evaluation of the National Tutoring Programme: Year 2 Impact Evaluation (comparaison des filières SLT / TP)",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-year-2-impact-evaluation",
+     "year": "2023"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — One to one tuition (effets des dispositifs numériques)",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition",
+     "year": "2021"
+    },
+    {
+     "author": "Global Education Evidence Advisory Panel",
+     "org": "Banque mondiale / FCDO / UNICEF / USAID",
+     "title": "Cost-Effective Approaches to Improve Global Learning (« Smart Buys »)",
+     "url": "https://www.worldbank.org/en/topic/teachingandlearning/publication/cost-effective-approaches-to-improve-global-learning",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "claim": "Le tutorat assisté par IA donne aujourd'hui deux résultats solides et opposés : utilisée comme copilote du tuteur humain elle augmente la maîtrise des élèves à très bas coût ; utilisée sans garde-fous par l'élève seul, elle DÉGRADE l'apprentissage de 17 % — le niveau de preuve reste faible et aucun essai n'existe encore à l'échelle d'un système scolaire.",
+   "what_it_is": "Trois travaux expérimentaux récents sur des usages différents des grands modèles de langage en soutien scolaire : Tutor CoPilot (l'IA assiste le tuteur humain en temps réel), un tuteur IA conçu selon les principes pédagogiques (l'IA remplace la séance en classe), et un tuteur IA sans garde-fous (l'élève utilise un ChatGPT standard pour s'exercer).",
+   "evidence_level": "essais randomisés, mais tous de courte durée, sur des populations spécifiques et dont un seul est publié dans une revue à comité de lecture de premier plan ; niveau de preuve globalement faible pour une décision de politique publique",
+   "effect_size": "Tutor CoPilot (Wang, Ribeiro, Robinson, Loeb, Demszky, Stanford) : essai randomisé avec 900 tuteurs et 1 800 élèves de communautés défavorisées ; +4 points de pourcentage de probabilité de maîtriser un sujet (p<0,01), et +9 points de pourcentage pour les élèves des tuteurs les moins bien notés ; coût de 20 $ par tuteur et par an. Kestin et al. (Harvard, Scientific Reports 2025) : essai croisé randomisé, N=194 étudiants de physique de premier cycle ; gains d'apprentissage médians plus de deux fois supérieurs à ceux d'une séance de pédagogie active en classe, taille d'effet estimée entre 0,73 et 1,3 écart-type (régression quantile ; 0,63 en régression linéaire, sous-estimé par effet plafond), pour un temps de travail médian de 49 minutes contre 60. Bastani et al. (PNAS 2025) : essai randomisé sur près de 1 000 lycéens turcs ; l'accès à un ChatGPT standard améliore la performance PENDANT les exercices de +48 % (et un tuteur IA avec garde-fous de +127 %), mais lorsque l'accès est retiré, les élèves du bras « GPT Base » obtiennent des résultats 17 % INFÉRIEURS à ceux qui n'avaient jamais eu accès à l'outil ; le bras avec garde-fous annule cet effet négatif sans produire d'effet positif.",
+   "concrete_practice": "Trois usages distincts à ne pas confondre : (a) l'IA comme aide au tuteur (suggestions de relances socratiques en direct pendant la séance) ; (b) l'IA comme séance d'apprentissage autonome en amont du cours, avec un prompt système conçu par l'enseignant et contenant la solution pas-à-pas ; (c) l'IA en libre accès pendant le travail personnel — le seul usage actuellement massif, et le seul dont on sait qu'il nuit.",
+   "concrete_example": "L'essai de Bastani et al. est le plus directement transposable à une salle de classe européenne : dans un grand lycée turc, à l'automne 2023, quatre séances de 90 minutes couvrant environ 15 % du programme de mathématiques du semestre ont été organisées pour une cinquantaine de classes de 9e, 10e et 11e années. Chaque séance comportait un rappel de cours par l'enseignant, une phase d'exercices (c'est là que se situait la randomisation par classe : accès à un ChatGPT standard, accès à un tuteur IA contenant les solutions et les indices rédigés par les enseignants, ou aucun accès), puis un contrôle sans aucune ressource. Les copies étaient corrigées par des correcteurs indépendants sur grille. Les élèves ayant utilisé le ChatGPT standard demandaient et recopiaient les solutions — et ne s'apercevaient pas que cela dégradait leur apprentissage. La construction du bras « avec garde-fous » est explicitement décrite comme laborieuse : il faut, problème par problème, fournir au modèle la solution correcte, les erreurs typiques des élèves et la manière de donner un retour.",
+   "conditions": "Le facteur causal identifié n'est pas « l'IA » mais la conception du prompt et la présence d'un travail enseignant en amont : dans les deux essais où l'IA aide, elle a été instruite de ne pas donner la réponse et a reçu les solutions pas-à-pas préparées par des humains. Aucun de ces dispositifs n'est une économie de travail enseignant à court terme.",
+   "contested": "La prudence s'impose à plusieurs titres. Tutor CoPilot était, au moment de la vérification, disponible sous forme de prétirage (arXiv, puis Research Square) et non dans une revue à comité de lecture. L'étude de Kestin et al. porte sur 194 étudiants de premier cycle à Harvard, sur deux leçons seulement, avec un effet plafond au post-test que les auteurs corrigent par régression quantile — il est abusif d'en tirer une conclusion pour l'enseignement obligatoire, et les auteurs eux-mêmes recommandent de ne pas substituer l'IA à l'enseignement en présence. L'article de Bastani et al. a fait l'objet d'une critique publiée sur sa conception (Tan et Rajaratnam, 2024) et d'une correction publiée par PNAS en août 2025. Enfin, aucune de ces études ne mesure d'effet à moyen terme sur des évaluations externes standardisées, ni à l'échelle d'un système.",
+   "sources": [
+    {
+     "author": "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, Dora Demszky",
+     "org": "Stanford University (prétirage arXiv 2410.03017 ; également Research Square, DOI 10.21203/rs.3.rs-5363154/v1)",
+     "title": "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise",
+     "url": "https://arxiv.org/abs/2410.03017",
+     "year": "2024"
+    },
+    {
+     "author": "Gregory Kestin, Kelly Miller, Anna Klales, Timothy Milbourne, Gregorio Ponti",
+     "org": "Scientific Reports (Nature Portfolio)",
+     "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+     "url": "https://www.nature.com/articles/s41598-025-97652-6",
+     "year": "2025"
+    },
+    {
+     "author": "Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman",
+     "org": "Proceedings of the National Academy of Sciences, 122(26)",
+     "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics (correction publiée : PNAS, août 2025, DOI 10.1073/pnas.2518204122)",
+     "url": "https://doi.org/10.1073/pnas.2422633122",
+     "year": "2025"
+    }
+   ]
+  },
+  {
+   "claim": "Le tutorat est cher rapporté au coût unitaire mais compétitif rapporté au gain : le modèle Saga a divisé son coût par élève de 3 800 à 1 800 dollars en changeant de ratio et en captant une subvention de service civique, et les formats en petit groupe ou entre pairs coûtent de 3 à 40 fois moins que le un-à-un pour des effets proches.",
+   "what_it_is": "Analyse des coûts unitaires et systémiques du tutorat : chiffrage national de Kraft et Falken (Brown University), trajectoire de coût de Saga Education, et notations de coût de l'Education Endowment Foundation adossées aux prix réellement pratiqués lors de la première année du NTP.",
+   "evidence_level": "analyse de coûts et chiffrage prospectif (non expérimental), adossée à des coûts observés de dispositifs évalués par essai randomisé",
+   "effect_size": "Saga Education : ~3 800 $ par élève et par an pendant l'étude (2013-2015), puis 3 100 $ (2015-2019), puis 1 800 $ au moment de la publication — obtenus en passant d'un ratio 2:1 à 4:1 avec mi-temps sur une plateforme d'apprentissage adaptatif, et en captant une subvention AmeriCorps de 15 000 $ par tuteur. Kraft et Falken estiment le coût par élève d'un programme national américain à 643 $ en primaire (tutorat par des lycéens), 907 $ au collège (étudiants en « work-study »), 1 462 $ au lycée (diplômés en service civique à 30 000 $ de bourse annuelle) ; 83 % des coûts sont des dépenses de personnel. Prix observés en Angleterre (NTP année 1) : 167-180 £ par élève pour 15 heures de tutorat individuel, 70-100 £ pour 15 heures en groupes de 2 ou 3. Notations de coût EEF : tutorat individuel « modéré », petit groupe « faible », tutorat par les pairs « très faible ».",
+   "concrete_practice": "Les leviers de coût sont au nombre de quatre : le ratio tuteur/élèves, le statut et le salaire du tuteur, le recours à une plateforme numérique pour une partie du temps, et le partage du financement entre niveaux de pouvoir. La dépense est quasi exclusivement salariale : il n'y a pas d'économie d'échelle significative à attendre, seulement des arbitrages de conception.",
+   "concrete_example": "La trajectoire de Saga Education est l'illustration la plus précise d'un pilotage par le coût. Au moment des deux essais randomisés (2013-2015), la facturation aux districts était de 3 800 $ par élève — soit environ un cinquième de la dépense de fonctionnement par élève des Chicago Public Schools. L'organisation a ensuite ramené ce prix à 3 100 $ (2015-2019) puis à 1 800 $ en (1) obtenant que ses tuteurs soient financés par AmeriCorps à hauteur de 15 000 $ par personne et par an, et (2) passant à un modèle hybride où le ratio est de 4 élèves par tuteur au lieu de 2, les élèves passant la moitié du temps sur une plateforme d'exercices adaptatifs de type ALEKS. Le point critique que les évaluateurs ne tranchent pas : cette division du coût par deux n'a PAS été réévaluée par un nouvel essai randomisé — les 0,16 à 0,37 écart-type ont été mesurés sur le modèle à 3 800 $, pas sur celui à 1 800 $.",
+   "conditions": "La soutenabilité budgétaire dépend d'un financement stable et non d'un cofinancement dégressif imposé aux écoles. L'expérience anglaise le montre à contrario : la baisse du taux de subvention de 75 % à 60 % puis 50 % est la raison principale d'abandon citée par les écoles, et 47 % des non-participantes invoquent l'incapacité à financer leur part.",
+   "contested": "Les chiffrages de Kraft et Falken sont un exercice de pensée (« thought experiment »), explicitement calibré sur le haut de la fourchette, et reposent sur des institutions américaines non transposables (AmeriCorps, federal work-study, un Congrès votant une extension de 307 000 postes de service civique). Ils rappellent surtout que les deux tentatives précédentes de tutorat national aux États-Unis ont échoué : America Reads (Clinton) n'a jamais été financée et ses bénévoles sont devenus de fait des assistants d'enseignement plutôt que des tuteurs, tandis que les « Supplemental Educational Services » du No Child Left Behind ont distribué plus de 2 milliards de dollars par an à des prestataires dont peu avaient une preuve crédible d'efficacité, avec un très faible taux de recours. Enfin, l'argument de « ratio bénéfice-coût comparable au Perry Preschool » avancé pour Saga repose sur une conversion des scores en salaires futurs qui reste une extrapolation.",
+   "sources": [
+    {
+     "author": "Matthew A. Kraft, Grace T. Falken",
+     "org": "Annenberg Institute at Brown University (EdWorkingPaper 20-335)",
+     "title": "A Blueprint for Scaling Tutoring Across Public Schools",
+     "url": "https://edworkingpapers.com/sites/default/files/ai20-335.pdf",
+     "year": "2021"
+    },
+    {
+     "author": "Jonathan Guryan et al.",
+     "org": "NBER Working Paper 28531 (note de bas de page 12 sur la trajectoire de coût de Saga)",
+     "title": "Not Too Late: Improving Academic Outcomes Among Adolescents",
+     "url": "https://www.nber.org/papers/w28531",
+     "year": "2021"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — One to one tuition et Small group tuition (coûts observés du NTP année 1)",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/small-group-tuition",
+     "year": "2021"
+    },
+    {
+     "author": "NFER pour le Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "National Tutoring Programme: evaluation and reflections (taux de subvention 75 %/60 %/50 % et motifs d'abandon)",
+     "url": "https://www.gov.uk/government/publications/national-tutoring-programme-evaluation-and-reflections",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "Le « teaching at the right level » — regrouper les élèves par niveau réel plutôt que par année d'étude pendant une partie du temps scolaire — produit les plus grands effets jamais mesurés en éducation, mais il a fallu cinq essais randomisés successifs et plusieurs échecs pour trouver la version qui fonctionne dans un système scolaire d'État.",
+   "what_it_is": "Approche pédagogique développée par l'ONG indienne Pratham : pendant une à deux heures par jour, ou pendant des « camps » intensifs, le programme officiel est mis de côté, les enfants sont évalués oralement un par un sur des compétences de base, regroupés par niveau effectif (à travers les années d'étude), et l'enseignement est calé sur ce niveau avec un matériel simple et une remédiation systématique. Évalué par Abhijit Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukherji, Marc Shotland et Michael Walton.",
+   "evidence_level": "série de six essais randomisés dans sept États indiens, dont plusieurs échecs documentés ; classé « Great Buy » par le panel indépendant GEEAP (Banque mondiale, FCDO, UNICEF, USAID)",
+   "effect_size": "Programme initial Balsakhi (Vadodara et Mumbai, 2001-2004) : +0,28 écart-type sur des tests de compétences de base après deux ans. Modèle enseignant intégré à l'école (Haryana, 2012-13, 400 écoles dont 200 traitées) : +0,2 niveau ASER en hindi. Camps d'apprentissage intensifs en école (Uttar Pradesh, 2013-14, ~120 écoles par bras, 50 jours au total) : +0,7 à 1,0 niveau ASER. Attention à l'unité : ces derniers effets sont exprimés en « niveaux » de l'échelle ASER (reconnaître des lettres / des mots / lire un paragraphe / lire une histoire), pas en écarts-types. Camp d'été au Bihar : effet sur les traités d'environ +0,5 niveau de lecture en quelques semaines.",
+   "concrete_practice": "L'enseignant fait passer à chaque élève une évaluation orale simple (outil ASER), affiche les résultats, reconstitue physiquement des groupes de niveau à travers les classes de 3e, 4e et 5e année pendant une heure par jour, et enseigne avec un matériel à bas coût (cartes de mots, tableaux de lettres) adapté à chaque groupe. Les groupes sont réévalués et recomposés périodiquement. Des « leaders de pratique » — des formateurs ayant eux-mêmes pratiqué la méthode — forment, accompagnent en classe et suivent les données.",
+   "concrete_example": "La séquence des échecs est aussi instructive que celle des succès. Au Bihar et en Uttarakhand (2008-2010), quatre variantes ont été testées : distribuer le matériel seul n'a eu AUCUN effet ; matériel + formation des enseignants n'a eu AUCUN effet ; matériel + formation + bénévoles extérieurs a fonctionné au Bihar mais PAS en Uttarakhand, où les bénévoles ont été absorbés par l'école et se sont mis à enseigner le programme ordinaire ou ne sont pas venus. Les chercheurs ont alors conçu la version Haryana : une heure quotidienne dédiée et sanctuarisée, avec réaffectation OBLIGATOIRE de tous les élèves de 3e à 5e année dans des salles par niveau — supprimant ainsi la discrétion de l'enseignant sur le regroupement — et un système de « Associate Block Resource Coordinators » chargés du mentorat et du contrôle. Résultat : plus de 90 % des écoles regroupaient effectivement par niveau (contre un échec quasi total au Bihar et en Uttarakhand), 81 % des classes utilisaient le matériel, et 80 % des écoles avaient reçu la visite d'un coordinateur dans les 30 jours. En Uttar Pradesh, les camps intensifs ont fait passer la proportion d'enfants incapables de reconnaître des lettres de 39 % à 8 % et celle sachant lire un paragraphe ou une histoire de 15 % à 49 % (contre 24 % dans le groupe témoin) en 50 jours. Le modèle Haryana a ensuite été implanté dans 107 921 écoles de 13 États indiens, touchant près de 5 millions d'enfants.",
+   "conditions": "Les trois conditions identifiées par les auteurs sont institutionnelles, pas pédagogiques : (1) un créneau horaire protégé et dédié, pour lever l'inertie du programme officiel et rendre la conformité observable ; (2) le retrait de la discrétion locale sur le regroupement par niveau ; (3) une chaîne de mentorat et de contrôle à l'échelon intermédiaire (sous-district) qui visite réellement les classes et discute des données d'apprentissage avec les enseignants. Le GEEAP prévient explicitement : « appeler un programme teaching at the right level n'en fera pas automatiquement un Great Buy ; il doit être effectivement bien mis en œuvre. »",
+   "contested": "La transposabilité à un système riche est la vraie question et elle n'est pas tranchée. Les effets spectaculaires de Pratham sont mesurés sur des enfants dont une majorité ne maîtrise pas la reconnaissance des lettres en 5e année : il y a un « plancher » très bas, donc une marge de progression sans équivalent dans un système où presque tous les élèves décodent. Le GEEAP précise que ces interventions sont efficaces « dans des contextes où il existe une grande variété de niveaux au sein d'une classe et où les niveaux des élèves sont inférieurs aux attentes du programme » — condition qui, en FWB, est vraie pour une minorité substantielle mais pas pour la majorité. De plus, les auteurs notent qu'une version allégée (le simple regroupement par niveau initial sans changement de pédagogie) a été très rentable au Kenya mais s'est heurtée à une résistance en Inde. Enfin, dans un système européen, le regroupement par niveau se heurte frontalement aux objections sur le « tracking » précoce et à la crainte d'un effet de stigmatisation, objections que la littérature indienne n'a pas eu à traiter.",
+   "sources": [
+    {
+     "author": "Abhijit Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukherji, Marc Shotland, Michael Walton",
+     "org": "NBER Working Paper 22931 ; publié dans le Journal of Economic Perspectives, 31(4), 73-102",
+     "title": "From Proof of Concept to Scalable Policies: Challenges and Solutions, with an Application",
+     "url": "https://www.nber.org/papers/w22931",
+     "year": "2017"
+    },
+    {
+     "author": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+     "org": "J-PAL",
+     "title": "Teaching at the Right Level to improve learning (étude de cas : six évaluations randomisées dans sept États indiens ; déploiement dans 12 pays africains)",
+     "url": "https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning",
+     "year": "2023"
+    },
+    {
+     "author": "Global Education Evidence Advisory Panel",
+     "org": "Banque mondiale / FCDO / UNICEF / USAID",
+     "title": "Cost-Effective Approaches to Improve Global Learning (« Smart Buys ») — targeted instruction classée « Great Buy »",
+     "url": "https://www.worldbank.org/en/topic/teachingandlearning/publication/cost-effective-approaches-to-improve-global-learning",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "claim": "Le soutien ciblé en petit groupe est le format le plus réaliste budgétairement (+4 mois de progrès pour un coût faible) — mais dans les systèmes riches, deux évaluations rigoureuses montrent que mal ciblé ou mal conçu, il peut nuire : effet NÉGATIF au seuil d'entrée en 1re primaire aux États-Unis, et -0,19 à -0,43 écart-type quatre ans après pour Reading Recovery.",
+   "what_it_is": "Trois corpus : la synthèse EEF sur le tutorat en petit groupe et sur les interventions menées par les assistants d'éducation ; l'évaluation fédérale américaine du dispositif « Response to Intervention » (identification par dépistage et orientation vers un soutien gradué) ; et l'étude de suivi à long terme de Reading Recovery, le programme de remédiation en lecture individuelle le plus diffusé au monde.",
+   "evidence_level": "synthèse d'évidence (EEF) + évaluation par régression sur discontinuité à grande échelle (RtI, 146 écoles ; Reading Recovery, 9 879 élèves)",
+   "effect_size": "EEF, petit groupe : +4 mois de progrès en moyenne, coût « faible », solidité « modérée » (62 études) ; primaire +4 mois, secondaire +2 mois ; lecture +4 mois, mathématiques +3 mois. EEF, interventions par assistants d'éducation : +4 mois en moyenne, mais ce chiffre masque un contraste extrême — les assistants déployés de façon générale dans la classe ordinaire produisent 0 mois de progrès, tandis que ceux qui délivrent une intervention structurée en 1:1 ou petit groupe produisent +4 à +6 mois. Response to Intervention (Balu, Zhu, Doolittle, Schiller, Jenkins, Gersten, 2015) : les élèves de 1re primaire situés juste SOUS le seuil de dépistage et donc orientés vers le soutien obtiennent au printemps des scores de lecture INFÉRIEURS à ceux situés juste au-dessus du seuil ; aucun effet significatif en 2e et 3e primaire. Reading Recovery (May, Blakeney, Shrestha, Mazal, 2023/2024) : effets à long terme « statistiquement significatifs et substantiellement négatifs » — de -0,19 à -0,43 écart-type aux tests d'État de lecture en 3e et 4e primaire, soit un demi-niveau à un niveau scolaire complet de retard par rapport à des élèves comparables non pris en charge.",
+   "concrete_practice": "Le format dominant en Europe : un enseignant ou un assistant formé sort 2 à 6 élèves de la classe pour une séance de remédiation structurée, plusieurs fois par semaine. L'EEF précise que ce format demande beaucoup de temps de personnel comparé aux approches en classe entière, mais qu'il coûte nettement moins que le un-à-un et constitue donc le format à tester en premier.",
+   "concrete_example": "L'évaluation américaine du Response to Intervention est le contre-exemple le plus utile pour une administration scolaire. Le dispositif consiste à dépister tous les élèves en début d'année, à fixer un seuil, et à orienter ceux qui se situent en dessous vers un soutien renforcé. L'étude a porté sur 146 écoles de 13 États reconnues comme EXPÉRIMENTÉES en RtI, en 2011-12 ; 86 % d'entre elles déclaraient une mise en œuvre complète. En comparant les élèves juste sous le seuil aux élèves juste au-dessus — donc des élèves quasiment identiques, séparés par le hasard d'un point de dépistage —, les évaluateurs trouvent que les premiers, ceux qui ont reçu le soutien, lisent MOINS BIEN au printemps de la 1re primaire. L'hypothèse la plus probable est le coût d'opportunité : l'élève sorti de la classe manque l'enseignement ordinaire de lecture, et la remédiation reçue ne compense pas ce qu'il a perdu. C'est exactement le risque d'un dispositif de remédiation qui se substitue au cours au lieu de s'y ajouter.",
+   "conditions": "Deux conditions rédhibitoires ressortent : (1) le soutien doit être ADDITIONNEL au cours de la matière concernée, jamais substitutif — l'EEF le pose comme condition explicite d'efficacité du tutorat individuel, et l'échec du RtI en 1re primaire en est la démonstration en creux ; (2) l'intervention doit être structurée et l'adulte formé à un protocole précis — le contraste EEF entre 0 mois (assistant déployé « en général » dans la classe) et +6 mois (assistant délivrant une intervention structurée) est l'écart le plus net de toute la base de preuves sur le soutien ciblé.",
+   "contested": "Ces résultats négatifs sont eux-mêmes discutés. Pour Reading Recovery, les effets à court terme mesurés dans l'évaluation i3 étaient positifs : c'est le suivi en 3e et 4e primaire qui renverse le signe, et la régression sur discontinuité aux abords du seuil d'éligibilité ne dit rien des élèves très éloignés du seuil ; l'hypothèse d'un effet de « désignation » (l'élève étiqueté est ensuite orienté différemment) est plausible mais non démontrée. Pour le RtI, l'estimation est locale au seuil et ne se généralise pas aux élèves les plus faibles. Il reste que ces deux études portent sur des dispositifs implantés à très grande échelle, dans des systèmes riches, et qu'elles constituent le contrepoids indispensable au discours selon lequel « le tutorat marche toujours ». Elles confirment aussi la hiérarchie de Nickow et al. : c'est en 2e-5e primaire (0,21 écart-type) et au secondaire (0,23) que les effets moyens sont les plus faibles, pas en maternelle/1re primaire (0,50 et 0,40).",
+   "sources": [
+    {
+     "author": "Education Endowment Foundation",
+     "org": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — Small group tuition (62 études) et Teaching assistant interventions (65 études)",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/small-group-tuition",
+     "year": "2021"
+    },
+    {
+     "author": "Rekha Balu, Pei Zhu, Fred Doolittle (MDRC), Ellen Schiller (SRI), Joseph Jenkins (University of Washington), Russell Gersten (Instructional Research Group)",
+     "org": "National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences (NCEE 2016-4000)",
+     "title": "Evaluation of Response to Intervention Practices for Elementary School Reading",
+     "url": "https://ies.ed.gov/ncee/pubs/20164000/",
+     "year": "2015"
+    },
+    {
+     "author": "Henry May, Abigail Blakeney, Prakash Shrestha, Mackenzie Mazal",
+     "org": "Journal of Research on Educational Effectiveness, 17(3)",
+     "title": "Long-Term Impacts of Reading Recovery through 3rd and 4th Grade: A Regression Discontinuity Study",
+     "url": "https://doi.org/10.1080/19345747.2023.2209092",
+     "year": "2023"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose sans difficulté majeure. (1) Les paramètres de conception issus de la méta-analyse sont largement indépendants du contexte institutionnel : tuteur formé et supervisé, au moins trois séances hebdomadaires, pendant le temps scolaire, ratio maximal 1:3, sur un bloc de 10 à 20 semaines, avec un curriculum écrit et un suivi des progrès. Ce sont des règles de paramétrage, pas des institutions à importer. (2) Le ciblage par NIVEAU SCOLAIRE plutôt que par statut social : l'évaluation anglaise suggère que les élèves à faible niveau antérieur bénéficient davantage que les seuls élèves défavorisés, et les deux dimensions ne se recoupent que partiellement. Dans une FWB où 35 % des élèves de 15 ans ont redoublé, la population cible est déjà identifiée par le système lui-même. (3) Le tutorat par les pairs : coût très faible, base de preuves large (145 études, +6 mois), aucune dépendance à une institution étrangère, et compatible avec la liberté d'organisation pédagogique de chaque réseau puisqu'il s'agit d'une réorganisation interne du temps de classe. C'est le seul levier de ce dossier qui soit à la fois substantiel et quasi gratuit sous contrainte budgétaire forte. (4) Le modèle italien TOP (Carlana & La Ferrara) est le plus proche institutionnellement : contexte d'Europe continentale, système scolaire public à forte régulation, tuteurs étudiants bénévoles recrutés via des universités — la FWB dispose d'un vivier universitaire et haute-école comparable.\n\nCe qui ne se transpose PAS tel quel. (1) Le modèle Saga repose sur une institution proprement américaine — l'année de service civique rémunérée à bas salaire (16 000 à 30 000 $) et subventionnée par AmeriCorps — et sur un marché du travail où de jeunes diplômés acceptent ce statut. La Belgique francophone n'a pas d'équivalent à cette échelle ; sans lui, le coût du modèle reste celui d'un emploi salarié qualifié, c'est-à-dire hors de portée à 3 800 $ par élève pour une part significative de 900 000 élèves. (2) Les effets spectaculaires de Pratham (de 15 % à 49 % d'élèves sachant lire une histoire en 50 jours) sont obtenus sur un plancher de compétences sans équivalent en FWB ; l'idée transposable n'est pas l'ampleur de l'effet mais le mécanisme institutionnel — un créneau horaire protégé, le retrait de la discrétion locale sur le regroupement, une chaîne de mentorat qui visite réellement les classes. (3) Le regroupement par niveau se heurte en FWB à la critique politique du tracking précoce, objection que la littérature indienne n'a pas eu à traiter ; il devra être présenté comme temporaire, réversible et interne à une classe ou à un cycle, jamais comme une filiarisation.\n\nCe que la gouvernance partagée de la FWB impose de faire différemment. La leçon centrale du National Tutoring Programme est directement pertinente pour un système à réseaux multiples : la filière pilotée par un opérateur centralisé unique (Randstad) a atteint 45 % de sa cible et produit des effets nuls à négatifs ; la filière où l'école choisissait elle-même son tuteur, souvent son propre personnel, en présentiel, a dépassé sa cible, représenté 81 % des parcours et été la SEULE à produire des effets positifs constants. Autrement dit, l'architecture qui convient à la FWB — subvention et cadrage qualité au niveau de la Fédération, choix du tuteur et du format au niveau de l'établissement et du réseau — est aussi celle que l'évidence désigne comme la plus efficace. Le rôle central n'est donc pas d'opérer le dispositif mais (a) de fixer un plancher de dose non négociable, (b) d'agréer des protocoles et du matériel, (c) de financer la formation et la supervision des tuteurs, et (d) d'imposer dès la conception une évaluation randomisée ou par discontinuité — ce que l'Angleterre n'a pas fait, se condamnant à ne jamais savoir si son milliard de livres avait produit quelque chose.\n\nLe risque budgétaire spécifique. Sous contrainte de 1,5 milliard d'euros de déficit, la tentation sera d'étaler une petite dose sur beaucoup d'élèves, comme l'Angleterre (12-15 heures, ratios jusqu'à 1:6). C'est précisément le paramétrage dont on sait qu'il ne produit rien. À enveloppe donnée, la conclusion de ce dossier est de servir moins d'élèves avec une dose crédible, en commençant par les niveaux où l'effet est le plus élevé (maternelle et 1re-2e primaire, 0,40 à 0,50 écart-type contre 0,21-0,23 ensuite) et par les mathématiques au secondaire, où le déficit de la FWB face à la Communauté flamande est le plus marqué et où le seul essai randomisé de grande ampleur sur adolescents (Saga) a produit ses effets. Enfin, l'expérience anglaise du taux de subvention dégressif (75 % → 60 % → 50 %) est un avertissement : un cofinancement croissant imposé aux établissements fait sortir du dispositif précisément les écoles les plus pauvres, celles dont les élèves en ont le plus besoin."
+}

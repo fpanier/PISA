@@ -1,0 +1,372 @@
+{
+ "topic": "Vietnam : que reste-t-il de robuste dans le « miracle éducatif » vietnamien ?",
+ "headline": "Le sur-rendement vietnamien est réel et démontré hors PISA (données Young Lives : +0,25 à +0,4 écart-type de gain par année scolaire par rapport à l'Inde, au Pérou et à l'Éthiopie), mais il ne s'explique ni par les ressources, ni par le temps scolaire, ni par les caractéristiques observables des familles et des écoles — il tient à la productivité de l'heure de classe, à la compétence pédagogique disciplinaire des enseignants et à un dispositif de redevabilité serré ; et il vient d'être rendu illisible par PISA 2025, où le Vietnam est exclu des analyses de tendance après sa bascule sur ordinateur.",
+ "headline_unused": "x",
+ "searches_run": 38,
+ "items": [
+  {
+   "claim": "Le sur-rendement vietnamien est confirmé par des données totalement indépendantes de PISA : sur des tests de mathématiques identiques administrés aux mêmes enfants suivis en panel, une année de scolarité primaire supplémentaire produit au Vietnam un gain supérieur de 0,25 à 0,4 écart-type à celui obtenu en Inde, au Pérou ou en Éthiopie.",
+   "what_it_is": "Abhijeet Singh exploite le panel d'enfants Young Lives (Éthiopie, Inde – Andhra Pradesh et Telangana, Pérou, Vietnam), avec des items de test communs aux quatre pays, pour estimer l'effet causal d'une année de scolarité supplémentaire. Il combine des modèles de valeur ajoutée et une régression sur discontinuité fondée sur les règles d'âge d'entrée à l'école. La question n'est donc pas « le Vietnam a-t-il de bons scores ? » mais « une année d'école vietnamienne produit-elle plus d'apprentissage qu'ailleurs ? ».",
+   "evidence_level": "quasi-expérimental (régression sur discontinuité sur les règles d'inscription + modèles de valeur ajoutée sur données de panel individuelles)",
+   "effect_size": "Effet causal d'une année de scolarité supérieur de 0,25 à 0,40 écart-type au Vietnam par rapport aux trois autres pays ; ce différentiel de productivité explique l'essentiel de l'écart de scores observé à 8 ans. Égaliser l'exposition à l'école et sa productivité annule presque entièrement l'écart avec le Vietnam pour le Pérou et l'Inde, et environ 60 % pour les élèves éthiopiens scolarisés.",
+   "concrete_practice": "Rien de spectaculaire côté dispositif : les enfants vietnamiens suivis sont dans des écoles primaires publiques ordinaires, souvent rurales, avec un programme national unique, un manuel unique par discipline et des classes chargées. Ce qui diffère est ce qui se passe pendant l'heure de classe — couverture effective du programme, progression disciplinaire, enseignants testés comme compétents sur le contenu (cf. élément suivant) — et non le volume d'heures ni les moyens.",
+   "concrete_example": "Cohorte cadette Young Lives : environ 2 000 enfants par pays nés en 2001-2002, suivis de 1 an à 15 ans (rounds 1 à 5, 2002-2016), avec tests cognitifs administrés à domicile à 5, 8, 12 et 15 ans. Les écarts de scores entre pays sont modestes à l'âge préscolaire, puis explosent durant les deux à trois premières années de scolarité : à 8 ans, l'écart Vietnam/autres pays est déjà massif. La RD exploite le fait que deux enfants nés à quelques jours d'écart de part et d'autre de la date-butoir d'inscription se retrouvent dans des classes différentes au moment du test : au Vietnam, ce « saut » d'une année de scolarité vaut 0,25 à 0,40 σ de plus qu'en Inde, au Pérou ou en Éthiopie.",
+   "conditions": "La démonstration suppose des tests réellement comparables (items communs ancrés) et une application stricte des règles d'âge d'entrée — vérifiée par l'auteur. Elle porte sur le primaire : elle établit que l'école vietnamienne convertit mieux une année de présence en apprentissage, pas pourquoi. Elle ne dit rien du secondaire supérieur ni de l'enseignement qualifiant.",
+   "contested": "La limite majeure est que l'étude identifie un différentiel de productivité sans l'expliquer : elle ne désigne aucun levier actionnable. L'Inde est réduite à deux États (Andhra Pradesh et Telangana) sur 28, ce qui interdit de généraliser « l'Inde ». Les échantillons Young Lives sont volontairement pro-pauvres (sites sentinelles) et non représentatifs au niveau national, ce que les auteurs reconnaissent ; le classement des pays est cependant cohérent avec PISA, TIMSS et les données administratives, ce qui limite ce risque. Aucun échec de réplication identifié.",
+   "sources": [
+    {
+     "author": "Abhijeet Singh",
+     "title": "Learning More with Every Year: School Year Productivity and International Learning Divergence",
+     "org": "Journal of the European Economic Association",
+     "year": "2020",
+     "url": "https://doi.org/10.1093/jeea/jvz033"
+    }
+   ]
+  },
+  {
+   "claim": "Le meilleur candidat explicatif identifié à ce jour est la compétence pédagogique disciplinaire des enseignants du primaire : les professeurs de mathématiques vietnamiens surclassent leurs homologues indiens de 0,71 écart-type et péruviens de 1,52 écart-type sur un test de didactique des mathématiques, et cette seule variable explique 65 à 84 % de l'écart d'apprentissage entre le Vietnam et le Pérou.",
+   "what_it_is": "Dans l'enquête Young Lives, les enseignants de mathématiques du primaire de trois pays (Inde, Pérou, Vietnam) ont eux-mêmes passé un test mesurant non pas leur diplôme mais leur capacité à traiter des situations d'enseignement des mathématiques (identifier l'erreur d'un élève, choisir une représentation, expliquer une procédure). Les réponses sont mises sur une échelle commune par analyse IRT à partir des items partagés entre pays.",
+   "evidence_level": "corrélationnel multi-pays sur données individuelles appariées élève-enseignant-école (décomposition à la Oaxaca-Blinder), non causal",
+   "effect_size": "Habileté pédagogique latente des enseignants vietnamiens : +0,71 σ vs Inde, +1,52 σ vs Pérou. Écart d'apprentissage brut en mathématiques à 15 ans : Vietnam +0,67 à +0,73 σ vs Pérou, +0,97 à +1,12 σ vs Inde, +1,35 à +1,41 σ vs Éthiopie. L'ajout des variables scolaires incluant la compétence pédagogique fait passer l'écart Vietnam-Pérou de 0,555 σ à 0,091 σ (84 % expliqué) et de 0,613 σ à 0,214 σ (65 %) selon la mesure de score retenue ; pour l'Inde, l'apport n'est que de 10-12 points de pourcentage (total expliqué 14-21 %).",
+   "concrete_practice": "Le test passé par les enseignants porte sur la didactique des mathématiques élémentaires : par exemple, face à une erreur type d'élève sur les fractions, quelle explication ou quel contre-exemple proposer. Ce n'est ni un test de culture générale ni un test de niveau académique : c'est une mesure de ce que l'enseignant sait faire avec le contenu devant une classe. Au Vietnam, ces enseignants sont quasi tous diplômés du supérieur (95 % ont un diplôme universitaire général) et ont en moyenne 17 ans d'ancienneté.",
+   "concrete_example": "Round 5 de Young Lives (2016) : les enseignants de mathématiques des écoles primaires fréquentées par les enfants du panel en Inde, au Pérou et au Vietnam passent un questionnaire de compétence didactique comportant 4 à 9 items communs à chaque paire de pays. Exemple d'item reproduit dans le document de travail RISE : une situation d'enseignement avec plusieurs réponses pédagogiques possibles. Résultat : la distribution vietnamienne est décalée d'un écart-type et demi par rapport à la distribution péruvienne. Introduite dans la régression d'apprentissage des élèves de 15 ans, cette variable absorbe à elle seule l'essentiel de l'écart Vietnam-Pérou.",
+   "conditions": "Transposable seulement si le système sait (a) mesurer la compétence didactique disciplinaire des enseignants en poste, ce que très peu de systèmes européens font, et (b) la faire varier par le recrutement et la formation continue. Le résultat est spécifique aux mathématiques du primaire ; aucune donnée équivalente pour la lecture ou le secondaire. Aucune donnée non plus pour l'Éthiopie, ce qui interdit de tester la variable sur l'écart le plus large.",
+   "contested": "Corrélationnel : rien n'exclut que la compétence didactique mesurée soit un marqueur d'autre chose (sélection des enseignants, culture professionnelle, qualité de l'encadrement). Les auteurs eux-mêmes soulignent que même avec ces variables, ils n'expliquent qu'au mieux un cinquième de l'écart avec l'Inde. Point contradictoire important : dans l'analyse PISA des mêmes auteurs, la proportion d'enseignants « qualifiés » a un effet ESTIMÉ PLUS FAIBLE au Vietnam (18,2 points) que dans les autres pays PISA 2012 (46,1 points) — le diplôme formel et la compétence didactique mesurée ne disent donc pas la même chose, et il serait erroné d'en conclure qu'il suffit d'élever les exigences de diplôme.",
+   "sources": [
+    {
+     "author": "Paul Glewwe, Zoe James, Jongwook Lee, Caine Rolleston, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the Young Lives Data from Ethiopia, Peru, India and Vietnam",
+     "org": "RISE Working Paper 21/078, Blavatnik School of Government, University of Oxford",
+     "year": "2021",
+     "url": "https://riseprogramme.org/sites/default/files/2021-09/Vietnams_Exceptional_Performance_Education_Relative_Other_Countries.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le Vietnam ne réussit PAS en allongeant le temps scolaire : ses élèves passent MOINS d'heures à l'école que ceux d'Inde, du Pérou ou d'Éthiopie. L'avantage porte sur la densité pédagogique de l'heure de classe, mesurée indépendamment par TALIS 2024 : 11 % du temps de classe consacré à la mise en ordre contre 15 % en moyenne OCDE, et 72 % des enseignants déclarant atteindre leurs objectifs de leçon contre 44 % en moyenne OCDE.",
+   "what_it_is": "Deux sources indépendantes convergent. Côté Young Lives, le temps quotidien passé à l'école est relevé par enquête auprès des ménages à 8, 12 et 15 ans. Côté OCDE, TALIS 2024 interroge directement les enseignants sur l'usage du temps de classe et l'atteinte des objectifs d'apprentissage.",
+   "evidence_level": "descriptif comparatif (enquêtes déclaratives auprès des ménages et des enseignants) ; pas d'évaluation causale",
+   "effect_size": "Temps quotidien à l'école à 12 ans : 5,4 h au Vietnam, 5,6 h en Éthiopie, 6,1 h au Pérou, 8,0 h en Inde. TALIS 2024 : 11 % du temps de classe employé à maintenir l'ordre au Vietnam contre 15 % en moyenne OCDE ; 8 % des enseignants déclarent perdre beaucoup de temps du fait d'interruptions par les élèves ; 72 % déclarent atteindre « assez » ou « beaucoup » leurs objectifs de leçon contre 44 % en moyenne OCDE ; 4 % des enseignants déclarent un stress professionnel élevé contre 19 % en moyenne OCDE.",
+   "concrete_practice": "Journée scolaire relativement courte (au primaire, historiquement une demi-journée dans une partie du réseau, l'extension à la journée complète étant un chantier gouvernemental soutenu par la Banque mondiale), programme national unique, progression commune, et une classe où le temps consacré à obtenir le silence et l'attention est faible. Les 4 points de temps de classe économisés sur la discipline par rapport à la moyenne OCDE représentent, sur une année, plusieurs semaines d'enseignement effectif.",
+   "concrete_example": "TALIS 2024, enquête OCDE auprès des enseignants et chefs d'établissement du premier cycle du secondaire, résultats Viet Nam publiés le 7 octobre 2025 : 100 % des enseignants déclarent avoir fait l'objet d'observations en classe dans le cadre de leur évaluation, 99 % d'une évaluation de leur maîtrise du contenu ; 79 % ont bénéficié d'une induction formelle ou informelle à l'entrée dans le métier ; 78 % échangent des supports d'enseignement avec leurs collègues, 66 % observent les cours de collègues. La combinaison « classe calme + objectifs de leçon atteints + observation systématique » décrit un métier très encadré et très collectif.",
+   "conditions": "Le faible temps perdu à la discipline est indissociable d'un contexte de forte déférence à l'autorité de l'enseignant et de sanction sociale de l'absentéisme par les familles. Les données TALIS sont déclaratives et peuvent être affectées par une désirabilité sociale plus forte dans un système centralisé où l'enseignant est évalué à 100 % par observation. À l'inverse, ce résultat invalide l'idée que la réussite vietnamienne s'achète en heures supplémentaires.",
+   "contested": "Deux objections sérieuses. (1) Le temps « à l'école » est faible mais le temps total d'étude est élevé : les enfants vietnamiens étudient 2,6 à 2,9 h/jour à la maison de 8 à 15 ans, contre 1,0 à 2,1 h dans les trois autres pays Young Lives — l'économie de temps scolaire est donc partiellement reportée sur les familles. (2) Les taux de satisfaction et d'efficacité déclarés au Vietnam (97 % satisfaits de leur emploi contre 89 % OCDE ; 95 % jugeant leur formation continue utile contre 55 % OCDE) sont si atypiques qu'ils posent une question de comparabilité culturelle des échelles de réponse — biais d'acquiescement documenté dans les enquêtes déclaratives en Asie de l'Est, que je n'ai pas pu quantifier ici.",
+   "sources": [
+    {
+     "author": "Paul Glewwe, Zoe James, Jongwook Lee, Caine Rolleston, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the Young Lives Data from Ethiopia, Peru, India and Vietnam",
+     "org": "RISE Working Paper 21/078",
+     "year": "2021",
+     "url": "https://riseprogramme.org/sites/default/files/2021-09/Vietnams_Exceptional_Performance_Education_Relative_Other_Countries.pdf"
+    },
+    {
+     "title": "Results from TALIS 2024 – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/results-from-talis-2024-country-notes_e127f9e2-en/viet-nam_2a361394-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "Le Vietnam combine autonomie d'établissement très faible et redevabilité forte : publication publique des résultats dans 76 % des écoles contre 35 % dans les pays en développement comparables, et évaluation des enseignants fondée sur les résultats des élèves — un dispositif dont l'analyse PISA suggère qu'il est nettement plus « productif » au Vietnam qu'ailleurs.",
+   "what_it_is": "Analyse des questionnaires « établissement » de PISA 2012 comparant le Vietnam à sept pays en développement (Albanie, Colombie, Indonésie, Jordanie, Pérou, Thaïlande, Tunisie) dont le PIB/hab. PPA 2010 est inférieur à 10 000 USD. Les indices d'autonomie et de participation enseignante sont les indices OCDE standardisés (moyenne OCDE = 0).",
+   "evidence_level": "corrélationnel (comparaison de moyennes + régressions à la Fryer-Levitt + décomposition Oaxaca-Blinder sur PISA 2012)",
+   "effect_size": "Indice d'autonomie administrative de l'école (SCHAUTON) : −1,04 au Vietnam contre −0,25 dans les sept pays comparés. Participation des enseignants aux décisions (TCHPARTI) : −1,64 contre −0,22. Publication publique des résultats de l'établissement : 76 % des écoles au Vietnam contre 35 %. Dans la décomposition Oaxaca-Blinder sur PISA 2012 menée par Dang et al., l'usage des résultats des élèves dans l'évaluation formelle des enseignants contribue pour environ 25 points de score à la part « productivité » de l'écart — non parce que le Vietnam utilise davantage ce dispositif, mais parce que le même dispositif y produit davantage.",
+   "concrete_practice": "Les décisions d'affectation des enseignants, de budget, de contenu des cours et de politique d'évaluation sont prises au niveau du ministère et des départements provinciaux d'éducation, pas de l'établissement. Le chef d'établissement dispose de peu de marges mais d'un cadre d'objectifs commun et d'obligations de remontée. Les données d'assiduité des enseignants et des élèves, les résultats aux tests et les activités de formation continue font l'objet d'un enregistrement systématique (variable QUAL_RECORD de PISA), et cette variable contribue significativement à expliquer l'écart de scores.",
+   "concrete_example": "PISA 2012, questionnaire établissement, 4 882 élèves vietnamiens contre environ 41 000 dans les sept pays comparés : les directeurs vietnamiens déclarent deux fois plus souvent que leurs homologues afficher publiquement les résultats de l'école ; ils rapportent moins de problèmes d'absentéisme enseignant (indice TEACCLIM plus favorable) ; et l'évaluation des enseignants intègre plus fréquemment les résultats des élèves. Parallèlement, l'indice d'autonomie de l'école est de plus d'un écart-type sous la moyenne OCDE.",
+   "conditions": "Ce couple « faible autonomie / forte redevabilité » n'a de sens que s'il existe un référentiel de contenus et de progression réellement partagé et si l'information remontée est fiable. Il fonctionne dans un État unitaire à parti unique avec une administration éducative déconcentrée et une norme sociale forte de respect de la hiérarchie scolaire. Il ne suppose en revanche aucune dépense supplémentaire, ce qui le rend intéressant sous contrainte budgétaire.",
+   "contested": "C'est le point le plus fragile de tout le dossier. (1) Purement corrélationnel : PISA 2012 est une coupe transversale, aucune inférence causale n'est possible, les auteurs le disent explicitement. (2) La littérature internationale sur la redevabilité par publication des résultats est très partagée, avec des effets documentés de « teaching to the test », de rétrécissement du curriculum et de manipulation des échantillons d'élèves testés ; Parandekar et Sedmik ne testent aucun de ces effets pervers. (3) Dang et al. montrent que la décomposition attribue l'écart à des coefficients (« productivité ») et non à des dotations, et concluent eux-mêmes que cette décomposition « éclaire très peu » les raisons sous-jacentes — autrement dit, la redevabilité vietnamienne est une description, pas une explication établie. (4) L'effet attribué à la publication des résultats pourrait être entièrement absorbé par des variables culturelles non mesurées.",
+   "sources": [
+    {
+     "author": "Suhas D. Parandekar, Elisabeth K. Sedmik",
+     "title": "Unraveling a Secret: Vietnam's Outstanding Performance on the PISA Test",
+     "org": "Banque mondiale, Policy Research Working Paper 7630",
+     "year": "2016",
+     "url": "http://documents.worldbank.org/curated/en/258431468196137980/pdf/WPS7630.pdf"
+    },
+    {
+     "author": "Hai-Anh Dang, Paul Glewwe, Jongwook Lee, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the 2012 and 2015 PISA Data",
+     "org": "RISE Working Paper 20/036",
+     "year": "2020",
+     "url": "https://riseprogramme.org/sites/default/files/2020-11/RISE_WP-036_Dang_Glewwe_Lee_Vu.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le Vietnam obtient ses résultats avec un taux de redoublement trois fois inférieur à celui des pays en développement comparables (6,8 % contre 19,2 % des élèves de 15 ans) et une préscolarisation quasi universelle — c'est le point le plus directement transposable à un système qui redouble massivement.",
+   "what_it_is": "Comparaison des caractéristiques des élèves de 15 ans testés en PISA 2012 entre le Vietnam et sept pays en développement, et estimation de l'association entre redoublement antérieur et score, toutes choses observables égales par ailleurs.",
+   "evidence_level": "corrélationnel (PISA 2012, régressions sur données individuelles ; le redoublement est endogène)",
+   "effect_size": "Redoublement déclaré : 6,79 % au Vietnam contre 19,15 % dans les sept pays comparés. Préscolarisation déclarée : 91,2 % contre 78,9 %. Dans les régressions de score de lecture, le coefficient associé au redoublement antérieur va de −58,5 points (modèle avec seules les caractéristiques de l'élève) à −43,2 points (modèle complet incluant enseignants et école) ; celui associé à la fréquentation préscolaire va de +41,5 à +23,7 points.",
+   "concrete_practice": "Le Vietnam ne fait pas redoubler pour « consolider » : la promotion est quasi automatique jusqu'à la fin du cycle de base, la sélection intervenant en un point unique et explicite — l'examen provincial d'entrée en classe 10. Parallèlement, l'accès au préscolaire a fait l'objet d'un investissement public soutenu, disproportionné au regard du revenu par tête du pays.",
+   "concrete_example": "PISA 2012 : sur les 4 882 élèves vietnamiens de l'échantillon, 6,8 % déclarent avoir redoublé au moins une fois, contre 19,2 % des ~41 000 élèves des sept pays comparés ; 91,2 % déclarent avoir fréquenté l'école préscolaire contre 78,9 %. Dans le modèle de régression le plus complet (25 612 observations), le fait d'avoir redoublé reste associé à −43,2 points de lecture et la fréquentation préscolaire à +23,7 points — soit, avec la convention OCDE d'environ 70 points par niveau de compétence, une fraction substantielle d'un niveau.",
+   "conditions": "L'effet mesuré du redoublement est confondu avec la sélection : les élèves qui redoublent sont ceux qui étaient déjà en difficulté. Le résultat ne prouve donc pas qu'abolir le redoublement améliore les résultats ; il établit qu'un système peut atteindre un très haut niveau de performance SANS y recourir, ce qui retire au redoublement son alibi d'efficacité. La comparaison est faite avec des pays en développement, non avec l'Europe continentale.",
+   "contested": "L'endogénéité du redoublement est la faiblesse principale et Parandekar et Sedmik ne la traitent pas (ils reconnaissent que « les taux de répétition sont difficiles à utiliser comme indicateurs comparatifs de qualité du système »). Par ailleurs, la faible répétition vietnamienne coexiste avec une sortie précoce massive du système : environ un tiers des jeunes de 15 ans ne sont plus scolarisés (cf. élément sur la couverture). Il serait malhonnête de présenter le Vietnam comme « ne redoublant pas et ne perdant personne » : il ne redouble pas, mais il exclut par l'examen d'entrée en classe 10.",
+   "sources": [
+    {
+     "author": "Suhas D. Parandekar, Elisabeth K. Sedmik",
+     "title": "Unraveling a Secret: Vietnam's Outstanding Performance on the PISA Test",
+     "org": "Banque mondiale, Policy Research Working Paper 7630",
+     "year": "2016",
+     "url": "http://documents.worldbank.org/curated/en/258431468196137980/pdf/WPS7630.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les écoles vietnamiennes n'amplifient pas les écarts sociaux entre élèves fréquentant le même établissement — contrairement aux écoles péruviennes — mais cela ne vaut que pour les inégalités INTRA-école : les écarts entre groupes ethniques restent de 1,3 à 1,5 écart-type et l'écart social global s'est fortement creusé en 2025.",
+   "what_it_is": "Glewwe, Krutikova et Rolleston estiment, pour chaque école, DEUX effets fixes — un pour les élèves avantagés, un pour les élèves défavorisés — afin de tester si une même école produit moins d'apprentissage pour les seconds. Six définitions de l'avantage sont testées : richesse du ménage, compétences cognitives à 5 ans, sexe, ethnie (Pérou), éducation maternelle, état nutritionnel.",
+   "evidence_level": "quasi-expérimental faible : modèles de production éducative avec doubles effets fixes d'école sur données de panel individuelles (Young Lives) ; contrôle de la composition, pas de l'allocation entre écoles",
+   "effect_size": "Vietnam (1 129 enfants, 90 écoles, classe 5, ~10,3 ans) : aucun écart intra-école significatif selon la richesse (−8,1 en maths, −3,6 en lecture, non significatifs) ni selon les compétences à 5 ans (+9,1 et +11,1, non significatifs) ; le seul écart significatif est en faveur des filles (−12,7 en maths, −29,9 en lecture, soit environ −0,30 σ pour la lecture). Pérou (547 enfants, 132 écoles) : écarts significatifs en faveur des avantagés — compétences préscolaires +38,3 en lecture, appartenance à l'ethnie majoritaire +24,3 en maths et +20,4 en lecture. En parallèle, l'écart Kinh / minorités ethniques au Vietnam atteint 1,3 à 1,5 σ au total.",
+   "concrete_practice": "Concrètement : dans une école primaire vietnamienne donnée, un enfant pauvre et un enfant aisé progressent au même rythme sur l'année. L'école ne « décroche » pas les faibles. Ce résultat est cohérent avec un programme unique, une progression commune, l'absence de filières précoces et l'absence de groupes de niveau au primaire.",
+   "concrete_example": "Young Lives Vietnam, enquête école 2011-2012 : 90 écoles primaires, tests de mathématiques et de lecture administrés en début et en fin d'année scolaire de classe 5 aux mêmes 1 129 enfants, ce qui permet de mesurer le GAIN annuel et non le niveau. Pour chaque école, les auteurs estiment séparément le gain moyen des enfants du quartile de richesse supérieur et celui des enfants du quartile inférieur. Au Vietnam, la différence entre ces deux effets fixes n'est pas statistiquement distinguable de zéro ; au Pérou, elle l'est nettement pour les enfants autochtones.",
+   "conditions": "Le résultat est strictement INTRA-école. Il ne dit rien de la ségrégation entre écoles, qui est le mécanisme dominant d'inégalité dans les systèmes européens à quasi-marché scolaire. Il porte sur le primaire, avant l'examen sélectif d'entrée en classe 10. Il ne couvre pas les enfants déjà sortis du système.",
+   "contested": "Trois réserves fortes. (1) L'échantillon péruvien est petit (547 enfants) et les intervalles de confiance larges : l'« absence d'écart » au Vietnam peut refléter un manque de puissance statistique autant qu'une réelle équité. (2) Le tableau d'ensemble contredit l'image d'un Vietnam équitable : les écarts Kinh / minorités ethniques atteignent 1,3-1,5 σ, sont « déjà très importants à l'âge de 5 ans », et ne sont expliqués qu'en partie par la dépense des ménages (0,2-0,3 σ) et l'éducation parentale (~0,3 σ) — la langue maternelle restant un facteur majeur. (3) Les données PISA 2025 montrent une dégradation marquée : l'écart entre quartiles socio-économiques extrêmes atteint 87 points en sciences et le statut socio-économique explique 18 % de la variance des performances contre 12 % en moyenne OCDE — le Vietnam est désormais MOINS équitable que la moyenne OCDE sur cet indicateur, alors qu'en 2022 son écart de 78 points en mathématiques était encore inférieur à la moyenne OCDE de 93 points.",
+   "sources": [
+    {
+     "author": "Paul Glewwe, Sofya Krutikova, Caine Rolleston",
+     "title": "Do Schools Reinforce or Reduce Learning Gaps between Advantaged and Disadvantaged Students? Evidence from Vietnam and Peru",
+     "org": "Economic Development and Cultural Change",
+     "year": "2017",
+     "url": "https://doi.org/10.1086/691993"
+    },
+    {
+     "author": "Paul Glewwe, Qihui Chen, Bhagyashree Katare",
+     "title": "What Determines Learning among Kinh and Ethnic Minority Students in Vietnam? An Analysis of the Round 2 Young Lives Data",
+     "org": "Asia & the Pacific Policy Studies",
+     "year": "2015",
+     "url": "https://doi.org/10.1002/app5.102"
+    },
+    {
+     "title": "PISA 2025 Results (Volume I) – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/viet-nam_d652623e-en.html"
+    },
+    {
+     "title": "PISA 2022 Results (Volumes I and II) – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/viet-nam_a727c3a8-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "La controverse sur l'échantillonnage PISA est réelle et partiellement fondée — l'OCDE avait mal calculé les taux de couverture vietnamiens, et les élèves testés sont plus urbains et plus aisés que la population scolarisée — mais aucune des corrections appliquées ne fait disparaître le statut de valeur aberrante positive du Vietnam.",
+   "what_it_is": "Dang, Glewwe, Lee et Vu confrontent l'échantillon PISA vietnamien aux enquêtes ménages nationales (VHLSS 2012, 2014, 2016), recalculent les taux de couverture des jeunes de 15 ans, puis appliquent trois méthodes distinctes pour corriger la non-participation : restriction aux 50 % supérieurs de chaque pays, bornes par troncature d'une loi normale, et imputation à partir des données Young Lives qui testent aussi les jeunes DÉSCOLARISÉS.",
+   "evidence_level": "analyse de robustesse économétrique sur données d'enquête appariées ; corrélationnel quant aux causes, rigoureux quant aux corrections",
+   "effect_size": "Taux de couverture publiés par l'OCDE : 55,7 % en 2012 (3e plus bas sur 63) et 49,0 % en 2015 (le plus bas sur 66, devant le Mexique à 62 %). Taux corrigés par les auteurs : 65,9 % (2012) et 65,6 % (2015) — il reste donc environ 34 % de jeunes de 15 ans hors champ. Correction pour sur-représentation urbaine et aisée : −20 à −24 points en 2012, −14 à −15 points en 2015. Correction par les données Young Lives incluant les déscolarisés : −13 points en maths (511,2 → 498,4) et −11 points en lecture (508,2 → 496,9) en 2012, −12 et −11 points en 2015. Correction « 50 % supérieurs » : le rang du Vietnam chute de 16e à 34e sur 63 en maths et de 18e à 39e en lecture (2012) ; de 24e à 37e sur 66 et de 28e à 41e en 2015.",
+   "concrete_practice": "La source structurelle de sélection est institutionnelle et parfaitement identifiable : dans de nombreuses provinces, le passage de la classe 9 à la classe 10 est conditionné à la réussite d'un examen provincial. PISA teste des jeunes de 15 ans scolarisés, majoritairement en classe 10 — c'est-à-dire déjà passés par ce filtre.",
+   "concrete_example": "Comparaison ligne à ligne PISA 2012 / VHLSS 2012 (enquête ménages sur ~9 000 foyers) portant sur les enfants nés en 1996 : les participants PISA sont urbains à 50 % contre 26 % dans la VHLSS ; leurs pères ont 9,0 années de scolarité contre 7,2 ; leurs mères 8,3 contre 6,8. Surtout, 86 % des participants PISA sont en classe 10 contre 76 % des jeunes éligibles interrogés entre mars et juillet dans la VHLSS, 22 % étant encore en classe 9. La décomposition Oaxaca-Blinder chiffre l'ampleur du filtre : passer de la classe 9 à la classe 10 vaut +18,9 points en moyenne dans les autres pays PISA 2012, mais +85,9 points au Vietnam — cet écart de coefficient explique à lui seul environ 88 % de la composante « productivité » de l'écart en mathématiques.",
+   "conditions": "La correction Young Lives n'est appliquée qu'au Vietnam (seul le Pérou dispose de données équivalentes), ce qui joue CONTRE le Vietnam et renforce donc la conclusion. Les bornes de la méthode 2 sont larges pour les pays à faible couverture. Les corrections supposent que les jeunes déscolarisés auraient obtenu des scores inférieurs, hypothèse validée sur Young Lives (9,4/21 en maths pour les non-scolarisés contre 15,5/21 pour les scolarisés).",
+   "contested": "C'est ici que se joue la crédibilité de tout le dossier, et il faut être net : la méthode « 50 % supérieurs » fait perdre au Vietnam environ 18 rangs, ce qui est considérable et rarement mentionné par les promoteurs du « modèle vietnamien ». Les auteurs eux-mêmes énoncent comme PREMIÈRE conclusion que « l'exclusion des élèves les plus faibles de la classe 10 » est une explication importante, quoique partielle. Deux contre-arguments maintiennent néanmoins la conclusion : (a) même dans le classement « 50 % supérieurs », le Vietnam reste la plus grande valeur aberrante positive une fois le PIB par tête pris en compte, car les pays riches à forte couverture gagnent davantage à cette correction ; (b) l'évidence Young Lives (Singh 2020, Glewwe et al. 2021), qui ne repose pas du tout sur PISA et teste les enfants à domicile, scolarisés ou non, confirme l'avantage vietnamien. Le sur-rendement est donc robuste ; le RANG PISA du Vietnam ne l'est pas.",
+   "sources": [
+    {
+     "author": "Hai-Anh Dang, Paul Glewwe, Jongwook Lee, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the 2012 and 2015 PISA Data",
+     "org": "RISE Working Paper 20/036",
+     "year": "2020",
+     "url": "https://riseprogramme.org/sites/default/files/2020-11/RISE_WP-036_Dang_Glewwe_Lee_Vu.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Une part non négligeable — mais moins de la moitié — du sur-rendement PISA vietnamien peut s'expliquer par la motivation des élèves lors du test et par une préparation explicite à l'épreuve, y compris des mesures prises par le ministère vietnamien après un test pilote décevant en 2011.",
+   "what_it_is": "Calcul « au dos de l'enveloppe » de Dang et al. combinant deux sources : l'expérience randomisée de Gneezy et al. mesurant l'effet d'incitations financières sur l'effort au test, et la littérature sur le coaching aux tests standardisés. S'y ajoute une information factuelle sur la préparation du Vietnam à PISA 2012, obtenue auprès de l'OCDE.",
+   "evidence_level": "essai randomisé (Gneezy et al., pour la composante motivation) + méta-analyse ancienne (pour la composante coaching) + calcul illustratif non validé pour l'agrégation",
+   "effect_size": "Gneezy et al. : des élèves américains tirés au sort et rémunérés pour leur performance obtiennent 22 à 24 points de plus à un test composé d'items PISA antérieurs ; les élèves chinois ne réagissent pas aux incitations, signe qu'ils fournissent déjà leur effort maximal. Composante coaching : environ 0,39 écart-type, soit ~39 points PISA, pour des sessions de préparation de plus de neuf heures cumulées (Bangert-Drowns et al., 1983, cité par Dang et al.). Total illustratif : ~62 points, soit environ la moitié du résidu vietnamien (135,8 points en maths, 119,0 en lecture, résidus les plus élevés de tous les pays dans une régression sur le log du PIB/hab.).",
+   "concrete_practice": "Avant PISA 2012, les élèves vietnamiens ont passé une version pilote en 2011 dont les résultats ont été jugés décevants ; le ministère de l'Éducation et de la Formation a alors pris plusieurs mesures pour améliorer la performance. Les règles PISA autorisent l'entraînement sur d'anciennes épreuves. Les élèves sélectionnés ont été informés qu'une bonne performance ferait honneur au Vietnam, et se sont vu remettre des t-shirts identifiant les participants PISA.",
+   "concrete_example": "Le dispositif de préparation vietnamien à PISA 2012 est documenté par Dang, Glewwe, Lee et Vu à partir d'échanges avec Francesco Avvisati, responsable PISA à l'OCDE : les écoles participantes sont désignées plusieurs mois avant l'épreuve et les élèves 3 à 4 semaines avant, ce qui laisse une fenêtre de préparation ciblée. Côté expérimental, Gneezy, List, Livingston, Qin, Sadoff et Xu ont administré des tests construits à partir d'items PISA à des élèves américains et chinois, avec assignation aléatoire à une condition « incitation financière » ; l'écart initial États-Unis / Chine se réduit fortement dès lors que les élèves américains sont payés, et pas du tout du côté chinois.",
+   "conditions": "Le transfert de l'effet chinois au Vietnam repose sur une analogie culturelle et non sur une mesure vietnamienne : aucune étude n'a mesuré la motivation des élèves vietnamiens face à un test sans enjeu. L'agrégation des 62 points suppose, de façon volontairement extrême, qu'AUCUN autre pays ne prépare ses élèves ni ne les motive — hypothèse fausse (la Colombie a mené des efforts comparables selon les auteurs). L'estimation est donc une borne supérieure.",
+   "contested": "Point à ne pas lisser : c'est l'argument le plus embarrassant pour l'idée d'un « modèle vietnamien » importable, puisqu'il attribue une partie du résultat à l'épreuve elle-même et non à l'apprentissage. Trois réserves toutefois. (1) La référence Bangert-Drowns et al. 1983 sur le coaching est ancienne et je ne l'ai pas vérifiée sur la source primaire — elle est ici citée de seconde main via Dang et al. ; les méta-analyses plus récentes sur le coaching aux tests trouvent généralement des effets plus faibles, ce qui réduirait la composante de 39 points. (2) Les auteurs concluent explicitement que ces deux facteurs expliquent « probablement moins de la moitié » du sur-rendement. (3) Cet argument ne peut rien contre les données Young Lives, où les enfants sont testés à domicile sans enjeu national ni préparation.",
+   "sources": [
+    {
+     "author": "Uri Gneezy, John A. List, Jeffrey A. Livingston, Xiangdong Qin, Sally Sadoff, Yang Xu",
+     "title": "Measuring Success in Education: The Role of Effort on the Test Itself",
+     "org": "American Economic Review: Insights, vol. 1, p. 291-308",
+     "year": "2019",
+     "url": "https://doi.org/10.1257/aeri.20180633"
+    },
+    {
+     "author": "Hai-Anh Dang, Paul Glewwe, Jongwook Lee, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the 2012 and 2015 PISA Data",
+     "org": "RISE Working Paper 20/036",
+     "year": "2020",
+     "url": "https://riseprogramme.org/sites/default/files/2020-11/RISE_WP-036_Dang_Glewwe_Lee_Vu.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "PISA 2025 rend le « miracle » vietnamien illisible : le Vietnam est explicitement exclu par l'OCDE des analyses de tendance parce qu'il vient seulement de basculer sur des épreuves informatisées, après avoir utilisé dans TOUS les cycles précédents des instruments papier dérivés de PISA 2012 — et ses résultats 2025 s'effondrent, notamment en lecture.",
+   "what_it_is": "Note pays OCDE sur les résultats PISA 2025 du Viet Nam, publiée le 8 septembre 2026, et profil Education GPS correspondant. L'OCDE y documente à la fois les scores et un problème de comparabilité méthodologique de première grandeur.",
+   "evidence_level": "descriptif — source primaire officielle (OCDE), avec réserve de comparabilité énoncée par l'OCDE elle-même",
+   "effect_size": "Viet Nam, PISA 2025 : 457 points en sciences (moyenne OCDE 482), 443 en mathématiques (moyenne OCDE 463), 392 en lecture (moyenne OCDE 461), 461 en résolution computationnelle de problèmes, 465 en sciences de l'environnement. Part d'élèves atteignant au moins le niveau 2 : 71 % en sciences (OCDE 74 %), 58 % en mathématiques (OCDE 65 %), 41 % en lecture (OCDE 69 %). Élèves très performants (niveaux 5-6) : 2 % en sciences (OCDE 7 %), 4 % en mathématiques (OCDE 8 %), quasiment aucun en lecture (OCDE 6 %). Échantillon : 7 368 élèves, 195 écoles, représentant ~1 109 000 jeunes de 15 ans, soit 71 % de la population de cet âge. Pour mémoire : 469 en mathématiques et 462 en lecture en 2022 ; 511 et 508 en 2012.",
+   "concrete_practice": "Le Vietnam a administré PISA sur papier de 2012 à 2022, avec des instruments dérivés du cycle 2012, alors que la quasi-totalité des autres pays était passée à l'informatique dès 2015. En 2025, il bascule sur ordinateur. L'OCDE en tire les conséquences méthodologiques et retire le pays des séries temporelles.",
+   "concrete_example": "Citation exacte de la note pays OCDE PISA 2025 pour le Viet Nam : « Viet Nam transitioned to computer-based administration in PISA 2025 (in all previous cycles it used older paper-based instruments derived from PISA 2012). The uncertainty affecting trend comparisons remains undetermined. For this reason, Viet Nam's data are not included in analyses of performance trends. » La note PISA 2022 avait déjà averti que « the comparability of Viet Nam's results with those of other countries was not strong » et que « the comparability of PISA 2022 results with previous PISA results in Viet Nam was also not strong », avec une mise en garde spécifique sur la lecture.",
+   "conditions": "Aucune : c'est un fait établi par l'organisme producteur des données. Il impose de ne JAMAIS présenter une série 2012-2025 des scores vietnamiens comme une trajectoire, et de ne pas fonder un plaidoyer sur le rang PISA du Vietnam.",
+   "contested": "L'interprétation, elle, est ouverte et il faut résister à deux lectures paresseuses. Lecture n°1, « le miracle était un artefact » : elle est trop forte, car l'effondrement de la lecture (41 % au niveau 2+, contre 77 % en 2022) est d'une ampleur invraisemblable en trois ans et pointe massivement vers un effet de mode de passation, de traduction ou de format, pas vers une chute réelle des compétences. Lecture n°2, « rien n'a changé » : elle est également intenable, car les résultats antérieurs du Vietnam reposaient sur des instruments papier vieillissants dérivés de 2012, ce qui fragilise rétrospectivement toutes les comparaisons internationales publiées depuis 2015 et donne du poids aux sceptiques. Ce que l'on peut affirmer sans risque : l'argument « regardez les scores PISA du Vietnam » est désormais indéfendable ; l'argument « regardez les gains d'apprentissage mesurés hors PISA » reste valide. Je n'ai pas pu récupérer la déclaration de l'OCDE de 2019-2020 sur les résultats vietnamiens de PISA 2018 (page retirée du site de l'OCDE), et je ne la cite donc pas ; la note 2025 suffit à établir le problème de comparabilité.",
+   "sources": [
+    {
+     "title": "PISA 2025 Results (Volume I) – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/viet-nam_d652623e-en.html"
+    },
+    {
+     "title": "Education GPS – Viet Nam, Student performance (PISA 2025)",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://gpseducation.oecd.org/CountryProfile?primaryCountry=VNM&treshold=5&topic=PI"
+    },
+    {
+     "title": "PISA 2022 Results (Volumes I and II) – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/viet-nam_a727c3a8-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "La réforme pédagogique la mieux évaluée qu'ait menée le Vietnam — VNEN, importation du modèle colombien Escuela Nueva soutenue par la Banque mondiale — n'a produit que des effets faibles à court terme et NULS à long terme : une mise en garde directe contre l'importation de modèles pédagogiques, y compris depuis le Vietnam.",
+   "what_it_is": "VNEN (Vietnam Escuela Nueva) transpose au primaire vietnamien le modèle colombien d'apprentissage collaboratif : travail en petits groupes, matériel d'auto-apprentissage, rôle de facilitateur pour l'enseignant, conseils d'élèves, implication des parents. Dang, Glewwe, Lee et Vu en évaluent l'impact par appariement sur score de propension, à court terme (1-3 ans) et à long terme (5-7 ans), sur les compétences cognitives (mathématiques, vietnamien) et non cognitives (socio-émotionnelles).",
+   "evidence_level": "quasi-expérimental (appariement sur score de propension ; pas de randomisation, donc vulnérable aux différences inobservées entre écoles adoptantes et non adoptantes)",
+   "effect_size": "Effets sur les compétences cognitives « relativement faibles » à court terme, plus marqués pour les garçons, les minorités ethniques et le Nord du pays. Effets « modestes » sur les compétences non cognitives à court terme, substantiels et significatifs pour les élèves des minorités ethniques. À long terme : effets estimés avec moins de précision, mais qui « semblent s'estomper », avec « peu ou pas d'impact » sur les compétences cognitives ; les effets sur les compétences non cognitives « semblent également s'être dissipés ». (Les auteurs ne rapportent pas d'estimation ponctuelle unique dans le résumé ; l'imprécision des estimations pour les minorités ethniques ne permet pas d'exclure des effets durables pour ce sous-groupe.)",
+   "concrete_practice": "Dans une classe VNEN, les tables sont disposées en îlots, les élèves travaillent en groupes sur des guides d'apprentissage conçus pour l'autonomie, un « président de classe » élu anime certaines activités, un coin lecture et un « arbre à questions » sont installés, et les parents sont invités à contribuer au contenu local. L'enseignant circule au lieu de faire cours frontalement.",
+   "concrete_example": "Le programme VNEN a été déployé dans les écoles primaires vietnamiennes à partir de 2012-2013 avec l'appui financier de la Banque mondiale, d'abord dans des zones défavorisées. L'évaluation d'impact de la Banque mondiale puis les travaux de Dang, Glewwe, Lee et Vu comparent les élèves des écoles VNEN à ceux d'écoles appariées, sur des tests de mathématiques et de vietnamien et des échelles socio-émotionnelles, avec un suivi allant jusqu'à 5-7 ans après l'exposition. Le résultat final est une dissipation : les élèves passés par VNEN ne se distinguent plus, ni en cognitif ni en non-cognitif, de leurs pairs comparables. Un travail longitudinal complémentaire de Vu, Dao, DeJaeghere et Glewwe a examiné les comportements d'apprentissage collaboratif effectivement observés dans ces classes.",
+   "conditions": "L'appariement sur score de propension ne protège pas contre une sélection sur inobservables : si les écoles adoptantes différaient systématiquement (direction plus dynamique, appui local), les effets à court terme sont surestimés et l'extinction à long terme pourrait refléter une régression vers la moyenne. Le résultat vaut pour un transfert Colombie→Vietnam au primaire ; il n'invalide pas l'Escuela Nueva en Colombie.",
+   "contested": "Ce résultat est délibérément gênant pour la thèse de cette note et doit être présenté comme tel : le Vietnam lui-même, système dont on veut s'inspirer, a échoué à transposer un modèle pédagogique étranger pourtant bien documenté et financé par un bailleur international. Le programme a par ailleurs fait l'objet de fortes critiques publiques au Vietnam et d'un retrait partiel. La conclusion à en tirer n'est pas « les réformes ne marchent pas », mais que les gains vietnamiens ne proviennent PAS d'un dispositif pédagogique identifiable et exportable, ce qui est cohérent avec le fait que les décompositions statistiques n'arrivent pas à imputer le sur-rendement à des caractéristiques observables.",
+   "sources": [
+    {
+     "author": "Hai-Anh Dang, Paul Glewwe, Jongwook Lee, Khoa Vu",
+     "title": "The Impact Evaluation of Vietnam's Escuela Nueva (New School) Program on Students' Cognitive and Non-Cognitive Skills",
+     "org": "SSRN / Banque mondiale",
+     "year": "2022",
+     "url": "https://doi.org/10.2139/ssrn.4114534"
+    },
+    {
+     "author": "Khoa Vu, Dao, Joan DeJaeghere, Paul Glewwe",
+     "title": "Collaborative learning in the Vietnam Escuela Nueva Model and students' learning behaviors: A mixed methods longitudinal study",
+     "org": "International Journal of Educational Development",
+     "year": "2024",
+     "url": "https://doi.org/10.1016/j.ijedudev.2024.103017"
+    }
+   ]
+  },
+  {
+   "claim": "Une part du « miracle » est financée par les ménages et non par l'État : les élèves vietnamiens de PISA 2012 déclaraient environ 16 heures d'étude hebdomadaire hors école contre 13 heures dans les pays comparables, dont près de 5 heures de cours commerciaux payants contre 1,9 — et les dépenses parentales de tutorat sont 10 à 40 fois supérieures à celles des autres pays Young Lives.",
+   "what_it_is": "Mesure du temps d'étude hors école et des dépenses de tutorat privé, à partir du module « rotaté » du questionnaire élève de PISA 2012 d'une part, et des questionnaires ménages Young Lives à 8, 12 et 15 ans d'autre part.",
+   "evidence_level": "descriptif comparatif (déclaratif élèves et ménages) ; aucune estimation causale de l'effet du tutorat",
+   "effect_size": "PISA 2012 : total du temps d'étude hors école ~16 h/semaine au Vietnam contre ~13 h dans les sept pays comparables. Cours particuliers hors école par matière : 3,13 h/semaine en mathématiques au Vietnam contre 1,83 dans les pays comparables ; 2,09 h en sciences contre 1,56. Cours dispensés par une entreprise commerciale : 4,88 h/semaine contre 1,89. Devoirs : 5,81 h contre 5,10. Young Lives : les parents vietnamiens dépensent environ 10 fois plus en tutorat privé à 8 ans, 20 fois plus à 12 ans et 30 à 40 fois plus à 15 ans que les parents des trois autres pays. Le temps d'étude à la maison (2,6-2,9 h/jour) et la dépense de tutorat à 15 ans contribuent chacun pour environ 0,06 σ et 0,12 σ à l'écart expliqué avec l'Inde.",
+   "concrete_practice": "Le « học thêm » (cours supplémentaires) est une institution sociale vietnamienne documentée de longue date : cours du soir, souvent donnés par les enseignants de l'élève eux-mêmes ou par des officines commerciales, payés directement par les familles, particulièrement intenses à l'approche de l'examen d'entrée en classe 10 et de l'examen national de fin de secondaire.",
+   "concrete_example": "Module rotaté du questionnaire élève PISA 2012 : sur ~3 100 élèves vietnamiens ayant répondu à l'item ST57Q04 (« temps hors école en cours dispensés par une entreprise commerciale »), la moyenne déclarée est de 4,88 heures par semaine, contre 1,89 heure pour ~19 500 élèves des sept pays en développement comparés — alors même que l'écrasante majorité des écoles vietnamiennes sont publiques. Autrement dit, le système public vietnamien est doublé d'un marché privé de soutien d'un volume horaire supérieur à celui d'une matière scolaire entière.",
+   "conditions": "Les données de temps sont déclaratives et connues pour être surestimées. L'ampleur du phénomène est spécifique aux pays à examens sélectifs à fort enjeu. Rien dans ces données ne permet d'estimer l'effet causal du tutorat sur les scores.",
+   "contested": "Deux critiques opposées, toutes deux sérieuses. (1) Contre le modèle vietnamien : une partie du résultat est achetée par les familles, ce qui déplace le coût hors du budget public et pèse mécaniquement contre les enfants pauvres — ce point est peu mis en avant dans les récits sur le « miracle » vietnamien et constitue une objection d'équité majeure. (2) Contre cette critique : Parandekar et Sedmik montrent que le Vietnam est en retrait sur les possessions culturelles (CULTPOS −0,24 contre −0,14) et les ressources éducatives à domicile (HEDRES −1,07 contre −0,74), donc l'avantage ne vient pas d'un investissement familial matériel généralisé ; et Glewwe et al. montrent que la dépense de tutorat ne contribue que pour ~0,12 σ à un écart total de 1,1 σ avec l'Inde. Le tutorat est donc un facteur réel mais secondaire, et surtout un coût social caché.",
+   "sources": [
+    {
+     "author": "Suhas D. Parandekar, Elisabeth K. Sedmik",
+     "title": "Unraveling a Secret: Vietnam's Outstanding Performance on the PISA Test",
+     "org": "Banque mondiale, Policy Research Working Paper 7630",
+     "year": "2016",
+     "url": "http://documents.worldbank.org/curated/en/258431468196137980/pdf/WPS7630.pdf"
+    },
+    {
+     "author": "Paul Glewwe, Zoe James, Jongwook Lee, Caine Rolleston, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the Young Lives Data from Ethiopia, Peru, India and Vietnam",
+     "org": "RISE Working Paper 21/078",
+     "year": "2021",
+     "url": "https://riseprogramme.org/sites/default/files/2021-09/Vietnams_Exceptional_Performance_Education_Relative_Other_Countries.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'attractivité du métier enseignant au Vietnam est d'un ordre de grandeur sans équivalent dans l'OCDE : 91 % des enseignants débutants déclarent que l'enseignement était leur premier choix de carrière, 97 % se disent satisfaits de leur emploi et 58 % de leur salaire — contre respectivement 89 % et 39 % en moyenne OCDE.",
+   "what_it_is": "Résultats de TALIS 2024 (Teaching and Learning International Survey de l'OCDE) pour le Viet Nam, enquête auprès des enseignants et chefs d'établissement du premier cycle du secondaire, publiés le 7 octobre 2025.",
+   "evidence_level": "descriptif — enquête déclarative internationale standardisée sur échantillon représentatif",
+   "effect_size": "91 % des enseignants novices déclarent que l'enseignement était leur premier choix de carrière. 97 % se déclarent globalement satisfaits de leur emploi (moyenne OCDE 89 %). 58 % se déclarent satisfaits de leur salaire (moyenne OCDE 39 %). 4 % déclarent un niveau de stress élevé au travail (moyenne OCDE 19 %). 95 % jugent que les activités de formation continue suivies au cours des 12 derniers mois ont eu un impact positif (moyenne OCDE 55 %). 79 % ont bénéficié d'une induction formelle ou informelle ; 40 % des novices ont un mentor désigné. Besoins de formation les plus cités : maîtrise disciplinaire (69 %), didactique de la discipline (67 %), connaissance du curriculum (64 %).",
+   "concrete_practice": "L'entrée dans le métier passe par des écoles normales et des universités pédagogiques, avec une induction quasi généralisée. L'évaluation des enseignants est systématique et fondée sur l'observation en classe (100 %) et l'évaluation de la maîtrise du contenu (99 %), la conséquence la plus fréquente étant un entretien sur les mesures de remédiation des faiblesses (72 %) — c'est-à-dire un dispositif formatif, pas sanctionnateur. La collaboration entre pairs est intense : 78 % échangent des supports, 69 % pratiquent le co-enseignement, 66 % observent les cours de collègues.",
+   "concrete_example": "TALIS 2024, note pays Viet Nam : le fait que 91 % des enseignants débutants aient choisi le métier en premier choix, combiné à 100 % d'observation en classe dans le cadre de l'évaluation et à 66 % d'observations entre pairs, décrit un métier à la fois désirable et exposé au regard des autres. Ce couple est l'exact inverse du diagnostic habituel des systèmes européens en difficulté de recrutement, où l'attractivité faible s'accompagne d'une forte protection de l'autonomie individuelle en classe. Le besoin de formation le plus demandé porte sur la didactique disciplinaire (67 %), ce qui recoupe précisément la variable qui, dans les données Young Lives, explique le mieux l'avantage vietnamien.",
+   "conditions": "Les niveaux déclarés de satisfaction sont si élevés qu'ils ne peuvent être lus au pied de la lettre en comparaison internationale. La donnée « premier choix de carrière » est plus robuste car moins sujette à l'auto-évaluation. Le statut social de l'enseignant au Vietnam repose sur un héritage culturel confucéen que la politique publique ne crée pas.",
+   "contested": "Trois réserves. (1) Biais d'acquiescement : les enquêtes déclaratives en Asie de l'Est produisent systématiquement des taux d'accord plus élevés ; l'écart de 42 points sur l'impact de la formation continue (95 % contre 55 %) est difficile à prendre pour argent comptant. (2) Le salaire absolu des enseignants vietnamiens est bas ; la satisfaction salariale supérieure reflète un référentiel local, pas une rémunération généreuse — on ne peut donc pas en tirer que « la rémunération n'est pas le sujet ». (3) TALIS est purement descriptif : aucun lien causal n'est établi entre ces caractéristiques du métier et les performances des élèves, et les mêmes données existent pour des pays dont les élèves réussissent mal. Asadullah, Perera et Xiao concluent d'ailleurs que les avantages vietnamiens du côté de l'offre et de la demande « n'expliquent pas » sa performance et proposent une explication culturelle — ce qui, par construction, n'est pas une politique publique.",
+   "sources": [
+    {
+     "title": "Results from TALIS 2024 – Country Note: Viet Nam",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/results-from-talis-2024-country-notes_e127f9e2-en/viet-nam_2a361394-en.html"
+    },
+    {
+     "author": "M. Niaz Asadullah, Liyanage Devangi H. Perera, Saizi Xiao",
+     "title": "Vietnam's extraordinary performance in the PISA assessment: A cultural explanation of an education paradox",
+     "org": "Journal of Policy Modeling",
+     "year": "2020",
+     "url": "https://doi.org/10.1016/j.jpolmod.2020.02.007"
+    }
+   ]
+  },
+  {
+   "claim": "Les caractéristiques observables des familles et des écoles n'expliquent PAS la performance vietnamienne : les décompositions statistiques attribuent la quasi-totalité de l'écart à la « productivité » des mêmes caractéristiques, c'est-à-dire à un résidu que les données ne permettent pas d'identifier — conclusion qui doit refroidir toute promesse de recette transposable.",
+   "what_1is": "x",
+   "what_it_is": "Deux équipes indépendantes appliquent la décomposition de Oaxaca-Blinder aux données PISA vietnamiennes, en séparant la part de l'écart due aux différences de DOTATIONS (niveau des variables : richesse, diplômes parentaux, équipement scolaire, qualification des enseignants) et la part due aux différences de COEFFICIENTS (rendement de ces mêmes variables).",
+   "evidence_level": "corrélationnel — décompositions Oaxaca-Blinder et régressions à la Fryer-Levitt sur PISA 2012 et 2015",
+   "effect_size": "Dang et al. (Vietnam contre 62 autres pays, PISA 2012) : écart de 40,3 points en lecture, dont les différences de dotations expliquent −1 point (elles devraient creuser l'écart) et les différences de coefficients +41,3 points. En mathématiques 2015, écart de 44,6 points face à 65 pays, les dotations ajoutant 16,7 points à l'écart à expliquer. Résidus dans la régression sur le log du PIB/habitant : +135,8 points en maths et +119,0 en lecture, les plus élevés de tous les pays. L'ajout de toutes les variables ménages et écoles disponibles n'explique « au mieux qu'un quart ou un tiers » du sur-rendement. Parandekar et Sedmik, avec un jeu de variables différent : l'écart brut de 128 points en mathématiques face aux sept pays comparables (soit 1,28 σ) est réduit au mieux de 61 %, le coefficient « Vietnam » tombant de 105-128 points à 49,6 points dans la spécification la plus riche.",
+   "concrete_practice": "Concrètement, cela signifie qu'un élève vietnamien et un élève indonésien ayant les MÊMES parents (mêmes diplômes, même richesse), dans des écoles aux MÊMES équipements, avec des enseignants aux MÊMES diplômes, n'obtiennent pas les mêmes résultats — et que les questionnaires PISA ne capturent pas ce qui fait la différence. Les variables candidates les mieux identifiées sont, dans l'ordre : l'effet de la classe 10, l'assiduité (les élèves vietnamiens apprennent davantage par jour de présence), et l'usage des résultats des élèves dans l'évaluation des enseignants.",
+   "concrete_example": "Décomposition Oaxaca-Blinder de Dang, Glewwe, Lee et Vu sur PISA 2012 (Vietnam vs 62 pays, 20 variables) : le passage de la classe 9 à la classe 10 vaut +18,9 points en moyenne ailleurs et +85,9 points au Vietnam, ce différentiel représentant à lui seul environ 88 % de la composante « coefficients » en mathématiques. Le jour d'assiduité supplémentaire et l'usage des résultats élèves dans l'évaluation enseignante contribuent chacun pour plus de 20 points. À l'inverse, la proportion d'enseignants « qualifiés » a un rendement PLUS FAIBLE au Vietnam (18,2 points) qu'ailleurs (46,1 points), contribution négative — signe que le diplôme formel n'est pas le canal.",
+   "conditions": "Ces décompositions sont sensibles à la spécification : Dang et al. montrent que leurs résultats tiennent lorsque les coefficients des autres pays sont réestimés avec effets fixes pays. Elles supposent une forme fonctionnelle linéaire et des variables mesurées de façon comparable entre pays, hypothèse fragile pour des indices d'attitude construits par échelonnage IRT.",
+   "contested": "C'est la conclusion la plus honnête et la plus décourageante du dossier, et il faut la citer telle quelle : les auteurs écrivent que « cette décomposition éclaire très peu les raisons sous-jacentes » de la performance vietnamienne. Parandekar et Sedmik penchent explicitement pour une explication culturelle (héritage confucéen, orientation vers la discipline et l'autorité), tout comme Asadullah, Perera et Xiao. Or une explication culturelle n'est pas un levier de politique publique et, prise au sérieux, elle rend le cas vietnamien inutilisable comme modèle. La contre-objection la plus solide est celle de Singh : les écarts sont FAIBLES à l'âge préscolaire et se creusent pendant les deux-trois premières années de scolarisation, ce qui désigne l'école — pas la famille ni la culture domestique — comme le lieu de production de l'avantage. C'est ce déplacement du débat, de la culture vers la salle de classe, qui rend le cas vietnamien encore pertinent.",
+   "sources": [
+    {
+     "author": "Hai-Anh Dang, Paul Glewwe, Jongwook Lee, Khoa Vu",
+     "title": "What Explains Vietnam's Exceptional Performance in Education Relative to Other Countries? Analysis of the 2012 and 2015 PISA Data",
+     "org": "RISE Working Paper 20/036",
+     "year": "2020",
+     "url": "https://riseprogramme.org/sites/default/files/2020-11/RISE_WP-036_Dang_Glewwe_Lee_Vu.pdf"
+    },
+    {
+     "author": "Suhas D. Parandekar, Elisabeth K. Sedmik",
+     "title": "Unraveling a Secret: Vietnam's Outstanding Performance on the PISA Test",
+     "org": "Banque mondiale, Policy Research Working Paper 7630",
+     "year": "2016",
+     "url": "http://documents.worldbank.org/curated/en/258431468196137980/pdf/WPS7630.pdf"
+    },
+    {
+     "author": "Abhijeet Singh",
+     "title": "Learning More with Every Year: School Year Productivity and International Learning Divergence",
+     "org": "Journal of the European Economic Association",
+     "year": "2020",
+     "url": "https://doi.org/10.1093/jeea/jvz033"
+    }
+   ]
+  },
+  {
+   "claim": "Le Vietnam obtient ces résultats avec une dépense publique d'éducation de l'ordre de 2,9 à 3,5 % du PIB depuis 2014 et un PIB par habitant d'environ 4 100 USD en 2022 — ce qui établit que le niveau de dépense n'est pas la contrainte active, tout en interdisant de conclure qu'il suffirait de dépenser moins.",
+   "what_it_is": "Séries de la Banque mondiale sur la dépense publique d'éducation en pourcentage du PIB et sur le PIB par habitant du Vietnam, mises en regard des scores PISA du pays tels que compilés par la Banque mondiale (EdStats) jusqu'en 2018.",
+   "evidence_level": "descriptif — séries statistiques officielles ; corrélation internationale, aucune causalité",
+   "effect_size": "Dépense publique d'éducation (% du PIB) : 4,41 % (2012), 4,53 % (2013), puis décroissance à 3,54 % (2014), 3,42 % (2015), 3,30 % (2018), 3,22 % (2020), 2,95 % (2021), 2,89 % (2022). PIB par habitant (USD courants) : 4 148 en 2022, 5 066 en 2025. Scores PISA compilés par la Banque mondiale : mathématiques 511,3 (2012), 494,5 (2015), 495,7 (2018) ; lecture 508,2 / 486,8 / 504,5 ; sciences 528,4 / 524,6 / 543,4.",
+   "concrete_practice": "Le Vietnam a concentré l'effort public sur deux postes rarement prioritaires ailleurs à ce niveau de revenu : l'accès au préscolaire et les infrastructures scolaires de base. Parandekar et Sedmik constatent que les écoles vietnamiennes ont moins d'ordinateurs que celles des pays comparables, mais que ces ordinateurs sont aussi souvent connectés à internet, et que les indices de qualité des ressources éducatives et du bâti scolaire y sont MOINS déficitaires que dans des pays plus riches.",
+   "concrete_example": "Dans la régression pas à pas de Parandekar et Sedmik sur PISA 2012, l'ajout du bloc de variables « école » réduit le coefficient « Vietnam » de 12 points (de 89 à 77 points en mathématiques). Les variables qui portent cette réduction sont la connexion internet des ordinateurs (COMPWEB, +15,3 points), la qualité des ressources éducatives (SCMATEDU, +5,6), la qualité du bâti (SCMATBUI, +3,5), les cours supplémentaires organisés par l'école (SCL_EXTR_CL, +10,9), l'enregistrement systématique des données de présence et de résultats (QUAL_RECORD, +7,0) et la publication des résultats (SCORE_PUBLIC, +10,1). À l'inverse, la simple disponibilité d'ordinateurs (COMP_USE) n'a pas d'effet positif.",
+   "conditions": "Les comparaisons de dépense en % du PIB entre pays à revenus très différents sont trompeuses : 3 % du PIB vietnamien représente une dépense par élève sans commune mesure avec celle d'un système européen. Le résultat utile n'est donc pas « on peut réussir avec peu », mais « la composition de la dépense importe plus que son niveau au-delà d'un seuil » — proposition que ces données illustrent sans la démontrer.",
+   "contested": "Il faut se garder de l'usage politique le plus tentant de ce chiffre. (1) Parandekar et Sedmik concluent explicitement que « les ressources comptent » (« Resources do appear to matter ») et attribuent une part de la performance vietnamienne à des investissements SUPÉRIEURS à ce que son revenu laisserait attendre, notamment en préscolaire et en infrastructures — soit l'inverse d'un argument d'austérité. (2) La dépense d'éducation vietnamienne DÉCROÎT en part de PIB depuis 2013 tandis que les scores PISA reculent depuis 2012 ; cette co-évolution est purement descriptive, la causalité n'est pas établie, et je ne dispose d'aucune étude l'ayant testée. (3) Les scores PISA 2018 repris par la Banque mondiale proviennent d'une administration papier sur instruments dérivés de 2012 et sont donc affectés par le problème de comparabilité signalé par l'OCDE : ils ne doivent pas servir de point de comparaison avec les pays européens.",
+   "sources": [
+    {
+     "title": "Government expenditure on education, total (% of GDP) – Viet Nam, indicateur SE.XPD.TOTL.GD.ZS",
+     "org": "Banque mondiale, World Development Indicators",
+     "year": "2026",
+     "url": "https://api.worldbank.org/v2/country/VNM/indicator/SE.XPD.TOTL.GD.ZS?format=json"
+    },
+    {
+     "title": "PISA: Mean performance on the mathematics/reading/science scale – Viet Nam, indicateurs LO.PISA.MAT / LO.PISA.REA / LO.PISA.SCI",
+     "org": "Banque mondiale, EdStats",
+     "year": "2026",
+     "url": "https://api.worldbank.org/v2/country/VNM/indicator/LO.PISA.MAT?format=json"
+    },
+    {
+     "author": "Suhas D. Parandekar, Elisabeth K. Sedmik",
+     "title": "Unraveling a Secret: Vietnam's Outstanding Performance on the PISA Test",
+     "org": "Banque mondiale, Policy Research Working Paper 7630",
+     "year": "2016",
+     "url": "http://documents.worldbank.org/curated/en/258431468196137980/pdf/WPS7630.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "CE QUI NE SE TRANSPOSE PAS. (1) Le socle culturel. Deux équipes indépendantes (Parandekar et Sedmik ; Asadullah, Perera et Xiao) concluent, faute de mieux, à une explication culturelle : héritage confucéen, orientation vers la discipline et l'autorité, désapprobation familiale de l'absentéisme, statut social élevé de l'enseignant. Ce n'est pas un levier de politique publique et toute note qui le présenterait comme tel serait malhonnête. (2) La sélection institutionnelle. Une part importante de la performance mesurée du Vietnam vient de l'examen provincial d'entrée en classe 10, qui écarte du système environ un tiers d'une classe d'âge avant 15 ans (couverture PISA corrigée de 66 %, 68 % en 2022, 71 % en 2025) : ce filtre vaut +85,9 points de score contre +18,9 ailleurs. Un système européen soumis à obligation scolaire jusqu'à 18 ans ne peut ni ne doit répliquer ce mécanisme ; c'est précisément ce que fait déjà la FWB par d'autres voies (redoublement, relégation vers le qualifiant), avec des coûts sociaux au moins aussi élevés et sans le bénéfice pédagogique. (3) Le pilotage centralisé. L'autonomie des établissements vietnamiens est à plus d'un écart-type sous la moyenne OCDE et la participation des enseignants aux décisions à 1,6 écart-type en dessous. Dans un système à liberté d'enseignement constitutionnelle et à réseaux multiples, cette voie est fermée — mais le mécanisme sous-jacent ne l'est pas (voir ci-dessous). (4) Le financement par les ménages. Les 16 heures d'étude hebdomadaire hors école, dont 5 heures de cours commerciaux, et des dépenses parentales de tutorat 10 à 40 fois supérieures à celles des pays comparables, constituent un transfert de coût vers les familles socialement régressif, incompatible avec les objectifs d'équité de la FWB.\n\nCE QUI SE TRANSPOSE, ET CE QUE LE CAS VIETNAMIEN AUTORISE À DIRE. (A) Le redoublement n'est pas la condition de l'excellence. Le Vietnam atteint des résultats très supérieurs à son revenu avec 6,8 % d'élèves ayant redoublé, contre 19,2 % dans les pays comparables et 35 % en FWB. Le cas vietnamien ne prouve pas qu'abolir le redoublement améliore les résultats, mais il détruit l'argument selon lequel un taux élevé de redoublement serait le prix de l'exigence. C'est l'usage le plus solide et le plus défendable du cas vietnamien pour la FWB. (B) La densité de l'heure de classe, pas son volume. Résultat contre-intuitif et central : les enfants vietnamiens passent MOINS d'heures à l'école que ceux d'Inde, du Pérou ou d'Éthiopie (5,4 h/jour à 12 ans contre 8,0 en Inde), et TALIS 2024 montre 11 % du temps de classe consacré à la mise en ordre contre 15 % en moyenne OCDE, avec 72 % des enseignants atteignant leurs objectifs de leçon contre 44 %. Sous contrainte budgétaire forte, c'est le seul levier de « temps » finançable : récupérer du temps d'enseignement effectif dans le volume horaire existant, plutôt que d'allonger la grille. (C) La compétence didactique disciplinaire des enseignants comme cible mesurable. C'est la seule variable observable qui explique une part substantielle de l'avantage vietnamien (65-84 % de l'écart avec le Pérou). Elle se distingue nettement du diplôme formel, dont le rendement est PLUS FAIBLE au Vietnam qu'ailleurs. Traduction pour la FWB : cibler la formation initiale et continue sur la didactique des disciplines et sur le traitement des erreurs types d'élèves, et se doter d'instruments pour mesurer cette compétence — ce que le système ne fait pas aujourd'hui. Coût marginal faible, compatible avec la gouvernance partagée puisque le référentiel de compétences professionnelles relève du niveau Communauté et non des réseaux. (D) Redevabilité sans centralisation. Le mécanisme vietnamien n'est pas réplicable dans sa forme (publication publique des résultats d'école, évaluation des enseignants sur les résultats des élèves), et la littérature internationale sur ces dispositifs est très partagée. Mais son contenu l'est en partie : enregistrement systématique et fiable des données de présence et de résultats, observation en classe généralisée à visée formative (100 % au Vietnam, avec pour conséquence dominante un entretien de remédiation), observation entre pairs (66 %). Une gouvernance par contrats d'objectifs entre pouvoir régulateur et établissements, indifférente au réseau, est le véhicule institutionnel compatible avec la liberté d'enseignement.\n\nTROIS AVERTISSEMENTS À INTÉGRER SANS LES ÉDULCORER. (i) Le rang PISA du Vietnam ne doit PAS être utilisé comme argument. L'OCDE a exclu le Vietnam des analyses de tendance de PISA 2025 au motif qu'il vient de passer à l'informatique après avoir utilisé, dans tous les cycles précédents, des instruments papier dérivés de PISA 2012 ; ses scores 2025 (443 en mathématiques, 392 en lecture, 457 en sciences) s'effondrent d'une ampleur invraisemblable. Citer « le Vietnam qui dépasse les États-Unis » exposerait la note à une réfutation immédiate. Ce qui reste utilisable, ce sont les gains d'apprentissage mesurés HORS PISA (Young Lives), qui ne dépendent d'aucun de ces problèmes. (ii) Le Vietnam n'est pas un modèle d'équité pour la FWB. Son écart entre quartiles socio-économiques extrêmes atteint 87 points en sciences en 2025 et le statut socio-économique y explique 18 % de la variance contre 12 % en moyenne OCDE — il est donc désormais MOINS équitable que la moyenne OCDE, alors qu'en 2022 il l'était davantage (78 points contre 93). Les écarts entre groupes ethniques atteignent 1,3-1,5 écart-type et sont déjà installés à 5 ans. Le seul résultat d'équité robuste est intra-école (les écoles vietnamiennes n'amplifient pas les écarts entre élèves d'un même établissement), et il est pertinent pour la FWB précisément parce que c'est l'inverse qui y est documenté. (iii) L'importation de modèles échoue, y compris au Vietnam. VNEN, transposition du modèle colombien Escuela Nueva financée par la Banque mondiale et déployée à grande échelle dans le primaire vietnamien à partir de 2012-2013, n'a produit que des effets faibles à court terme et nuls à 5-7 ans, en cognitif comme en non-cognitif. La leçon utile pour un plaidoyer de relance du Pacte n'est donc pas « copions le Vietnam », mais : les gains durables ne viennent pas d'un dispositif pédagogique importé, ils viennent de ce qui se passe effectivement dans la classe — compétence didactique de l'enseignant, temps d'enseignement effectif, attentes élevées appliquées à tous — et cela suppose des mécanismes d'observation, de mesure et de redevabilité que la FWB n'a pas encore installés."
+}

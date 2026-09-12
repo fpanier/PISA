@@ -1,0 +1,505 @@
+{
+ "topic": "Estonie : anatomie du premier système éducatif de l'Union européenne à PISA 2025 — mécanismes, preuves et fragilités",
+ "headline": "L'Estonie est première de l'UE à PISA 2025 (527 en sciences, 508 en maths) en dépensant moins par élève que la moyenne OCDE, grâce à une combinaison tronc commun unique sans filières ni redoublement + préscolaire municipal obligatoire + autonomie professionnelle forte adossée à un pilotage par données sans inspection ; mais ce modèle repose sur un consensus national homogène, il s'érode en lecture (-24 points depuis 2018), et il abrite trois fractures que le récit officiel minore : la minorité russophone (47 points d'écart), une pénurie enseignante parmi les pires de l'OCDE, et un quasi-marché scolaire de fait (la moitié des élèves du primaire ne fréquentent pas leur école de proximité).",
+ "searches_run": 17,
+ "items": [
+  {
+   "claim": "À PISA 2025, l'Estonie est le premier système de l'Union européenne en sciences, en mathématiques et en résolution de problèmes computationnels, et second en lecture — mais son score de lecture est le plus bas jamais enregistré depuis son entrée dans PISA.",
+   "what_it_is": "Résultats bruts du cycle PISA 2025 (publié le 8 septembre 2026) pour l'Estonie, avec la structure de performance par domaine et la trajectoire temporelle.",
+   "evidence_level": "comparaison internationale corrélationnelle (enquête sur échantillon représentatif stratifié ; aucune identification causale)",
+   "effect_size": "Sciences 527 (moyenne OCDE 482), mathématiques 508 (OCDE 463), lecture 499 (OCDE 461), résolution computationnelle de problèmes 541. Rangs mondiaux sur 91 systèmes : 6e en sciences, 8e en maths, 8e en lecture, 7e en résolution computationnelle. Lecture : 499 en 2025 contre 523 en 2018, soit -24 points, l'équivalent d'environ une année d'apprentissage. La proportion d'élèves faibles a augmenté de 6 points de pourcentage depuis 2015 en mathématiques comme en lecture. Population : élèves de 15 ans.",
+   "concrete_practice": "L'Estonie participe à tous les cycles PISA depuis 2006 et le ministère (Haridus- ja Teadusministeerium) traite les résultats comme un instrument de pilotage public : les rapports nationaux PISA sont produits par le Education and Youth Board (Harno), diffusés aux écoles et intégrés au tableau de bord public Haridussilm. La stratégie nationale d'éducation fixe explicitement des cibles chiffrées d'élèves faibles en lecture, mathématiques et sciences.",
+   "concrete_example": "Cycle PISA 2025 en Estonie : 6 304 élèves de 204 écoles ont été testés, échantillon représentant environ 14 600 jeunes de 15 ans. Résultat mesuré : 90 % des élèves atteignent au moins le niveau 2 (seuil de compétence de base) en sciences et 11 % sont des performeurs de haut niveau (moyenne OCDE 7 %) ; en lecture 83 % atteignent le niveau 2 contre 69 % en moyenne OCDE, et 9 % sont des performeurs de haut niveau contre 6 %. La part d'élèves pratiquant une « lecture hâtive » (temps de réponse anormalement court) est passée d'environ 5 % en 2018 à 9 % en 2025.",
+   "conditions": "Le résultat tient tant que la cohorte testée a effectué l'essentiel de sa scolarité de base dans le tronc commun unique. L'indicateur est vulnérable aux effets de composition (migration ukrainienne récente, transition linguistique des écoles russophones amorcée en 2024) qui se manifesteront surtout aux cycles 2028 et 2031.",
+   "contested": "Le recul en lecture est réel, significatif et non expliqué à ce jour : l'explication par la distraction numérique est explicitement infirmée par PISA 2025 en Estonie, où la distraction numérique n'est PAS significativement associée à une performance scientifique plus faible, contrairement à la moyenne OCDE. Par ailleurs, Cécile Gorré (APED, 2020) reproche au système estonien d'orienter explicitement sa stratégie éducative sur la performance PISA, les élèves s'entraînant en classe sur des questionnaires de type PISA — ce qui, si c'est exact, gonfle mécaniquement le score sans preuve d'un gain d'apprentissage réel. Je n'ai pas trouvé d'étude indépendante quantifiant cet effet d'entraînement, et cette allégation doit donc être traitée comme non vérifiée.",
+   "sources": [
+    {
+     "title": "PISA 2025: Estonian students remain among the world's best",
+     "org": "Education Estonia (Haridus- ja Teadusministeerium)",
+     "year": "2026",
+     "url": "https://www.educationestonia.org/pisa-2025-estonia/"
+    },
+    {
+     "title": "Estonia remains among the world's best education systems in PISA 2025 – but reading scores fall",
+     "org": "Estonian World",
+     "year": "2026",
+     "url": "https://estonianworld.com/knowledge/estonia-remains-among-the-worlds-best-education-systems-in-pisa-2025-but-reading-scores-fall/"
+    },
+    {
+     "title": "PISA 2025 Results (Volume I): Country Note Estonia",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/estonia_3b256c6a-en.html"
+    },
+    {
+     "title": "Champions aux tests PISA : Le cas de l'Estonie",
+     "author": "Cécile Gorré",
+     "org": "APED / Ecole démocratique",
+     "year": "2020",
+     "url": "https://www.skolo.org/2020/07/02/champions-aux-tests-pisa-le-cas-de-lestonie/"
+    }
+   ]
+  },
+  {
+   "claim": "L'absence totale de filières avant 15 ans — un põhikool unique de la 1re à la 9e année, même curriculum national pour toutes les écoles publiques, municipales et privées — est le trait structurel qui distingue le plus l'Estonie de la FWB, et c'est celui pour lequel la littérature causale internationale est la plus solide.",
+   "what_it_is": "Structure « single structure » : école de base intégrée grades 1-9 (7-16 ans), un unique curriculum national commun, orientation vers le général ou le professionnel seulement après la 9e année.",
+   "evidence_level": "descriptif pour l'Estonie ; quasi-expérimental (différences-de-différences internationales) pour l'effet du traçage précoce",
+   "effect_size": "Hanushek & Woessmann (Economic Journal, 2006) exploitent le fait que les tests de primaire précèdent le traçage et ceux du secondaire le suivent : sur 6 enquêtes internationales, 8 paires de contrastes et 18 à 26 comparaisons entre pays, le traçage précoce augmente significativement l'inégalité des résultats et tend (résultat moins net) à réduire la performance moyenne. Les auteurs concluent à l'absence d'arbitrage équité-efficacité. Taille d'effet exacte : les coefficients varient selon la spécification et ne se résument pas à un chiffre unique ; la publication originale doit être consultée.",
+   "concrete_practice": "Le curriculum national estonien (versions 1996, 2002, 2011) s'applique à toutes les écoles d'enseignement général, qu'elles soient d'État, municipales ou privées. Les communes doivent garantir une place à tout élève résidant sur leur territoire ; le réseau scolaire est planifié pour qu'au moins 80 % des élèves n'aient pas plus de 60 minutes de trajet, le transport scolaire étant gratuit et organisé par la commune. La sortie du põhikool exige la réussite du curriculum, un travail créatif personnel et trois examens (estonien ou estonien langue seconde, mathématiques, matière au choix).",
+   "concrete_example": "Un élève estonien entré en 1re année en 2016 suit jusqu'en 2025 le même curriculum national que tous les autres élèves du pays, dans l'école de son quartier, sans aucune décision d'orientation, sans redoublement dans la quasi-totalité des cas, et sans passerelle vers un enseignement qualifiant séparé. Ce n'est qu'après la 9e année, à 16 ans, qu'il choisit entre gümnaasium (général) et kutseõppeasutus (professionnel) — et la part d'élèves dans l'EFP de niveau intermédiaire reste à 43,4 % (2023) contre 52,4 % en moyenne UE, soit un secondaire supérieur nettement plus « généraliste » qu'en Belgique francophone.",
+   "conditions": "La structure unique ne produit ses effets que si l'école de proximité est effectivement de qualité homogène — condition assurée en Estonie par un curriculum unique, un financement d'État par élève identique pour le municipal et le privé, et un corps enseignant formé au même niveau (master). Sans ces trois conditions, le tronc commun produit de la ségrégation interne plutôt que de l'équité.",
+   "contested": "Deux réserves majeures. (1) L'effet Hanushek-Woessmann est identifié entre pays, pas au sein de l'Estonie ; il ne dit rien de l'effet propre de la réforme estonienne. (2) L'homogénéité estonienne est fissurée de l'intérieur : le rapport UE Education and Training Monitor 2025 relève que près de 50 % des élèves du primaire ne fréquentent pas l'école la plus proche et 60 % choisissent un secondaire supérieur hors de leur zone de recrutement. L'absence formelle de filières coexiste donc avec un quasi-marché géographique. Certaines études ont par ailleurs documenté des transitions éducatives inégales selon l'origine familiale en Estonie (Saar), mais je n'ai pas pu accéder au texte intégral de ces travaux pour en vérifier les résultats chiffrés, et je ne les avance donc pas comme preuve.",
+   "sources": [
+    {
+     "title": "Does Educational Tracking Affect Performance and Inequality? Differences-in-Differences Evidence across Countries",
+     "author": "Eric A. Hanushek, Ludger Woessmann",
+     "org": "The Economic Journal 116(510), C63-C76 / NBER Working Paper 11124",
+     "year": "2006",
+     "url": "https://www.nber.org/papers/w11124"
+    },
+    {
+     "title": "Estonia: Organisation of single structure education",
+     "org": "Eurydice, Commission européenne",
+     "year": "2025",
+     "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/estonia/organisation-single-structure-education"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "National Center on Education and the Economy (NCEE)",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    }
+   ]
+  },
+  {
+   "claim": "Le redoublement est quasi inexistant en Estonie — 4 % des élèves de 15 ans contre 9 % en moyenne OCDE — soit près de neuf fois moins qu'en Fédération Wallonie-Bruxelles, où il touche 35 % des élèves de 15 ans.",
+   "what_it_is": "Pratique de promotion quasi automatique d'année en année dans le põhikool, adossée à un dispositif de soutien précoce en classe plutôt qu'à la répétition d'une année entière.",
+   "evidence_level": "descriptif (déclaratif élève dans PISA) pour le taux ; la littérature causale sur les effets du redoublement est distincte et majoritairement quasi-expérimentale",
+   "effect_size": "4 % des élèves de 15 ans déclarent avoir redoublé au moins une fois depuis l'entrée au primaire, contre 9 % en moyenne OCDE (PISA 2022). 76 % des élèves estoniens de 15 ans étaient inscrits en 9e année lors du test, indicateur d'une cohorte très peu retardée. Population : élèves de 15 ans.",
+   "concrete_practice": "Plutôt que le redoublement, l'Estonie mobilise des « spécialistes du soutien » (logopèdes, enseignants spécialisés, pédagogues sociaux) intégrés à l'école, un coordinateur des besoins éducatifs particuliers dans chaque établissement, et un réseau national de centres de conseil financés par l'État, les centres Rajaleidja (« Pathfinder »), présents dans chaque comté, qui accompagnent à la fois l'élève, l'enseignant et les parents.",
+   "concrete_example": "Dans le préscolaire estonien, le directeur constitue des équipes associant enseignants et spécialistes du soutien : 59 % des établissements préscolaires disposent d'un logopède sur site et 30 % emploient un pédagogue social ; quand la compétence manque en interne, l'établissement saisit le centre Rajaleidja de son comté. Le repérage des difficultés se fait donc à 3-6 ans, avant l'entrée en 1re année, et non par constat d'échec en fin d'année scolaire. Résultat mesuré au bout de la chaîne : 76,8 % des élèves à besoins spécifiques étaient scolarisés en classe ordinaire en 2024, contre 64,9 % en 2020.",
+   "conditions": "Le dispositif suppose une densité de spécialistes que la FWB n'a pas, et un financement d'État fléché. Il suppose aussi que l'enseignant accepte la différenciation en classe comme norme professionnelle — condition liée à la formation de niveau master et à l'autonomie pédagogique (voir élément sur l'autonomie).",
+   "contested": "L'inclusion estonienne est sous-outillée : seuls 42,6 % des enseignants estoniens ayant des élèves à besoins spécifiques déclaraient en 2024 avoir reçu la formation nécessaire. L'augmentation rapide de la scolarisation en milieu ordinaire sans formation correspondante est un risque documenté par la Commission européenne. Par ailleurs, la corrélation internationale entre faible redoublement et haute performance ne prouve pas la causalité : les systèmes performants redoublent peu, mais l'abolition du redoublement sans investissement dans le soutien précoce n'a pas, à ma connaissance, d'évaluation démontrant un gain — je n'avance donc aucune taille d'effet causale sur ce point.",
+   "sources": [
+    {
+     "title": "PISA 2022 Results (Volume I and II) – Country Note: Estonia",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/estonia_dafed886-en.html"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "National Center on Education and the Economy (NCEE)",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    }
+   ]
+  },
+  {
+   "claim": "L'accueil préscolaire est un droit opposable à partir de 18 mois : la commune est légalement obligée de fournir une place à tout enfant dont les parents la demandent, et la contribution parentale est plafonnée à 20 % du salaire minimum national.",
+   "what_it_is": "Système de lasteaed (jardins d'enfants) municipaux, régis par un curriculum-cadre préscolaire national, accueillant les enfants de 18 mois à 7 ans, avec obligation légale de place à charge de la commune.",
+   "evidence_level": "descriptif (cadre légal et taux de couverture administratifs) ; l'effet causal de l'accueil préscolaire sur les acquis repose sur une littérature internationale distincte",
+   "effect_size": "Participation à l'ECEC de 3 ans à l'âge d'entrée au primaire : 91,2 % en 2023 (moyenne UE 94,6 %). Accueil formel des moins de 3 ans : 36,8 % en 2024 (moyenne UE 39,3 %), avec une cible nationale de 40,5 % en 2030. Seuls sept États membres de l'UE garantissent juridiquement l'accès dès les premières années de vie ; l'Estonie en fait partie. Population : enfants 0-7 ans.",
+   "concrete_practice": "La loi impose aux communes rurales et aux villes de fournir une place en éducation préscolaire à tout enfant de 18 mois et plus dont les parents le souhaitent. L'État finance principalement les salaires des enseignants du préscolaire ; la commune finance l'infrastructure. La contribution parentale ne peut excéder 20 % du salaire minimum fixé par le gouvernement, et la quasi-totalité des communes subventionnent en plus, totalement ou partiellement, les frais de scolarité et les repas des familles à bas revenus. Les enseignants du préscolaire doivent détenir un bachelier ; plus d'un cinquième détiennent un master.",
+   "concrete_example": "Un enfant estonien de 20 mois dont les deux parents travaillent obtient, sur simple demande, une place dans le lasteaed de sa commune ; sa famille paie au maximum 20 % du salaire minimum légal, et rien du tout si elle est à bas revenu. Il y suit le curriculum-cadre préscolaire national, avec accès sur site à un logopède dans 59 % des établissements. Seuls 4,7 % des enfants estoniens fréquentent un préscolaire privé — l'offre est donc presque intégralement publique et municipale.",
+   "conditions": "Le droit opposable n'a de sens que si la commune a la capacité financière et immobilière de l'honorer ; la réforme territoriale de 2017, qui a fortement réduit le nombre de communes estoniennes, a été un préalable de capacité administrative. Le plafonnement de la contribution parentale est ce qui rend le droit réel plutôt que formel.",
+   "contested": "Les chiffres de couverture sont contradictoires selon les sources et il faut s'en méfier. L'étude de cas NCEE (Eisenschmidt et al., 2023) affirme que 81 % des enfants de moins de 3 ans et 94,7 % des 3-6 ans sont scolarisés, ce qui est incompatible avec le chiffre Eurostat de 36,8 % pour les moins de 3 ans repris par la Commission européenne en 2025. La différence tient très probablement à des définitions distinctes (18 mois-3 ans vs 0-3 ans, et « place disponible » vs « fréquentation à temps plein »), mais je n'ai pas pu établir la réconciliation exacte : la prudence commande de ne retenir que les chiffres Eurostat/Commission. Par ailleurs, la couverture estonienne des 3 ans et plus est en réalité INFÉRIEURE à la moyenne UE, ce qui contredit le récit d'un préscolaire « quasi universel » supérieur aux voisins.",
+   "sources": [
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "National Center on Education and the Economy (NCEE)",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "Estonia: Early childhood education and care",
+     "org": "Eurydice, Commission européenne",
+     "year": "2025",
+     "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/estonia/early-childhood-education-and-care"
+    }
+   ]
+  },
+  {
+   "claim": "L'Estonie a supprimé l'inspection scolaire de routine et l'a remplacée par l'auto-évaluation obligatoire adossée à un tableau de bord de données publiques — un arbitrage « autonomie contre transparence » qui est le cœur institutionnel du modèle.",
+   "what_it_is": "Gouvernance à trois niveaux (État, commune, école) où l'État fixe le curriculum et les indicateurs de résultat mais ne contrôle plus les processus ; les écoles s'auto-évaluent sur la base de données comparatives que l'État leur fournit et rend partiellement publiques.",
+   "evidence_level": "descriptif (analyse institutionnelle) ; les corrélats d'autonomie sont mesurés par TALIS 2024, donc corrélationnels",
+   "effect_size": "TALIS 2024 : 93 % des enseignants estoniens déclarent contrôler le contenu de leur cours, contre 84 % en moyenne OCDE. Les enseignants estoniens consacrent 84,3 % du temps d'instruction à l'enseignement et à l'apprentissage effectifs (parmi les taux les plus élevés au monde), le reste à la discipline et à l'administratif. Les enseignants estoniens rapportent une autonomie pédagogique et une participation aux décisions d'établissement supérieures à la moyenne OCDE sur au moins deux tiers des items de chaque domaine. Population : enseignants du secondaire inférieur (grades 7-9), 3 338 enseignants et 191 chefs d'établissement en Estonie.",
+   "concrete_practice": "Le ministère ne procède à des inspections qu'en cas de plainte, de violation de règle ou d'évaluation ministérielle ciblée. Le directeur d'établissement détient la responsabilité pleine de la qualité de l'enseignement, de la gestion financière, du recrutement et du licenciement des enseignants, de la fixation des salaires au-dessus d'un minimum national, et des relations avec la communauté. La contrepartie est l'obligation d'auto-évaluation documentée, alimentée par le portail national Haridussilm (« Education Eye ») où chaque école construit son propre rapport en choisissant indicateurs et années, et se compare à des écoles similaires (petites écoles rurales, gymnases d'État, etc.).",
+   "concrete_example": "Depuis 2018, l'agence Harno conduit chaque année une enquête nationale de satisfaction et de climat scolaire auprès des élèves de 4e, 8e et 11e année, des enseignants, des parents, des anciens élèves et des employeurs ; elle renvoie à chaque établissement un rapport nominatif assorti des résultats d'un groupe d'écoles comparables. Le directeur d'un gymnase d'État reçoit donc chaque année son « bulletin » sur Haridussilm et doit en tirer son plan de développement — sans qu'aucun inspecteur ne franchisse la porte. Pour être nommé, ce directeur doit avoir une formation supérieure en pédagogie, 3 à 5 ans d'expérience professionnelle et au minimum 240 heures de formation au management scolaire ; il dispose d'environ 20 % de son budget pour des primes de performance.",
+   "conditions": "Ce modèle ne fonctionne que si trois conditions sont réunies simultanément : un curriculum national commun suffisamment prescriptif sur les résultats attendus pour que l'autonomie porte sur les moyens et non sur les fins ; un corps de directeurs formés au management et recrutés sur compétence ; et un appareil statistique national capable de produire des données comparables par école et de les rendre exploitables. L'Estonie a mis vingt-cinq ans à construire les trois.",
+   "contested": "L'autonomie estonienne est un héritage de rupture politique (sortie du système soviétique en 1991) davantage qu'un choix de politique publique réplicable : Eisenschmidt et al. eux-mêmes datent le tournant des années 1990, quand les enseignants ont conquis leur autonomie contre le modèle soviétique. Surtout, l'association entre autonomie et performance est ici purement corrélationnelle : TALIS ne permet aucune inférence causale, et l'Italie affiche des niveaux d'autonomie enseignante comparables à ceux de l'Estonie (OCDE, TALIS 2024) pour des résultats PISA très inférieurs — l'autonomie seule n'explique donc rien. Enfin, l'absence d'inspection ne dit rien du niveau d'exigence réel : l'Estonie n'a pas publié d'évaluation indépendante de la qualité de ses auto-évaluations d'école.",
+   "sources": [
+    {
+     "title": "Results from TALIS 2024 – Country Note: Estonia",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/results-from-talis-2024-country-notes_e127f9e2-en/estonia_44178e34-en.html"
+    },
+    {
+     "title": "Teacher leadership and autonomy: Results from TALIS 2024",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/2025/10/results-from-talis-2024_28fbde1d/full-report/teacher-leadership-and-autonomy_24a4b36d.html"
+    },
+    {
+     "title": "Global teacher survey: Estonian teachers spend more time on learning than on discipline",
+     "org": "Education Estonia",
+     "year": "2025",
+     "url": "https://www.educationestonia.org/talis-2024-estonian-teachers-survey/"
+    },
+    {
+     "title": "Estonie : le leadership scolaire entre autonomie, pédagogie et performance",
+     "author": "Romuald Normand",
+     "org": "IH2EF, ministère français de l'Éducation nationale",
+     "year": "2023",
+     "url": "https://www.ih2ef.gouv.fr/estonie-le-leadership-scolaire-entre-autonomie-pedagogie-et-performance"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'Estonie obtient le premier rang européen en dépensant MOINS par élève que la moyenne OCDE — 11 088 USD PPA contre 12 647 — ce qui constitue l'argument le plus directement utilisable dans un contexte de contrainte budgétaire forte.",
+   "what_it_is": "Structure de financement : dotation d'État par élève versée aux communes, couvrant salaires enseignants, formation continue, matériel pédagogique et repas scolaires, complétée par les budgets communaux pour l'infrastructure ; même règle de subvention pour les écoles privées.",
+   "evidence_level": "descriptif (comptabilité nationale harmonisée OCDE)",
+   "effect_size": "Dépense d'éducation du primaire au tertiaire : 4,5 % du PIB (OCDE, Education at a Glance 2025) contre environ 4,9 % en moyenne OCDE. Dépense annuelle par élève équivalent temps plein, primaire à tertiaire : 11 088 USD PPA contre 12 647 en moyenne OCDE. Par niveau : 10 642 USD dans le primaire, 9 314 dans le secondaire, 18 967 dans le tertiaire. Coût salarial enseignant par élève : 3 029 USD contre 3 993 en moyenne OCDE.",
+   "concrete_practice": "L'État alloue aux communes des fonds proportionnels au nombre d'élèves inscrits dans leurs écoles municipales. Ces subventions couvrent les salaires enseignants, la formation continue, le matériel (manuels, équipement TIC) et les repas scolaires. L'État ne prescrit PAS l'usage des fonds au niveau de l'école : c'est le directeur qui arbitre. Des subventions analogues bénéficient aux écoles privées d'enseignement général en vertu du Private Schools Act de 1998.",
+   "concrete_example": "En 2019-2020, 11 % des écoles d'enseignement général estoniennes étaient privées, et elles percevaient la subvention d'État par élève selon les mêmes règles que les écoles municipales, sans prescription d'affectation. Le directeur d'une école municipale de 300 élèves reçoit ainsi une enveloppe indexée sur son effectif, négocie lui-même les salaires au-dessus du minimum national, et dispose d'environ 20 % de son budget pour des primes de performance. Résultat mesuré à l'échelle du système : premier rang européen en sciences et mathématiques à PISA 2025 pour un coût salarial enseignant par élève inférieur de 24 % à la moyenne OCDE.",
+   "conditions": "Le coût unitaire faible est en partie un artefact du niveau de salaire estonien (PIB par habitant de 27 944 USD en 2022, soit nettement inférieur à la Belgique) : ce n'est pas une efficience pure mais aussi un effet de prix. La condition transposable n'est pas le montant mais la règle : une dotation par élève, non affectée, décidée à l'école, identique pour tous les opérateurs.",
+   "contested": "Le raisonnement « ils font mieux avec moins » est fragile. D'abord parce qu'une partie de l'écart de coût reflète des salaires nominaux plus bas, pas une meilleure allocation. Ensuite parce que l'Estonie paie déjà ce modèle au prix d'une pénurie enseignante parmi les pires de l'OCDE (voir élément dédié) et d'une pyramide des âges dégradée (37,8 % d'enseignants de 55 ans et plus contre 25,1 % dans l'UE) : la « frugalité » estonienne pourrait être un emprunt sur l'avenir plutôt qu'une efficience durable. Enfin, le Foresight Centre du Parlement estonien (Arenguseire Keskus) documente que les hausses salariales estoniennes se sont faites par à-coups (2008, 2023) et non par croissance régulière, ce qui traduit une soutenabilité budgétaire précaire.",
+   "sources": [
+    {
+     "title": "Education at a Glance 2025: Estonia",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/education-at-a-glance-2025_1a3543e2-en/estonia_9f1f41d3-en.html"
+    },
+    {
+     "title": "Which factors influence teachers' salary cost? – Education at a Glance 2025",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en/full-report/which-factors-influence-teachers-salary-cost_fa1b28ba.html"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet du milieu social sur les résultats est parmi les plus faibles de l'OCDE — 68 points d'écart entre élèves favorisés et défavorisés en sciences contre 85 en moyenne OCDE, et 10 % de la variance expliquée contre 12 % — soit un écart social substantiellement plus faible qu'en FWB.",
+   "what_it_is": "Gradient socio-économique mesuré par PISA : écart de score entre le quartile supérieur et le quartile inférieur de l'indice ESCS, et part de variance des résultats expliquée par ce même indice.",
+   "evidence_level": "comparaison internationale corrélationnelle",
+   "effect_size": "PISA 2025 : 68 points d'écart en sciences entre élèves favorisés et défavorisés (moyenne OCDE 85 points) ; le milieu socio-économique explique 10 % de la variance des résultats en sciences (moyenne OCDE 12 %). PISA 2022 : 30,3 % des élèves estoniens défavorisés atteignent malgré tout un bon niveau de compétences, contre 16,3 % en moyenne UE. Population : élèves de 15 ans.",
+   "concrete_practice": "L'équité estonienne ne repose pas sur un dispositif de discrimination positive ciblé (type encadrement différencié), mais sur l'universalité des prestations : repas scolaires gratuits, matériel pédagogique gratuit, transport scolaire gratuit, soins dentaires gratuits jusqu'à 19 ans et santé scolaire gratuite jusqu'à 21 ans. En 2019, 52,15 % des activités de prévention financées par la caisse d'assurance maladie estonienne allaient aux services de santé scolaire.",
+   "concrete_example": "Un élève estonien issu d'une famille à bas revenu dans une commune rurale reçoit : une place en lasteaed dès 18 mois avec frais subventionnés par la commune, le transport scolaire gratuit jusqu'au põhikool de son secteur (à moins de 60 minutes par construction du réseau), les repas scolaires et les manuels payés par la dotation d'État, les soins dentaires gratuits, et l'accès gratuit aux locaux scolaires (bibliothèque, installations sportives et techniques) pour les activités extrascolaires. Résultat mesuré : 30,3 % des élèves du quartile ESCS inférieur atteignent malgré tout un bon niveau de compétences en 2022, soit près du double de la moyenne UE.",
+   "conditions": "L'universalité — plutôt que le ciblage — est le mécanisme revendiqué : le rapport NCEE souligne explicitement que l'approche universelle réduit le risque que les familles défavorisées accèdent moins aux services. Cela suppose un consensus politique sur le financement universel et une faible dispersion territoriale de la qualité scolaire.",
+   "contested": "Trois limites sérieuses. (1) Le gradient socio-économique faible coexiste avec un écart linguistique massif de 47 points en sciences entre élèves de langue maternelle russe et estonienne (voir élément dédié) : l'Estonie a substitué une inégalité ethnolinguistique à une inégalité de classe, elle ne l'a pas supprimée. (2) La Commission européenne relève que près de 50 % des élèves du primaire ne fréquentent pas l'école la plus proche, ce qui signale un tri social par choix d'école que l'indicateur ESCS de PISA capte mal. (3) Le financement de l'éducation non formelle, pilier du mécanisme d'équité, a chuté d'un tiers en cinq ans, avec des baisses jusqu'à 60 % dans certains comtés (Saaremaa) : le socle universel s'effrite.",
+   "sources": [
+    {
+     "title": "Estonia remains among the world's best education systems in PISA 2025 – but reading scores fall",
+     "org": "Estonian World",
+     "year": "2026",
+     "url": "https://estonianworld.com/knowledge/estonia-remains-among-the-worlds-best-education-systems-in-pisa-2025-but-reading-scores-fall/"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "Hobby school support down by a third over five years in Estonia",
+     "org": "ERR News",
+     "year": "2024",
+     "url": "https://news.err.ee/1609575610/hobby-school-support-down-by-a-third-over-five-years-in-estonia"
+    }
+   ]
+  },
+  {
+   "claim": "Le salaire enseignant estonien a atteint 120 % du salaire moyen national et se situe au 2e rang OCDE pour son ratio aux revenus des diplômés du supérieur — mais il reste 28 % inférieur à celui des autres titulaires d'un master, et 45,5 % des enseignants envisagent de quitter le métier dans les cinq ans.",
+   "what_it_is": "Politique salariale enseignante : salaire minimum national fixé par le gouvernement, salaire effectif négocié à l'école par le directeur au-dessus de ce plancher, financé par la dotation d'État par élève.",
+   "evidence_level": "descriptif (données administratives et comptabilité OCDE) ; les intentions de départ proviennent d'une enquête déclarative (TALIS 2024)",
+   "effect_size": "Ratio salaire effectif des enseignants du primaire aux revenus des travailleurs à temps plein diplômés du supérieur âgés de 25-64 ans : 0,87, soit le 2e rang sur 19 pays disposant de données (OCDE, EAG 2025) ; salaires effectifs inférieurs de 13 % à ceux des diplômés du supérieur, contre -17 % en moyenne OCDE. Salaire minimum enseignant : 1 820 € bruts/mois au 1er janvier 2025, 1 970 € en 2026. Salaire moyen enseignant estimé à 2 184 €/mois en novembre 2024, soit 120 % du salaire moyen estonien. Écart avec les autres titulaires d'un master : -28 % (les masters gagnaient 2 812 € bruts en moyenne en 2022). Intentions de départ : 45,5 % des enseignants du secondaire inférieur prévoient de quitter la profession dans les cinq ans (TALIS 2024).",
+   "concrete_practice": "L'État fixe un salaire minimum enseignant national et transfère aux communes une dotation par élève qui couvre la masse salariale enseignante. Le directeur fixe ensuite le salaire individuel au-dessus de ce plancher et dispose d'environ 20 % de son budget pour des primes de performance. En parallèle, l'Estonie a supprimé en 2012-2013 les frais d'inscription dans toutes les formations supérieures à temps plein et dans les formations à temps partiel des filières en pénurie, dont l'enseignement, tout en RELEVANT simultanément les exigences d'admission en formation d'enseignant. La formation initiale est un cursus de cinq ans débouchant sur un master avec mémoire de recherche.",
+   "concrete_example": "Levier de recrutement mesuré : la gratuité des études conjuguée au relèvement des exigences d'admission a fait monter significativement, sur la décennie suivante, le niveau moyen obtenu au secondaire supérieur par les candidats aux formations d'enseignant. Côté volumes, les inscriptions en formation initiale d'enseignant ont augmenté de 50 % sur cinq ans entre 2018/19 et 2023/24. Mais la rétention reste le point faible : 56 % des diplômés exercent encore comme enseignants cinq ans après leur diplôme, pour une cible nationale de 60 % en 2035. La grève enseignante de 2024 a débouché sur une hausse de 4 % du salaire minimum enseignant, alors que le salaire moyen national progressait de 8 % la même année.",
+   "conditions": "La hausse salariale estonienne a été rendue possible par une croissance économique rapide (PIB par habitant passé d'environ 800 USD de salaire mensuel brut moyen en 2010 à environ 1 800 USD en 2022) : elle est indexée sur un rattrapage macroéconomique que la FWB n'a pas devant elle. La condition véritablement transposable est le couplage gratuité des études + relèvement de la sélectivité d'entrée + master obligatoire.",
+   "contested": "Le récit d'un métier revalorisé est fragile et l'Estonie le sait. Eneli Kindsiko (Arenguseire Keskus, l'organisme de prospective du Parlement estonien) montre que la progression salariale s'est faite par « hausses ponctuelles brutales » en 2008 et 2023 plutôt que par croissance régulière, et que maintenir la cible de 120 % du salaire moyen exigeait déjà 2 362 €/mois en 2024 — soit plus que le salaire réellement versé. Les disparités régionales sont fortes : l'enseignant du comté de Harju (Tallinn) gagne 13 % de plus que la moyenne de son comté, celui du comté d'Ida-Viru 55 % de plus — c'est précisément là où le coût de la vie est élevé (Harju, Tartu, plus de la moitié des 10 000 enseignants concernés) que la rétention est la plus mauvaise. Enfin, 93 % des enseignants se déclarent satisfaits de leur profession mais 45,5 % veulent la quitter : la satisfaction déclarative n'est manifestement pas un indicateur de rétention.",
+   "sources": [
+    {
+     "title": "How much are teachers and school heads paid? – Education at a Glance 2025",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en/full-report/how-much-are-teachers-and-school-heads-paid_5daf5678.html"
+    },
+    {
+     "title": "Teachers' salaries have increased rapidly, but keeping the growth rate at the same level might be difficult",
+     "author": "Eneli Kindsiko",
+     "org": "Arenguseire Keskus (Foresight Centre, Parlement estonien)",
+     "year": "2024",
+     "url": "https://arenguseire.ee/en/news/teachers-salaries-have-increased-rapidly-but-keeping-the-growth-rate-at-the-same-level-might-be-difficult/"
+    },
+    {
+     "title": "Government confirms new minimum wage for teachers",
+     "org": "ERR News",
+     "year": "2025",
+     "url": "https://news.err.ee/1609905221/government-confirms-new-minimum-wage-for-teachers"
+    },
+    {
+     "title": "Global teacher survey: Estonian teachers spend more time on learning than on discipline (TALIS 2024)",
+     "org": "Education Estonia",
+     "year": "2025",
+     "url": "https://www.educationestonia.org/talis-2024-estonian-teachers-survey/"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    }
+   ]
+  },
+  {
+   "claim": "La numérisation estonienne est une infrastructure d'État réelle et ancienne, mais rien n'établit qu'elle explique les résultats PISA — les évaluations disponibles du programme fondateur Tiigrihüpe ont conclu à une absence d'effet sur les notes.",
+   "what_it_is": "Écosystème numérique éducatif : Tiigrihüpe (Tiger Leap, 1997, équipement et connexion de toutes les écoles), systèmes d'information scolaire eKool (2001) et Stuudium (2012), plateforme d'examens électroniques EIS (2016), dépôt national de ressources e-Koolikott (2016), programme ProgeTiiger (2012, informatique et robotique de la maternelle au secondaire supérieur), AI Leap / TI-hüpe (2025).",
+   "evidence_level": "descriptif pour l'infrastructure ; évaluations d'impact anciennes (Tiger in Focus, SITES) rapportées comme nulles sur les résultats scolaires ; aucune évaluation causale identifiée pour ProgeTiiger et AI Leap",
+   "effect_size": "Effet sur les notes : nul selon les études Tiger in Focus et SITES rapportées par Mart Laanpere (Tallinn University, 2014), avec un impact seulement mineur sur le changement de paradigme pédagogique. Aucune taille d'effet publiée n'a pu être retrouvée pour ProgeTiiger ni pour AI Leap. PISA 2025 : 58 % des élèves estoniens déclarent utiliser des agents conversationnels d'IA pour apprendre au moins une fois par semaine (moyenne OCDE 46 %) ; 36 % déclarent que leurs camarades sont souvent distraits par des appareils numériques pendant la plupart ou la totalité des cours de sciences (OCDE 28 %).",
+   "concrete_practice": "Presque toutes les écoles primaires et secondaires estoniennes utilisent eKool ou Stuudium comme système d'information : dossiers élèves, notes, absences, devoirs, horaires, messagerie école-parents. Chaque enseignant, élève et parent y accède via sa carte d'identité nationale (ou MobileID / HarID, l'authentification unique du ministère). Depuis 2016, tous les tests standardisés se passent électroniquement sur la plateforme EIS, qui administre, corrige et restitue les résultats.",
+   "concrete_example": "ProgeTiiger, lancé en 2012 et cofinancé par le Fonds social européen : intégration de la programmation et de la robotique dans le curriculum de la maternelle au secondaire supérieur, avec développement de matériel pédagogique, formation des enseignants et concours d'élèves. Échelle atteinte en 2025 : la quasi-totalité des écoles et jardins d'enfants estoniens ont participé aux activités du programme. Résultat mesuré rapporté par le ministère : un étudiant universitaire estonien sur dix choisit des études TIC, dont un tiers de femmes — et la Commission européenne relève effectivement que 35 % des étudiants estoniens du tertiaire en STEM sont en TIC (moyenne UE 20 %) et que 32 % des étudiants TIC sont des femmes (près du double de la moyenne UE de 20 %). AI Leap 2025 (TI-hüpe), lancé le 1er septembre 2025 : phase 1 avec 20 000 élèves de 10e et 11e année et 3 000 enseignants dotés d'un accès gratuit aux principaux outils d'IA après formation, extension prévue l'année suivante à 38 000 élèves et 2 000 enseignants supplémentaires, dans le cadre de négociations avec OpenAI et Anthropic.",
+   "conditions": "L'infrastructure numérique éducative estonienne est adossée à l'identité numérique nationale (carte d'identité électronique) : sans elle, ni l'authentification unique ni l'intégration eKool-EIS-Haridussilm ne fonctionneraient. C'est une dépendance d'État, pas un choix scolaire.",
+   "contested": "C'est l'élément le plus contestable du récit estonien. (1) Mart Laanpere, directeur du Centre de technologie éducative de l'Université de Tallinn, écrit dès 2014 que les études d'évaluation (Tiger in Focus, SITES) n'ont montré aucun effet sur les notes, et que Tiger Leap a souffert d'un déficit de recherche et de politiques fondées sur la preuve ; il rapporte qu'une étude commanditée sur des classes en 1:1 ordinateur portable a donné : enseignants « pas besoin de changer », élèves « reprenez-les ». (2) Le lien ProgeTiiger → choix d'études TIC n'a fait l'objet d'aucune évaluation contrefactuelle publiée à ma connaissance : la corrélation entre l'existence du programme et la part d'étudiants TIC ne prouve rien, l'Estonie étant par ailleurs une économie fortement spécialisée dans le numérique. (3) PISA 2025 montre que l'Estonie a une politique d'interdiction du téléphone bien moins répandue que l'OCDE (26 % des élèves dans des écoles avec interdiction, contre 49 % en moyenne OCDE) — et pourtant la distraction numérique n'y est PAS significativement associée à une performance scientifique plus faible, contrairement à la moyenne OCDE. Ce résultat, s'il se confirme, invalide autant l'argument pro-numérique que l'argument anti-écrans.",
+   "sources": [
+    {
+     "title": "Education in Estonia: PISA and Digital Turn",
+     "author": "Mart Laanpere",
+     "org": "Centre for Educational Technology, Tallinn University",
+     "year": "2014",
+     "url": "https://www.slideshare.net/slideshow/education-in-estonia-pisa-and-digital-turn/40102354"
+    },
+    {
+     "title": "The ProgeTiger programme helps to prepare for the future",
+     "org": "Education Estonia / Harno",
+     "year": "2024",
+     "url": "https://www.educationestonia.org/progetiger-programming-school-kindergarten/"
+    },
+    {
+     "title": "Estonia Announces a Groundbreaking National Initiative: AI Leap Programme to Bring AI Tools to All Schools",
+     "org": "Haridus- ja Teadusministeerium (ministère estonien de l'Éducation et de la Recherche)",
+     "year": "2025",
+     "url": "https://www.hm.ee/en/news/estonia-announces-groundbreaking-national-initiative-ai-leap-programme-bring-ai-tools-all"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "PISA 2025 Results (Volume I): Country Note Estonia",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/estonia_3b256c6a-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "La fracture linguistique est la faille majeure du modèle : 47 points d'écart en sciences entre élèves de langue maternelle russe et estonienne à PISA 2025, un écart qui s'est AGGRAVÉ depuis 2022, au moment même où l'État impose la suppression de l'enseignement en russe.",
+   "what_it_is": "Système scolaire historiquement dédoublé par langue d'instruction (héritage soviétique), environ un cinquième des écoles de base offrant un enseignement en russe, en cours de suppression par la réforme linguistique adoptée en 2022.",
+   "evidence_level": "comparaison internationale corrélationnelle (PISA) pour l'écart ; descriptif pour la réforme ; aucune évaluation d'impact de la réforme n'existe encore",
+   "effect_size": "PISA 2025 : 47 points d'écart en sciences entre élèves dont la langue du foyer est le russe et ceux dont la langue est l'estonien, soit l'équivalent de plus de deux années d'apprentissage. PISA 2022 : 40 points en sciences, 32 en mathématiques, 31 en lecture. L'écart s'est donc creusé de 7 points en sciences en un cycle. Population : élèves de 15 ans. Environ un cinquième des écoles de base offraient un enseignement en russe ; la minorité russe représente environ 24 % de la population estonienne.",
+   "concrete_practice": "La loi adoptée en 2022, après l'invasion russe de l'Ukraine, impose l'estonien comme langue d'instruction dans toutes les écoles. La transition a démarré en 2024 dans les jardins d'enfants et en 1re et 4e années, et doit être achevée à la rentrée 2029/2030. Elle s'appuie sur le programme d'immersion linguistique keelekümblus, déployé de longue date dans les écoles russophones sur base volontaire.",
+   "concrete_example": "Rentrée 2024 : dans les écoles russophones d'Ida-Virumaa et de Tallinn, les classes de 1re et de 4e année basculent intégralement en estonien. Échelle : l'ensemble des écoles concernées du pays, sur un calendrier de six ans. Difficultés documentées par les parlementaires et les acteurs locaux au moment du vote : pénurie d'enseignants capables d'enseigner en estonien, manque de guides pédagogiques et de matériel. Un ancien maire d'une ville concernée déclare que le gouvernement ne s'est pas soucié de savoir si les écoles, les enseignants ou les enfants étaient prêts ; un parlementaire évoque le risque d'une « génération perdue ». Résultat mesuré à ce stade : aucun — les premières cohortes concernées ne passeront PISA qu'en 2031, et l'écart de 47 points de PISA 2025 porte sur des élèves entièrement scolarisés AVANT la réforme.",
+   "conditions": "La réussite de la transition dépend entièrement de la disponibilité d'enseignants estonophones dans les régions russophones — or ces régions (Ida-Virumaa) sont précisément celles où le déficit est structurel. L'immersion linguistique fonctionne quand elle est précoce et volontaire ; imposée tardivement et de manière contrainte, la littérature internationale sur l'immersion ne garantit rien.",
+   "contested": "Les sources officielles estoniennes présentent la réforme comme un instrument d'équité ; la littérature académique est nettement plus critique. Des travaux publiés en revue à comité de lecture décrivent le système scolaire estonien comme ethniquement ségrégué, relique de la période soviétique, contribuant à la marginalisation de la jeunesse russophone dans l'enseignement supérieur et sur le marché du travail, et reproduisant l'inégalité au-delà du socio-économique jusque dans la citoyenneté démocratique commune. Les évaluations de l'immersion estonienne dont j'ai trouvé trace sont majoritairement des mémoires universitaires et des rapports de programme, non des évaluations contrefactuelles : les affirmations selon lesquelles keelekümblus donnerait « les meilleurs résultats des programmes d'immersion en Europe » ne reposent, dans les sources que j'ai pu consulter, sur aucune comparaison rigoureuse — je ne les reprends donc pas à mon compte. L'écart n'est en outre pas imputable à la seule langue d'instruction : milieu socio-économique, ressources des écoles, formation des enseignants et différences pédagogiques y contribuent.",
+   "sources": [
+    {
+     "title": "Estonia remains among the world's best education systems in PISA 2025 – but reading scores fall",
+     "org": "Estonian World",
+     "year": "2026",
+     "url": "https://estonianworld.com/knowledge/estonia-remains-among-the-worlds-best-education-systems-in-pisa-2025-but-reading-scores-fall/"
+    },
+    {
+     "title": "Estonia: Action plan approved for the transition to Estonian-language education",
+     "org": "Eurydice, Commission européenne",
+     "year": "2023",
+     "url": "https://eurydice.eacea.ec.europa.eu/news/estonia-action-plan-approved-transition-estonian-language-education"
+    },
+    {
+     "title": "Citizenship Educational Policy: A Case of Russophone Minority in Estonia",
+     "org": "Social Sciences (MDPI) 10(4):131",
+     "year": "2021",
+     "url": "https://www.mdpi.com/2076-0760/10/4/131"
+    },
+    {
+     "title": "Challenges facing the Estonian school system: the achievement gap between language-stream schools and school choice by immigrants",
+     "org": "Estonian Human Development Report 2016/2017",
+     "year": "2017",
+     "url": "https://www.2017.inimareng.ee/en/immigration-and-integration/challenges-facing-the-estonian-school-system/"
+    },
+    {
+     "title": "Estonian education reform 2024-2030: Uniting through language",
+     "org": "Education Estonia",
+     "year": "2024",
+     "url": "https://www.educationestonia.org/estonian-education-language-reform/"
+    }
+   ]
+  },
+  {
+   "claim": "La pénurie enseignante estonienne est parmi les plus sévères de l'OCDE — 65 % des élèves fréquentent une école dont le directeur déclare que l'enseignement est entravé par un manque de personnel, contre 39 % en moyenne OCDE — et la pyramide des âges est parmi les plus dégradées d'Europe.",
+   "what_it_is": "Déficit structurel de personnel enseignant, aggravé par le vieillissement du corps et une rétention faible en début de carrière, dans un pays où la politique de revalorisation salariale bute sur la contrainte budgétaire.",
+   "evidence_level": "descriptif (déclarations des chefs d'établissement dans PISA, données administratives Eurostat/Commission, enquête TALIS)",
+   "effect_size": "PISA 2025 : 65 % des élèves estoniens dans des écoles où le directeur déclare l'enseignement entravé par la pénurie de personnel, contre 39 % en moyenne OCDE — en amélioration par rapport à 73 % en 2022, mais toujours parmi les plus élevés de l'OCDE. Pyramide des âges : 37,8 % des enseignants ont 55 ans ou plus, contre 25,1 % en moyenne UE. Rétention : 56 % des diplômés en formation d'enseignant exercent encore cinq ans après (cible nationale 60 % en 2035). Intentions de départ : 45,5 % des enseignants du secondaire inférieur envisagent de quitter la profession dans les cinq ans (TALIS 2024).",
+   "concrete_practice": "Réponses engagées : gratuité totale des formations d'enseignant depuis 2012-2013, relèvement simultané de la sélectivité d'admission, salaire minimum enseignant national relevé chaque année (1 820 € en 2025, 1 970 € en 2026), objectif inscrit dans le plan de développement de l'éducation d'atteindre 120 % du salaire moyen national.",
+   "concrete_example": "Effet mesuré de la politique de gratuité + sélectivité : les inscriptions en formation initiale d'enseignant ont progressé de 50 % entre les années académiques 2018/19 et 2023/24, et le niveau moyen obtenu au secondaire supérieur par les candidats à ces formations a significativement augmenté sur la décennie. Effet non atteint : la rétention plafonne à 56 % à cinq ans, en deçà de la cible de 60 %, et 65 % des élèves restent scolarisés dans des écoles en sous-effectif déclaré. Les tensions sont géographiquement concentrées : plus de 10 000 enseignants, soit plus de la moitié du corps, exercent dans les comtés de Harju (Tallinn) et Tartu, où le coût de la vie est le plus élevé et la rétention la plus mauvaise. La grève enseignante de 2024 a obtenu une hausse de 4 % du salaire minimum, inférieure à la hausse de 8 % du salaire moyen national la même année.",
+   "conditions": "L'entrée en formation répond au signal prix et à la gratuité ; la rétention répond à d'autres facteurs (charge, reconnaissance, salaire relatif aux autres diplômés du supérieur) sur lesquels l'Estonie n'a pas encore trouvé de levier efficace. Le pari estonien — revaloriser plutôt que déqualifier — est budgétairement exigeant et se heurte à la croissance du salaire moyen national.",
+   "contested": "L'Estonie est régulièrement présentée comme un modèle de statut enseignant, alors que ses indicateurs de tension sont parmi les pires de l'OCDE. Les deux constats sont réconciliables — 93 % des enseignants se déclarent satisfaits de leur profession et 87 % disent aimer leur école, tout en étant 45,5 % à vouloir partir — mais cela signifie que la satisfaction professionnelle déclarée n'est PAS un indicateur fiable de soutenabilité du corps enseignant, ce qui devrait rendre prudent tout système qui fonde son diagnostic sur des enquêtes de climat. Arenguseire Keskus, organisme de prospective du Parlement estonien, doute explicitement de la soutenabilité du rythme de hausse salariale.",
+   "sources": [
+    {
+     "title": "Estonia remains among the world's best education systems in PISA 2025 – but reading scores fall",
+     "org": "Estonian World",
+     "year": "2026",
+     "url": "https://estonianworld.com/knowledge/estonia-remains-among-the-worlds-best-education-systems-in-pisa-2025-but-reading-scores-fall/"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    },
+    {
+     "title": "Global teacher survey: Estonian teachers spend more time on learning than on discipline (TALIS 2024)",
+     "org": "Education Estonia",
+     "year": "2025",
+     "url": "https://www.educationestonia.org/talis-2024-estonian-teachers-survey/"
+    },
+    {
+     "title": "Teachers' salaries have increased rapidly, but keeping the growth rate at the same level might be difficult",
+     "author": "Eneli Kindsiko",
+     "org": "Arenguseire Keskus (Foresight Centre, Parlement estonien)",
+     "year": "2024",
+     "url": "https://arenguseire.ee/en/news/teachers-salaries-have-increased-rapidly-but-keeping-the-growth-rate-at-the-same-level-might-be-difficult/"
+    }
+   ]
+  },
+  {
+   "claim": "Derrière le tronc commun unique, l'Estonie tolère un quasi-marché scolaire : des écoles municipales dites « élite » sélectionnent par tests d'aptitude à l'entrée en 1re année, et près de la moitié des élèves du primaire ne fréquentent pas leur école de proximité.",
+   "what_it_is": "Coexistence d'un principe de sectorisation (la commune doit garantir une place à tout résident) et d'une liberté municipale d'autoriser certaines écoles à sélectionner par test avant la 1re année, plus une liberté de choix des familles hors secteur.",
+   "evidence_level": "descriptif (données administratives et analyse institutionnelle) ; une étude académique critique du mécanisme de choix scolaire existe mais je n'ai pas pu en vérifier les résultats chiffrés sur la source primaire",
+   "effect_size": "En 2020, dans une école « élite » de Tallinn, un candidat sur dix était retenu pour l'entrée en 1re année ; certaines écoles comptent plus de six enfants par place. Près de 50 % des élèves du primaire estonien ne fréquentent pas l'école la plus proche de leur domicile ; 60 % choisissent un établissement du secondaire supérieur hors de leur zone de recrutement (Commission européenne, 2025). Part d'écoles privées dans l'enseignement général : 11 % en 2019-2020, en progression depuis 2005-2006.",
+   "concrete_practice": "En principe, il n'existe aucune condition d'admission en 1re année. Mais les communes sont libres d'autoriser un sous-ensemble d'écoles à sélectionner les élèves « talentueux » par tests de dépistage administrés avant la 1re année. Ces écoles sont municipales — elles ne sont « élite » que par l'usage et la presse. Les communes sont libres de les maintenir si elles le souhaitent ; l'État n'intervient pas.",
+   "concrete_example": "Admission en 1re année à Tallinn, 2020 : les écoles sur-souscrites font passer un test d'aptitude aux enfants de 6-7 ans ; dans l'une d'elles, un candidat sur dix est retenu. Conséquence documentée : un nombre croissant de familles investit temps et ressources dans des processus de préparation (« pré-entraînement ») de leurs enfants à ces tests. Le rapport NCEE, pourtant élogieux sur le système, note que l'existence de ces écoles suscite des débats passionnés sur l'équité parmi les responsables politiques et les experts estoniens.",
+   "conditions": "Le quasi-marché est contenu tant que la qualité de l'école de secteur reste homogène (curriculum unique, financement par élève identique, corps enseignant formé au même niveau). Si l'un de ces trois piliers cède, la sélection par test et la fuite hors secteur deviennent des mécanismes de ségrégation à part entière.",
+   "contested": "C'est le point aveugle du récit officiel estonien, et il doit être signalé sans complaisance à un lectorat belge francophone : l'Estonie n'est pas un système sans marché scolaire, c'est un système avec un marché scolaire encadré par un curriculum et un financement uniques. Une étude académique intitulée « When Public Acts like Private: The Failure of Estonia's School Choice Mechanism » soutient que le mécanisme de choix scolaire estonien, initié pour des raisons d'efficience, a involontairement créé davantage d'inégalité, les écoles « élite » recourant à des tests d'entrée et à des procédures d'admission opaques sans supervision de gouvernance. Je n'ai pas pu accéder au texte intégral de cette étude pour en vérifier la méthodologie ni les résultats chiffrés, et je la signale donc comme une hypothèse critique documentée, non comme une preuve établie.",
+   "sources": [
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    },
+    {
+     "title": "Education and Training Monitor 2025 – Estonia",
+     "org": "Commission européenne, DG EAC",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/estonia.html"
+    },
+    {
+     "title": "Competition for places at Tallinn's 'elite' schools is high",
+     "org": "ERR News",
+     "year": "2020",
+     "url": "https://news.err.ee/1031736/competition-for-places-at-tallinn-s-elite-schools-is-high"
+    },
+    {
+     "title": "When Public Acts like Private: The Failure of Estonia's School Choice Mechanism",
+     "org": "référence citée sur ResearchGate — texte intégral non consulté",
+     "year": "2014",
+     "url": "https://www.researchgate.net/publication/265051645_When_Public_Acts_like_Private_The_Failure_of_Estonia's_School_Choice_Mechanism"
+    }
+   ]
+  },
+  {
+   "claim": "L'Estonie finance et publie de véritables essais contrôlés randomisés sur ses propres dispositifs scolaires — capacité d'évaluation dont l'existence même, plus que tel ou tel résultat, est le levier le plus directement transposable.",
+   "what_it_is": "Culture d'évaluation combinant un appareil statistique national (Haridussilm, enquêtes annuelles Harno, EIS) et des essais randomisés commandités par l'État sur des interventions scolaires précises.",
+   "evidence_level": "essai randomisé en grappes (matched-pair cluster RCT, contrôle en liste d'attente) pour l'exemple cité ; descriptif pour l'infrastructure d'évaluation",
+   "effect_size": "Essai PAX Good Behavior Game en Estonie : 42 écoles primaires, 708 élèves de 1re année à la ligne de base, 696 analysés à la première mesure post-intervention (7 mois) et 647 à la seconde (19 mois). Résultats : amélioration de la santé mentale globale des enfants à la fin de la 1re année scolaire, effet persistant et renforcé la seconde année ; effets positifs sur la santé mentale et le comportement prosocial des élèves à haut risque en année 1 ; effet positif durable sur le sentiment d'efficacité des enseignants et sur le comportement global de classe ; fidélité d'implémentation jugée satisfaisante. Les tailles d'effet chiffrées figurent dans l'article original (Prevention Science 21(2):234-244) auquel je n'ai pas eu accès en texte intégral : je ne les invente pas.",
+   "concrete_practice": "L'État estonien finance directement l'évaluation de ses propres dispositifs. L'essai PAX GBG a été financé par le Fonds social européen et le ministère de l'Intérieur estonien, et conduit par le National Institute for Health Development avec l'Université de Tallinn et l'Université de Tartu. En parallèle, l'agence Harno mène chaque année une enquête nationale de satisfaction et de climat scolaire dont elle restitue à chaque établissement un rapport nominatif comparé à des écoles similaires.",
+   "concrete_example": "Essai PAX Good Behavior Game, Estonie, années scolaires 2016/17 et 2017/18 : 46 écoles primaires appariées par localisation géographique et taille de classe, puis une école de chaque paire tirée au sort pour l'intervention, l'autre placée en liste d'attente (42 écoles retenues après randomisation, une classe de 1re année par école). Mesures : ligne de base en octobre 2016, premier post-test en mai 2017, second en mai 2018. Instruments : Strengths and Difficulties Questionnaire rempli par l'enseignant (critère principal), tâche Go/No-Go de contrôle inhibiteur chez l'enfant, SNAP-IV rempli par les parents pour les symptômes TDAH, échelle TSES de sentiment d'efficacité enseignante, observation du comportement de classe. Publication : Streimann, Selart & Trummal, Prevention Science, 21(2), 234-244, 2020.",
+   "conditions": "Cette capacité suppose trois choses : un opérateur public de recherche indépendant des directions administratives, un financement (ici européen) fléché sur l'évaluation, et l'acceptation par les écoles d'un tirage au sort — acceptation rendue politiquement possible par le design en liste d'attente, qui garantit le dispositif aux écoles témoins l'année suivante.",
+   "contested": "L'essai PAX GBG porte sur la santé mentale et le comportement, PAS sur les acquis scolaires : il ne dit rien de l'effet du dispositif sur les résultats en lecture ou en mathématiques, et il serait abusif de l'invoquer comme preuve de l'efficacité pédagogique du système estonien. Par ailleurs, cette culture d'essais reste l'exception : les grands programmes estoniens emblématiques (Tiigrihüpe, ProgeTiiger, AI Leap) n'ont fait l'objet d'aucune évaluation contrefactuelle publiée, et Mart Laanpere reproche explicitement à Tiger Leap son déficit de recherche et de politiques fondées sur la preuve. L'Estonie sait randomiser — elle ne le fait pas là où les enjeux budgétaires sont les plus lourds.",
+   "sources": [
+    {
+     "title": "Effectiveness of a Universal, Classroom-Based Preventive Intervention (PAX GBG) in Estonia: a Cluster-Randomized Controlled Trial",
+     "author": "Karin Streimann, Anne Selart, Aljona Trummal",
+     "org": "Prevention Science 21(2):234-244, DOI 10.1007/s11121-019-01050-0",
+     "year": "2020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31432379/"
+    },
+    {
+     "title": "Effectiveness of a universal classroom-based preventive intervention (PAX GBG): A research protocol for a matched-pair cluster-randomized controlled trial",
+     "author": "Karin Streimann et al.",
+     "org": "Contemporary Clinical Trials Communications",
+     "year": "2017",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5898545/"
+    },
+    {
+     "title": "Impact of PAX Good Behavior Game on Elementary School Students in Estonia (NCT02865603)",
+     "org": "ClinicalTrials.gov",
+     "year": "2016",
+     "url": "https://clinicaltrials.gov/study/NCT02865603"
+    },
+    {
+     "title": "Aim High and Work Hard: Building a World-Class Learning System in Estonia",
+     "author": "Eve Eisenschmidt, Mati Heidmets, Mikk Kasesalk, Maie Kitsing, Kätlin Vanari",
+     "org": "NCEE",
+     "year": "2023",
+     "url": "https://www.educationestonia.org/wp-content/uploads/2023/12/AimHighEstoniaCaseStudy.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "CE QUI NE SE TRANSPOSE PAS. (1) L'échelle et l'homogénéité. L'Estonie compte 1,33 million d'habitants, 29 hab./km², environ 6 300 élèves testés à PISA dans 204 écoles ; la FWB compte ~900 000 élèves et 2 600 écoles. Le pilotage estonien fonctionne parce que l'intégralité du corps de directeurs tient dans une salle de conférence, que le ministère connaît chaque commune, et qu'il n'existe qu'un seul curriculum pour un seul État. (2) La gouvernance unitaire. Il n'y a en Estonie ni réseaux, ni liberté d'enseignement constitutionnelle au sens belge, ni pouvoirs organisateurs concurrents : l'État fixe le curriculum, finance par élève, et les communes exploitent les écoles — les 11 % d'écoles privées sont soumises au même curriculum et au même mode de subvention. Toute lecture du modèle estonien comme « décentralisation » est un contresens : c'est une centralisation des fins (curriculum, indicateurs, données) couplée à une décentralisation des moyens, exactement l'inverse du réflexe FWB qui prescrit les moyens et laisse les fins aux réseaux. (3) Le tournant de 1991. L'autonomie enseignante estonienne est née d'une rupture politique — la conquête de la liberté pédagogique contre le modèle soviétique — et non d'une réforme négociée. Elle est adossée à un capital de confiance sociale envers l'école qu'aucune réforme ne fabrique. (4) La hausse salariale. Elle est indexée sur un rattrapage macroéconomique (salaire mensuel brut moyen passé d'environ 800 USD en 2010 à 1 800 USD en 2022) que la FWB, avec un déficit de 1,5 Md €, n'a pas devant elle. (5) L'infrastructure numérique éducative dépend de l'identité numérique nationale estonienne.\n\nCE QUI SE TRANSPOSE, ET À QUELLE CONDITION. (a) Le couple « tronc commun unique + redoublement quasi nul + soutien précoce financé ». C'est le levier le mieux étayé (Hanushek & Woessmann, 2006, identification en différences-de-différences entre pays : le traçage précoce augmente l'inégalité sans gain d'efficacité). L'écart est brutal : 4 % de redoublants à 15 ans en Estonie contre 35 % en FWB, pour un gradient social de 68 points contre 92. Mais la condition est non négociable : l'Estonie ne fait pas redoubler parce qu'elle finance des spécialistes du soutien dans l'école ET un réseau de centres de conseil par comté (Rajaleidja). Supprimer le redoublement sans ce socle transfère le problème sans le traiter. Argument budgétaire décisif pour AKT : 35 % de redoublants à 15 ans est une dépense déjà engagée, réallouable vers le soutien précoce à budget constant. (b) L'arbitrage « autonomie contre transparence ». Ce troc est compatible avec la liberté d'enseignement belge, et c'est même le seul modèle de pilotage qui l'est : l'État ne contrôle pas les processus, il publie les résultats et fournit à chaque école ses données comparées à des écoles similaires (Haridussilm, enquête annuelle Harno). Cela ne suppose aucun pouvoir sur les réseaux, seulement un appareil statistique et une obligation de restitution — un chantier peu coûteux au regard des 54 % des dépenses FWB que pèse l'enseignement. Condition : un curriculum commun prescriptif sur les résultats attendus, et des directeurs formés au management (240 heures minimum en Estonie, avec pouvoir de recrutement et de rémunération). (c) La gratuité des formations d'enseignant couplée à un RELÈVEMENT de la sélectivité d'admission (Estonie, 2012-2013) : +50 % d'inscriptions en cinq ans et hausse du niveau des candidats. C'est un levier à coût modéré et à effet mesuré. (d) Le droit opposable à une place d'accueil dès 18 mois avec contribution parentale plafonnée à 20 % du salaire minimum : mécanisme légal simple, transposable, mais dont le coût pèse sur les communes.\n\nLE PIÈGE À ÉVITER. Ne pas importer le récit estonien du numérique : les évaluations disponibles de Tiigrihüpe (Tiger in Focus, SITES, rapportées par Mart Laanpere, Université de Tallinn) concluent à une absence d'effet sur les notes, et ni ProgeTiiger ni AI Leap n'ont d'évaluation contrefactuelle. Ne pas non plus présenter l'Estonie comme un système sans marché scolaire : près de 50 % des élèves du primaire n'y fréquentent pas leur école de proximité et des écoles municipales sélectionnent par test dès 6 ans. Enfin, ne pas passer sous silence que le premier système de l'UE perd 24 points en lecture depuis 2018, laisse 47 points d'écart à sa minorité russophone, et scolarise 65 % de ses élèves dans des écoles déclarées en sous-effectif — un modèle à imiter par ses mécanismes, jamais par son récit."
+}

@@ -1,0 +1,479 @@
+{
+ "topic": "Mississippi : le Literacy-Based Promotion Act (2013), la progression au NAEP et la controverse sur le biais de sélection lié au redoublement",
+ "headline": "Le gain du Mississippi en lecture en 4e année (CM1) est réel et important (+10,0 points NAEP entre 2013 et 2024, quand la moyenne des écoles publiques américaines perdait 6,4 points), mais il est le produit d'un paquet — science de la lecture, coachs, dépistage, plans individuels ET porte de passage en 3e année ; la seule estimation causale publiée (Spencer, Economics of Education Review, 2024 : ~0,23–0,25 écart-type) attribue environ 22 % de l'effet de la cohorte la plus exposée au redoublement, chiffre contesté par des psychométriciens (Wainer, Grabovsky & Robinson, Significance, 2026) qui y voient au contraire l'essentiel de l'effet — arbitrage qui se tranche sur trois faits vérifiables : la chronologie du dispositif, l'ampleur réelle du surcroît de redoublement, et l'absence de gains équivalents en 8e année.",
+ "searches_run": 38,
+ "items": [
+  {
+   "claim": "Entre 2013 et 2019, le score moyen du Mississippi au NAEP de lecture en 4e année est passé de 208,5 à 219,3 points (+10,8), pendant que la moyenne des écoles publiques américaines reculait de 220,7 à 219,4 (-1,3) : l'État a rattrapé un retard de 12,2 points en six ans. En 2024, il devance la moyenne nationale de 4,2 points.",
+   "what_it_is": "Le fait brut à expliquer. Le NAEP (National Assessment of Educational Progress) est une évaluation fédérale à faibles enjeux pour l'école et pour l'élève, sur échantillon, administrée tous les deux ans, conçue pour être comparable dans le temps et entre États — l'analogue américain le plus proche de PISA pour un pilotage inter-juridictions.",
+   "evidence_level": "descriptif (série chronologique d'enquêtes par échantillon, sans identification causale) — les chiffres eux-mêmes sont des estimations d'enquête avec erreurs-types",
+   "effect_size": "Lecture 4e année : Mississippi 208,5 (2013) → 219,3 (2019) → 217,2 (2022) → 218,5 (2024). Écoles publiques nationales : 220,7 → 219,4 → 216,1 → 214,3. Écart Mississippi–national : -12,2 (2013) → -0,1 (2019) → +4,2 (2024). L'écart-type national du NAEP lecture 4e année est d'environ 36 points, soit un gain brut de l'ordre de 0,28 écart-type sur 2013-2024. Population : élèves de 4e année (CM1) des écoles publiques du Mississippi, environ 35 000 par cohorte.",
+   "concrete_practice": "Chiffres extraits directement du service de données du NAEP (NAEP Data Service, requête sur juridictions MS et NP, échelle RRPCM, années 2003-2024) plutôt que de reprises journalistiques. La même requête en mathématiques 4e année donne Mississippi 231,1 (2013) → 240,7 (2019) → 239,2 (2024), contre 241,2 → 240,0 → 237,3 au national public.",
+   "concrete_example": "Requête effectuée le 12 septembre 2026 sur https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx (type=data, subject=reading, grade=4, subscale=RRPCM, jurisdiction=MS,NP, stattype=MN:MN, Year=2003…2024). Résultat, lecture 4e année, Mississippi : 2003=205,5 ; 2005=204,4 ; 2007=207,8 ; 2009=210,5 ; 2011=209,2 ; 2013=208,5 ; 2015=214,1 ; 2017=215,2 ; 2019=219,3 ; 2022=217,2 ; 2024=218,5. La rupture de pente est bien située entre 2013 et 2015 (+5,6 points en un cycle), soit avant que la première cohorte soumise à la « porte » de 3e année n'entre en 4e année.",
+   "conditions": "Le NAEP échantillonne les élèves *inscrits en 4e année* l'année du test. Toute politique modifiant la composition de la 4e année (redoublement, exclusion d'élèves handicapés ou allophones du test, aménagements) déplace mécaniquement la moyenne sans qu'aucun élève n'ait progressé. C'est le cœur de la controverse traitée aux points suivants. Par ailleurs, une part de la « remontée au classement » après 2019 vient de la chute nationale, pas d'un progrès du Mississippi : entre 2019 et 2024 le Mississippi perd 0,8 point pendant que le national public en perd 5,1.",
+   "contested": "Michael Hiltzik (Los Angeles Times, 3 juillet 2023) a soutenu que ces gains étaient « gamed ». Wainer, Grabovsky et Robinson (Significance, janvier 2026) rappellent que cinq « miracles » scolaires américains antérieurs (Houston, Atlanta, District of Columbia, El Paso, La Nouvelle-Orléans) se sont révélés être des artefacts ou des fraudes. À l'inverse, Mississippi First (Rachel Canter, 5 juillet 2023) souligne que 15 des 20 points gagnés en lecture 4e année depuis 1992 l'avaient été avant 2017, c'est-à-dire avant que la première cohorte « filtrée » ne soit testée — argument qui affaiblit l'imputation totale au LBPA autant que l'imputation totale au redoublement.",
+   "sources": [
+    {
+     "title": "NAEP Data Service — average scale scores, reading and mathematics, grades 4 and 8, Mississippi and national public, 2003-2024",
+     "org": "National Center for Education Statistics, The Nation's Report Card",
+     "year": "2024",
+     "url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx"
+    },
+    {
+     "title": "The Truth About Mississippi's NAEP Gains",
+     "author": "Rachel Canter",
+     "org": "Mississippi First",
+     "year": "2023",
+     "url": "https://www.mississippifirst.org/the-truth-about-mississippis-naep-gains/"
+    },
+    {
+     "title": "How Mississippi gamed its national reading test scores to produce 'miracle' gains",
+     "author": "Michael Hiltzik",
+     "org": "Los Angeles Times",
+     "year": "2023",
+     "url": "https://www.latimes.com/business/story/2023-07-03/how-mississippi-gamed-national-reading-test-to-produce-miracle-gains"
+    }
+   ]
+  },
+  {
+   "claim": "La seule estimation causale publiée dans une revue à comité de lecture attribue au Literacy-Based Promotion Act un effet d'environ 0,23 à 0,25 écart-type sur les scores NAEP de lecture en 4e année — soit l'essentiel du gain brut observé.",
+   "what_it_is": "Noah Spencer (doctorant en économie, University of Toronto) applique la méthode des doubles différences synthétiques (synthetic difference-in-differences) : le Mississippi est comparé non pas à la moyenne des autres États mais à un « État synthétique » construit comme moyenne pondérée d'États dont les scores évoluaient de façon parallèle avant 2013.",
+   "evidence_level": "quasi-expérimental (doubles différences synthétiques sur données agrégées d'État ; pas de randomisation, pas de données individuelles)",
+   "effect_size": "≈0,23 écart-type selon l'auteur lui-même (message de Noah Spencer reproduit par Andrew Gelman, 5 janvier 2026) ; 0,25 écart-type selon la présentation qu'en fait Harry Patrinos, « à peu près l'équivalent d'une année de progrès scolaire en lecture ». Population : élèves du Mississippi exposés au dispositif de la maternelle à la 3e année. Effets positifs également trouvés en mathématiques 4e année.",
+   "concrete_practice": "L'article est paru dans Economics of Education Review, vol. 103, article 102598, décembre 2024, sous le titre « Comprehensive early literacy policy and the 'Mississippi Miracle' ». Une version de travail avait circulé sur SSRN en 2023. Spencer teste aussi la persistance : il montre en annexe B.1 que les effets subsistent au moins jusqu'à la 7e année sur les tests d'État (à enjeux plus élevés), avec un affaiblissement progressif.",
+   "concrete_example": "Résumé publié (version SSRN, vérifiée via Crossref) : « In 2013, Mississippi ranked 49th in fourth grade reading achievement on a national assessment. By 2019, they ranked 29th. I study whether the state's 2013 Literacy-Based Promotion Act (LBPA), a multi-faceted strategy for improving K-3 literacy, played a part in this ascension. Using a synthetic difference-in-differences approach, I estimate that the LBPA meaningfully improved grade 4 reading and math test scores on the national assessment. I also find suggestive evidence of longer-term effects on state standardized tests. » L'auteur précise avoir construit son contre-factuel « based on a weighted average of states with similarly evolving test scores pre-treatment », et non par appariement sur covariables d'une année sur l'autre.",
+   "conditions": "L'identification repose sur l'hypothèse que les États du groupe synthétique auraient suivi la même trajectoire que le Mississippi en l'absence du LBPA. Elle est fragilisée si (a) la composition des élèves testés change au Mississippi et pas ailleurs, (b) d'autres réformes concomitantes (refonte du test d'État en 2015 alignée sur le NAEP, adoption des Common Core, préscolaire public) agissent en même temps.",
+   "contested": "Wainer, Grabovsky et Robinson (Significance, janvier 2026) contestent frontalement la méthode : « no covariate adjustment was going to make them equal », dès lors que la queue basse de la distribution a été tronquée. Ils décrivent toutefois la méthode de Spencer de façon inexacte (ils lui prêtent un appariement sur covariables d'années antérieures) ; Spencer le relève. Le même article de Significance contient une erreur factuelle grave — il affirme que le Mississippi est 50e en mathématiques 4e année au NAEP 2024, alors que l'État est au-dessus de la moyenne nationale (239 contre 237) ; l'un des auteurs, Daniel Robinson, a reconnu l'erreur auprès d'Andrew Gelman et annoncé le retrait des deux phrases concernées. Il faut aussi noter que l'article de Spencer est le travail d'un doctorant seul et qu'aucune réplication indépendante sur données individuelles du Mississippi n'existe à ce jour.",
+   "sources": [
+    {
+     "title": "Comprehensive early literacy policy and the \"Mississippi Miracle\"",
+     "author": "Noah Spencer",
+     "org": "Economics of Education Review, vol. 103, 102598",
+     "year": "2024",
+     "url": "https://doi.org/10.1016/j.econedurev.2024.102598"
+    },
+    {
+     "title": "Comprehensive early literacy policy and the \"Mississippi Miracle\" (version de travail)",
+     "author": "Noah Spencer",
+     "org": "SSRN",
+     "year": "2023",
+     "url": "https://doi.org/10.2139/ssrn.4546228"
+    },
+    {
+     "title": "Last post on the estimated effects of Mississippi school reforms (réponse détaillée de Noah Spencer aux critiques)",
+     "author": "Andrew Gelman",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/2026/01/05/last-post-on-the-estimated-effects-of-mississippi-school-reforms/"
+    },
+    {
+     "title": "Mississippi's education miracle: A model for global literacy reform",
+     "author": "Harry Anthony Patrinos",
+     "org": "The Conversation",
+     "year": "2025",
+     "url": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+    }
+   ]
+  },
+  {
+   "claim": "L'objection statistique centrale est arithmétiquement exacte : retirer les x % les plus faibles d'une distribution relève mécaniquement la moyenne de φ(Φ⁻¹(x))/(1-x) écart-type, sans qu'aucun élève n'ait progressé. Appliquée au taux brut de redoublement du Mississippi, elle produit un « gain » de 0,15 à 0,19 écart-type.",
+   "what_it_is": "La critique de troncature à gauche (left truncation), formalisée par trois psychométriciens — Howard Wainer (ancien principal research scientist à l'Educational Testing Service), Irina Grabovsky (National Board of Medical Examiners) et Daniel H. Robinson (University of Texas at Arlington) — dans la revue de la Royal Statistical Society.",
+   "evidence_level": "démonstration analytique (arithmétique des distributions tronquées) appliquée à des taux de redoublement agrégés ; aucune estimation empirique sur données d'élèves",
+   "effect_size": "Formule publiée : rboost(p) = φ(Φ⁻¹(p))/(1−p), en unités d'écart-type de la distribution de départ. Calculs effectués pour cette note à partir de cette formule : p = 7,2 % → +0,148 écart-type (≈5,3 points NAEP si l'écart-type vaut 36) ; p = 9,6 % → +0,189 écart-type (≈6,8 points) ; p = 3,3 % (taux d'avant-réforme) → +0,076 écart-type (≈2,7 points). Les auteurs concluent à « un accroissement épiphénoménal des scores NAEP d'au moins 0,25 écart-type ».",
+   "concrete_practice": "Les auteurs appliquent la formule aux taux de redoublement de 3e année publiés par Mississippi Today : 9,6 % en 2018-19 (3 379 redoublants sur 35 277 élèves), 9,4 % en 2021-22 (2 958 sur 31 348), 7,2 % en 2022-23 (2 287 sur 31 815). Ils comparent explicitement le mécanisme à La Nouvelle-Orléans après Katrina, où le déplacement d'un tiers des élèves les plus pauvres avait relevé la moyenne sans qu'aucun score individuel n'augmente.",
+   "concrete_example": "Article « On education miracles in general (and those in Mississippi in particular) », Significance (Royal Statistical Society), janvier 2026, p. 32-35. Les auteurs y placent une figure 1 donnant la courbe de rboost(p) et un appendice technique complet. Leur conclusion : « There is nothing special in Mississippi's literacy reform model that should be replicated globally. It just emphasises the obvious advice that, if you want your students to get high scores, don't allow those students who are likely to get low scores to take the test. » Ils illustrent par une parodie, la « Gedanken Height School », qui garantit que tous ses diplômés mesureront au moins 1,83 m en faisant redoubler les élèves trop petits.",
+   "conditions": "L'argument n'est valide comme explication du *changement* de score que si l'on compare le taux de redoublement post-réforme au taux pré-réforme, et non au taux zéro. Le Mississippi redoublait déjà 3,3 % de ses élèves de 3e année en 2013-14. Calcul effectué pour cette note à partir de leur propre formule : le passage de 3,3 % à 8,1 % (pic de 2014-15) ne produit qu'un différentiel de +0,087 écart-type (≈3,1 points NAEP) ; le passage de 3,3 % à 9,6 % (2018-19), +0,112 écart-type (≈4,0 points). C'est trois à cinq fois moins que le gain brut de 10,8 points observé.",
+   "contested": "Trois objections documentées. (1) Chronologie : la « porte » n'est entrée en vigueur que pour les élèves de 3e année de 2014-15 ; la cohorte de 4e année testée au NAEP 2015, qui portait déjà +5,6 points de gain, n'y avait pas été soumise (Mississippi First, 2023 ; ExcelinEd, 2023). (2) Stock contre flux : les redoublants ne disparaissent pas, ils reviennent en 4e année l'année suivante et passent alors le NAEP — Spencer souligne que la cohorte 2016-17 exclut les redoublants de 2015-16 mais inclut ceux de 2014-15, de sorte que la masse d'élèves faibles est remplacée, non supprimée. (3) Erreur factuelle : les auteurs fondent une partie de leur démonstration sur des classements en mathématiques qui se sont révélés faux et qu'ils ont accepté de retirer. Andrew Gelman, qui a relayé leur critique, conclut néanmoins : « it would seem undeniable that some large chunk of the improved test scores in Mississippi come from the selection effect […] but it seems hard to put a number on this. »",
+   "sources": [
+    {
+     "title": "On education miracles in general (and those in Mississippi in particular)",
+     "author": "Howard Wainer, Irina Grabovsky, Daniel H. Robinson",
+     "org": "Significance (Royal Statistical Society), janvier 2026, p. 32-35",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2025/11/Mississippi-MIracle-Galleys-1.pdf"
+    },
+    {
+     "title": "How much of \"Mississippi's education miracle\" is an artifact of selection bias?",
+     "author": "Andrew Gelman",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2025",
+     "url": "https://statmodeling.stat.columbia.edu/2025/12/01/how-much-of-mississippis-education-miracle-is-an-artifact-of-selection-bias/"
+    },
+    {
+     "title": "When the numbers don't look right, check them! (Mississippi education update)",
+     "author": "Andrew Gelman",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2025",
+     "url": "https://statmodeling.stat.columbia.edu/2025/12/04/when-the-numbers-dont-look-right-check-them-mississippi-education-update/"
+    }
+   ]
+  },
+  {
+   "claim": "La réponse chiffrée à la question « quelle part de l'effet subsiste une fois le redoublement neutralisé ? » est : environ 78 % selon la seule décomposition publiée, mais ce chiffre ne vaut que pour une seule cohorte et repose sur des hypothèses que son auteur qualifie lui-même de fortes.",
+   "what_it_is": "Spencer réalise dans l'annexe C de son article une décomposition de l'effet estimé pour la cohorte de 4e année 2016-17 — la seule dont la composition puisse plausiblement avoir été altérée par le pic de redoublement de 2014-15 — entre part attribuable au redoublement et part attribuable au reste du dispositif.",
+   "evidence_level": "quasi-expérimental, exercice de décomposition post-estimation sous hypothèses paramétriques",
+   "effect_size": "« only about 22% of the 2016-2017 treatment effect is due to [the] retention aspect of the LBPA » — soit environ 78 % de l'effet subsistant après neutralisation du redoublement. Rapporté à l'effet global de ≈0,23 écart-type, cela laisserait ≈0,18 écart-type imputable à la formation des enseignants, au coaching, au dépistage et aux interventions. Population : cohorte de 4e année 2016-17 du Mississippi.",
+   "concrete_practice": "Spencer justifie de ne faire cette décomposition que pour 2016-17 par la chronologie des taux de redoublement en 3e année qu'il documente : 3,3 % en 2013-14 (avant réforme), 8,1 % en 2014-15 (première année d'application de la porte), 3,8 % en 2016-17. Pour les cohortes 2014-15 et 2018-19, le taux de redoublement est trop proche du taux d'avant-réforme pour qu'il puisse peser sur une moyenne d'État.",
+   "concrete_example": "Détail donné par Spencer lui-même : « The 2014-2015 treatment effect cannot be due to LBPA-induced retention as Mississippi's 2014-2015 grade 4 cohort was not exposed to the retention aspect of the policy. The 2018-2019 treatment effect is unlikely to be substantially influenced by LBPA-induced retention given that the 2016-2017 third-grade retention rate (3.8%) was so similar to the pre-LBPA retention rate (3.3% in 2013-2014). You would have to assume incredible gains in test scores due to retention for such a small segment of students to influence a state's average so greatly. The 2016-2017 treatment effect is the most likely to be affected by retention given that 8.1% of third-graders in 2014-2015 were retained. In Appendix C, I conduct a decomposition exercise and estimate that only about 22% of the 2016-2017 treatment effect is due to retention aspect of the LBPA — though I should note that this decomposition exercise does require some strong assumptions. »",
+   "conditions": "Trois conditions de validité. (1) Les redoublants ne redoublent qu'une fois — Spencer indique que le double redoublement en 3e année est rare au Mississippi, mais sans chiffrage publié. (2) Le redoublement en maternelle, 1re et 2e année n'est pas pris en compte : Diane Ravitch relève que 8 % de *tous* les élèves de la maternelle à la 3e année étaient retenus en 2018-19, ce qui, cumulé sur quatre niveaux, pourrait concerner 20 à 25 % d'une cohorte ; Gelman avoue ne pas savoir trancher entre les deux lectures. (3) La décomposition porte sur une seule cohorte et n'est pas transposable telle quelle aux années 2019-2024.",
+   "contested": "Wainer et al. rejettent le chiffre au motif que l'appareil d'estimation dont il dérive est lui-même invalidé par la troncature. Rachel Canter (Mississippi First) conteste la prémisse même de l'exercice : « I object to the whole construct of the bottom 10% methodology because retained students don't just disappear such that one needs to 'add them back in'. They actually eventually get promoted, which means they do show up in 4th grade data, including 4th grade NAEP, just after some remediation (hopefully!). Having better scores after being held back … is that not the point of grade retention? » — argument qui déplace la question de la validité statistique vers la question normative : un élève qui lit mieux après une année supplémentaire est-il un artefact ou un résultat ? Aucune réplication indépendante de la décomposition à 22 % n'existe.",
+   "sources": [
+    {
+     "title": "Last post on the estimated effects of Mississippi school reforms (citation intégrale de la réponse de Noah Spencer, dont l'annexe C)",
+     "author": "Andrew Gelman / Noah Spencer",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/2026/01/05/last-post-on-the-estimated-effects-of-mississippi-school-reforms/"
+    },
+    {
+     "title": "Mississippi's education miracle: A model for global literacy reform (« Spencer found that grade retention explains only about 22% of the treatment effect »)",
+     "author": "Harry Anthony Patrinos",
+     "org": "The Conversation",
+     "year": "2025",
+     "url": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+    },
+    {
+     "title": "The Truth About Mississippi's NAEP Gains",
+     "author": "Rachel Canter",
+     "org": "Mississippi First",
+     "year": "2023",
+     "url": "https://www.mississippifirst.org/the-truth-about-mississippis-naep-gains/"
+    }
+   ]
+  },
+  {
+   "claim": "Les taux de redoublement réellement imputables au LBPA sont beaucoup plus faibles que les taux bruts utilisés par les critiques : le surcroît causé par la loi retombe à moins de 1,6 point de pourcentage dès 2017-18, et le pic de 9,6 % de 2018-19 correspond à un relèvement délibéré du seuil, pas à la loi initiale.",
+   "what_it_is": "La chronologie fine du dispositif de « porte de 3e année » (third-grade gate) : test de lecture obligatoire en fin de 3e année, deux repassages possibles (mai, puis novembre), camp d'été de remédiation, et exemptions pour motif légitime (good-cause exemptions). Le seuil de réussite a été relevé en 2018-19 du niveau 2 sur 5 au niveau 3 sur 5.",
+   "evidence_level": "descriptif, à partir de données administratives d'État (Mississippi Department of Education) reprises et recoupées par plusieurs analystes",
+   "effect_size": "Surcroît de redoublement imputable au LBPA : +5,74 à +5,91 points de pourcentage la première année (2014-15) sur une base de 3 à 3,4 % ; « no higher than 1.58% » en 2017-18, taux global alors inférieur à 5 %. Taux bruts : 9,6 % (cohorte de 3e année 2018-19), 9,4 % (2021-22), 7,2 % (2022-23), ≈6,5 % (2023). Population : élèves de 3e année du Mississippi, environ 31 000 à 37 000 par cohorte.",
+   "concrete_practice": "Le test de fin de 3e année est administré en avril ; les élèves sous le seuil repassent en mai ; ceux qui échouent encore sont inscrits en camp d'été de quatre semaines ; un troisième passage a lieu fin juillet, un quatrième en novembre pour permettre une promotion en cours d'année. Les exemptions couvrent notamment les élèves à besoins spécifiques et les allophones récemment arrivés — environ 12 % des élèves de 3e année ont obtenu une exemption permettant le passage en 4e année en 2018-19.",
+   "concrete_example": "Année 2014-15, première application de la porte : au test d'avril, 5 612 élèves sur 37 800 échouent (14,83 %) ; après le repassage de mai, 3 400 élèves (environ 9 %) sont orientés vers le camp d'été. Dans le district du comté de Sunflower, 44 élèves sont concernés, 42 suivent le programme de quatre semaines à East Sunflower Elementary, financé à hauteur de 57 556 dollars sur une enveloppe fédérale de 750 000 dollars ; au test de fin de camp, 10 élèves sur 42 réussissent et 34 redoublent. Une enseignante du camp, Daisey Hawkins : « You can't give to them in four weeks what they haven't gotten in four years. » En 2018-19, après relèvement du seuil, plus de 3 300 élèves (environ 10 % des élèves de 3e année) redoublent, soit plus du double de l'année précédente.",
+   "conditions": "Ce profil « pic puis décrue » suppose que la menace du redoublement produit son effet en amont (mobilisation des écoles et des familles dès la maternelle), de sorte que le nombre d'élèves effectivement retenus diminue à mesure que le dispositif s'installe. Il suppose aussi un système d'exemptions suffisamment large pour absorber les cas non traitables par la remédiation — et donc un risque d'inégalité dans l'accès aux exemptions.",
+   "contested": "LiCalsi, Özek et Figlio (Education Finance and Policy, 2019) montrent, sur le dispositif équivalent de Floride, que ces exemptions sont accordées de façon socialement différenciée : à score identique juste sous le seuil, les enfants de mères diplômées échappent davantage au redoublement. C'est un risque d'aggravation des inégalités intrinsèque au dispositif, rarement mentionné par ses promoteurs. Par ailleurs les sources divergent sur le pic de 2014-15 : Spencer indique 8,1 %, Mississippi First un surcroît de 5,74-5,91 points sur une base de 3-3,4 % (soit 8,7-9,3 %). Diane Ravitch avance que 8 % de *tous* les élèves de la maternelle à la 3e année étaient retenus en 2018-19, chiffre qui, s'il est exact, change l'ordre de grandeur du problème ; je n'ai pas pu vérifier cette donnée sur une source primaire du Mississippi Department of Education.",
+   "sources": [
+    {
+     "title": "The Truth About Mississippi's NAEP Gains",
+     "author": "Rachel Canter",
+     "org": "Mississippi First",
+     "year": "2023",
+     "url": "https://www.mississippifirst.org/the-truth-about-mississippis-naep-gains/"
+    },
+    {
+     "title": "Full-court press for Mississippi third graders in summer school has disappointing results",
+     "author": "Nick Chiles",
+     "org": "The Hechinger Report",
+     "year": "2015",
+     "url": "https://hechingerreport.org/full-court-press-for-mississippi-third-graders-in-summer-school-has-disappointing-results/"
+    },
+    {
+     "title": "Mississippi made the biggest leap in national test scores this year. Is this controversial law the reason why?",
+     "author": "Bracey Harris",
+     "org": "The Hechinger Report",
+     "year": "2019",
+     "url": "https://hechingerreport.org/mississippi-made-the-biggest-leap-in-national-test-scores-this-year-is-this-controversial-law-the-reason-why/"
+    },
+    {
+     "title": "The Uneven Implementation of Universal School Policies: Maternal Education and Florida's Mandatory Grade Retention Policy",
+     "author": "Elizabeth LiCalsi, Umut Özek, David Figlio",
+     "org": "Education Finance and Policy",
+     "year": "2019",
+     "url": "https://doi.org/10.1162/edfp_a_00252"
+    }
+   ]
+  },
+  {
+   "claim": "Deux tests empiriques de composition — l'un sur les caractéristiques des élèves testés, l'autre sur l'âge — ne détectent pas la distorsion que la thèse de la troncature prédit.",
+   "what_it_is": "Si le redoublement filtrait les faibles, les élèves de 4e année testés au NAEP au Mississippi devraient être en moyenne plus âgés et démographiquement différents après 2015. Deux vérifications distinctes ont été faites.",
+   "evidence_level": "quasi-expérimental (tests de placebo sur composition de l'échantillon) et descriptif (classements ajustés sur caractéristiques d'élèves)",
+   "effect_size": "Spencer : aucun effet statistiquement significatif du LBPA sur la part des élèves testés qui sont blancs, garçons, allophones, en situation de handicap, ou disposant d'un ordinateur à domicile (table B3 de l'article). Urban Institute, America's Gradebook, données 2024 : après ajustement démographique — incluant explicitement l'âge — le Mississippi est 1er des États en mathématiques 4e année (score ajusté 248,6) et 1er en mathématiques 8e année (281,3).",
+   "concrete_practice": "L'ajustement de l'Urban Institute porte sur le sexe, l'âge, l'origine ethnique, l'éligibilité aux repas gratuits ou à prix réduit, le statut d'élève à besoins spécifiques et le statut d'allophone ; il compare chaque État à ce qu'on attendrait d'un État à composition d'élèves identique. Le fait que l'âge figure dans les variables d'ajustement est décisif : si les élèves testés au Mississippi étaient systématiquement plus vieux du fait du redoublement, l'ajustement devrait faire chuter l'État, et non le porter au premier rang.",
+   "concrete_example": "Vérification opérée par Andrew Gelman le 4 décembre 2025 sur la page America's Gradebook de l'Urban Institute (apps.urban.org/features/naep/) : « 4th grade math: MS 248.6, they are indeed #1! 8th grade math: MS 281.3, also #1! » Le même jour, il vérifie sur nces.ed.gov que le Mississippi est au-dessus de la moyenne nationale en mathématiques 4e année 2024 (239 contre 237) et environ 35e en 8e année — invalidant les classements de 50e avancés par Wainer et al. Séparément, The 74 rapporte que « the average age of Mississippi's NAEP test-takers has barely budged over time ».",
+   "conditions": "Ces tests portent sur des caractéristiques *observables*. Ils ne peuvent rien dire sur la sélection sur des caractéristiques non observées (niveau réel en lecture), qui est précisément ce que postule la thèse de la troncature. Un test de composition nul est une condition nécessaire, pas suffisante.",
+   "contested": "L'ajustement démographique est lui-même discuté : Gelman note « You can make of this adjustment what you will » et relève « the frustrating way in which the discussions jump back and forth between absolute test scores and demographically-adjusted comparisons between states ». Un ajustement sur l'âge moyen d'un État ne neutralise pas une troncature qui déplacerait la distribution entière. Par ailleurs, je n'ai pas pu consulter directement la table B3 de Spencer (article sous péage) : elle m'est connue par la description qu'en donne l'auteur lui-même, ce qui est une source intéressée.",
+   "sources": [
+    {
+     "title": "Last post on the estimated effects of Mississippi school reforms (description par Noah Spencer de sa table B3)",
+     "author": "Andrew Gelman / Noah Spencer",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/2026/01/05/last-post-on-the-estimated-effects-of-mississippi-school-reforms/"
+    },
+    {
+     "title": "America's Gradebook (NAEP scores adjusted for student demographics, including age)",
+     "org": "Urban Institute",
+     "year": "2024",
+     "url": "https://apps.urban.org/features/naep/"
+    },
+    {
+     "title": "When the numbers don't look right, check them! (Mississippi education update)",
+     "author": "Andrew Gelman",
+     "org": "Statistical Modeling, Causal Inference, and Social Science",
+     "year": "2025",
+     "url": "https://statmodeling.stat.columbia.edu/2025/12/04/when-the-numbers-dont-look-right-check-them-mississippi-education-update/"
+    }
+   ]
+  },
+  {
+   "claim": "La suspension du redoublement pendant la pandémie constitue une quasi-expérience : si la troncature expliquait les scores, le NAEP 2022 aurait dû s'effondrer au Mississippi. Il a baissé moins que la moyenne nationale.",
+   "what_it_is": "En 2021, le Mississippi a suspendu l'obligation de redoublement de 3e année pour cause de pandémie. Les élèves concernés ont passé le NAEP de 4e année en 2022 sans avoir été filtrés.",
+   "evidence_level": "quasi-expérimental de type « expérience naturelle », mais avec un contrefactuel très bruité (chocs pandémiques hétérogènes entre États)",
+   "effect_size": "Mississippi, lecture 4e année : 219,3 (2019) → 217,2 (2022), soit −2,1 points. Écoles publiques nationales : 219,4 → 216,1, soit −3,3 points. Le Mississippi baisse donc moins que le pays alors même que son « filtre » avait été retiré. Les scores ont baissé dans 45 États.",
+   "concrete_practice": "Le test décisif proposé par Todd Collins (Fordham Institute) : « the pandemic provided a clear natural experiment: What happens when retention stops? In 2021, Mississippi suspended its third grade retention requirement. When those students took the fourth grade NAEP in 2022, the 'statistical illusion' should have worked in reverse, sending Mississippi scores tumbling, relative to other states. Instead, although scores did fall, as they did in forty-four other states, Mississippi's drop was less than the national average. »",
+   "concrete_example": "Vérification indépendante faite pour cette note sur le NAEP Data Service : lecture 4e année, Mississippi 219,3 (2019) → 217,2 (2022) → 218,5 (2024) ; national public 219,4 → 216,1 → 214,3. L'écart Mississippi–national passe de −0,1 (2019) à +1,1 (2022) puis +4,2 (2024). Collins ajoute un second argument historique : « Before 2013, Mississippi ranked forty-eighth for fourth grade reading, despite having one of the country's highest retention rates » — l'État redoublait déjà massivement pendant vingt ans sans que cela le fasse remonter.",
+   "conditions": "L'argument suppose que les autres déterminants de la chute 2019-2022 (fermetures d'écoles, absentéisme, enseignement à distance) ont frappé le Mississippi comme les autres États. Or le Mississippi a rouvert ses écoles plus tôt que beaucoup d'États, ce qui offre une explication alternative à sa moindre chute. Je n'ai pas trouvé de travail qui neutralise cette confusion.",
+   "contested": "Todd Collins écrit depuis le Thomas B. Fordham Institute, organisation favorable aux réformes de responsabilisation ; sa contribution est un commentaire, non une étude évaluée par les pairs. Wainer et al. n'adressent pas cet argument. Symétriquement, Gelman note que la controverse oppose deux camps aux prémisses idéologiques identifiables : « It's a conservative vs. conservative battle. »",
+   "sources": [
+    {
+     "title": "Mississippi didn't cheat. Its reading gains are real.",
+     "author": "Todd Collins",
+     "org": "Thomas B. Fordham Institute",
+     "year": "2023",
+     "url": "https://fordhaminstitute.org/national/commentary/mississippi-didnt-cheat-its-reading-gains-are-real"
+    },
+    {
+     "title": "NAEP Data Service — reading grade 4, Mississippi and national public, 2019-2024",
+     "org": "National Center for Education Statistics",
+     "year": "2024",
+     "url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation nationale la plus rigoureuse sur les 41 États ayant adopté une politique de littératie précoce trouve que les États à redoublement obligatoire expliquent la quasi-totalité des gains sur les tests à enjeux — mais qu'ils ne produisent aucun gain détectable sur le NAEP ; ce sont les politiques dites « compréhensives » qui font bouger le NAEP.",
+   "what_it_is": "Étude de John Westall et Amy Cummings (Education Policy Innovation Collaborative, Michigan State University), financée par l'Institute of Education Sciences. Événement-étude par cohortes sur 41 États + District of Columbia, avec l'estimateur de Callaway et Sant'Anna (2021), distinguant seize composantes de politique et croisant deux sources : SEDA (tests d'État, à enjeux) et NAEP (à faibles enjeux).",
+   "evidence_level": "quasi-expérimental (différences-en-différences échelonnées par cohorte, estimateur robuste à l'hétérogénéité des effets de traitement)",
+   "effect_size": "Tests à enjeux : +0,025 à +0,05 écart-type en 3e, 4e et 5e années pour toute politique de littératie précoce ; jusqu'à +0,1 écart-type pour les élèves entrés en maternelle un an après l'adoption d'une politique compréhensive. NAEP 4e année : effet nul et non significatif pour l'ensemble des politiques ; effet significatif d'environ +5 points d'échelle (≈0,14 écart-type pour un écart-type national d'environ 36 points) six à sept ans après l'adoption dans les seuls États à politique compréhensive ; aucun effet dans les États à politique non compréhensive. Population : cohortes d'élèves de 3e à 8e année, États-Unis, 2003-2019.",
+   "concrete_practice": "Les auteurs classent une politique comme « compréhensive » si elle réunit un bloc de composantes : dépistage diagnostique dès la maternelle, instruction et interventions fondées sur la preuve, implication des parents, développement professionnel des enseignants — le redoublement obligatoire n'étant qu'une des seize composantes, présente dans 22 États (43 %).",
+   "concrete_example": "Résultat le plus directement utile pour la question posée, cité verbatim du document de travail de juin 2023 : « states whose policies mandate third-grade retention see significant and persistent increases in high-stakes reading scores in all cohorts. The magnitude of these estimates is similar to that of the 'any early literacy policy' estimates […] suggesting that states with retention components essentially explain all the average effects of early literacy policies on high-stakes reading scores. » Et, sur le NAEP : « We find no consistent evidence of statistically significant increases in low-stakes tests in states with or without retention requirements. Overall, our results provide evidence that early literacy policies with retention requirements improve high-stakes reading scores more than those without them, but these gains may not translate into increases in low-stakes test scores. »",
+   "conditions": "La lecture combinée des deux blocs de résultats est la clé : le redoublement produit des gains sur les tests dont il dépend (effet de « teaching to the gate » et de sélection), pas sur une évaluation indépendante ; la formation et le dépistage produisent des gains sur l'évaluation indépendante. Les auteurs signalent eux-mêmes des tendances pré-politique marginalement significatives pour les États compréhensifs, qu'ils demandent d'interpréter avec prudence, et le document porte la mention « This is a preliminary draft ».",
+   "contested": "Ce résultat est en tension apparente avec celui de Spencer : Westall et Cummings ne trouvent pas d'effet NAEP du redoublement, Spencer en trouve un mais modeste (22 %). Spencer lui-même argue de la compatibilité : « Westall and Cummings (2023) assess early literacy policies across the country and find 0.14 SD effects for kids exposed from K-3 in the average 'comprehensive policy' state. My 0.23 SD estimated effect for Mississippi is not wholly inconsistent with their national results. » Limite importante : ce travail est resté à l'état de document de travail depuis juin 2023 (dépôt SSRN avril 2023) et je n'ai trouvé aucune version publiée dans une revue à comité de lecture, ce qui doit tempérer le poids qu'on lui accorde.",
+   "sources": [
+    {
+     "title": "The Effects of Early Literacy Policies on Student Achievement (working paper, 66 p.)",
+     "author": "John Westall, Amy Cummings",
+     "org": "Education Policy Innovation Collaborative, Michigan State University",
+     "year": "2023",
+     "url": "https://epicedpolicy.org/wp-content/uploads/2023/06/StateLiteracyPolicies_WP_June2023.pdf"
+    },
+    {
+     "title": "The Effects of Early Literacy Policies on Student Achievement (dépôt SSRN)",
+     "author": "John Westall, Amy Cummings",
+     "org": "SSRN",
+     "year": "2023",
+     "url": "https://doi.org/10.2139/ssrn.4427675"
+    }
+   ]
+  },
+  {
+   "claim": "Le volet « science de la lecture » du dispositif est un investissement massif et ciblé en formation et en accompagnement de terrain, non un simple changement de programme : coachs en littératie salariés par l'État et affectés aux écoles les moins performantes, plus une formation intensive des enseignants de la maternelle à la 3e année.",
+   "what_it_is": "Le Literacy-Based Promotion Act finance une division de la littératie au sein du Mississippi Department of Education, chargée de former et d'accompagner les enseignants de K à 3, et déploie des coachs en littératie directement dans les écoles prioritaires. La formation s'appuie sur le programme LETRS (Language Essentials for Teachers of Reading and Spelling), centré sur la phonologie, la phonétique, la fluence, le vocabulaire et la compréhension.",
+   "evidence_level": "descriptif (reportage de terrain et documents d'État) — aucun essai randomisé du volet coaching au Mississippi",
+   "effect_size": "Non disponible pour le volet coaching isolé : aucune évaluation séparée du coaching au Mississippi n'a été identifiée. Les effets chiffrés disponibles portent sur le paquet entier (points 2 et 4) ou sur des dispositifs comparables ailleurs (point 13).",
+   "concrete_practice": "Les coachs ne sont pas évaluateurs : ils animent des sessions de formation, observent les classes, font des leçons modèles devant les enseignants, donnent un retour immédiat. La contrainte opérationnelle documentée est forte : la plupart des coachs se partageaient entre deux écoles distantes de quarante minutes, ne pouvant donc être présents que dans une école par jour.",
+   "concrete_example": "Année scolaire 2013-2014, première année d'application : le Mississippi Department of Education recrute 29 coachs en littératie, affectés à 50 écoles sous-performantes ; près de 4 000 enseignants, assistants et personnels du primaire sont formés aux stratégies de lecture. L'enveloppe de l'État passe à 15 millions de dollars (environ 6 millions de plus que l'année précédente), permettant l'embauche de 14 éducateurs expérimentés supplémentaires titulaires d'un master ou d'une expertise reconnue en lecture ; le nombre d'écoles ciblées passe de 50 à 74 pour 2014-2015. À l'école de Bogue Chitto, la direction rapporte une croissance supérieure à la moyenne aux évaluations standardisées de lecture en quelques mois — observation d'école, non une estimation causale.",
+   "conditions": "Le modèle suppose (a) un contenu de formation prescriptif et homogène, (b) une capacité de l'autorité centrale à affecter des personnels dans des écoles qu'elle ne dirige pas directement, (c) un ciblage sur les écoles les plus faibles, donc un renoncement assumé à l'universalité. Le Mississippi a aussi, dès 2003, imposé deux cours de littératie précoce dans la formation initiale des futurs enseignants de K à 6 — un préalable d'une décennie antérieur à la loi.",
+   "contested": "Je n'ai pas pu vérifier sur source primaire le chiffre souvent cité du nombre total d'enseignants formés à LETRS au Mississippi ; les pages du Mississippi Department of Education consultées ne le publient pas, et je le laisse donc hors de cette note plutôt que de le reprendre d'une source secondaire non vérifiable. Plus fondamentalement, aucune évaluation ne sépare l'effet du coaching de celui de la formation ou du dépistage : l'attribution des ≈78 % d'effet résiduel « à la formation et au coaching » (Patrinos) est une inférence par soustraction, non une mesure.",
+   "sources": [
+    {
+     "title": "Can literacy coaches help solve Mississippi's education woes?",
+     "author": "Jackie Mader",
+     "org": "The Hechinger Report",
+     "year": "2014",
+     "url": "https://hechingerreport.org/can-literacy-coaches-help-solve-mississippis-education-woes/"
+    },
+    {
+     "title": "OPINION: Four ways Mississippi is teaching more children to read well",
+     "author": "Stephen Pruitt",
+     "org": "Southern Regional Education Board / The Hechinger Report",
+     "year": "2019",
+     "url": "https://hechingerreport.org/opinion-four-ways-that-mississippi-is-teaching-more-children-to-read-well/"
+    },
+    {
+     "title": "Literacy (page programme : Literacy-Based Promotion Act, Science of Reading, recrutement de Literacy Coaches)",
+     "org": "Mississippi Department of Education",
+     "year": "2026",
+     "url": "https://mdek12.org/literacy"
+    },
+    {
+     "title": "Mississippi's education miracle: A model for global literacy reform",
+     "author": "Harry Anthony Patrinos",
+     "org": "The Conversation",
+     "year": "2025",
+     "url": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+    }
+   ]
+  },
+  {
+   "claim": "Pour les élèves effectivement redoublés, la littérature quasi-expérimentale la plus solide — sur la Floride, dispositif jumeau du Mississippi — trouve des gains d'apprentissage réels mais qui s'évanouissent en six ans, et des effets à long terme très hétérogènes selon les publics et l'âge du redoublement.",
+   "what_it_is": "Le redoublement de 3e année déclenché par un seuil de test crée une discontinuité exploitable : on compare les élèves juste sous le seuil à ceux juste au-dessus (régression sur discontinuité). C'est le seul design qui permette d'isoler l'effet du redoublement lui-même, indépendamment du fait que les redoublants sont par construction les plus faibles.",
+   "evidence_level": "quasi-expérimental de haute qualité (régression sur discontinuité sur données administratives individuelles) ; les méta-analyses antérieures, corrélationnelles, concluaient en sens inverse",
+   "effect_size": "Schwerdt, West & Winters (Floride) : « conventional OLS estimates suggest negative effects of retention on achievement, [but] regression discontinuity estimates indicate large positive effects on achievement and a reduced probability of retention in subsequent years. The achievement gains from test-based retention fade out over time, however, and are statistically insignificant after six years. » Figlio & Özek (Floride, élèves allophones, 12 districts) : le redoublement en 3e année réduit de moitié le temps nécessaire pour atteindre la maîtrise de l'anglais, réduit d'un tiers la probabilité de cours d'anglais de rattrapage au collège, double la probabilité de suivre des cours avancés de mathématiques et de sciences au collège et plus que triple celle de suivre des cours créditants au lycée. Eren, Lovenheim & Mocan (Louisiane) : le redoublement en 8e année augmente de 1,05 point de pourcentage, soit +58,44 %, la probabilité d'être condamné pénalement à 25 ans.",
+   "concrete_practice": "La leçon opérationnelle de ce corpus est que l'âge du redoublement est décisif : les effets mesurés sont positifs quand le redoublement intervient en 3e année et qu'il est accompagné de services de remédiation obligatoires ; ils sont nettement négatifs quand il intervient en 8e année. Le dispositif du Mississippi, comme celui de Floride, adosse le redoublement à un enseignant certifié « de haute qualité », un plan individualisé et 90 minutes quotidiennes de lecture.",
+   "concrete_example": "Figlio et Özek suivent les élèves allophones de douze districts de Floride autour du seuil de promotion de 3e année. Les élèves juste sous le seuil, redoublés, atteignent la maîtrise de l'anglais en moitié moins de temps que leurs camarades juste au-dessus, promus. Les bénéfices sont plus grands pour les élèves nés à l'étranger, ceux dont les scores en mathématiques en 3e année révèlent un capital humain latent élevé, les hispanophones, et les élèves scolarisés dans des écoles élémentaires moins défavorisées — c'est-à-dire précisément ceux dont la difficulté relevait de la langue et non des apprentissages.",
+   "conditions": "Ces résultats valent pour un redoublement *précoce*, *déclenché par un critère objectif* et *accompagné d'une remédiation intensive obligatoire*. Rien n'autorise à les transposer à un redoublement décidé au cas par cas par un conseil de classe, tardif, sans changement de contenu ni d'enseignant — qui est la forme dominante en Europe continentale.",
+   "contested": "Contestation majeure et non résolue. Les méta-analyses antérieures (Jimerson, School Psychology Review, 2001) concluaient à un effet négatif ; Allen, Chen, Willson et Hughes (Educational Evaluation and Policy Analysis, 2009), sur 207 tailles d'effet issues de 22 études, montrent que « quality of design is associated with less negative effects » et que « the results challenge the widely held view that retention has a negative impact on achievement » — autrement dit, l'effet négatif classique est en partie un artefact de design. À l'inverse, la méta-analyse européenne la plus récente (Goos, Pipa & Peixoto, Educational Research Review, vol. 34, 2021) reste globalement défavorable ; je n'ai pas pu consulter son résumé chiffré sur la source primaire et je ne cite donc aucune taille d'effet pour elle. Le résultat d'Eren et al. sur la criminalité montre que l'effet peut basculer au négatif selon l'âge. Enfin, Schwerdt et al. concluent eux-mêmes que leurs résultats « shouldn't suggest students who were retained in Florida were clearly better off ».",
+   "sources": [
+    {
+     "title": "The Effects of Test-based Retention on Student Outcomes over Time: Regression Discontinuity Evidence from Florida (NBER Working Paper 21509 ; publié dans Journal of Public Economics, 2017)",
+     "author": "Guido Schwerdt, Martin R. West, Marcus A. Winters",
+     "org": "National Bureau of Economic Research",
+     "year": "2015",
+     "url": "https://www.nber.org/papers/w21509"
+    },
+    {
+     "title": "An extra year to learn English? Early grade retention and the human capital development of English learners",
+     "author": "David Figlio, Umut Özek",
+     "org": "Journal of Public Economics (et NBER WP 25472)",
+     "year": "2020",
+     "url": "https://www.nber.org/papers/w25472"
+    },
+    {
+     "title": "The Effect of Grade Retention on Adult Crime: Evidence from a Test-Based Promotion Policy",
+     "author": "Ozkan Eren, Michael F. Lovenheim, Naci H. Mocan",
+     "org": "Journal of Labor Economics (2022) ; NBER WP 25384",
+     "year": "2018",
+     "url": "https://www.nber.org/papers/w25384"
+    },
+    {
+     "title": "Quality of Research Design Moderates Effects of Grade Retention on Achievement: A Meta-Analytic, Multilevel Analysis",
+     "author": "Chiharu S. Allen, Qi Chen, Victor L. Willson, Jan N. Hughes",
+     "org": "Educational Evaluation and Policy Analysis",
+     "year": "2009",
+     "url": "https://doi.org/10.3102/0162373709352239"
+    },
+    {
+     "title": "Effectiveness of grade retention: A systematic review and meta-analysis",
+     "author": "Mieke Goos, Joana Pipa, Francisco Peixoto",
+     "org": "Educational Research Review, vol. 34",
+     "year": "2021",
+     "url": "https://doi.org/10.1016/j.edurev.2021.100401"
+    }
+   ]
+  },
+  {
+   "claim": "Le fait le plus embarrassant pour le récit du « miracle » n'est pas le biais de sélection : c'est que les gains de 4e année ne se retrouvent pas en 8e année. En valeur absolue, le score du Mississippi en lecture 8e année est identique en 2024 (253,5) à ce qu'il était en 2013 (253,1).",
+   "what_it_is": "Test de persistance : les cohortes ayant bénéficié du LBPA en primaire devraient, en remontant, améliorer les résultats du collège. Les gains apparents du Mississippi en 8e année tiennent presque entièrement à la chute des autres États.",
+   "evidence_level": "descriptif (séries NAEP vérifiées) complété par une synthèse journalistique de travaux et de témoignages d'experts ; aucune évaluation causale du passage 4e→8e année au Mississippi n'est publiée",
+   "effect_size": "Lecture 8e année, Mississippi : 253,1 (2013) → 256,4 (2019) → 252,9 (2022) → 253,5 (2024), soit +0,4 point en onze ans. National public : 266,0 → 262,0 → 259,1 → 256,7, soit −9,3 points. L'écart se referme de −12,9 à −3,2 points, mais par le bas. Mathématiques 8e année, Mississippi : 271,2 (2013) → 269,1 (2024), soit −2,1 points ; écart au national de −12,4 à −3,1.",
+   "concrete_practice": "Ce diagnostic oriente directement l'action : il suggère que la « science de la lecture » du primaire ne suffit pas au collège, où les élèves butent sur les mots polysyllabiques, les racines et les orthographes irrégulières, et sur les connaissances de domaine nécessaires à la compréhension de textes longs.",
+   "concrete_example": "Enquête de Jill Barshay (The Hechinger Report, 16 mars 2026) sur la Louisiane, l'Alabama, le Tennessee et le Mississippi : les gains de 4e année de ces États ne se prolongent pas au collège. Dan McGrath, ancien responsable fédéral du NAEP, y formule la question crûment : le Mississippi « moved a mountain in fourth grade », mais « When should we see the Mississippi miracle reach eighth grade? ». Timothy Shanahan (University of Illinois Chicago) souligne qu'au collège la phonétique ne suffit plus. Vérification indépendante faite pour cette note sur le NAEP Data Service : dès 2019, avant toute perturbation pandémique, la cohorte de 4e année de 2015 (214,1, +5,6 points par rapport à 2013) atteint 256,4 en 8e année en 2019, soit un resserrement de l'écart au national de seulement 1,7 point sur quatre ans.",
+   "conditions": "Une part de la non-persistance est attendue : l'affaiblissement des effets (fade-out) est la règle en éducation, y compris pour les interventions les mieux établies. Spencer revendique une persistance jusqu'à la 7e année sur les tests d'État et indique avoir trouvé, en analyse rapide non publiée, des effets positifs sur le NAEP 8e année y compris pour 2022 et 2024, tout en se déclarant « hesitant to take much from post-COVID results ».",
+   "contested": "Wainer, Grabovsky et Robinson en font un argument massue : en 2024, le Mississippi est 42e ex aequo en lecture 8e année alors qu'il est 8e ex aequo en lecture 4e année, ce qu'ils jugent dirimant. Le contre-argument, formulé dans les commentaires du blog de Gelman, est chronologique : une réforme du primaire lancée en 2013-2015 ne peut produire ses effets de 8e année qu'avec quatre ans de décalage, et les cohortes concernées ont traversé la pandémie. Aucune des deux positions ne s'appuie sur une évaluation causale publiée. Conclusion honnête : à ce jour, la persistance au collège n'est ni démontrée ni réfutée.",
+   "sources": [
+    {
+     "title": "Southern states boost early reading, but gains stall in middle school",
+     "author": "Jill Barshay",
+     "org": "The Hechinger Report (PROOF POINTS)",
+     "year": "2026",
+     "url": "https://hechingerreport.org/proof-points-8th-grade-reading/"
+    },
+    {
+     "title": "NAEP Data Service — reading and mathematics grade 8, Mississippi and national public, 2003-2024",
+     "org": "National Center for Education Statistics",
+     "year": "2024",
+     "url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx"
+    },
+    {
+     "title": "On education miracles in general (and those in Mississippi in particular)",
+     "author": "Howard Wainer, Irina Grabovsky, Daniel H. Robinson",
+     "org": "Significance (Royal Statistical Society)",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2025/11/Mississippi-MIracle-Galleys-1.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Un facteur de confusion rarement discuté pourrait expliquer une part des gains NAEP du Mississippi : l'État a, en 2015, refondu son test d'État en l'alignant explicitement sur le NAEP, et a réécrit sa progression de programme pour avancer des contenus évalués en 4e année.",
+   "what_it_is": "Mécanisme d'inflation des scores par alignement : quand un système d'évaluation à enjeux est calé sur l'instrument de comparaison externe, l'enseignement s'aligne sur cet instrument et les scores montent sans que les compétences sous-jacentes progressent d'autant.",
+   "evidence_level": "descriptif, appuyé sur le témoignage d'experts et de responsables ; aucune quantification disponible",
+   "effect_size": "Non disponible : aucun travail n'a chiffré la part des gains du Mississippi attribuable à l'alignement du test d'État sur le NAEP.",
+   "concrete_practice": "Deux gestes distincts et documentés : (a) refonte du test d'État en 2015 avec alignement sur le NAEP ; (b) réexamen de la progression des programmes pour déplacer vers la 4e année des contenus jusque-là enseignés en 5e ou 6e.",
+   "concrete_example": "Nathan Oakley, alors Chief Academic Officer du Mississippi Department of Education, à The Hechinger Report en novembre 2018 : « There were some things addressed in NAEP's fourth-grade assessments that we weren't teaching until the fifth or sixth grade. » Andrew Ho, spécialiste de la mesure à Harvard et ancien membre du conseil qui supervise le NAEP, à Chalkbeat en juillet 2023 : « To the extent you prioritize NAEP, you risk inflating NAEP scores » — tout en concluant sur l'ensemble du dossier : « I don't see any smoking guns or red flags that make me say that they're gaming NAEP. »",
+   "conditions": "L'argument ne tient que partiellement pour le Mississippi : la refonte du test d'État date de 2015 alors que la rupture de tendance NAEP est visible dès 2013-2015. Chalkbeat le reconnaît explicitement : « the state testing shift began in 2015, while NAEP gains began in 2013. Additional scrutiny might shed more light on this issue. »",
+   "contested": "Ce point n'a été ni approfondi ni réfuté depuis 2023 ; c'est un angle mort du dossier. Harry Patrinos le présente même comme une vertu du modèle (« The state also aligned its test to the NAEP, something which not all states do »), là où Andrew Ho y voit un risque d'inflation. Deux lectures opposées du même fait, sans arbitrage empirique.",
+   "sources": [
+    {
+     "title": "Is Mississippi's 'miracle' in reading real? Researchers weigh in on the state's test score gains",
+     "author": "Matt Barnum",
+     "org": "Chalkbeat",
+     "year": "2023",
+     "url": "https://www.chalkbeat.org/2023/7/18/23799124/mississippi-miracle-test-scores-naep-early-literacy-grade-retention-reading-phonics/"
+    },
+    {
+     "title": "How Mississippi made some of the biggest leaps in national test scores",
+     "author": "Jackie Mader",
+     "org": "The Hechinger Report",
+     "year": "2018",
+     "url": "https://hechingerreport.org/how-mississippi-made-some-of-the-biggest-leaps-in-national-test-scores/"
+    },
+    {
+     "title": "Mississippi's education miracle: A model for global literacy reform",
+     "author": "Harry Anthony Patrinos",
+     "org": "The Conversation",
+     "year": "2025",
+     "url": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+    }
+   ]
+  },
+  {
+   "claim": "Une réforme « science de la lecture » à grande échelle peut produire environ 0,14 écart-type sans aucun redoublement : c'est ce que montre l'évaluation préenregistrée du dispositif californien, qui isole exactement le volet que le Mississippi ne peut pas isoler.",
+   "what_it_is": "L'Early Literacy Support Block Grant (ELSBG) de Californie : subvention ciblée sur les écoles les moins performantes de l'État, finançant un développement professionnel fondé sur la science de la lecture, des évaluations et interventions alignées, environ 1 000 dollars par élève de financement nouveau, une flexibilité d'usage encadrée, et une facilitation experte de la planification au niveau de l'école. Aucun dispositif de redoublement.",
+   "evidence_level": "quasi-expérimental préenregistré (pre-registered quasi-experimental study), publié dans une revue à comité de lecture",
+   "effect_size": "+0,14 écart-type en English Language Arts dans la spécification préférée, dès les premières années de mise en œuvre, plus des gains plus faibles en mathématiques. Population : élèves des écoles les moins performantes de Californie ciblées par l'ELSBG. Les auteurs qualifient l'effet de « significant (and cost-effective) ».",
+   "concrete_practice": "Le dispositif californien reproduit trois des quatre briques du Mississippi — formation des enseignants à la science de la lecture, évaluations et interventions alignées, accompagnement expert des équipes — mais remplace la quatrième (la porte de 3e année) par un financement ciblé et une flexibilité d'usage. C'est le contrefactuel expérimental que ni le Mississippi ni ses critiques ne peuvent produire.",
+   "concrete_example": "Étude de Sarah Novicoff et Thomas S. Dee, publiée dans Educational Evaluation and Policy Analysis le 21 août 2025 : « In this pre-registered, quasi-experimental study, we examine California's recent initiative to improve early literacy across the state's lowest-performing schools. The Early Literacy Support Block Grant (ELSBG) provided teacher professional development grounded in the science of reading as well as aligned supports (e.g., assessments and interventions), new funding (about $1,000 per student), spending flexibility within specified guidelines, and expert facilitation and oversight of school-based planning. Our preferred specification finds that ELSBG generated significant (and cost-effective) improvements in English Language Arts (ELA) achievement in its first years of implementation (0.14 standard deviation) as well as smaller improvements in math. »",
+   "conditions": "Le dispositif est ciblé sur les écoles les plus faibles, doté d'un financement additionnel substantiel (environ 1 000 dollars par élève, soit près de dix fois l'effort par élève K-3 du Mississippi estimé à environ 112 dollars par Wainer et al.), et accompagné d'une facilitation experte de la planification — autrement dit, la formation seule, sans argent ni accompagnement, ne reproduit pas ce résultat.",
+   "contested": "Il s'agit d'un seul dispositif, dans un seul État, sur ses premières années ; les effets à moyen terme ne sont pas connus. Le coût par élève est très supérieur à celui du Mississippi, ce qui interdit de conclure qu'on obtient 0,14 écart-type « à moindre coût que le redoublement ». Westall et Cummings trouvent d'ailleurs, sur le NAEP, des effets nuls pour les politiques non compréhensives, ce qui suggère qu'un volet formation isolé et sous-doté ne produit rien de mesurable.",
+   "sources": [
+    {
+     "title": "The Achievement Effects of Scaling Early Literacy Reforms",
+     "author": "Sarah Novicoff, Thomas S. Dee",
+     "org": "Educational Evaluation and Policy Analysis",
+     "year": "2025",
+     "url": "https://doi.org/10.3102/01623737251349178"
+    },
+    {
+     "title": "On education miracles in general (and those in Mississippi in particular) — estimation de l'effort par élève K-3 au Mississippi",
+     "author": "Howard Wainer, Irina Grabovsky, Daniel H. Robinson",
+     "org": "Significance (Royal Statistical Society)",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2025/11/Mississippi-MIracle-Galleys-1.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le coût du dispositif est remarquablement faible — environ 15 millions de dollars par an, soit 0,2 % du budget de l'État et de l'ordre de 32 dollars par élève scolarisé — mais les calculs de rendement qui en sont tirés sont des projections modélisées, non des mesures.",
+   "what_it_is": "Le volet financier du LBPA et l'argument coût-efficacité qui en est fait dans le débat international, notamment par les économistes de l'éducation proches de la Banque mondiale.",
+   "evidence_level": "descriptif pour le coût (données budgétaires d'État) ; modélisation économique pour le rendement (chaînage de la taille d'effet, d'une équivalence en années de scolarité et d'un rendement salarial de l'éducation) — aucune mesure directe de revenus",
+   "effect_size": "Coût : 15 millions de dollars par an, 0,2 % du budget de l'État en 2023, environ 32 dollars par élève ; Wainer et al. en tirent une estimation d'environ 111,63 dollars par élève de K à 3 (15 millions rapportés aux 134 376 élèves de K-3 en 2017). Projection de rendement (Patrinos) : un gain de 0,25 écart-type assimilé à un quart d'année de scolarité, un rendement de 9 % par année de scolarité, d'où +2,25 % de revenus annuels, soit environ 1 000 dollars par an pour un diplômé du secondaire typique, et « for every dollar Mississippi spends, the state gains about $32 in additional lifetime earnings ».",
+   "concrete_practice": "L'argument politique tiré de ce chiffrage est qu'un système sous très forte contrainte budgétaire peut financer une réforme de la littératie précoce sans réallocation massive : le Mississippi est l'un des États les moins dépensiers par élève des États-Unis et le deuxième plus pauvre du pays.",
+   "concrete_example": "Harry Anthony Patrinos, professeur de politique éducative à l'University of Arkansas, ancien responsable éducation à la Banque mondiale, The Conversation, 26 mars 2025 : « Mississippi's literacy program provides a learning gain equal to a year of schooling. The program costs US$15 million annually – 0.2% of the state budget in 2023 – and $32 per student. […] Since each year of schooling raises earnings by about 9%, then a quarter-year gain means that Mississippi students benefiting from the program will increase future earnings by 2.25% a year. Based on typical high school graduate earnings, the average student can expect to earn an extra $1,000 per year for the rest of their life. » Il ajoute que « These changes were achieved despite Mississippi being one of the lowest spenders per pupil in the U.S. »",
+   "conditions": "La chaîne de calcul suppose (a) que la taille d'effet de 0,25 écart-type est correcte et entièrement causale, (b) qu'elle persiste jusqu'à l'entrée sur le marché du travail, (c) que le rendement salarial d'une année de scolarité s'applique à un gain de score. Les points 3, 4 et 11 de cette note fragilisent (a) et (b).",
+   "contested": "Wainer, Grabovsky et Robinson tournent explicitement le chiffre en dérision : un effort de 111,63 dollars par élève produisant un gain visible relèverait de « a Mississippi version of St. John's loaves and fishes » — leur argument étant qu'une dépense aussi faible ne peut pas expliquer un effet aussi grand, ce qui les ramène au redoublement comme explication. C'est un argument de plausibilité, non une réfutation empirique ; on peut lui opposer que le coût marginal d'un changement de méthode d'enseignement est structurellement faible puisqu'il ne change pas le nombre d'enseignants. Le même article contient par ailleurs l'erreur factuelle reconnue sur les classements en mathématiques (voir point 2), ce qui invite à ne pas tenir leur jugement pour définitif. Patrinos, de son côté, ne mentionne à aucun moment le problème de sélection — Gelman qualifie son texte de « straight-up hype ».",
+   "sources": [
+    {
+     "title": "Mississippi's education miracle: A model for global literacy reform",
+     "author": "Harry Anthony Patrinos",
+     "org": "The Conversation",
+     "year": "2025",
+     "url": "https://theconversation.com/mississippis-education-miracle-a-model-for-global-literacy-reform-251895"
+    },
+    {
+     "title": "On education miracles in general (and those in Mississippi in particular)",
+     "author": "Howard Wainer, Irina Grabovsky, Daniel H. Robinson",
+     "org": "Significance (Royal Statistical Society)",
+     "year": "2026",
+     "url": "https://statmodeling.stat.columbia.edu/wp-content/uploads/2025/11/Mississippi-MIracle-Galleys-1.pdf"
+    },
+    {
+     "title": "Can literacy coaches help solve Mississippi's education woes? (montant de 15 millions de dollars, année 2013-2014)",
+     "author": "Jackie Mader",
+     "org": "The Hechinger Report",
+     "year": "2014",
+     "url": "https://hechingerreport.org/can-literacy-coaches-help-solve-mississippis-education-woes/"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose, ce qui ne se transpose pas, et ce qui se transpose à l'envers.\n\n1. LE VOLET LE PLUS TRANSPOSABLE EST AUSSI LE MOINS SPECTACULAIRE. Les trois briques « formation massive à la science de la lecture + coachs déployés dans les écoles prioritaires + dépistage systématique trois fois par an » ne dépendent d'aucune particularité institutionnelle américaine : elles sont compatibles avec la liberté d'enseignement et la pluralité des réseaux, parce qu'elles portent sur le contenu de la formation continue et sur l'affectation de personnels ressources, non sur le pilotage des établissements. L'évaluation californienne de Novicoff et Dee (0,14 écart-type, préenregistrée, publiée dans Educational Evaluation and Policy Analysis en 2025) montre que ce paquet produit un effet réel sans aucun redoublement. C'est le résultat le plus directement mobilisable pour la FWB. Sa condition de réussite est cependant coûteuse : le dispositif californien apportait environ 1 000 dollars par élève de financement nouveau et une facilitation experte de la planification école par école ; Westall et Cummings ne trouvent aucun effet NAEP pour les politiques de littératie non « compréhensives », c'est-à-dire pour les circulaires sans moyens.\n\n2. LE VOLET REDOUBLEMENT NE SE TRANSPOSE PAS — ET SURTOUT, IL SE TRANSPOSE À L'ENVERS. La FWB n'a pas à ajouter du redoublement : elle en a trois fois trop (35 % des élèves de 15 ans ont redoublé, premier rang européen). Le dispositif du Mississippi n'est pas « du redoublement » : c'est un déplacement du redoublement vers l'âge où la littérature quasi-expérimentale (Schwerdt, West & Winters sur la Floride ; Figlio & Özek) le trouve bénéfique — la 3e année primaire — et son adossement obligatoire à une remédiation intensive, un plan individuel de lecture et quatre occasions de repassage. Le redoublement dominant en FWB est l'inverse terme à terme : tardif (le pic est en 1re et 3e secondaire), décidé au cas par cas, sans changement de contenu ni de méthode l'année suivante. Or Eren, Lovenheim et Mocan montrent qu'un redoublement en 8e année augmente de 58 % la probabilité de condamnation pénale à 25 ans. La leçon transposable du Mississippi pour la FWB est donc : déplacer l'effort de détection et de remédiation du secondaire vers la 2e-3e primaire, et conditionner tout maintien à un protocole de remédiation obligatoire — non instaurer une porte supplémentaire. Le dispositif LiCalsi-Özek-Figlio ajoute un avertissement : les exemptions à une porte de passage sont accordées de façon socialement différenciée, ce qui, dans un système où l'écart social atteint déjà 92 points PISA, aggraverait le problème plutôt que de le résoudre.\n\n3. LE DÉPISTAGE TROIS FOIS PAR AN EST LA BRIQUE LA PLUS SOUS-ESTIMÉE ET LA PLUS COMPATIBLE AVEC LA GOUVERNANCE PARTAGÉE. Elle ne suppose ni sanction ni pilotage centralisé des pratiques : elle suppose un instrument commun, une cadence imposée et une obligation de déclencher une réponse en dessous d'un seuil. C'est le seul point du dispositif du Mississippi qu'un système à réseaux multiples peut imposer sans toucher à la liberté d'enseignement, puisqu'il porte sur l'information produite et non sur la pédagogie mise en œuvre.\n\n4. DEUX LIMITES À NE PAS MASQUER DEVANT UN COMMANDITAIRE. Premièrement, la persistance au secondaire n'est pas démontrée : en valeur absolue, le score du Mississippi en lecture 8e année est identique en 2024 (253,5) à ce qu'il était en 2013 (253,1) ; tout le resserrement de l'écart avec la moyenne nationale vient de la chute des autres États. Une note de position qui promettrait des effets en fin de secondaire irait au-delà des données. Deuxièmement, l'ordre de grandeur honnête du gain imputable au volet pédagogique se situe entre 0,14 écart-type (estimation externe de Westall et Cummings pour un État à politique compréhensive, et estimation californienne de Novicoff et Dee) et 0,18 écart-type (les ≈78 % de l'effet de 0,23 écart-type de Spencer restant après neutralisation du redoublement). En points PISA, cela représente un ordre de grandeur de 13 à 17 points sur une cohorte entièrement exposée depuis la maternelle — significatif, comparable au retard de 22 points de la FWB en mathématiques sur la Communauté flamande, mais très loin du récit du « miracle ». Ce chiffrage prudent est plus robuste politiquement que le chiffre de 0,25 écart-type, parce qu'il survit à la critique de Wainer, Grabovsky et Robinson.\n\n5. UN POINT DE MÉTHODE DU MISSISSIPPI SANS ÉQUIVALENT EN FWB : LA DURÉE ET L'ANTÉRIORITÉ. L'obligation faite dès 2003 aux futurs enseignants du primaire de suivre deux cours de littératie précoce en formation initiale précède de dix ans la loi de 2013. Les évaluations de Westall et Cummings situent le pic d'effet six à sept ans après l'adoption d'une politique compréhensive, pour les cohortes entrées en maternelle après la réforme. Aucun de ces effets n'est observable dans une législature. C'est un argument pour la continuité de la gouvernance de la réforme en FWB, pas contre.\n\nNOTE DE MÉTHODE. Le quota de recherches web par mot-clé de cette session était épuisé avant le début de ce travail ; les trente-huit récupérations documentaires ont donc été faites par accès direct aux sources (service de données du NAEP, API Crossref, RePEc, dépôts institutionnels, moteurs de recherche internes des rédactions et des centres de recherche, archive web pour les billets de blog et la version d'épreuve de l'article de Significance). Les conséquences à assumer : je n'ai pas pu accéder au texte intégral de l'article de Spencer (2024), sous péage chez Elsevier — ses tailles d'effet et sa décomposition à 22 % me sont connues par le résumé officiel (via RePEc), par la présentation qu'en fait Patrinos et par la réponse détaillée que Spencer lui-même a adressée à Andrew Gelman, ce qui constitue une source intéressée ; je n'ai pas pu accéder aux pages du Teaching and Learning Toolkit de l'Education Endowment Foundation (403) ni au résumé chiffré de la méta-analyse de Goos, Pipa et Peixoto (2021), et je n'ai donc cité aucune taille d'effet pour ces deux sources ; je n'ai trouvé aucune source primaire publiant le nombre total d'enseignants du Mississippi formés à LETRS et j'ai préféré omettre ce chiffre plutôt que de reprendre une estimation non vérifiable."
+}

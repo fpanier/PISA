@@ -1,0 +1,342 @@
+{
+ "topic": "Pologne : l'allongement du tronc commun de 1999, ses effets causaux mesurés, et le retour en arrière de 2017",
+ "headline": "Le cas polonais est la meilleure quasi-expérience disponible sur l'allongement du tronc commun : reporter d'un an la sélection a produit des gains massifs (environ un écart-type) concentrés sur les élèves qui auraient été orientés vers le professionnel, gains durables jusque dans les salaires d'entrée sur le marché du travail ; mais la réforme était un paquet (examens externes, curriculum, salaires enseignants), elle n'a pas réduit le gradient social, et son démantèlement en 2017 a coïncidé avec l'effacement de vingt ans de progrès sans qu'aucune évaluation causale n'ait été publiée sur ce retour en arrière.",
+ "searches_run": 21,
+ "items": [
+  {
+   "claim": "Reporter d'un an la sélection (création des gimnazjum en 1999) a amélioré d'environ un écart-type les performances PISA des élèves qui, sans la réforme, auraient été orientés en enseignement professionnel de base — l'effet le plus important jamais attribué à une réforme structurelle dans la littérature.",
+   "what_it_is": "En septembre 1999 la Pologne remplace le système 8 ans de primaire + orientation immédiate vers des filières (générale / technique / professionnelle de base) par 6 ans de primaire + 3 ans de gimnazjum comprehensif, obligatoire pour tous, même curriculum général, recrutement de secteur sans sélection. La première orientation passe de 15 à 16 ans. Les élèves testés par PISA 2000 étaient encore dans l'ancien système (déjà en première année de filière) ; ceux de PISA 2003 sont la première cohorte ayant fait trois ans de gimnazjum. Cette discontinuité entre deux vagues PISA est le cœur de l'identification.",
+   "evidence_level": "quasi-expérimental (appariement sur score de propension + différences de différences sur données PISA répétées ; pas de randomisation, pas de régression sur discontinuité)",
+   "effect_size": "Pour les élèves « potentiellement professionnels » (construits par appariement) : +près de 100 points PISA de lecture entre 2000 et 2003, +116 points entre 2000 et 2006 (version revue par les pairs) — soit plus d'un écart-type international (100 points). Pour les élèves de l'enseignement technique/professionnel secondaire : environ +20 points, soit 0,2 écart-type. Pour les élèves de la filière générale : effet non significatif, point estimate légèrement négatif en 2003. Au niveau national : +0,25 écart-type en mathématiques, +0,28 en lecture, +0,16 en sciences ; +26 points pour l'ensemble des élèves entre 2000 et 2006.",
+   "concrete_practice": "Concrètement, un élève polonais de 15 ans qui, en 2000, passait déjà 40 à 50 % de son temps en atelier professionnel dans une zasadnicza szkoła zawodowa se retrouve en 2003 assis dans une classe de 3e année de gimnazjum, avec le même programme de polonais, mathématiques, langue étrangère et sciences que le futur lycéen, les mêmes manuels, et des camarades de tous niveaux issus du même bassin de recrutement. Le gimnazjum est un établissement séparé, doté de sa propre direction, avec des enseignants recrutés sur le même statut que ceux des lycées — ce n'est pas une simple classe supplémentaire greffée sur le primaire.",
+   "concrete_example": "Jakubowski, Patrinos, Porta et Wiśniewski exploitent les échantillons polonais de PISA 2000 (avant réforme), 2003 et 2006. Ils identifient dans PISA 2000 les élèves réellement inscrits en professionnel de base (22 % de la cohorte, score moyen en lecture 357,6) et, dans 2003/2006, construisent par appariement (HISEI parental, niveau d'éducation des parents, nombre de livres à la maison, sexe, âge, année d'étude, structure familiale ; noyau d'Epanechnikov, largeur de bande 0,6, et appariement 1-à-1 ; support commun imposé ; erreurs-types par BRR) leurs contreparties statistiques désormais scolarisées en gimnazjum. Le score contrefactuel de ce groupe passe de 357,6 en 2000 à plus de 470 en 2006. Le travail a été publié comme Policy Research Working Paper 5263 de la Banque mondiale (2010), comme OECD Education Working Paper n°49 (2011), puis dans Education Economics 24(6), 2016.",
+   "conditions": "Trois conditions rendent ce résultat possible et limitent sa généralisation. (1) Le point de départ était extrêmement bas : 22 % d'une cohorte en professionnel de base à 357 points, c'est-à-dire un niveau d'illettrisme fonctionnel de masse ; l'espace de progression était donc considérable. (2) La réforme ne s'est pas contentée de retarder l'orientation, elle a substitué du temps d'enseignement général à du temps d'atelier — c'est le temps sur tâche, pas le calendrier de l'orientation en soi, qui porte l'effet. (3) L'orientation reste organisée à 16 ans : la Pologne n'a pas supprimé les filières, elle les a décalées d'un an, ce qui a maintenu l'adhésion politique.",
+   "contested": "Plusieurs faiblesses, dont certaines reconnues par les auteurs eux-mêmes. D'abord, l'ampleur annoncée (un écart-type) est qualifiée par eux de « à peine comparable à l'effet de n'importe quelle politique éducative connue » — un signal d'alerte plutôt qu'un argument. Ensuite, le groupe traité n'est pas observé mais reconstruit statistiquement : on compare des élèves de 2006 appariés à des élèves de 2000, ce qui suppose que les covariables PISA disponibles capturent toute la sélection ; les auteurs écrivent explicitement que les estimations pour la filière générale sont « probablement biaisées vers le bas en raison d'une sélection non observée sur le niveau ». Aucun test de tendances parallèles n'est possible avec deux points pré-réforme inexistants (la Pologne rejoint PISA en 2000, soit l'année zéro). Enfin, la réforme de 1999 est un paquet : nouveau curriculum, examens externes, nouveau statut enseignant, nouveau financement — l'effet attribué au report de la sélection est en réalité l'effet du paquet.",
+   "sources": [
+    {
+     "author": "Maciej Jakubowski, Harry A. Patrinos, Emilio E. Porta, Jerzy Wiśniewski",
+     "title": "The Impact of the 1999 Education Reform in Poland (Policy Research Working Paper 5263)",
+     "org": "World Bank",
+     "year": "2010",
+     "url": "https://documents1.worldbank.org/curated/en/153761468095960833/pdf/WPS5263.pdf"
+    },
+    {
+     "author": "Maciej Jakubowski, Harry A. Patrinos, Emilio E. Porta, Jerzy Wiśniewski",
+     "title": "The effects of delaying tracking in secondary school: evidence from the 1999 education reform in Poland, Education Economics 24(6), 557-572",
+     "org": "Taylor & Francis",
+     "year": "2016",
+     "url": "https://hpatrinos.com/wp-content/uploads/2015/03/poland-tracking1.pdf"
+    },
+    {
+     "author": "Maciej Jakubowski, Harry A. Patrinos, Emilio E. Porta, Jerzy Wiśniewski",
+     "title": "The Impact of the 1999 Education Reform in Poland (OECD Education Working Paper No. 49)",
+     "org": "OCDE",
+     "year": "2011",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2011/06/the-impact-of-the-1999-education-reform-in-poland_g17a1e9e/5kmbjgkm1m9x-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le gain ne s'évapore pas quand la sélection reprend un an plus tard : la Pologne a testé ses élèves de 16 et 17 ans avec les instruments PISA en 2006, et les élèves de filière professionnelle post-réforme restent au-dessus de leurs homologues pré-réforme d'au moins 30 points.",
+   "what_it_is": "Test PISA additionnel, financé et organisé par la Pologne en 2006 sur des échantillons de 16 et 17 ans (10e et 11e année), avec les mêmes items et la même échelle que le test international sur les 15 ans. Objectif : vérifier si l'avantage acquis pendant le tronc commun survit à l'orientation.",
+   "evidence_level": "descriptif / comparaison de moyennes ajustée de l'âge (pas d'appariement, pas de contrefactuel — les auteurs le présentent comme une corroboration, pas comme une estimation causale)",
+   "effect_size": "Écart brut de 30 points PISA entre les élèves de 15 ans en professionnel de base en 2000 (357,6) et les élèves de 16 ans en professionnel de base en 2006 (388,8). La part de la cohorte en professionnel de base tombe de 22 % (2000) à 16 % (10e année 2006) puis 15 % (11e). L'effet d'une année d'âge/scolarité supplémentaire est estimé à 7-8 points seulement, donc l'écart de 30 points n'est pas un simple effet d'âge.",
+   "concrete_practice": "Lecture pour un décideur : l'année supplémentaire de tronc commun ne fait pas que « retarder » un décrochage, elle installe un socle qui persiste. Mais la même donnée montre l'inverse pour la filière professionnelle elle-même : entre la 10e et la 11e année, les élèves de professionnel de base reculent (388,8 → 384,1) et ceux de l'enseignement général profilé stagnent (494,9 → 494,6), alors que les élèves de lycée général progressent (580,8 → 592,6).",
+   "concrete_example": "Tableau 5 de l'article d'Education Economics (2016) : moyennes en lecture par vague PISA, année d'étude et type de programme. En 2000, 9e année, filière générale 543,4 (42 % des élèves) contre professionnel de base 357,6 (22 %) — un écart de 186 points, soit près de deux écarts-types, à l'intérieur d'une même cohorte de 15 ans. En 2006, 10e année : général 580,8 (45 %), professionnel secondaire 505,9 (29 %), général profilé 494,9 (11 %), professionnel de base 388,8 (16 %). Non seulement chaque filière progresse, mais la filière la plus basse se vide d'un tiers de ses effectifs.",
+   "conditions": "Ce constat suppose que les élèves de 16 ans de 2006 soient comparables à ceux de 15 ans de 2000 après ajustement d'âge — hypothèse forte. Il suppose aussi que l'orientation à 16 ans reste réversible : en Pologne, même les élèves de professionnel de base suivent un curriculum général pendant leur première année, continuent une langue étrangère obligatoire et peuvent rejoindre plus tard des niveaux supérieurs ; la sélection n'est pas un couperet.",
+   "contested": "C'est la partie la plus faible du dossier empirique : pas de groupe de contrôle, pas d'appariement, pas d'erreurs-types sur l'écart de 30 points. Les auteurs reconnaissent que la baisse entre 10e et 11e année en filière professionnelle peut venir d'un effet de composition (les élèves en difficulté du lycée général basculent vers le professionnel en 10e année) autant que d'un effet de filière. Par ailleurs, la comparaison est effectuée sur la lecture uniquement.",
+   "sources": [
+    {
+     "author": "Maciej Jakubowski, Harry A. Patrinos, Emilio E. Porta, Jerzy Wiśniewski",
+     "title": "The effects of delaying tracking in secondary school: evidence from the 1999 education reform in Poland, Education Economics 24(6), Table 5",
+     "org": "Taylor & Francis",
+     "year": "2016",
+     "url": "https://hpatrinos.com/wp-content/uploads/2015/03/poland-tracking1.pdf"
+    },
+    {
+     "author": "Maciej Jakubowski",
+     "title": "Opening Up Opportunities: Education Reforms in Poland (IBS Policy Paper 01/2015)",
+     "org": "Instytut Badań Strukturalnych",
+     "year": "2015",
+     "url": "https://ibs.org.pl/app/uploads/2015/02/IBS_Policy_Paper_01_2015.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le mécanisme identifié n'est pas « la mixité » en soi mais le temps d'enseignement : l'essentiel de l'amélioration polonaise s'explique par l'augmentation massive des heures consacrées aux matières fondamentales.",
+   "what_it_is": "Décomposition à la Oaxaca-Blinder d'une fonction de production éducative appliquée aux écarts de score entre PISA 2000 et PISA 2006, séparant la part due aux changements de caractéristiques/ressources de la part due aux changements de rendement de ces caractéristiques.",
+   "evidence_level": "quasi-expérimental / décomposition économétrique (corrélationnelle à l'intérieur d'un cadre causal ; les auteurs la présentent comme exploratoire des mécanismes)",
+   "effect_size": "Deux tiers de l'écart de score 2000-2006 en lecture sont associés à des changements de caractéristiques ou de niveau de ressources, un tiers à des changements de rendement de ces caractéristiques. Au niveau de l'établissement, la contribution dominante est le nombre d'heures d'enseignement. La part d'élèves suivant plus de 4 heures de cours de lecture par semaine passe de 1 % en 2000 à 76 % en 2006.",
+   "concrete_practice": "Le gimnazjum n'est pas un dispositif pédagogique : c'est un contenant institutionnel qui rend possible une redistribution du temps scolaire. Un élève destiné au professionnel passe de quelques heures de polonais et mathématiques noyées dans un emploi du temps d'atelier à un emploi du temps de collège général. L'implication opérationnelle est que prolonger le tronc commun sans réallouer effectivement les heures d'enseignement général ne reproduira pas l'effet.",
+   "concrete_example": "Tableaux 6 et 7 de l'article d'Education Economics : la variable « plus de 4 heures de cours de lecture par semaine » est à la fois celle dont la fréquence change le plus (1 % → 76 % des élèves entre 2000 et 2006) et celle dont l'association au score est positive et croissante dans le temps. La quasi-totalité de l'écart expliqué par les caractéristiques d'établissement provient de cette variable. Autrement dit, l'élève polonais moyen de 15 ans en 2006 reçoit plusieurs fois plus d'heures d'enseignement de la lecture qu'en 2000.",
+   "conditions": "Ce mécanisme suppose un curriculum national prescriptif sur les volumes horaires minimaux par matière et un corps enseignant en nombre suffisant pour absorber le transfert d'heures. En Pologne, l'État central a conservé la main sur la grille horaire et le statut enseignant, tout en décentralisant le financement et l'autonomie pédagogique (choix des manuels et des méthodes, étendu en 1999).",
+   "contested": "Une décomposition n'est pas une identification causale : elle attribue des parts de variance, pas des effets. L'augmentation des heures de lecture est elle-même endogène au passage en gimnazjum, donc la décomposition ne distingue pas « effet des heures » de « effet d'être dans un établissement général ». La Banque mondiale, dans son analyse indépendante de 2015, note d'ailleurs qu'aucune preuve causale n'a été établie pour expliquer la deuxième vague de progrès polonais (2009-2012).",
+   "sources": [
+    {
+     "author": "Maciej Jakubowski, Harry A. Patrinos, Emilio E. Porta, Jerzy Wiśniewski",
+     "title": "The effects of delaying tracking in secondary school: evidence from the 1999 education reform in Poland, Education Economics 24(6), section 4.3 et Tables 6-7",
+     "org": "Taylor & Francis",
+     "year": "2016",
+     "url": "https://hpatrinos.com/wp-content/uploads/2015/03/poland-tracking1.pdf"
+    },
+    {
+     "author": "Christian Bodewig, Lucas Gortazar, Katia Herrera Sosa, Daniel Kutner, Jeremie Amoroso, Martin Moreno",
+     "title": "Poland: Skilling up the next generation. An analysis of Poland's performance in PISA",
+     "org": "Banque mondiale",
+     "year": "2015",
+     "url": "https://documents1.worldbank.org/curated/en/716301468180231161/txt/101562-WP-P152132-Box393264B-PUBLIC-PISA-Poland-12022015.txt"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet ne reste pas confiné aux tests : les cohortes passées par le tronc commun allongé ont une probabilité d'emploi supérieure d'environ 3 points de pourcentage et des salaires supérieurs de 4 à 5 %, avec un effet d'entrée sur le marché du travail bien plus fort (jusqu'à +10 points de pourcentage de salaire autour de 20 ans) qui s'estompe vers 24-26 ans.",
+   "what_it_is": "Évaluation des effets de long terme de la réforme de 1999 sur l'emploi et les revenus, en exploitant la discontinuité de cohorte : toute personne née à partir du 1er janvier 1986 a été scolarisée dans le nouveau système, celles nées avant dans l'ancien.",
+   "evidence_level": "quasi-expérimental (différences de différences sur quasi-panel âge × année d'enquête, EU-SILC Pologne 2005-2013, environ 47 500 observations dont 23 500 dans le groupe de contrôle ; effets fixes d'âge, d'année d'enquête et de région)",
+   "effect_size": "+3 points de pourcentage de probabilité d'emploi ; +4 à 5 % de revenus en moyenne. Effet de salaire d'environ +10 points de pourcentage autour de 20 ans, décroissant et nul vers 24-26 ans. En comparaison des seules cohortes 1985 vs 1986 (test de robustesse le plus serré), la cohorte 1986 gagne 9 à 11 % de plus, l'effet emploi n'étant alors plus significatif. Effets sur les salaires identiques par sexe ; effets sur l'emploi plus forts pour les femmes.",
+   "concrete_practice": "Pour un employeur, la lecture est directe : ce qui change n'est pas le diplôme mais l'employabilité à l'embauche des jeunes les moins qualifiés. Les auteurs attribuent l'effet à l'amélioration de la composition des pairs et des enseignants pour les élèves de bas niveau pendant l'année supplémentaire de tronc commun.",
+   "concrete_example": "Drucker, Horn et Jakubowski (2022) comparent, dans l'échantillon polonais d'EU-SILC, les 20-27 ans nés entre 1978 et 1993, soit 16 cohortes de naissance, huit de part et d'autre du seuil du 1er janvier 1986. Ils montrent (Figure 5) que l'âge médian d'obtention du plus haut diplôme pour les moins diplômés (ISCED 2 ou moins) est de 15 ans pour toutes les cohortes jusqu'en 1985 et devient 16 ans à partir de 1986 — la première étape de leur instrumentation. Un résultat convergent est obtenu par Liwiński sur un autre échantillon et une autre méthode : sur 7 193 observations de titulaires d'un certificat professionnel de base issus de l'enquête polonaise sur les forces de travail (2001-2016), une régression sur discontinuité floue donne un effet d'intention de traiter de +3,3 % sur le salaire horaire et un effet local sur les compliers de +13 %, pour une première étape de seulement 0,25 année de scolarité supplémentaire.",
+   "conditions": "L'effet suppose un marché du travail qui valorise les compétences générales — la Pologne des années 2000-2010 était en transition post-industrielle avec une prime salariale au diplôme supérieure à la moyenne OCDE. Il suppose aussi que la filière professionnelle continue d'exister : l'effet identifié est celui d'une année générale supplémentaire avant orientation, pas d'une suppression de l'enseignement qualifiant.",
+   "contested": "Les auteurs de l'étude EU-SILC reconnaissent explicitement qu'ils ne peuvent pas mener d'analyse de tendances communes correcte, parce que leur structure de données est un quasi-panel (âge × année d'enquête) et non un panel ; l'identification repose entièrement sur l'inclusion simultanée d'effets fixes d'âge et d'année. Ils reconnaissent aussi que l'absence de mesure fine du parcours éducatif dans EU-SILC les oblige à estimer un effet moyen tous niveaux confondus, et qu'ils ne peuvent que « spéculer » sur les mécanismes. Liwiński, de son côté, souligne que la réforme de 1999 est un paquet inséparable et que sa fenêtre d'estimation croise la réforme de Bologne de 2005-2006 dans l'enseignement supérieur. Les effets de salaire s'annulant vers 25 ans, l'ampleur de long terme est qualifiée par les auteurs eux-mêmes de « relativement faible ».",
+   "sources": [
+    {
+     "author": "Luca Flóra Drucker, Dániel Horn, Maciej Jakubowski",
+     "title": "The labour market effects of the Polish educational reform of 1999, Journal for Labour Market Research 56:13",
+     "org": "IAB / Springer",
+     "year": "2022",
+     "url": "https://unipub.lib.uni-corvinus.hu/7603/1/JLMRS_2022.pdf"
+    },
+    {
+     "author": "Jacek Liwiński",
+     "title": "The Impact of Compulsory Schooling on Hourly Wage: Evidence From the 1999 Education Reform in Poland, Evaluation Review 44(5-6), 437-470",
+     "org": "SAGE",
+     "year": "2021",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7900822/"
+    }
+   ]
+  },
+  {
+   "claim": "Les gains polonais sont venus du bas de la distribution, et la variance entre établissements a chuté plus fortement qu'ailleurs dans l'OCDE — mais le gradient social individuel, lui, n'a pas bougé.",
+   "what_it_is": "Analyse distributionnelle des progrès polonais : évolution des scores au 10e et au 90e percentile, part de variance inter-établissements, et écart de score lié au statut socio-économique.",
+   "evidence_level": "comparaison internationale descriptive sur séries PISA (corrélationnelle) ; les estimations de croissance par percentile sont issues des tableaux officiels PISA",
+   "effect_size": "Entre 2000 et 2012, les élèves polonais du 10e percentile progressent de plus de 4 points PISA par an, ceux du 90e percentile d'un peu plus de 1 point par an (les deux groupes progressant davantage que dans les pays voisins). La variance inter-établissements en mathématiques ne représente plus que 20 % de la variance totale en 2012, très en dessous de la moyenne OCDE. En revanche, l'écart de score entre élèves socio-économiquement favorisés et défavorisés reste stable puis se creuse : 88 points en lecture en 2009, 90 points en lecture en 2018 (OCDE 89), 96 points en mathématiques en 2022 (OCDE 93).",
+   "concrete_practice": "Ce que la structure comprehensive a produit en Pologne, c'est l'homogénéisation des conditions d'apprentissage entre établissements — tous les gimnazja ont le même curriculum, la même grille horaire, un recrutement de secteur, et publient leurs résultats aux examens externes. Ce qu'elle n'a pas produit, c'est l'égalisation des acquis entre milieux sociaux à l'intérieur d'une même école.",
+   "concrete_example": "Jakubowski (IBS 2015, Figures 5, 7 et 8) compare la Pologne à la République tchèque, la Slovaquie et la Hongrie, qui partaient d'un système comparable en 1990. Alors que la Pologne gagne plus de 4 points par an au 10e percentile entre 2000 et 2012, la Hongrie gagne moins d'un point aux deux extrémités de la distribution et la Slovaquie recule au 10e percentile depuis 2003. Sur la même période, la part de 15 ans scolarisés dans un programme d'enseignement général passe en Pologne de 42 % (2000) à 100 % — les trois voisins étant restés entre 73 % et 90 %, mais avec une sélection des meilleurs élèves dès la 5e ou 6e année dans les écoles académiques tchèques et slovaques. La Pologne a également enregistré, selon l'analyse des données PISA 2000-2009, la plus forte baisse des différences de performance entre établissements de l'ensemble des pays de l'OCDE.",
+   "conditions": "La baisse de la variance inter-établissements tient à trois choses simultanées : recrutement de secteur sans sélection à l'entrée du gimnazjum, curriculum national identique, et publication d'examens externes standardisés en 6e et 9e année qui rendent visibles les écarts. Elle n'est pas un effet automatique de la mise en commun des élèves.",
+   "contested": "C'est le point le plus disputé du dossier. Zbigniew Sawiński (Edukacja 141(2), 2017, p.146-163), analysant les éditions PISA 2000 à 2012, conclut que la réforme du gimnazjum n'a pas réduit les inégalités éducatives : le poids de l'origine sociale sur les acquis est resté au même niveau qu'avant la réforme, et son poids sur le choix du type d'enseignement secondaire est inchangé ; il observe une différenciation croissante des gimnazja, notamment dans les grandes villes, qu'il attribue à la concurrence entre écoles. Son article a suscité une réponse publiée dans la même revue. À l'inverse, Noémie Le Donné (Revue française de sociologie 55(1), 2014, p.127-162), en modélisation multiniveaux sur PISA 2000-2009, conclut que l'allongement d'un an du tronc commun a bien réduit les inégalités sociales d'acquis, par homogénéisation des conditions d'apprentissage, sans désavantager les élèves favorisés. Les données PISA officielles tranchent partiellement en faveur de Sawiński sur le gradient individuel : l'écart favorisés/défavorisés en Pologne est passé de 88 points (2009) à 96 points (2022) sans jamais s'éloigner de la moyenne OCDE.",
+   "sources": [
+    {
+     "author": "Maciej Jakubowski",
+     "title": "Opening Up Opportunities: Education Reforms in Poland (IBS Policy Paper 01/2015), Figures 5, 7, 8",
+     "org": "Instytut Badań Strukturalnych",
+     "year": "2015",
+     "url": "https://ibs.org.pl/app/uploads/2015/02/IBS_Policy_Paper_01_2015.pdf"
+    },
+    {
+     "author": "Zbigniew Sawiński",
+     "title": "Education reform and inequality: fifteen years of new lower secondary schools in Poland, Edukacja 141(2), 146-163",
+     "org": "Instytut Badań Edukacyjnych",
+     "year": "2017",
+     "url": "https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-3837f2e9-8d66-47d4-b825-ed63fe0a3a46"
+    },
+    {
+     "author": "Noémie Le Donné",
+     "title": "La réforme de 1999 du système éducatif polonais. Effets sur les inégalités sociales de compétences scolaires, Revue française de sociologie 55(1), 127-162",
+     "org": "Presses de Sciences Po",
+     "year": "2014",
+     "url": "https://cairn.info/revue-francaise-de-sociologie-2014-1-page-127.htm"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2018 Results – Country Note: Poland",
+     "org": "OCDE",
+     "year": "2019",
+     "url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/edu/pisa/publications/national-reports/pisa-2018/featured-country-specific-overviews/PISA2018_CN_POL.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2022 Results – Factsheets: Poland",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/poland_17b5bcfd/4a2c28c8-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le tronc commun allongé n'a jamais fonctionné seul : il a été accompagné d'examens externes standardisés, d'un curriculum refondu en 2008, d'une hausse de 50 % des salaires enseignants et d'une autonomie pédagogique élargie — et la deuxième vague de progrès (2009-2012) n'a jamais reçu de démonstration causale.",
+   "what_it_is": "Le paquet polonais complet : (1) 1999, structure + autonomie pédagogique (choix des manuels et méthodes) + quatre niveaux de carrière enseignante + décentralisation du financement ; (2) 2002, premiers examens externes standardisés en 6e et 9e année, résultats individuels transmis aux élèves et enseignants, résultats agrégés publiés au niveau établissement ; (3) 2006-2012, hausse des rémunérations ; (4) 2008, refonte du curriculum en résultats d'apprentissage ; (5) 2009, nouveau système d'évaluation des établissements remplaçant l'inspection bureaucratique.",
+   "evidence_level": "descriptif pour la chronologie ; comparaison de distributions PISA 2003-2012 pour le curriculum de 2008 ; aucune évaluation causale du curriculum de 2008",
+   "effect_size": "Salaires enseignants : +50 % en moyenne à tous les niveaux entre 2006 et 2012, la plus forte hausse portant sur les jeunes enseignants pour limiter la sélection négative à l'entrée du métier. Résultat PISA associé : scores polonais de 2012 à 518 en mathématiques, 518 en lecture, 526 en sciences, soit environ +40 points par domaine depuis 2000, l'équivalent d'environ une année de scolarité. Contrairement à la réforme de 1999, la réforme de 2008 aurait amélioré les performances de manière homogène sur toute la distribution et pour les deux sexes.",
+   "concrete_practice": "Le curriculum de 2008 ne prescrit plus des contenus mais des résultats d'apprentissage attendus en fin de chaque cycle, laisse la répartition des contenus dans le temps aux équipes, réduit l'exigence d'acquisition de connaissances au profit de la résolution de problèmes et des compétences analytiques, et brouille les frontières entre disciplines — y compris dans la voie professionnelle. Les collectivités locales financent une partie du système et ajoutent plus de 20 % de fonds propres, essentiellement sur les bâtiments.",
+   "concrete_example": "Le levier d'accountability est précis et réplicable : depuis 2002, tout élève polonais passe un examen externe standardisé à la fin de la 6e année et à la fin de la 9e année ; les résultats individuels vont à l'élève et à l'enseignant, les résultats agrégés au niveau de l'établissement sont rendus publics, et des indicateurs de valeur ajoutée ont été construits à partir de ces examens et mis à disposition. Aucun enseignant n'est individuellement redevable des résultats — l'imputation se fait au niveau de l'école, ce que Jakubowski présente comme la raison de l'acceptabilité du dispositif. À cela s'ajoute l'examen de fin d'études (matura), externe lui aussi, servant d'examen d'entrée dans le supérieur.",
+   "conditions": "L'ordre des réformes compte : Jakubowski soutient que les réformes de curriculum et d'évaluation de 2008-2009 n'auraient pas été possibles sans la restructuration de 1999, qui a créé les établissements et les cycles sur lesquels elles se sont appuyées. La hausse des salaires a été rendue opérationnelle par le système de quatre niveaux de carrière créé en 1999 — donc adossée à une structure, pas distribuée uniformément.",
+   "contested": "La Banque mondiale, dans son analyse indépendante de 2015, écrit qu'aucune preuve causale n'a été établie pour expliquer avec certitude les gains de 2009-2012, et se contente de constater une coïncidence temporelle avec le curriculum de 2008. Jakubowski lui-même écrit que « les réformateurs se sont concentrés sur la mise en œuvre de leurs politiques et n'ont pas pensé à les évaluer soigneusement » — l'évaluation n'existe que parce que la Pologne a rejoint PISA en 2000 par chance de calendrier. Le système des quatre niveaux de carrière a par ailleurs été critiqué comme trop bureaucratique. Enfin, la Pologne de 2012 restait nettement sous la moyenne OCDE en résolution de problèmes, avec un écart de 45 points par rapport à ses performances en mathématiques : le paquet n'a pas produit de gains uniformes sur toutes les compétences.",
+   "sources": [
+    {
+     "author": "Maciej Jakubowski",
+     "title": "Opening Up Opportunities: Education Reforms in Poland (IBS Policy Paper 01/2015)",
+     "org": "Instytut Badań Strukturalnych",
+     "year": "2015",
+     "url": "https://ibs.org.pl/app/uploads/2015/02/IBS_Policy_Paper_01_2015.pdf"
+    },
+    {
+     "author": "Christian Bodewig et al.",
+     "title": "Poland: Skilling up the next generation. An analysis of Poland's performance in PISA",
+     "org": "Banque mondiale",
+     "year": "2015",
+     "url": "https://documents1.worldbank.org/curated/en/716301468180231161/txt/101562-WP-P152132-Box393264B-PUBLIC-PISA-Poland-12022015.txt"
+    }
+   ]
+  },
+  {
+   "claim": "La suppression des gimnazjum en 2017 a ramené la sélection à 15 ans et raccourci le tronc commun de 9 à 8 ans ; les résultats PISA 2022 de la première cohorte concernée effacent l'intégralité des gains acquis entre 2003 et 2012.",
+   "what_it_is": "La loi sur l'enseignement scolaire de décembre 2016 supprime les gimnazjum et rétablit le système 8+4/5 à partir du 1er septembre 2017 ; la première année de gimnazjum est supprimée dès 2017/18 et remplacée par une 7e année de primaire allongé, la dernière cohorte sort en 2018/19. En PISA 2018, la quasi-totalité des élèves polonais de 15 ans étaient encore en gimnazjum ; en PISA 2022, ils étaient déjà inscrits dans des établissements du secondaire supérieur, donc de nouveau triés par filière.",
+   "evidence_level": "descriptif / avant-après sur séries PISA — AUCUNE évaluation causale publiée à ce jour, ce qui est en soi le fait marquant",
+   "effect_size": "Mathématiques : 516 (2018) → 489 (2022), soit -27 points. Lecture : 512 → 489, soit -23 points. Sciences : 511 → 499, soit -12 points. Les résultats de 2022 sont parmi les plus bas jamais mesurés par PISA en Pologne dans les trois domaines, au niveau de 2003 en lecture et mathématiques et de 2006 en sciences ; l'OCDE écrit explicitement que « tous les gains observés entre ces évaluations précoces et 2012 ont été annulés par les baisses observées entre 2018 et 2022 ». Par rapport à 2012, la part d'élèves sous le seuil de compétence de niveau 2 augmente de 8 points de pourcentage en mathématiques, 12 en lecture, 9 en sciences.",
+   "concrete_practice": "Le retour au 8+4 ne supprime pas seulement un type d'établissement : il rend à nouveau l'orientation déterminante à 15 ans entre liceum général, technikum et école professionnelle sectorielle de stade I, et il comprime en 8 ans un curriculum auparavant étalé sur 9. Le Défenseur des droits de l'enfant polonais a conclu dès 2018 que le nouveau curriculum de base était trop avancé et pouvait dépasser les capacités d'apprentissage des élèves, particulièrement en 7e année, et en 2019 que la charge de devoirs était excessive.",
+   "concrete_example": "Les 6 011 élèves polonais de 240 établissements testés en PISA 2022 constituent la première cohorte entièrement passée par le primaire allongé à 8 ans. La rupture est visible jusque dans les indicateurs d'établissement : la part d'élèves scolarisés dans une école dont le chef d'établissement signale un manque de personnel enseignant entravant l'enseignement passe de 3 % en 2018 à 47 % en 2022 (et de 1 % à 23 % pour un personnel inadéquat ou insuffisamment qualifié). L'OCDE précise elle-même la limite de cette comparaison : en 2018 la plupart des élèves de 15 ans étaient dans un gimnazjum, en 2022 dans un établissement du secondaire supérieur — ce ne sont pas les mêmes écoles.",
+   "conditions": "La cohorte PISA 2022 a subi simultanément la réforme structurelle et les fermetures d'écoles liées au COVID-19, ce qui rend toute attribution causale impossible en l'état. L'ampleur polonaise est cependant hors norme : la baisse y est le double de la baisse moyenne OCDE en lecture et mathématiques et le triple en sciences.",
+   "contested": "Il n'existe, à la date de cette revue, aucune évaluation causale publiée (différences de différences, contrôle synthétique ou régression sur discontinuité) de l'abolition des gimnazjum — je n'en ai trouvé aucune malgré des recherches ciblées en anglais et en polonais, et je préfère le signaler que citer une étude que je ne peux pas vérifier. L'Institut polonais de recherche en éducation (IBE), opérateur national de PISA, attribue explicitement la baisse de 2022 à la pandémie et ne mentionne pas la réforme structurelle. Le principal argument contre l'imputation à la réforme est donc solide : la Pologne a connu des fermetures d'écoles longues, et la baisse est mondiale. Les arguments en faveur d'une part structurelle sont (a) l'ampleur, double ou triple de la moyenne OCDE, (b) le fait que la population testée soit désormais triée par filière, (c) le changement radical des indicateurs de pénurie enseignante. Aucun n'est une preuve. Les analyses polonaises circulant en ligne qui attribuent la baisse à la suppression des gimnazjum sont majoritairement des textes d'opinion sans identification.",
+   "sources": [
+    {
+     "author": "OCDE",
+     "title": "PISA 2022 Results – Factsheets: Poland",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/poland_17b5bcfd/4a2c28c8-en.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2018 Results – Country Note: Poland",
+     "org": "OCDE",
+     "year": "2019",
+     "url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/edu/pisa/publications/national-reports/pisa-2018/featured-country-specific-overviews/PISA2018_CN_POL.pdf"
+    },
+    {
+     "author": "Instytut Badań Edukacyjnych (IBE-PIB)",
+     "title": "PISA 2022. Results of the Programme for International Student Assessment",
+     "org": "IBE-PIB",
+     "year": "2023",
+     "url": "https://www.ibe.edu.pl/en/news/2225-pisa-2022-results-of-the-programme-for-international-student-assessment"
+    },
+    {
+     "author": "Commission européenne (DG EAC)",
+     "title": "Education and Training Monitor 2019 – Poland",
+     "org": "Commission européenne",
+     "year": "2019",
+     "url": "https://education.ec.europa.eu/sites/default/files/document-library-docs/et-monitor-report-2019-poland_en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le coût opérationnel du retour en arrière a été documenté par la Cour des comptes polonaise : double cohorte de 370 000 élèves, pénurie de places, éclatement des services enseignants, dégradation des conditions d'apprentissage dans un tiers des écoles, et coûts locaux estimés au double de la dotation.",
+   "what_it_is": "Contrôles de la Najwyższa Izba Kontroli (Cour des comptes polonaise, NIK) sur la préparation et la mise en œuvre de la réforme scolaire de 2016-2017, rapportés par le Monitor de l'éducation et de la formation 2019 de la Commission européenne.",
+   "evidence_level": "audit public national et rapport institutionnel européen (descriptif, pas d'évaluation causale d'impact sur les acquis)",
+   "effect_size": "370 000 élèves de cohorte supplémentaire entrant simultanément dans le secondaire supérieur en 2019/2020 ; 11,4 % des 665 établissements concernés disparus des registres officiels en 2017-2018 ; déficit de 14 873 places dans huit voïvodies en janvier 2019 malgré environ 100 000 places supplémentaires annoncées par le ministère ; proportion d'enseignants travaillant dans plus d'un établissement en hausse de près de 55 % entre 2016 et 2018 ; conditions d'apprentissage non améliorées dans 56 % des écoles et dégradées dans 34 % ; coûts réels supportés par les collectivités estimés par elles au double de la dotation ministérielle.",
+   "concrete_practice": "Le mécanisme est mécanique : supprimer un cycle de trois ans oblige à faire entrer deux cohortes la même année dans le cycle suivant. Les établissements se réorganisent en fonctionnant par rotations horaires (écoles à deux services), les enseignants se répartissent entre plusieurs établissements pour compléter leur horaire, et la planification des classes en souffre. Le rapport de la NIK du 22 mai 2019 relève en outre des incohérences entre les différents curricula de base adoptés dans l'urgence.",
+   "concrete_example": "En janvier 2019, à six mois de la rentrée de la double cohorte, huit voïvodies polonaises affichaient un déficit cumulé de 14 873 places en secondaire supérieur, les grandes villes manquant particulièrement de places en lycée général — c'est-à-dire que les élèves non admis en filière générale étaient mécaniquement redirigés vers les filières techniques et professionnelles. Parallèlement, plus de 80 % des enseignants polonais ont participé à la grève nationale d'avril 2019, la première grève nationale du secteur depuis 25 ans, portant sur les rémunérations et les conditions de travail. Le Monitor européen note enfin que la période de tronc commun général a été ramenée de 9 à 8 ans et que cela « peut affecter les enfants de milieux défavorisés et des zones rurales ».",
+   "conditions": "Ce type de coût est spécifique à une réforme structurelle qui change le nombre d'années d'un cycle : il n'existe pas si l'on modifie le contenu ou la pédagogie à structure constante. Il est symétrique — la création des gimnazjum en 1999 a elle aussi exigé la construction ou la reconversion massive d'établissements, mais dans un contexte de démographie scolaire déclinante qui libérait des locaux.",
+   "contested": "Les rapports de la NIK et du Monitor documentent des intrants et des conditions, pas des effets sur les apprentissages : rien n'y établit que la dégradation des conditions matérielles a causé une baisse de résultats. Par ailleurs, une partie des difficultés (pénurie enseignante, attractivité du métier) préexistait à la réforme et s'est aggravée pour des raisons salariales indépendantes. Il faut aussi noter que la réforme de 2017 avait des partisans qui invoquaient des arguments empiriques sur la vie scolaire en gimnazjum — arguments que je n'ai pas trouvés étayés par une évaluation quantitative publiée.",
+   "sources": [
+    {
+     "author": "Commission européenne (DG EAC), citant NIK 2019a et RPD 2018",
+     "title": "Education and Training Monitor 2019 – Poland",
+     "org": "Commission européenne",
+     "year": "2019",
+     "url": "https://education.ec.europa.eu/sites/default/files/document-library-docs/et-monitor-report-2019-poland_en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "PISA 2025 montre une stabilisation, pas un redressement : la Pologne reste environ 30 points sous son niveau de 2018 en mathématiques et en lecture, sept ans après le rétablissement de la sélection à 15 ans.",
+   "what_it_is": "Résultats PISA 2025, publiés le 8 septembre 2026, pour la troisième cohorte polonaise scolarisée dans le système 8+4 rétabli.",
+   "evidence_level": "série descriptive officielle (comparaison internationale, non causale)",
+   "effect_size": "Mathématiques 484, lecture 482, sciences 495 (moyenne OCDE en sciences : 482). Par rapport à 2022, -5 points en mathématiques et -7 en lecture, deux évolutions statistiquement non significatives. Par rapport au pic de 2018 : -32 points en mathématiques, -30 en lecture, -16 en sciences. La Pologne reste 2e de l'UE en mathématiques (derrière l'Estonie, 508), 3e en lecture (derrière l'Irlande 500 et l'Estonie 499) et 5e en sciences.",
+   "concrete_practice": "Le message opérationnel est que le rang européen d'un système peut rester flatteur alors que son niveau absolu s'effondre : la Pologne reste deuxième de l'UE en mathématiques tout en ayant perdu l'équivalent d'environ une année de scolarité par rapport à 2018. La ministre de l'éducation Barbara Nowacka a explicitement reconnu que la Pologne « a maintenu son rang élevé parmi les pays de l'UE » tout en soulignant que « les résultats des tests déclinent, en Pologne comme dans le monde ».",
+   "concrete_example": "L'effet de la sélection restaurée est visible dans la structure de l'offre : 58,9 % des élèves polonais du secondaire de niveau intermédiaire étaient en enseignement et formation professionnels en 2023, au-dessus de la moyenne UE de 52,4 %. Or, selon le Monitor européen 2025, le taux de sous-performance dans les écoles professionnelles sectorielles de stade I dépasse 60 % en mathématiques et en lecture et atteint 55 % en sciences — et un quart des sortants de ces écoles n'obtiennent même pas leur certification professionnelle. On retrouve exactement la configuration que la réforme de 1999 avait fait reculer : une filière qui concentre les élèves faibles et ne produit ni compétences générales ni qualification.",
+   "conditions": "La stabilisation observée en 2025 intervient dans un contexte où le gouvernement issu de 2023 a engagé un allègement du curriculum : projets de programmes pour le préscolaire et le primaire mis en consultation en septembre 2025, entrée en vigueur en septembre 2026 pour le primaire, septembre 2027 pour le secondaire supérieur, nouvelle matura en 2031. Les effets de ce chantier ne seront donc pas mesurables par PISA avant 2031-2034.",
+   "contested": "Attribuer la non-récupération polonaise à la structure serait aussi peu rigoureux que de lui attribuer la chute de 2022. Le recul est quasi général en Europe sur la période, et la Pologne se distingue plutôt par le fait que sa chute s'est arrêtée. Les scores 2025 que je rapporte proviennent de la note pays OCDE PISA 2025 relayée par la presse polonaise et du profil Education GPS de l'OCDE : je n'ai pas pu accéder directement au PDF de la note pays (accès refusé), et ces chiffres devraient être revérifiés sur la source primaire avant publication. Les écarts 2018-2025 sont un calcul arithmétique à partir de moyennes OCDE publiées, non un test statistique.",
+   "sources": [
+    {
+     "author": "Notes from Poland, citant OCDE PISA 2025",
+     "title": "Polish school pupils second best at maths in EU",
+     "org": "Notes from Poland",
+     "year": "2026",
+     "url": "https://notesfrompoland.com/2026/09/09/polish-school-pupils-second-best-at-maths-in-eu/"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2025 Results (Volume I): Poland – Country Note",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/poland_4d28917e-en.html"
+    },
+    {
+     "author": "OCDE",
+     "title": "Education GPS – Poland, Student performance (PISA 2025)",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://gpseducation.oecd.org/CountryProfile?primaryCountry=POL&treshold=10&topic=PI"
+    },
+    {
+     "author": "Commission européenne (DG EAC)",
+     "title": "Education and Training Monitor 2025 – Poland",
+     "org": "Commission européenne",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/poland.html"
+    }
+   ]
+  },
+  {
+   "claim": "La Pologne a construit son tronc commun sans redoublement : 3 % de ses élèves de 15 ans avaient redoublé au moins une fois en 2022, contre 9 % en moyenne OCDE — huit à dix fois moins que la Fédération Wallonie-Bruxelles.",
+   "what_it_is": "Indicateur PISA de redoublement déclaré par les élèves (au moins un redoublement depuis l'entrée dans le primaire), croisé avec la structure de progression polonaise.",
+   "evidence_level": "descriptif international (PISA, déclaratif élève) ; l'affirmation causale « le redoublement nuit » relève d'une autre littérature non couverte ici",
+   "effect_size": "3 % d'élèves polonais de 15 ans ayant redoublé au moins une fois en 2022, contre 9 % en moyenne OCDE. 82 % des élèves polonais de 15 ans étaient en 9e année en 2022, c'est-à-dire à l'année modale. L'OCDE note que « le redoublement tend à être moins fréquent dans les systèmes performants ».",
+   "concrete_practice": "Un tronc commun long n'a de sens que si les élèves y progressent effectivement. La Pologne combine promotion automatique de fait, curriculum national unique, et examens externes en 6e et 9e année qui servent de points de contrôle sans fonction de tri interne à la cohorte. Le tri se fait une fois, à la sortie, sur la base d'un examen externe commun — pas en continu par le redoublement.",
+   "concrete_example": "Dans l'échantillon PISA 2022 polonais (6 011 élèves, 240 établissements), seuls 3 % des élèves déclarent un redoublement, alors même que 23 % sont scolarisés dans une école dont le chef d'établissement signale un personnel inadéquat ou insuffisamment qualifié. Le contraste avec la Fédération Wallonie-Bruxelles est frontal : 35 % des élèves de 15 ans y ont redoublé, premier rang européen et environ trois fois la moyenne OCDE. Autre point de comparaison institutionnel : en Pologne, 97 % des élèves fréquentent une école dont le chef d'établissement a la responsabilité principale du recrutement des enseignants (moyenne OCDE 60 %) et 89 % une école où les enseignants choisissent les supports pédagogiques (OCDE 76 %) — autonomie de gestion et absence de redoublement vont ici de pair avec un curriculum et des examens centralisés.",
+   "conditions": "Cette configuration repose sur l'existence d'examens externes standardisés qui rendent le pilotage possible sans recourir au redoublement comme instrument de régulation, et sur l'acceptation, par les enseignants, de classes hétérogènes. Le taux polonais de préscolarisation d'au moins un an (87 %) reste inférieur à la moyenne OCDE (94 %), ce qui montre que ce modèle n'exige pas une couverture préscolaire maximale.",
+   "contested": "Le redoublement déclaré dans PISA est auto-rapporté et sous-estime probablement la réalité. Surtout, la corrélation entre faible redoublement et haute performance ne dit rien de la direction causale : les systèmes performants peuvent simplement avoir moins besoin de faire redoubler. La littérature causale sur les effets du redoublement (non couverte par cette revue thématique consacrée à la Pologne) est elle-même partagée, avec des résultats qui dépendent fortement du dispositif d'accompagnement associé. Enfin, la Pologne conserve d'autres marges de sélection : elle exclut peu par redoublement mais trie fortement à 15 ans depuis 2017.",
+   "sources": [
+    {
+     "author": "OCDE",
+     "title": "PISA 2022 Results – Factsheets: Poland (How students progress through schooling; School autonomy)",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/poland_17b5bcfd/4a2c28c8-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La littérature comparative confirme que la sélection précoce augmente les inégalités, mais elle ne garantit pas qu'un allongement du tronc commun élève le niveau moyen : la méta-analyse la plus récente trouve un effet nul sur l'efficacité et un effet faible mais significatif sur l'inégalité.",
+   "what_it_is": "Cadre de référence externe permettant de juger si le cas polonais est représentatif ou exceptionnel : la littérature en différences de différences internationales sur l'âge de la sélection, et la méta-analyse qui la synthétise.",
+   "evidence_level": "méta-analyse (53 publications, 2000-2021) et différences de différences internationales entre évaluations primaire/secondaire",
+   "effect_size": "Méta-analyse de Terrin et Triventi (Review of Educational Research 93(2), 2023) : 53 analyses, 213 estimations sur l'efficacité et 230 sur l'inégalité ; effet moyen (g de Hedges) du tracking sur l'efficacité = -0,063, non significatif ; sur l'inégalité = +0,117, significatif. Hanushek et Wößmann (Economic Journal 116(510), 2006) : sur la paire PISA 2003 / PIRLS 2001 (18 pays), le tracking précoce est associé à un écart-type national de scores supérieur de 0,248 (p<0,05), l'écart 75e-25e percentile supérieur de 0,385 (p<0,10) et l'écart 95e-5e percentile supérieur de 0,834 (p<0,05) ; en données regroupées sur huit paires de tests (176 observations pays), +0,101 (p<0,01). Sur la moyenne, l'effet est -1,053 (p<0,01) sur la paire PISA 2003/PIRLS mais inconsistant selon les tests, avec un effet regroupé de -0,179 (p<0,10).",
+   "concrete_practice": "Traduction opérationnelle : détracker n'est pas un levier de performance moyenne en soi. Ce qui a produit l'effet polonais, c'est ce qu'on a mis dans l'année gagnée — des heures d'enseignement général supplémentaires pour les élèves les plus faibles. Un allongement du tronc commun qui ne changerait pas le volume et le contenu de l'enseignement reçu par les élèves faibles n'a pas de raison mécanique de produire des gains.",
+   "concrete_example": "Hanushek et Wößmann comparent, pays par pays, l'écart-type national des scores en 4e année (PIRLS 2001) et à 15 ans (PISA 2003). L'inégalité relative augmente dans tous les pays à sélection précoce sauf la Slovaquie, et diminue dans tous les pays sans sélection précoce sauf la Suède et la Lettonie. Les quatre plus fortes hausses d'inégalité entre primaire et secondaire sont toutes des pays à sélection précoce : Allemagne (+0,71), Grèce (+0,30), République tchèque (+0,25), Italie (+0,22). Les six plus fortes baisses sont toutes des pays sans sélection avant l'âge du test : Turquie (-0,63), Nouvelle-Zélande (-0,50), Canada (-0,32), États-Unis (-0,27), Norvège (-0,14), Hong Kong (-0,13). Les auteurs estiment que l'effet de la sélection précoce explique un quart de l'écart d'inégalité entre le pays le plus équitable et le plus inéquitable de leur échantillon.",
+   "conditions": "Ces estimations reposent sur un très petit nombre de pays (18 à 26 selon la paire de tests), sur l'hypothèse que l'inégalité en primaire capture l'hétérogénéité pré-existante, et sur une classification binaire des pays en « sélection avant 15 ans » ou non — classification qui, dans le cas polonais post-2017, deviendrait ambiguë.",
+   "contested": "Hanushek et Wößmann reconnaissent eux-mêmes que leurs résultats sur la moyenne sont « inconsistants selon les matières et les tests », qu'ils sont préoccupés par la combinaison d'instruments de mesure aux propriétés psychométriques différentes, et qu'en ajoutant la dépense cumulée par élève le seuil de significativité du coefficient de tracking tombe à 15 %. Un article de 2020 dans Large-scale Assessments in Education (« Does early tracking affect learning inequalities? Revisiting difference-in-differences modeling strategies with international assessments ») réexamine précisément ces stratégies d'identification. La critique la plus souvent citée est celle de Waldinger (2007), qui montrerait que les résultats sont sensibles à la spécification et à la classification des pays en systèmes sélectifs ou non ; je n'ai pas pu accéder à cette référence primaire et je la signale donc comme une critique rapportée par des sources secondaires, à vérifier avant citation. La méta-analyse de Terrin et Triventi tranche dans le sens d'un effet réel mais modeste sur l'inégalité (g = 0,117) et nul sur le niveau — ce qui situe le résultat polonais d'environ un écart-type très au-dessus de tout ce que la littérature observe habituellement.",
+   "sources": [
+    {
+     "author": "Éder Terrin, Moris Triventi",
+     "title": "The Effect of School Tracking on Student Achievement and Inequality: A Meta-Analysis, Review of Educational Research 93(2), 236-274",
+     "org": "AERA / SAGE",
+     "year": "2023",
+     "url": "https://eric.ed.gov/?id=EJ1369696"
+    },
+    {
+     "author": "Eric A. Hanushek, Ludger Wößmann",
+     "title": "Does Educational Tracking Affect Performance and Inequality? Differences-in-Differences Evidence Across Countries, The Economic Journal 116(510), C63-C76",
+     "org": "Royal Economic Society",
+     "year": "2006",
+     "url": "https://hanushek.stanford.edu/sites/default/files/publications/Hanushek+Woessmann%202006%20EJ%20116(510).pdf"
+    },
+    {
+     "title": "Does early tracking affect learning inequalities? Revisiting difference-in-differences modeling strategies with international assessments, Large-scale Assessments in Education 8(1)",
+     "org": "Springer / IEA",
+     "year": "2020",
+     "url": "https://link.springer.com/article/10.1186/s40536-020-00094-x"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose. (1) Le résultat central est robuste quant à son signe et à sa cible : l'année supplémentaire de tronc commun bénéficie massivement aux élèves qui, sans elle, seraient déjà orientés vers le qualifiant, et ne coûte rien de mesurable aux élèves de la filière générale (effet non significatif chez Jakubowski et al., et conclusion convergente de Le Donné). Dans un système où l'écart social atteint 92 points PISA et où le qualifiant absorbe une part importante de la cohorte, c'est exactement le segment visé. (2) Le mécanisme est transposable et budgétairement lisible : il s'agit de substituer des heures d'enseignement général à des heures de pratique professionnelle pour les élèves les plus faibles avant l'orientation, à structure de filières inchangée — pas de supprimer le qualifiant. (3) L'absence quasi totale de redoublement (3 % en Pologne contre 35 % en FWB) est ce qui rend un tronc commun long praticable : un tronc commun allongé qui conserve un redoublement de masse produit des cohortes de plus en plus décalées et coûteuses, et ne prolonge pas la scolarité commune mais l'étire pour une partie seulement des élèves. C'est probablement la leçon polonaise la plus directement actionnable en FWB, et la moins coûteuse.\n\nCe qui ne se transpose pas. (1) L'ampleur de l'effet. Le gain polonais d'environ un écart-type est mesuré depuis un plancher extrême : 22 % d'une cohorte à 357 points PISA en lecture, soit un illettrisme fonctionnel de masse. La FWB à 472 points n'a pas ce plancher ; la méta-analyse de Terrin et Triventi (g = -0,063 sur l'efficacité, non significatif) est un meilleur prior pour un système déjà proche de la moyenne OCDE que le chiffre polonais. Toute note de position qui annoncerait « la Pologne a gagné un écart-type, donc nous aussi » serait empiriquement indéfendable. (2) Le caractère de paquet. Ce qui a produit l'effet polonais, c'est la structure PLUS des examens externes standardisés en 6e et 9e année dont les résultats d'établissement sont publics, PLUS un curriculum refondu en résultats d'apprentissage, PLUS une hausse de 50 % des salaires enseignants entre 2006 et 2012 ciblée sur les débuts de carrière. Sous contrainte budgétaire de 1,5 Md EUR de déficit et avec l'enseignement à 54 % des dépenses, la composante salariale du paquet polonais n'est pas reproductible ; la composante évaluation externe l'est à coût quasi nul, et c'est elle qui est la plus compatible avec une gouvernance partagée entre réseaux, puisqu'elle pilote par les résultats sans toucher aux méthodes ni aux programmes propres de chaque réseau. (3) La gouvernance. La Pologne a agi par loi nationale sur un système public unifié, avec un ministère central conservant la main sur la grille horaire et le statut enseignant tout en décentralisant le financement aux collectivités. La FWB, avec sa liberté constitutionnelle d'enseignement et ses réseaux multiples, ne dispose pas de ce levier : un allongement du tronc commun y suppose un accord inter-réseaux sur la grille horaire et le curriculum commun, pas un décret structurel. C'est précisément le point où le Pacte pour un Enseignement d'excellence a buté. (4) Le calendrier politique. La Pologne a mis dix-huit ans à consolider sa réforme et un an à la détruire ; la cohorte concernée par la destruction a perdu 27 points PISA en mathématiques. La leçon la plus dure du cas polonais n'est pas sur le contenu de la réforme mais sur sa réversibilité : une réforme structurelle sans évaluation embarquée dès le départ ne dispose d'aucune défense factuelle contre son propre démantèlement. Jakubowski écrit que les réformateurs polonais « n'ont pas pensé à évaluer soigneusement » leurs politiques et que l'évaluation n'existe que parce que la Pologne a rejoint PISA en 2000 par hasard de calendrier. Pour la FWB, dont la gouvernance de réforme est affaiblie depuis 2024, cela plaide pour construire dès maintenant les dispositifs d'évaluation causale (cohortes appariées, discontinuités exploitables, évaluations externes comparables dans le temps) qui rendront la prochaine réforme défendable — ce qui coûte marginalement peu et protège l'investissement.\n\nRéserve méthodologique à retenir. Le cas polonais ne démontre pas que l'allongement du tronc commun réduit les inégalités sociales d'acquis. Il démontre qu'il relève le niveau des élèves les plus faibles et réduit les écarts entre établissements. Le gradient socio-économique individuel polonais est passé de 88 points (2009) à 96 points (2022), soit toujours au niveau de la moyenne OCDE et de l'écart observé en FWB. Sawiński conclut explicitement que la réforme n'a pas réduit les inégalités éducatives. Une note de position qui promettrait la réduction de l'écart social de 92 points par le seul allongement du tronc commun irait au-delà de ce que le cas polonais établit."
+}

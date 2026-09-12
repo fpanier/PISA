@@ -1,0 +1,395 @@
+{
+ "topic": "Japon et lesson study (jugyou kenkyuu) : mécanique, conditions institutionnelles, et bilan des évaluations de sa diffusion internationale",
+ "headline": "Le lesson study japonais est le dispositif de développement professionnel le mieux documenté au monde et l'un des plus décevants à l'exportation : les essais randomisés hors du Japon montrent un effet robuste sur les enseignants et un effet nul ou fragile sur les élèves, parce que ce qui est transféré est le format collaboratif alors que ce qui produit l'effet au Japon est l'infrastructure (temps institué, expert externe, corpus curriculaire cumulatif) et le contenu didactique enseigné.",
+ "searches_run": 24,
+ "items": [
+  {
+   "claim": "Le jugyou kenkyuu n'est pas une réunion de coplanification : son cœur est la leçon de recherche (research lesson) enseignée à de vrais élèves et observée en direct par des pairs, suivie d'une discussion post-leçon structurée que clôt un expert invité extérieur à l'équipe.",
+   "what_it_is": "Cycle en cinq étapes : définition d'un but de recherche partagé, étude du programme et des matériaux, conception collective d'un plan de leçon détaillé (avec anticipation des réactions d'élèves), enseignement de la leçon par un seul membre de l'équipe pendant que les autres observent les élèves (et non l'enseignant), puis discussion post-leçon. Dans la forme japonaise, la discussion se termine par les 'commentaires finaux' d'un koshi, expert invité (universitaire, conseiller pédagogique, praticien réputé) qui relie les observations à la didactique de la discipline et au savoir accumulé au-delà du groupe.",
+   "evidence_level": "descriptif (analyse qualitative de cas documentés) ; aucune évaluation causale de la mécanique elle-même",
+   "effect_size": "non disponible (études descriptives sans groupe de comparaison)",
+   "concrete_practice": "Trois à six enseignants d'une même école conçoivent une leçon unique pendant plusieurs semaines ; un seul l'enseigne ; les autres circulent dans la classe avec une grille et notent ce que font et disent des élèves nommément identifiés ; la discussion porte sur les traces d'apprentissage observées, pas sur la performance de l'enseignant. Le koshi parle en dernier, 15 à 30 minutes, et son intervention est préparée.",
+   "concrete_example": "Seino & Foster (2021, Journal of Mathematics Teacher Education) ont enregistré et analysé les commentaires finaux d'un universitaire japonais de didactique des mathématiques, koshi de très haute réputation, dans trois leçons de recherche d'école élémentaire au Japon. Le codage fait apparaître sept catégories récurrentes dans ses commentaires : valeur didactique du contenu mathématique, usage des représentations, développement d'attitudes positives, intégration des idées des élèves dans la discussion collective, attention à ce que les élèves écrivent, attention au contenu du tableau (bansho), et croissance de l'enseignant par la réflexion. Takahashi (2014, Mathematics Teacher Education and Development) avait analysé de la même manière les commentaires finaux de trois koshi japonais réputés, complétés par des entretiens sur leur préparation.",
+   "conditions": "Le koshi doit posséder une expertise didactique disciplinaire réelle et une connaissance du corpus de leçons déjà produites ; sans cela la discussion post-leçon retombe sur des appréciations générales de gestion de classe. L'observation doit porter sur les élèves, pas sur l'enseignant, ce qui suppose que l'observation ne soit pas perçue comme évaluative.",
+   "contested": "Aucune de ces études n'établit que les commentaires finaux améliorent l'enseignement ou les apprentissages : ce sont des analyses de contenu sur un très petit nombre de cas (un seul koshi chez Seino & Foster, trois chez Takahashi), choisis précisément pour leur excellence, donc non représentatifs. Le rôle causal du koshi est une hypothèse plausible, pas un résultat établi.",
+   "sources": [
+    {
+     "author": "Seino, Tatsuhiko; Foster, Colin",
+     "title": "Analysis of the final comments provided by a knowledgeable other in lesson study",
+     "org": "Journal of Mathematics Teacher Education",
+     "year": "2021",
+     "url": "http://dx.doi.org/10.1007/s10857-020-09468-y"
+    },
+    {
+     "author": "Takahashi, Akihiko",
+     "title": "The Role of the Knowledgeable Other in Lesson Study: Examining the Final Comments of Experienced Lesson Study Practitioners",
+     "org": "Mathematics Teacher Education and Development (ERIC EJ1046714)",
+     "year": "2014",
+     "url": "https://eric.ed.gov/?id=EJ1046714"
+    },
+    {
+     "author": "Fernandez, Clea; Yoshida, Makoto",
+     "title": "Lesson Study: A Japanese Approach to Improving Mathematics Teaching and Learning",
+     "org": "Routledge",
+     "year": "2012",
+     "url": "https://doi.org/10.4324/9781410610867"
+    }
+   ]
+  },
+  {
+   "claim": "Ce qui distingue le Japon dans les comparaisons internationales filmées n'est pas la collaboration entre enseignants mais la forme de la leçon elle-même : une part de problèmes exigeant l'établissement de relations mathématiques bien supérieure aux autres pays, et un taux élevé de ces problèmes effectivement traités comme tels en classe.",
+   "what_it_is": "La TIMSS 1999 Video Study a filmé et codé, selon un protocole commun, un échantillon national représentatif de leçons de mathématiques de 8e année dans sept systèmes (Australie, République tchèque, Hong Kong, Japon, Pays-Bas, Suisse, États-Unis). Chaque problème posé en classe a été codé selon ce qu'il annonçait (procédure, énoncé de concept, mise en relation) puis selon la façon dont il a été effectivement résolu publiquement.",
+   "evidence_level": "comparaison internationale descriptive sur échantillon national représentatif de leçons filmées (pas de lien causal)",
+   "effect_size": "Japon : 54 % des énoncés de problèmes par leçon relevaient de la 'mise en relation' (making connections), plus que tous les autres pays sauf les Pays-Bas (24 %) ; Hong Kong 84 % et Tchéquie 77 % pour les problèmes 'application de procédure'. Parmi les problèmes annoncés comme mise en relation, la proportion effectivement résolue par mise en relation était de 8 % en Australie et de moins de 1 % aux États-Unis, contre 37 à 52 % dans les autres pays. Temps de travail individuel consacré à répéter des procédures déjà apprises : 28 % au Japon contre 84 % en Tchéquie, 81 % à Hong Kong, 62 % en Suisse. Population : leçons de mathématiques de 8e année, 1999.",
+   "concrete_practice": "La leçon japonaise typique est une leçon de 'résolution structurée de problèmes' (kouzouka sareta mondai kaiketsu) : un problème unique et riche est posé en début d'heure, les élèves cherchent seuls ou en petits groupes, plusieurs méthodes d'élèves sont recueillies et écrites au tableau, puis comparées et hiérarchisées collectivement (neriage) avant institutionnalisation.",
+   "concrete_example": "Dans la TIMSS 1999 Video Study (NCES 2003-013, 'Teaching Mathematics in Seven Countries'), les codeurs ont constaté que les enseignants australiens et américains transformaient systématiquement les problèmes posés comme mises en relation en exercices de procédure : aux États-Unis, 59 % de ces problèmes ont été résolus par application de procédure et 33 % par simple communication du résultat, moins de 1 % par mise en relation effective. Au Japon, la structure du problème posé était maintenue jusqu'à la résolution publique.",
+   "conditions": "Cette forme de leçon suppose un programme national peu chargé, une progression commune, un manuel conçu pour la résolution de problèmes, et des enseignants capables d'anticiper les procédures d'élèves. Elle ne survit pas à un programme surchargé ni à une évaluation externe centrée sur la restitution procédurale.",
+   "contested": "La Video Study n'établit aucun lien causal entre lesson study et forme des leçons, ni entre forme des leçons et performance des élèves. L'attribution de la forme japonaise au lesson study est une interprétation d'auteurs (Lewis, Akita & Sato, 2010, qui créditent le lesson study du passage de l'enseignement transmissif à l'enseignement pour la compréhension en sciences et du développement des leçons de résolution structurée de problèmes) et non un résultat expérimental. Les données datent de 1999 : je n'ai pas pu vérifier sur source primaire qu'elles restent valables aujourd'hui.",
+   "sources": [
+    {
+     "author": "Hiebert, James; Gallimore, Ronald; Garnier, Helen; et al.",
+     "title": "Teaching Mathematics in Seven Countries: Results From the TIMSS 1999 Video Study (NCES 2003-013)",
+     "org": "U.S. Department of Education, National Center for Education Statistics",
+     "year": "2003",
+     "url": "https://nces.ed.gov/pubs2003/2003013.pdf"
+    },
+    {
+     "author": "Lewis, Catherine C.; Akita, Kiyomi; Sato, Manabu",
+     "title": "Lesson Study as a Human Science",
+     "org": "Yearbook of the National Society for the Study of Education (ERIC EJ903550)",
+     "year": "2010",
+     "url": "https://eric.ed.gov/?id=EJ903550"
+    },
+    {
+     "author": "Stigler, James W.; Hiebert, James",
+     "title": "The Teaching Gap: Best Ideas from the World's Teachers for Improving Education in the Classroom",
+     "org": "Free Press ; recensé dans Journal of Curriculum Studies",
+     "year": "1999 (recension 2000)",
+     "url": "https://doi.org/10.1080/00220270050167215"
+    }
+   ]
+  },
+  {
+   "claim": "Au Japon, le lesson study n'est pas un programme optionnel mais une infrastructure administrative : il est financé par les circonscriptions, inscrit dans le calendrier scolaire ordinaire, et articulé à la formation interne d'établissement (kounaikenshu).",
+   "what_it_is": "Deux niveaux coexistent. Le kounaikenshu est la recherche pédagogique conduite par l'ensemble des enseignants d'une même école autour d'un thème de recherche pluriannuel. Le lesson study de circonscription (district-level) rassemble des enseignants de plusieurs écoles autour d'une discipline. Les deux se terminent par des leçons de recherche ouvertes à des observateurs extérieurs.",
+   "evidence_level": "enquête descriptive par questionnaire auprès d'un échantillon non représentatif d'enseignants experts (auto-déclaration)",
+   "effect_size": "Sur 125 enseignants élémentaires japonais organisateurs de lesson study de circonscription en mathématiques (région de Tokyo, médiane 16 ans d'ancienneté) : 98 % déclarent que leur circonscription conduit régulièrement un lesson study de mathématiques dans le cadre de la formation continue de circonscription ; 66 % indiquent une ou deux sessions par trimestre japonais (3 à 4 mois) ; 48 % que la session a lieu l'après-midi d'une journée de classe ordinaire ; 37 % que la circonscription annule une journée entière de classe pour la consacrer à la formation ; 86 % que la circonscription prend en charge la totalité des frais. Ces mêmes enseignants estiment que 35 % environ de l'ensemble des enseignants japonais ont enseigné au moins une leçon de recherche en mathématiques dans leur carrière.",
+   "concrete_practice": "Les jours de leçon de recherche de circonscription, les autres écoles fonctionnent normalement ; seule la classe servant de support reste en cours après le départ des autres élèves de l'école d'accueil. Les enseignants des écoles voisines se déplacent sur le temps scolaire, frais de transport pris en charge par la circonscription.",
+   "concrete_example": "Murata & Takahashi (2002, actes du 24e congrès PME-NA, Athens, Géorgie) ont adressé un questionnaire aux enseignants identifiés comme organisateurs principaux de lesson study de circonscription en mathématiques dans la région métropolitaine de Tokyo et obtenu 125 réponses. Les répondants déclarent participer en moyenne à cinq lesson study de mathématiques par an et avoir eux-mêmes enseigné en moyenne dix leçons de recherche de circonscription. 71 % des sessions comportent une conférence d'un universitaire ou d'une autorité reconnue, 65 % un temps de partage des recherches entre pairs, 40 % une leçon-modèle enseignée par un praticien reconnu.",
+   "conditions": "Trois conditions matérielles apparaissent nécessaires : un temps de service enseignant qui inclut explicitement de la recherche pédagogique collective, un budget de circonscription couvrant les déplacements, et le pouvoir administratif de libérer une demi-journée ou une journée de classe. Aucune ne relève de l'enseignant individuel.",
+   "contested": "L'échantillon est composé d'enseignants leaders volontaires de la seule région de Tokyo, choisis pour leur expertise : les chiffres surestiment presque certainement l'intensité du lesson study dans l'ensemble du Japon, et les auteurs le reconnaissent (l'écart entre leurs 10 leçons de recherche enseignées et leur estimation que seuls 35 % des enseignants japonais en ont enseigné une seule le montre). Il s'agit d'une enquête de 2002, sans réplication récente que j'aie pu retrouver et vérifier. Je n'ai pas pu vérifier sur source primaire les chiffres TALIS de temps de travail des enseignants japonais (site de l'OCDE inaccessible depuis cet environnement) et je ne les cite donc pas.",
+   "sources": [
+    {
+     "author": "Murata, Aki; Takahashi, Akihiko",
+     "title": "Vehicle To Connect Theory, Research, and Practice: How Teacher Thinking Changes in District-Level Lesson Study in Japan",
+     "org": "Proceedings of the 24th Annual Meeting of PME-NA (ERIC ED471780)",
+     "year": "2002",
+     "url": "https://files.eric.ed.gov/fulltext/ED471780.pdf"
+    },
+    {
+     "author": "Kitada, Yoshiko",
+     "title": "Teacher Agency in the Modification of Japanese Lesson Study in the United States",
+     "org": "Educational Studies in Japan: International Yearbook (ERIC EJ1358572)",
+     "year": "2022",
+     "url": "https://eric.ed.gov/?id=EJ1358572"
+    }
+   ]
+  },
+  {
+   "claim": "L'essai randomisé le plus robuste jamais conduit sur le lesson study, en Angleterre, ne trouve aucun effet sur les acquis des élèves : effet 0,02 écart-type après un an, 0,03 après deux ans, soit zéro mois de progrès supplémentaires.",
+   "what_it_is": "Essai contrôlé randomisé en grappes (écoles) financé par l'Education Endowment Foundation, évaluant un programme de lesson study développé par Edge Hill University et couplé à un contenu pédagogique (Talk for Learning), sur deux années scolaires complètes.",
+   "evidence_level": "essai contrôlé randomisé d'efficacité en conditions réelles (effectiveness trial), sécurité maximale sur l'échelle EEF (5 cadenas)",
+   "effect_size": "Effet sur la note combinée Key Stage 2 mathématiques + lecture : 0,02 écart-type (IC 95 % : −0,06 à 0,09 ; n = 6 437 élèves ; p = 0,65) après un an de lesson study ; 0,03 écart-type (IC 95 % : −0,06 à 0,12 ; n = 6 304 ; p = 0,50) après deux ans. Traduit en mesure EEF : 0 mois de progrès dans les deux cas. Population : élèves de Year 4 et Year 5 (8-10 ans) en Angleterre.",
+   "concrete_practice": "Chaque école désignait au moins un 'trépied' de trois enseignants, dont un enseignant expert. Cinq journées de formation (dont deux initiales) échelonnées de septembre 2013 à juillet 2015. Un cycle de lesson study par trimestre : un enseignant du trio enseignait trois leçons de recherche coconçues pendant que les deux autres observaient, chaque enseignant identifiant deux 'élèves-cas' apparemment en sous-performance ; entretien avec les élèves-cas après chaque leçon, puis réunion de revue de pratique. Au moins un cycle par an en littératie et un en mathématiques.",
+   "concrete_example": "181 écoles primaires du South West, des East Midlands et du North West de l'Angleterre, 12 747 élèves, septembre 2013 à juillet 2015, évaluation indépendante par Richard Murphy, Felix Weinhardt et Gill Wyness (London School of Economics) pour l'impact et Heather Rolfe (NIESR) pour l'évaluation de processus. Résultats publiés en novembre 2017. Coût : 2 300 £ par école et par an, soit 54 £ par élève et par an lissés sur trois ans.",
+   "conditions": "L'évaluation de processus indique que le programme a été mis en œuvre conformément à l'intention : assiduité élevée aux formations, la plupart des écoles réalisant bien un cycle par trimestre. L'échec n'est donc pas un échec de mise en œuvre. Les enseignants ont jugé le dispositif utile et ont valorisé la collaboration structurée et inscrite à l'emploi du temps.",
+   "contested": "Les évaluateurs relèvent une limite majeure qui joue en faveur du dispositif : de nombreuses écoles témoins pratiquaient déjà de l'observation entre pairs ou des versions moins structurées de lesson study achetées ailleurs, ce qui a pu diluer l'effet mesuré. La conclusion prudente est donc : cette version du lesson study n'apporte rien au-delà de ce que les écoles anglaises faisaient déjà. Aucun effet non plus sur les sous-groupes défavorisés (repas scolaires gratuits), faible niveau initial, minorités ethniques, anglais langue additionnelle, ni sur les sciences ou la maîtrise de la langue ; et aucune relation dose-effet selon le nombre de cycles réalisés, ce qui affaiblit l'hypothèse d'une simple insuffisance d'intensité.",
+   "sources": [
+    {
+     "author": "Murphy, Richard; Weinhardt, Felix; Wyness, Gill; Rolfe, Heather",
+     "title": "Lesson Study: Evaluation Report and Executive Summary",
+     "org": "Education Endowment Foundation (ERIC ED581145)",
+     "year": "2017",
+     "url": "https://files.eric.ed.gov/fulltext/ED581145.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le seul essai randomisé américain positif sur le lesson study (Lewis & Perry, 2017) n'a pas résisté à sa réplication à plus grande échelle par la même équipe : dans l'essai de suivi, les acquis des élèves n'ont progressé dans aucune des trois conditions expérimentales.",
+   "what_it_is": "Deux essais randomisés successifs testant le lesson study assorti d'une 'trousse de ressources' didactiques sur les fractions (représentation linéaire, fractions unitaires), financés par l'Institute of Education Sciences (subvention R305A150043 à Mills College).",
+   "evidence_level": "essai contrôlé randomisé (premier essai, positif) suivi d'un essai contrôlé randomisé à quatre bras de plus grande taille (réplication, nul sur les élèves)",
+   "effect_size": "Lewis & Perry (2017) : amélioration significativement supérieure des connaissances des enseignants ET des élèves sur les fractions pour les équipes tirées au sort en lesson study + trousse de ressources (analyse multiniveau HLM) ; la taille d'effet exacte n'est pas accessible, l'article étant sous paywall sans version en accès libre, et je ne la cite donc pas. Schoen et al. (2024) : la performance moyenne des élèves au test de fractions n'augmente par rapport au groupe témoin dans AUCUNE des trois conditions d'intervention ; l'enseignement des fractions s'améliore en revanche dans les deux conditions ayant reçu les ressources didactiques.",
+   "concrete_practice": "Des équipes d'enseignants du primaire conduisent, en autonomie et sans formateur externe, un cycle de lesson study de trois mois sur les fractions, en s'appuyant sur une trousse contenant des ressources de recherche, des tâches, des plans de leçon et des vidéos.",
+   "concrete_example": "Premier essai : 39 équipes d'éducateurs réparties dans plusieurs États américains (87 % d'enseignants du primaire), tirées au sort entre lesson study + trousse de ressources et deux conditions témoins, apprentissage autogéré sur trois mois (Lewis & Perry, Journal for Research in Mathematics Education, 2017, vol. 48 n° 3, p. 261-299). Essai de réplication : 80 équipes scolaires représentant 80 classes de 3e et 4e année (8-10 ans), tirées au sort entre quatre conditions — lesson study avec ressources sur les fractions, lesson study seul, ressources seules, groupe témoin — avec mesure de l'enseignement et des acquis (Schoen, Lewis, Rhoads, Lai & Riddell, Journal of Experimental Education, 2024). Les tests d'enseignants utilisés ont été validés psychométriquement sur 277 puis 241 éducateurs de six États en 2016 et 2017.",
+   "conditions": "Dans la réplication, ce sont les ressources didactiques sur les fractions, et non le lesson study, qui améliorent l'enseignement observé. C'est le résultat le plus actionnable de toute cette littérature : le véhicule collaboratif ne produit rien sans contenu didactique substantiel à transporter, et le contenu produit un effet sur les pratiques même sans le véhicule.",
+   "contested": "Les auteurs de la réplication signalent qu'une analyse de modération suggère un effet positif du lesson study (avec ou sans ressources) sur les élèves dans un seul des États, représentant la moitié de l'échantillon. Il s'agit d'une analyse de sous-groupe, exposée au risque de résultat fortuit, et elle ne doit pas être présentée comme un résultat confirmatoire. Le premier essai ne durait que trois mois et reposait sur des équipes volontaires autosélectionnées, avec 39 grappes seulement — configuration typiquement associée à des effets gonflés.",
+   "sources": [
+    {
+     "author": "Lewis, Catherine; Perry, Rebecca",
+     "title": "Lesson Study to Scale Up Research-Based Knowledge: A Randomized, Controlled Trial of Fractions Learning",
+     "org": "Journal for Research in Mathematics Education, 48(3), 261-299",
+     "year": "2017",
+     "url": "https://doi.org/10.5951/jresematheduc.48.3.0261"
+    },
+    {
+     "author": "Schoen, Robert C.; Lewis, Catherine C.; Rhoads, Christopher; Lai, Kevin; Riddell, Claire M.",
+     "title": "Impact of Lesson Study and Fractions Resources on Instruction and Student Learning",
+     "org": "Journal of Experimental Education (ERIC EJ1410626)",
+     "year": "2024",
+     "url": "http://dx.doi.org/10.1080/00220973.2023.2183374"
+    },
+    {
+     "author": "Schoen, Robert C.; Yang, Xiaotong; Paek, Insu",
+     "title": "Psychometric Report on the Knowledge for Teaching Elementary Fractions Test Administered to Elementary Educators in Six States in Spring 2017 (Research Report No. 2018-13)",
+     "org": "Learning Systems Institute, Florida State University (ERIC ED602417)",
+     "year": "2018",
+     "url": "https://files.eric.ed.gov/fulltext/ED602417.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le motif empirique est stable et doit être énoncé sans ambiguïté : le lesson study modifie de façon large et mesurable les connaissances, la collaboration et les pratiques déclarées et observées des enseignants, mais l'effet sur les acquis des élèves est faible, inconstant ou nul.",
+   "what_it_is": "Comparaison du profil d'effets sur la chaîne enseignant → pratique → élève dans les évaluations expérimentales disponibles hors du Japon.",
+   "evidence_level": "essai randomisé de petite taille (Project Coordinate) combiné à une revue systématique de la robustesse méthodologique du champ (Seleznyov 2019)",
+   "effect_size": "Project Coordinate : effet important (large) sur les connaissances des enseignants, effets modérés à importants sur la plupart des dimensions de la pratique collaborative et sur l'usage de pratiques fondées sur des preuves et l'enseignement explicite et systématique, mais effets 'plus faibles et plus contrastés' sur les mesures d'acquis des élèves en identification de mots et en compréhension. Population : 24 enseignants ordinaires et spécialisés de 4e année (9-10 ans), États-Unis. Revue Seleznyov : sur 154 études anglophones hors Japon publiées entre 2006 et 2016, 56 mesurent un impact ; la plupart sont de petites études de cas américaines classées au niveau 1, le moins robuste, de la Maryland Scientific Methods Scale.",
+   "concrete_practice": "Les équipes se réunissent, conçoivent, observent, débriefent ; les enseignants déclarent unanimement en tirer profit ; les mesures de connaissance et d'observation de classe le confirment ; les tests standardisés d'élèves ne bougent pas ou peu.",
+   "concrete_example": "Brownell, Benedict, Kelcey, Sohn, Fuller, Williams & Koziarski (2026, Elementary School Journal) ont randomisé 24 enseignants de 4e année entre Project Coordinate — modules de contenu en ligne combinés à du lesson study, pour l'enseignement de la lecture à plusieurs niveaux d'intensité (MTSS) — et un témoin. Modèles à effets mixtes : effet important sur les connaissances enseignantes, modéré à important sur la planification collaborative et sur l'usage effectif de l'enseignement explicite, plus faible et contrasté sur les acquis en lecture des élèves. En parallèle, Seleznyov (2019) montre que le champ dans son ensemble documente abondamment la satisfaction et l'apprentissage des enseignants, mais apporte 'peu de preuves d'un effet sur l'enseignement' lui-même et mesure rarement les acquis des élèves.",
+   "conditions": "La chaîne causale se rompt entre la pratique enseignante et l'acquis élève. Les deux explications compatibles avec les données sont (a) le contenu travaillé n'est pas celui qui compte pour l'apprentissage, (b) la modification de pratique est réelle mais confinée aux leçons de recherche et ne se généralise pas au quotidien.",
+   "contested": "Seleznyov souligne un défaut de conception récurrent : les chercheurs ne distinguent pas le lesson study comme moyen d'atteindre un changement identifié de l'enseignement, et l'évaluent comme s'il était une fin en soi, ce qui rend une partie de la littérature ininterprétable. Project Coordinate ne porte que sur 24 enseignants : sa puissance statistique pour détecter un effet élève est faible, et l'absence d'effet n'y est pas une preuve d'absence.",
+   "sources": [
+    {
+     "author": "Brownell, Mary T.; Benedict, Amber E.; Kelcey, Benjamin; Sohn, Hyojong; Fuller, Amanda; Williams, Jessica; Koziarski, Germaine",
+     "title": "Project Coordinate: Impact of Content-Focused Lesson Study on Teacher and Student Outcomes in Tiered Reading Instruction",
+     "org": "Elementary School Journal (ERIC EJ1507490)",
+     "year": "2026",
+     "url": "http://dx.doi.org/10.1086/740618"
+    },
+    {
+     "author": "Seleznyov, Sarah",
+     "title": "Lesson study beyond Japan: evaluating impact",
+     "org": "International Journal for Lesson and Learning Studies",
+     "year": "2019",
+     "url": "https://doi.org/10.1108/IJLLS-09-2018-0061"
+    }
+   ]
+  },
+  {
+   "claim": "Quand le lesson study voyage, ce sont systématiquement les composantes qui en font un processus de recherche — et non un dispositif de collaboration — qui disparaissent ; et les modèles britanniques sont parmi les plus éloignés du modèle japonais.",
+   "what_it_is": "Analyse de fidélité : Seleznyov identifie les 'composantes critiques' du lesson study japonais (sept composantes dans la formulation reprise par Seleznyov, Goei & Ehren) puis code les mises en œuvre internationales selon les composantes conservées ou abandonnées.",
+   "evidence_level": "revue systématique de la littérature anglophone avec codage de fidélité (descriptif, pas d'évaluation d'impact)",
+   "effect_size": "non disponible (étude de fidélité, sans mesure d'effet)",
+   "concrete_practice": "Ce qui est conservé hors du Japon : la planification collective, l'observation entre pairs, le débriefing. Ce qui est abandonné : l'étude préalable approfondie du programme et des travaux de recherche existants (kyouzai kenkyuu), le but de recherche pluriannuel partagé par toute l'école, l'expert externe apportant la connaissance située au-delà du groupe, et la publication du compte rendu de leçon de recherche qui rend le travail cumulatif.",
+   "concrete_example": "Seleznyov (2018, International Journal for Lesson and Learning Studies) a passé en revue 200 études anglophones publiées entre 2005 et 2015 décrivant des mises en œuvre du lesson study hors du Japon et les a codées composante par composante. Conclusion : 'beaucoup des composantes manquantes sont celles qui font du lesson study un processus de recherche et non simplement une approche collaborative de développement professionnel' ; et les modèles britanniques apparaissent particulièrement éloignés du modèle japonais précisément sur les composantes qui relient la connaissance construite dans le groupe à la connaissance existant au-delà de lui. Kitada (2022) documente une déformation parallèle aux États-Unis : le lesson study y a été réduit à une discipline unique, principalement les mathématiques, ce qui a renforcé l'agentivité des professeurs de mathématiques mais empêché son extension en dispositif d'établissement, alors qu'au Japon il est indissociable du kounaikenshu de toute l'école.",
+   "conditions": "Reproduire la fidélité intégrale n'est ni possible ni, selon la science de l'implémentation mobilisée par Seleznyov, Goei & Ehren, souhaitable pour une innovation aussi complexe. La question utile n'est donc pas 'fidélité ou adaptation' mais 'quelles composantes sont les composantes actives'. Aucune étude expérimentale ne l'a établi à ce jour : c'est la lacune centrale du champ.",
+   "contested": "Le codage de fidélité repose sur ce que les auteurs des 200 études ont choisi de décrire, source probable de sous-estimation des composantes effectivement présentes. Par ailleurs, la liste des composantes critiques est elle-même une construction théorique, dérivée de descriptions du cas japonais, pas d'une démonstration que ces composantes sont causalement nécessaires. Seleznyov, Goei & Ehren (2024) présentent explicitement leur cadre culturel (dimensions de Hofstede) comme générateur d'hypothèses à tester, pas comme un résultat.",
+   "sources": [
+    {
+     "author": "Seleznyov, Sarah",
+     "title": "Lesson study: an exploration of its translation beyond Japan",
+     "org": "International Journal for Lesson and Learning Studies",
+     "year": "2018",
+     "url": "https://doi.org/10.1108/IJLLS-04-2018-0020"
+    },
+    {
+     "author": "Seleznyov, Sarah; Goei, Sui Lin; Ehren, Melanie",
+     "title": "International Policy Borrowing and the Case of Japanese Lesson Study: Culture and Its Impact on Implementation and Adaptation",
+     "org": "Professional Development in Education (ERIC EJ1406159)",
+     "year": "2024",
+     "url": "http://dx.doi.org/10.1080/19415257.2021.1973069"
+    },
+    {
+     "author": "Kitada, Yoshiko",
+     "title": "Teacher Agency in the Modification of Japanese Lesson Study in the United States",
+     "org": "Educational Studies in Japan: International Yearbook (ERIC EJ1358572)",
+     "year": "2022",
+     "url": "https://eric.ed.gov/?id=EJ1358572"
+    }
+   ]
+  },
+  {
+   "claim": "Takahashi et McDougal soutiennent que l'échec relatif du lesson study hors du Japon vient de l'omission d'un petit nombre de structures institutionnelles, et ont créé une version explicitement re-spécifiée — la Collaborative Lesson Research — pour les réintroduire.",
+   "what_it_is": "La Collaborative Lesson Research (CLR) est un modèle en trois phases de lesson study d'établissement qui rend obligatoires les éléments habituellement perdus : un but de recherche à l'échelle de l'école, une étude préalable approfondie du programme et de la recherche existante (kyouzai kenkyuu), un expert externe (knowledgeable other), un plan de leçon écrit et publié, et une leçon de recherche ouverte.",
+   "evidence_level": "modèle théorique fondé sur l'étude du cas japonais, assorti d'un pilote sans évaluation contrôlée (résultats préliminaires descriptifs)",
+   "effect_size": "non disponible : aucun essai contrôlé de la CLR n'a été publié à ma connaissance ; l'article original ne rapporte que des résultats préliminaires descriptifs.",
+   "concrete_practice": "Une école adopte un thème de recherche pluriannuel ; chaque équipe disciplinaire produit dans l'année un plan de leçon de recherche argumenté (justification mathématique, anticipation des réponses d'élèves, points d'observation) ; un expert externe rémunéré accompagne la phase de conception et intervient en clôture ; le plan et le compte rendu sont archivés et consultables.",
+   "concrete_example": "Takahashi & McDougal (2016, ZDM 48) décrivent le pilotage d'un modèle de CLR d'établissement en trois phases, centré sur la mise en œuvre des nouveaux standards de mathématiques (Common Core), dans 15 écoles urbaines réparties dans trois grands districts scolaires américains. L'opérateur est la Lesson Study Alliance, coalition basée à Chicago animée au quotidien par Tom McDougal avec Akihiko Takahashi comme consultant expert, qui organise la Chicago Lesson Study Conference internationale, assure de la formation sur site, maintient une base consultable de comptes rendus de leçons de recherche et diffuse l'application d'observation LessonNote.",
+   "conditions": "La CLR suppose la disponibilité d'un vivier d'experts didactiques externes capables de tenir le rôle de koshi, et un budget pour les rémunérer. C'est précisément la ressource la plus rare dans les systèmes importateurs, et le poste de coût que les versions 'économiques' du lesson study suppriment en premier.",
+   "contested": "La CLR reste une hypothèse : Takahashi & McDougal présentent eux-mêmes leurs structures comme hypothétiques ('the authors hypothesize that certain institutional structures and practices are important'). Aucune comparaison randomisée CLR contre lesson study générique n'existe. Le risque logique est réel : à chaque essai négatif, le champ répond que la version testée n'était pas la vraie, argument non falsifiable tant qu'un essai de la version 'complète' n'est pas conduit.",
+   "sources": [
+    {
+     "author": "Takahashi, Akihiko; McDougal, Thomas",
+     "title": "Collaborative lesson research: maximizing the impact of lesson study",
+     "org": "ZDM Mathematics Education, 48 (ERIC EJ1104962)",
+     "year": "2016",
+     "url": "https://doi.org/10.1007/s11858-015-0752-x"
+    },
+    {
+     "author": "Lesson Study Alliance",
+     "title": "Lesson Study Alliance (site institutionnel)",
+     "org": "Lesson Study Alliance, Chicago",
+     "year": "2020",
+     "url": "https://www.lsalliance.org/"
+    },
+    {
+     "author": "Takahashi, Akihiko; McDougal, Thomas (dir.)",
+     "title": "The Mathematics Practitioner's Guidebook for Collaborative Lesson Research",
+     "org": "Routledge",
+     "year": "2023",
+     "url": "https://doi.org/10.4324/9781003375272-2"
+    }
+   ]
+  },
+  {
+   "claim": "L'explication culturelle de la non-transposabilité existe et est défendue dans la littérature académique, mais elle est intrinsèquement difficile à tester et ne doit pas servir d'alibi à l'absence d'effet.",
+   "what_it_is": "Thèse selon laquelle le lesson study repose sur des présupposés japonais — conception de l'enseignement comme pratique collective plutôt qu'individuelle, rapport non défensif à l'observation, conception de l'amélioration comme lente et incrémentale — qui n'existent pas dans les systèmes importateurs, en particulier américain.",
+   "evidence_level": "analyse conceptuelle et culturelle fondée sur une méta-analyse de la littérature 1999-2015 et sur la relecture d'une littérature ethnographique ; pas de test empirique",
+   "effect_size": "non disponible (article théorique)",
+   "concrete_practice": "En pratique, les obstacles décrits sont concrets : l'observation entre pairs est spontanément reçue comme évaluative dans les systèmes à culture d'inspection ; le refus de l'enseignant de laisser une leçon 'rater' devant ses collègues détruit la valeur de la leçon de recherche ; l'attente d'un résultat mesurable en un an est incompatible avec un thème de recherche pluriannuel.",
+   "concrete_example": "Rappleye & Komatsu (2017, Research in Comparative and International Education) construisent leur argument sur une méta-analyse de la recherche existante sur le lesson study de 1999 à 2015 combinée à une relecture de la littérature ethnographique sur la scolarité obligatoire japonaise, et soutiennent que la base onto-culturelle divergente du contexte japonais explique pourquoi le lesson study fonctionne au Japon et pose problème ailleurs, 'peut-être surtout aux États-Unis'. Groves, Doig, Vale & Widjaja (2016, ZDM) fournissent le pendant empirique de terrain : leur projet 'Implementing structured problem-solving mathematics lessons through lesson study', conduit dans trois écoles australiennes en 2012 puis poursuivi sous forme modifiée en 2013 et 2014, identifie les facteurs critiques d'adaptation de la leçon de résolution structurée de problèmes et du lesson study au contexte australien.",
+   "conditions": "Si la thèse culturelle est juste, le levier n'est pas le protocole mais les conditions de sécurité professionnelle : dissociation explicite et garantie de l'observation et de l'évaluation des personnes, et horizon pluriannuel du thème de recherche.",
+   "contested": "Cette thèse est la plus commode et la moins falsifiable de la littérature : elle explique tout échec par la culture et devient irréfutable. Elle est aussi en tension avec les données : l'essai EEF s'est déroulé dans un système anglophone où les enseignants ont déclaré apprécier le dispositif et où la mise en œuvre a été conforme, et l'échec n'y est donc pas un échec d'adhésion culturelle. Enfin, Sims & Fletcher-Wood (2021) rappellent que le 'consensus' international sur ce qui rend le développement professionnel efficace — durée, collaboration, ancrage disciplinaire, expertise externe, adhésion des enseignants, ancrage dans la pratique — repose sur des revues aux critères d'inclusion inappropriés et à la méthode d'inférence invalide, et est donc probablement inexact : invoquer ces caractéristiques pour justifier le lesson study revient à s'appuyer sur une base fragile.",
+   "sources": [
+    {
+     "author": "Rappleye, Jeremy; Komatsu, Hikaru",
+     "title": "How to Make Lesson Study Work in America and Worldwide: A Japanese Perspective on the Onto-Cultural Basis of (Teacher) Education",
+     "org": "Research in Comparative and International Education (ERIC EJ1165073)",
+     "year": "2017",
+     "url": "http://dx.doi.org/10.1177/1745499917740656"
+    },
+    {
+     "author": "Groves, Susie; Doig, Brian; Vale, Colleen; Widjaja, Wanty",
+     "title": "Critical Factors in the Adaptation and Implementation of Japanese Lesson Study in the Australian Context",
+     "org": "ZDM: The International Journal on Mathematics Education (ERIC EJ1104951)",
+     "year": "2016",
+     "url": "https://eric.ed.gov/?id=EJ1104951"
+    },
+    {
+     "author": "Sims, Sam; Fletcher-Wood, Harry",
+     "title": "Identifying the characteristics of effective teacher professional development: a critical review",
+     "org": "School Effectiveness and School Improvement",
+     "year": "2021",
+     "url": "https://doi.org/10.1080/09243453.2020.1772841"
+    }
+   ]
+  },
+  {
+   "claim": "La littérature générale sur le développement professionnel, plus large et mieux contrôlée que celle du lesson study, converge vers une conclusion qui disqualifie le pilotage par le format : ce sont les mécanismes d'apprentissage incorporés et le contenu, non la forme collaborative, qui prédisent l'effet sur les élèves.",
+   "what_it_is": "Méta-analyse EEF des évaluations expérimentales de développement professionnel des enseignants, codant chaque programme selon la présence de quatorze 'mécanismes' issus de la recherche sur l'apprentissage adulte, regroupés en quatre finalités : susciter la compréhension (Insight), fixer des buts d'action (Goals), acquérir des techniques (Techniques), ancrer le changement dans la pratique (Practice).",
+   "evidence_level": "revue systématique et méta-analyse d'évaluations expérimentales (l'analyse des modérateurs étant, elle, corrélationnelle inter-études)",
+   "effect_size": "Effet moyen du développement professionnel sur les scores standardisés des élèves : 0,05 écart-type (IC 95 % : 0,03 à 0,07), soit environ un mois de progrès. Programmes n'incorporant aucun mécanisme : effet autour de zéro. Programmes incorporant la quasi-totalité des quatorze mécanismes : environ 0,17 écart-type, soit environ deux mois. Dispositifs 'équilibrés' (au moins un mécanisme dans chacune des quatre finalités) : 0,15 écart-type contre 0,05 pour les dispositifs déséquilibrés. Base : 104 articles, 205 effets, élèves de 3 à 18 ans, 70 % d'études américaines et 24 % britanniques.",
+   "concrete_practice": "Concrètement, un dispositif efficace ne se contente pas de faire se réunir des enseignants : il leur fait comprendre pourquoi une pratique fonctionne, leur fixe un but d'action explicite, leur fait répéter une technique précise en conditions réalistes, et organise le rappel et le suivi jusqu'à l'automatisation.",
+   "concrete_example": "Sims, Fletcher-Wood, O'Mara-Eves, Cottingham, Stansfield, Van Herwegen & Anders (2021, rapport EEF, ERIC ED615914) ont criblé la littérature expérimentale, retenu 121 articles répondant aux critères (évaluation expérimentale, enseignants qualifiés, élèves de 3 à 18 ans, résultat sur test standardisé) et analysé les 104 fournissant des données suffisantes. Le cadre IGTP et la méthode d'identification des mécanismes ont été préenregistrés avant analyse. En parallèle, la méta-analyse de Kraft, Blazar & Hogan (2018, Review of Educational Research) sur 60 études à design causal du coaching d'enseignants trouve un effet global de 0,49 écart-type sur les pratiques d'enseignement mais de seulement 0,18 écart-type sur les acquis des élèves, et surtout que les effets moyens des essais d'efficacité des grands programmes ne représentent 'qu'une fraction' de ceux trouvés dans les essais des petits programmes.",
+   "conditions": "Les auteurs relèvent que la mise en œuvre est souvent de faible fidélité et que la fidélité est meilleure quand le dispositif est aligné sur les besoins et pratiques existants de l'établissement et conçu en fonction du temps réellement disponible pour les enseignants — contrainte décisive dans un système sous pression budgétaire.",
+   "contested": "Les auteurs signalent eux-mêmes trois limites sérieuses : l'analyse des mécanismes est corrélationnelle entre études et non causale ; l'intervalle de confiance sur les dispositifs équilibrés est large (0,02 à 0,27) et la comparaison équilibré/déséquilibré n'atteint pas la significativité (p = 0,22) ; et les tailles d'effet sont nettement plus faibles dans les expérimentations préenregistrées et dans celles à forte attrition, ce qui suggère que la littérature est en partie gonflée. Un système qui planifierait sur un effet de 0,17 écart-type prendrait donc un risque réel.",
+   "sources": [
+    {
+     "author": "Sims, Sam; Fletcher-Wood, Harry; O'Mara-Eves, Alison; Cottingham, Sarah; Stansfield, Claire; Van Herwegen, Jo; Anders, Jake",
+     "title": "What Are the Characteristics of Effective Teacher Professional Development? A Systematic Review and Meta-Analysis",
+     "org": "Education Endowment Foundation (ERIC ED615914)",
+     "year": "2021",
+     "url": "https://files.eric.ed.gov/fulltext/ED615914.pdf"
+    },
+    {
+     "author": "Kraft, Matthew A.; Blazar, David; Hogan, Dylan",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "org": "Review of Educational Research (ERIC EJ1185488)",
+     "year": "2018",
+     "url": "http://dx.doi.org/10.3102/0034654318759268"
+    },
+    {
+     "author": "Sims, Sam; Fletcher-Wood, Harry",
+     "title": "Effective Teacher Professional Development: New Theory and a Meta-Analytic Test",
+     "org": "Review of Educational Research",
+     "year": "2023",
+     "url": "https://doi.org/10.3102/00346543231217480"
+    }
+   ]
+  },
+  {
+   "claim": "Les transferts pilotés par la coopération japonaise dans des systèmes à faible ressource reproduisent exactement le même écart : les enseignants changent leur représentation de ce que devrait être un bon enseignement, sans que les apprentissages des élèves suivent.",
+   "what_it_is": "Programmes de formation continue de type japonais exportés par la coopération internationale japonaise (JICA) en Afrique subsaharienne, articulant formation en cascade, leçons de démonstration et réunions de réflexion entre enseignants à l'échelle de l'école.",
+   "evidence_level": "étude de cas qualitative longitudinale (cinq enseignants), sans groupe de comparaison",
+   "effect_size": "non disponible (étude de cas qualitative)",
+   "concrete_practice": "Des formateurs nationaux formés au Japon diffusent le modèle aux inspecteurs, qui le diffusent aux directions, qui animent des réunions pédagogiques d'établissement autour de leçons observées.",
+   "concrete_example": "Miyazaki (2016, Compare: A Journal of Comparative and International Education) a suivi le PREMST (Projet de Renforcement de l'Enseignement des Mathématiques, des Sciences et de la Technologie) au Sénégal, à travers les cas de cinq enseignants du primaire. Conclusion : le PREMST a aidé les enseignants à se représenter comment l'enseignement devrait être conduit, mais n'a pas nécessairement produit de changement positif dans les apprentissages des élèves, parce qu'il n'a pas modifié la manière dont les enseignants pensent. La revue de littérature de l'auteur relève par ailleurs le très petit nombre d'exemples documentés de formation continue changeant effectivement les pratiques en Afrique subsaharienne.",
+   "conditions": "Les obstacles documentés dans ces contextes sont explicitement matériels et non culturels : manque de temps pour conduire les étapes du cycle, absence de matériel pédagogique adapté au programme, effectifs de classe très élevés, faible niveau initial des élèves.",
+   "contested": "Cinq enseignants, pas de contrefactuel, pas de mesure standardisée des acquis : ce résultat ne peut pas être présenté comme une évaluation d'impact. Il est cité ici comme convergence qualitative avec les essais randomisés, pas comme preuve indépendante. Je n'ai pas pu retrouver et vérifier d'essai randomisé du lesson study dans un pays à revenu faible ou intermédiaire ; s'il en existe un, il ne figure pas dans les bases que j'ai interrogées.",
+   "sources": [
+    {
+     "author": "Miyazaki, Takeshi",
+     "title": "Is Changing Teaching Practice the Mission Impossible? A Case Study of Continuing Professional Development for Primary School Teachers in Senegal",
+     "org": "Compare: A Journal of Comparative and International Education (ERIC EJ1108629)",
+     "year": "2016",
+     "url": "http://dx.doi.org/10.1080/03057925.2015.1043238"
+    },
+    {
+     "author": "Ndihokubwayo, Kizito; Habiyaremye, Hashituky Telesphore",
+     "title": "Study Practice Lessons and Peer Learning Methods to Strengthen Rwandan Science and Mathematics Teaching",
+     "org": "Online Submission (ERIC ED595367)",
+     "year": "2019",
+     "url": "https://eric.ed.gov/?id=ED595367"
+    }
+   ]
+  },
+  {
+   "claim": "Un courant de la recherche britannique soutient qu'évaluer le lesson study comme une intervention pédagogique est une erreur de catégorie, et qu'il faut le juger comme un dispositif de développement du système ; cette position est défendable mais déplace la charge de la preuve au lieu de la relever.",
+   "what_it_is": "Le Research Lesson Study, forme britannique et européenne du lesson study, revendiqué comme véhicule de développement simultané des apprentissages, de l'enseignement, du curriculum, de la capacité d'amélioration locale et de la culture professionnelle, plutôt que comme intervention curriculaire ou pédagogique circonscrite.",
+   "evidence_level": "revue de littérature assortie d'un exemplaire de cas complexe (qualitatif, sans contrefactuel)",
+   "effect_size": "non disponible ; les auteurs contestent explicitement la pertinence d'une mesure d'effet unique sur les acquis",
+   "concrete_practice": "Des groupes d'enseignants conduisent des cycles de leçons de recherche intégrant le recueil de la parole des élèves (entretiens d'élèves après la leçon), et les écoles se fédèrent en pôles (hubs) volontaires qui mutualisent les comptes rendus et les formateurs.",
+   "concrete_example": "Dudley, Xu, Vermunt & Lang (2019, European Journal of Education) documentent un cas londonien : des écoles initialement engagées dans un projet biennal de développement curriculaire en mathématiques utilisant le Research Lesson Study, dont est issue l'évolution vers trois pôles de lesson study inter-écoles autonomes, volontaires et autoentretenus à Londres. Warwick, Vrikki, Karlsen, Dudley & Vermunt (2019, Cambridge Journal of Education) ont analysé, à partir d'entretiens d'élèves et de discussions d'enseignants transcrits et codés dans deux groupes de lesson study londoniens en mathématiques (un primaire, un secondaire), comment la parole des élèves déclenche effectivement la révision des plans de leçon ultérieurs.",
+   "conditions": "Le modèle des pôles auto-entretenus est celui qui se rapproche le plus d'une piste de pérennité sans financement récurrent : il repose sur l'adhésion volontaire des directions et sur l'existence d'un noyau d'écoles motrices.",
+   "contested": "C'est la position la plus faible du point de vue probatoire : refuser la mesure sur les acquis des élèves au motif que le dispositif serait 'holistique' rend l'évaluation impossible et protège le dispositif de la réfutation. Seleznyov (2019) a précisément montré que ce champ documente abondamment la satisfaction des enseignants et très peu l'enseignement ou les acquis, et que ses études se situent majoritairement au niveau le moins robuste de la Maryland Scientific Methods Scale. Un essai randomisé de grande taille conduit en Angleterre sur ce même type de dispositif (essai EEF 2017) n'a trouvé aucun effet.",
+   "sources": [
+    {
+     "author": "Dudley, Peter; Xu, Haiyan; Vermunt, Jan D.; Lang, Jean",
+     "title": "Empirical Evidence of the Impact of Lesson Study on Students' Achievement, Teachers' Professional Learning and on Institutional and System Evolution",
+     "org": "European Journal of Education (ERIC EJ1217076)",
+     "year": "2019",
+     "url": "http://dx.doi.org/10.1111/ejed.12337"
+    },
+    {
+     "author": "Warwick, Paul; Vrikki, Maria; Faerøyvik Karlsen, Anne Mette; Dudley, Pete; Vermunt, Jan D.",
+     "title": "The Role of Pupil Voice as a Trigger for Teacher Learning in Lesson Study Professional Groups",
+     "org": "Cambridge Journal of Education (ERIC EJ1219739)",
+     "year": "2019",
+     "url": "http://dx.doi.org/10.1080/0305764X.2018.1556606"
+    },
+    {
+     "author": "Seleznyov, Sarah",
+     "title": "Lesson study: exploring implementation challenges in England",
+     "org": "International Journal for Lesson and Learning Studies",
+     "year": "2019",
+     "url": "https://doi.org/10.1108/IJLLS-08-2019-0059"
+    }
+   ]
+  },
+  {
+   "claim": "Le rapport coût-efficacité du lesson study tel qu'évalué est défavorable dans l'absolu, mais son coût unitaire est faible, ce qui en fait une dépense supportable si et seulement si elle est conditionnée à l'apport d'un contenu didactique et d'une expertise externe.",
+   "what_it_is": "Structure de coût du dispositif : formation initiale des équipes, temps de décharge, et — dans la version japonaise complète — rémunération de l'expert externe et prise en charge des déplacements par l'autorité organisatrice.",
+   "evidence_level": "chiffrage de coût issu d'un essai randomisé (EEF) et données d'enquête sur le financement au Japon",
+   "effect_size": "Essai EEF : 2 300 £ par école et par an, soit 54 £ par élève et par an lissés sur trois ans, pour un effet nul sur les acquis (0,02 puis 0,03 écart-type, 0 mois de progrès). Cotation coût EEF : la plus basse des cinq catégories de coût. Au Japon, 86 % des enseignants enquêtés déclarent que la circonscription prend en charge la totalité des frais du lesson study de circonscription, et 13 % une prise en charge partielle.",
+   "concrete_practice": "Le poste de coût réellement déterminant n'est pas la formation mais le temps : libérer simultanément trois enseignants pour observer une leçon suppose de la suppléance, ou — solution japonaise — de renvoyer les autres classes chez elles pour l'après-midi.",
+   "concrete_example": "Dans l'essai EEF, les écoles pouvaient ensuite acheter la formation directement auprès d'Edge Hill University, à un tarif compris entre 1 800 £ et 2 400 £ par école, réductible pour les groupements de cinq écoles ou plus. Au Japon, l'enquête de Murata & Takahashi auprès de 125 organisateurs montre que le coût du temps est absorbé administrativement : 48 % des sessions ont lieu l'après-midi d'une journée de classe ordinaire, seuls les élèves de la classe support restant en cours, et 37 % donnent lieu à l'annulation d'une journée de classe pour toute la circonscription.",
+   "conditions": "Le coût marginal des versions 'légères' est faible, ce qui explique leur attrait budgétaire — et c'est précisément ce qui les rend inefficaces, puisque les composantes supprimées pour économiser (expert externe, temps d'étude préalable du curriculum, publication des comptes rendus) sont celles que la littérature identifie comme distinctives. Un dispositif à 54 £ par élève et par an sans effet mesurable coûte plus cher qu'un dispositif plus onéreux qui en produit un.",
+   "contested": "Aucune analyse coût-efficacité comparative rigoureuse du lesson study contre d'autres formes de développement professionnel n'a été publiée à ma connaissance ; je n'en ai retrouvé aucune dans les bases interrogées. Le coût d'une version complète à la japonaise (expert externe rémunéré, temps de décharge institué) n'est chiffré nulle part dans la littérature que j'ai pu consulter, ce qui interdit de comparer les rapports coût-efficacité des deux versions.",
+   "sources": [
+    {
+     "author": "Murphy, Richard; Weinhardt, Felix; Wyness, Gill; Rolfe, Heather",
+     "title": "Lesson Study: Evaluation Report and Executive Summary (section Cost, p. 5 ; Appendix C: EEF cost rating)",
+     "org": "Education Endowment Foundation (ERIC ED581145)",
+     "year": "2017",
+     "url": "https://files.eric.ed.gov/fulltext/ED581145.pdf"
+    },
+    {
+     "author": "Murata, Aki; Takahashi, Akihiko",
+     "title": "Vehicle To Connect Theory, Research, and Practice: How Teacher Thinking Changes in District-Level Lesson Study in Japan",
+     "org": "Proceedings of the 24th Annual Meeting of PME-NA (ERIC ED471780)",
+     "year": "2002",
+     "url": "https://files.eric.ed.gov/fulltext/ED471780.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "CE QUI NE SE TRANSPOSE PAS EN FWB. (1) L'infrastructure temps. Le lesson study japonais fonctionne parce que la circonscription peut annuler une journée de classe (37 % des cas) ou renvoyer les élèves chez eux l'après-midi (48 %) et payer les déplacements (86 % de prise en charge intégrale) — Murata & Takahashi 2002. En FWB, avec un déficit de 1,5 Md EUR et l'enseignement pesant 54 % des dépenses, aucun de ces trois leviers n'est disponible sans arbitrage explicite sur le temps de service, qui est une matière de négociation sectorielle, pas une décision administrative. (2) Le vivier de koshi. La composante que Takahashi, Seleznyov et Seino & Foster identifient comme la plus distinctive — l'expert didactique externe qui relie le travail du groupe au savoir accumulé au-delà de lui — suppose un corps de didacticiens disciplinaires disponibles et rémunérés. La FWB dispose de didacticiens universitaires et de conseillers pédagogiques de réseaux, mais leur nombre rapporté à 2 600 écoles et 130 000 agents rend impossible une couverture généralisée : c'est la contrainte dimensionnante, et elle est arithmétique, pas culturelle. (3) Le caractère cumulatif. Au Japon, les comptes rendus de leçons de recherche sont publiés et réutilisés ; en l'absence d'un dépôt commun, chaque cycle recommence à zéro. La gouvernance partagée entre réseaux de la FWB, avec la liberté d'enseignement constitutionnelle, rend un dépôt centralisé obligatoire juridiquement délicat — mais n'interdit nullement un dépôt inter-réseaux volontaire, qui est exactement le modèle des trois pôles londoniens auto-entretenus documentés par Dudley et al. (2019).\n\nCE QUI SE TRANSPOSE. (a) Le résultat le plus actionnable de toute cette revue est négatif et bon marché à retenir : dans l'essai de réplication de Schoen et al. (2024), ce sont les ressources didactiques sur les fractions, et non le lesson study, qui ont amélioré l'enseignement observé, dans les deux conditions les ayant reçues. Financer un véhicule collaboratif sans contenu didactique substantiel est, sur la base des données disponibles, un investissement à rendement nul — l'essai EEF le chiffre à 54 £ par élève et par an pour 0 mois de progrès, avec la sécurité probante maximale sur 181 écoles et 12 747 élèves. Une note de position wallonne peut donc défendre l'inverse du réflexe habituel : mettre l'argent sur le contenu (séquences, manuels, ressources didactiques disciplinaires validées) avant de le mettre sur le format d'animation. (b) Le cadre IGTP de Sims et al. (2021) donne un critère d'arbitrage utilisable par une administration sous contrainte : n'financer que des dispositifs qui couvrent les quatre finalités (compréhension, but d'action, technique répétée, ancrage), sachant que les dispositifs sans mécanisme ont un effet nul et ceux qui les cumulent tous atteignent 0,17 écart-type — tout en assumant que l'intervalle de confiance sur les dispositifs équilibrés est large (0,02-0,27) et la comparaison non significative (p = 0,22). (c) L'avertissement de Kraft, Blazar & Hogan (2018) sur la perte d'effet à l'échelle — les essais d'efficacité des grands programmes ne rendent qu'une fraction des effets des petits — doit tempérer toute promesse de généralisation à 2 600 écoles d'un dispositif piloté avec succès sur quelques dizaines.\n\nCE QU'IL FAUT REFUSER D'ÉCRIRE. Présenter le lesson study comme une réussite japonaise transposable serait contraire aux données : il n'existe aucune évaluation causale montrant que le lesson study produit les performances japonaises, et les trois évaluations expérimentales les plus solides conduites hors du Japon (EEF 2017, n = 181 écoles ; Schoen et al. 2024, n = 80 équipes ; Project Coordinate 2026, n = 24 enseignants) trouvent respectivement un effet nul, un effet nul et un effet faible et contrasté sur les élèves. Le seul essai positif (Lewis & Perry 2017, 39 équipes, 3 mois) n'a pas été répliqué par ses propres auteurs. Le lesson study a en revanche un effet solidement établi sur les connaissances, la collaboration et les pratiques des enseignants : c'est ce qu'on peut honnêtement en attendre, et cela peut suffire à justifier un investissement ciblé, à condition de ne pas le vendre comme un levier d'acquis.\n\nNOTE DE MÉTHODE. L'outil de recherche web généraliste de cette session avait épuisé son quota avant le début du travail (200/200 requêtes). Les sources ont donc été retrouvées et vérifiées par interrogation directe de l'API ERIC (Institute of Education Sciences), de l'API Crossref, et par récupération et extraction du texte intégral des PDF primaires (rapport EEF ED581145, rapport EEF ED615914, rapport NCES 2003-013, actes PME-NA ED471780, rapport FSU ED602417) — 24 récupérations distinctes au total. Les sites de l'OCDE, de l'EEF et de UCL Discovery sont bloqués depuis cet environnement (403 Cloudflare) : je n'ai en conséquence cité aucun chiffre TALIS ni aucune donnée de temps de travail des enseignants japonais, faute de vérification sur source primaire. La taille d'effet exacte de Lewis & Perry (2017) n'a pas pu être vérifiée (article sous paywall, aucune version en accès libre) et n'est donc pas rapportée. La datation de l'origine du jugyou kenkyuu à l'ère Meiji, fréquemment avancée dans la littérature de seconde main, n'a pas pu être vérifiée sur source primaire et n'est pas affirmée ici : le chapitre d'Ishii (2016, 'Historical overview of lesson study', doi 10.4324/9781315709116-7) existe et traite précisément de cette histoire, mais je n'ai pas pu en consulter le texte."
+}

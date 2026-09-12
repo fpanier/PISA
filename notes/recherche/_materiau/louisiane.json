@@ -1,0 +1,372 @@
+{
+ "topic": "Louisiane et la réforme par le curriculum : le curriculum comme levier à fort rendement et faible coût ?",
+ "headline": "Le curriculum n'est un levier à fort rendement que lorsqu'il cesse d'être un achat de manuels : les effets « manuel seul » sont petits (0,05–0,17 écart-type) et parfois nuls, mais la Louisiane montre qu'un système cohérent — revues publiques de qualité, contrats d'État, formation adossée au curriculum et évaluations alignées — peut produire, à coût marginal quasi nul, la seule progression d'État en lecture au NAEP entre 2019 et 2024 (+6,1 points), tout en laissant intacts le collège et les écarts sociaux.",
+ "searches_run": 31,
+ "transposability_fwb": "Ce qui se transpose sans difficulté à la FWB. (1) Le mécanisme central louisianais n'est PAS un pilotage centralisé : l'État ne prescrit aucun manuel, il publie des revues de qualité annotées, classe les ressources en Tier 1/2/3 et négocie des contrats-cadres de prix. Le rapport de revue de la LDOE (septembre 2026) montre 152 soumissions cotées, dont 99 en Tier 1 et 53 rejetées en Tier 3, et 92 des 99 Tier 1 bénéficient d'un prix contractuel d'État. C'est un dispositif d'information et de marché, formellement compatible avec la liberté d'enseignement constitutionnelle belge et avec des réseaux multiples : chaque pouvoir organisateur reste libre, mais il choisit en connaissance de cause et paie moins cher s'il choisit un outil coté. La FWB dispose déjà d'une base institutionnelle (référentiels du tronc commun, Service général de l'Inspection) pour porter une fonction d'évaluation publique des ressources, qui n'existe pas aujourd'hui. (2) Le rapport coût-efficacité est le plus favorable de la boîte à outils des politiques éducatives : l'écart de prix entre le curriculum le plus cher et le moins cher d'un essai randomisé fédéral était de 13 dollars par élève (Boser, Chingos & Straus, 2015), et le ratio coût-efficacité du changement de curriculum était environ 40 fois celui de la réduction de la taille des classes. Dans un contexte de déficit de 1,5 Md EUR où 54 % des dépenses vont à l'enseignement, c'est le seul levier significatif dont le coût marginal est proche de zéro. (3) Le levier documenté comme réellement efficace n'est pas le manuel mais le couple manuel + formation : la méta-analyse de 95 programmes de Lynch et al. (2019) donne +0,21 écart-type, avec des effets renforcés précisément quand la formation apprend aux enseignants à utiliser des supports de cours. La FWB, qui a créé l'IFPC (Institut de formation en cours de carrière), dispose déjà de l'organe capable d'adosser l'offre de formation à des ressources cotées — c'est exactement ce que fait la LDOE avec son catalogue de prestataires de formation, qui ne recommande que les fournisseurs ayant établi un lien explicite avec un curriculum Tier 1.\n\nCe qui ne se transpose pas ou exige une adaptation lourde. (a) Le préalable institutionnel américain est un système d'évaluation externe standardisé annuel (LEAP en Louisiane, NAEP au niveau fédéral) : sans donnée d'acquis comparable et longitudinale, ni l'évaluation de la qualité des ressources, ni la mesure du résultat ne sont possibles. La FWB ne dispose d'évaluations certificatives externes qu'à quelques paliers (CEB, CE1D, CESS) et sans appariement longitudinal élève-ressource : reproduire l'analyse de Koedel ou de Blazar y est aujourd'hui impossible. C'est un investissement préalable, pas un sous-produit. (b) Le marché éditorial francophone belge est petit, partagé avec la France, et il n'existe pas d'équivalent d'EdReports (organisme indépendant, 1 021 rapports publiés, 881 évaluateurs, environ 100 heures de travail par rapport). Construire cette capacité d'expertise coûte, et elle se heurtera au lobbying des éditeurs — la LDOE le dit elle-même : « ce n'est pas agréable de donner des notes Tier 3 à de gros éditeurs qui ont de gros lobbies ». (c) Le curriculum louisianais fonctionne sur un socle de standards communs (Common Core) que la FWB n'a atteint qu'en 2022 avec le tronc commun : la cotation n'a de sens que si l'objet de référence est stable. Or les référentiels FWB sont neufs et encore en déploiement, ce qui est à la fois une opportunité (le marché des ressources est à reconstruire) et un risque (coter contre une cible mouvante). (d) Attention à l'effet d'illusion : la littérature américaine la plus récente (Blazar et al., 2020) montre que l'effet différentiel des manuels s'est effondré une fois le marché aligné sur les standards. Autrement dit, la fenêtre de rendement élevé est celle où l'écart de qualité entre ressources est grand — c'est probablement le cas en FWB aujourd'hui, ce ne le sera plus dans dix ans. (e) Enfin, aucun élément louisianais ne permet d'attendre un effet sur les inégalités : RAND a constaté que 7 des 8 écarts examinés sur le NAEP s'étaient creusés en Louisiane entre 2011 et 2017, alors que 7 des 8 mêmes écarts se réduisaient au niveau national. Sur le redoublement à 35 % et l'écart social de 92 points PISA, le curriculum n'est pas le levier — il en faut d'autres.",
+ "items": [
+  {
+   "claim": "Le choix du curriculum produit des différences d'apprentissage réelles mais modestes : dans le seul grand essai randomisé fédéral sur des curricula de mathématiques élémentaires, l'écart entre le meilleur et le moins bon programme atteint 0,17 écart-type en CE1.",
+   "what_it_is": "Essai contrôlé randomisé financé par l'Institute of Education Sciences (IES) : 110 écoles élémentaires défavorisées de 12 districts, réparties aléatoirement entre quatre curricula de mathématiques (Investigations, Math Expressions, Saxon Math, Scott Foresman-Addison Wesley). Chaque curriculum comprenait le manuel, les supports annexes et la formation des enseignants par l'éditeur.",
+   "evidence_level": "essai randomisé",
+   "effect_size": "CP (grade 1) : élèves Math Expressions supérieurs de 0,11 écart-type aux élèves Investigations et SFAW. CE1 (grade 2) : Math Expressions +0,12 et Saxon +0,17 écart-type par rapport à SFAW. Aucune autre différence entre paires de curricula n'est statistiquement significative. Population : élèves de CP/CE1 d'écoles à forte concentration de pauvreté (écoles éligibles Title I).",
+   "concrete_practice": "L'État ou le district impose un curriculum unique à un ensemble d'écoles, avec la formation initiale de l'éditeur, puis mesure les acquis en fin d'année sur un test standardisé commun. C'est le design qui permet d'isoler l'effet « programme » de l'effet « enseignant ».",
+   "concrete_example": "Entre 2006 et 2009, l'équipe de Mathematica Policy Research et SRI International a recruté 110 écoles élémentaires dans 12 districts américains, puis tiré au sort le curriculum de mathématiques de chaque école parmi quatre programmes couvrant 91 % du marché K-2. Les enseignants Saxon ont déclaré consacrer environ une heure de plus par semaine aux mathématiques que les autres. À la fin du CE1, les élèves Saxon devançaient de 0,17 écart-type ceux du programme Scott Foresman-Addison Wesley — soit, pour une même école, un même quartier et des enseignants comparables, un écart obtenu par le seul changement de programme. Le coût de l'essai a été budgété à environ 21 millions de dollars.",
+   "conditions": "L'effet suppose (1) que les programmes comparés diffèrent réellement dans leur contenu et leur progression, (2) que la mise en œuvre soit fidèle — l'essai fournissait la formation éditeur —, (3) que la mesure soit un test aligné sur les contenus communs. L'écart disparaît si les programmes convergent.",
+   "contested": "Trois limites majeures. D'abord, Chingos et Whitehurst ont utilisé ce résultat pour affirmer que le choix du curriculum a un effet « aussi grand ou plus grand » que la qualité de l'enseignant — mais les 0,17 sont l'écart maximal entre deux programmes, et la majorité des comparaisons par paires sont non significatives. Ensuite, l'échantillon est volontaire (écoles recrutées, pas tirées de la population), donc la généralisation est incertaine. Enfin, l'essai porte sur des écoles très défavorisées et sur les deux premières années du primaire ; rien n'établit que les mêmes écarts existent au secondaire. L'essai a coûté environ 21 M USD, ce qui explique qu'il n'ait jamais été répliqué à cette échelle.",
+   "sources": [
+    {
+     "author": "Roberto Agodini, Barbara Harris, Melissa Thomas, Robert Murphy, Lawrence Gallagher",
+     "title": "Achievement Effects of Four Early Elementary School Math Curricula: Findings for First and Second Graders (NCEE 2011-4001)",
+     "org": "National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education",
+     "year": "2010",
+     "url": "https://ies.ed.gov/ncee/pubs/20114001/pdf/20114001.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'argument fondateur du mouvement — « le curriculum est le levier le moins cher et le plus rapide » — repose autant sur un constat d'absence d'information que sur une preuve d'efficacité, et ses auteurs le reconnaissaient dès 2012.",
+   "what_it_is": "Note de politique publique de la Brookings Institution qui pose que les États et districts choisissent leurs manuels « à l'aveugle » : personne ne sait quels supports sont utilisés où, ni lesquels fonctionnent. Les auteurs proposent que les États collectent systématiquement l'information sur les manuels adoptés et l'apparient aux données d'acquis des élèves.",
+   "evidence_level": "descriptif (revue argumentée, sans évaluation propre)",
+   "effect_size": "Aucune estimation propre. Les auteurs mobilisent des effets tiers : 0,17 écart-type d'écart maximal entre curricula (essai Agodini) ; 0,08 à 0,11 écart-type pour un enseignant au 75e centile par rapport à un enseignant moyen (synthèse de 10 études) ; 0,15 écart-type en mathématiques pour les enseignants Teach for America (0,03, non significatif, en lecture). Coût estimé d'un système national de collecte : environ 250 000 USD par an et par laboratoire régional en fonctionnement récurrent.",
+   "concrete_practice": "Créer un registre public des ressources pédagogiques réellement utilisées, l'apparier aux résultats des élèves, publier les comparaisons — au lieu de laisser les décisions d'achat aux catalogues des éditeurs et aux commissions d'adoption.",
+   "concrete_example": "Chingos et Whitehurst montrent que la Floride était en 2012 l'un des très rares États à publier un registre des manuels adoptés (fimweb.org), et que l'Indiana avait cessé de collecter cette information dès qu'il avait abandonné l'obligation d'acheter sur liste d'État en 2007-2008. Leur diagnostic : même l'État qui avait rendu possible la seule étude à grande échelle de l'époque (Bhatt & Koedel) avait détruit la donnée qui la rendait possible. Ils évaluent le coût d'un système national de collecte à partir du budget réel du Regional Educational Laboratory Mid-Atlantic : environ 250 000 USD par an de fonctionnement récurrent, hors frais de démarrage estimés à plusieurs fois ce montant.",
+   "conditions": "L'argument ne tient que si (1) les différences de qualité entre ressources sont grandes, (2) l'information sur la qualité circule jusqu'aux décideurs locaux, (3) les décideurs y réagissent. Les trois conditions ont été testées depuis et seule la deuxième a clairement été remplie.",
+   "contested": "Fortement contesté a posteriori, et par les données mêmes de l'école de pensée qui l'a lancé. La formule « le choix du curriculum peut avoir un impact aussi grand ou plus grand que la qualité de l'enseignant » compare un écart entre programmes extrêmes à un effet moyen d'enseignant : la comparaison n'est pas homogène. Surtout, l'étude multi-États de Blazar et al. (2020), co-signée par Thomas Kane et Morgan Polikoff, conclut explicitement que l'adoption d'un nouveau manuel, à elle seule, « n'est pas susceptible » d'améliorer les résultats — désaveu direct de la thèse de la « balle en argent bon marché ». Le troisième maillon (les décideurs réagissent à l'information) a lui aussi été démenti : Bhatt et Koedel observent que l'éditeur du curriculum le moins efficace n'a perdu aucune part de marché en Indiana au cycle d'adoption suivant.",
+   "sources": [
+    {
+     "author": "Matthew M. Chingos, Grover J. « Russ » Whitehurst",
+     "title": "Choosing Blindly: Instructional Materials, Teacher Effectiveness, and the Common Core",
+     "org": "Brown Center on Education Policy, Brookings Institution",
+     "year": "2012",
+     "url": "https://www.brookings.edu/articles/choosing-blindly-instructional-materials-teacher-effectiveness-and-the-common-core/"
+    },
+    {
+     "author": "Matthew M. Chingos, Grover J. Whitehurst",
+     "title": "Choosing Blindly (version PDF intégrale)",
+     "org": "Brookings Institution",
+     "year": "2012",
+     "url": "https://www.brookings.edu/wp-content/uploads/2016/06/0410_curriculum_chingos_whitehurst.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les évaluations quasi-expérimentales à l'échelle d'un État confirment des écarts entre manuels de mathématiques, mais de l'ordre de 0,05 à 0,08 écart-type — et l'information de qualité ne déplace pas spontanément le marché.",
+   "what_it_is": "Deux études de Cory Koedel appariant les adoptions de manuels de districts entiers aux résultats aux tests d'État : l'Indiana (Bhatt & Koedel, 2012) et la Californie (Koedel, Li, Polikoff, Hardaway, Wrabel, 2017). Méthode : comparaison d'écoles servant des populations similaires mais ayant adopté des manuels différents, avec appariement sur score de propension et contrôles démographiques.",
+   "evidence_level": "quasi-expérimental",
+   "effect_size": "Californie : Houghton Mifflin « California Math » relève les résultats de 0,05 à 0,08 écart-type au niveau élève sur le test d'État de mathématiques de CE2 (grade 3), par rapport aux trois autres manuels les plus adoptés ; effets positifs également estimés aux niveaux supérieurs du primaire. Indiana : « de grandes différences d'efficacité » entre les deux curricula détenant les plus grosses parts de marché, sans taille d'effet chiffrée dans le résumé publié — je n'ai pas pu accéder au texte intégral pour vérifier le chiffre exact et je ne le cite donc pas.",
+   "concrete_practice": "Un État qui dispose d'un registre des adoptions de manuels par district et de données d'acquis annuelles peut, sans expérimentation, classer les manuels par efficacité relative et publier ce classement.",
+   "concrete_example": "En Californie, Koedel et ses co-auteurs ont reconstitué les adoptions de manuels de mathématiques élémentaires des districts pour les rentrées 2008 et 2009 — information que l'État ne centralisait pas et qu'ils ont dû recueillir district par district. En comparant des écoles démographiquement équivalentes, ils établissent qu'un seul des quatre manuels dominants, « California Math » de Houghton Mifflin, relève les acquis de 0,05 à 0,08 écart-type en CE2. Les auteurs soulignent le point décisif pour un décideur budgétairement contraint : cet effet est un effet d'établissement entier, obtenu « à un coût marginal effectivement nul », puisque le district doit de toute façon acheter un manuel. En Indiana, Bhatt et Koedel observent le revers : l'éditeur du curriculum le moins efficace n'a pas perdu de part de marché au cycle d'adoption suivant, ce qui suggère que les décideurs éducatifs ne disposent pas de l'information sur l'efficacité relative.",
+   "conditions": "Exige un appariement fiable manuel-école-résultats, un test d'État stable dans le temps, et une variation réelle des manuels adoptés. En Indiana, la variation était bridée par une liste d'État et un cycle d'adoption sexennal, ce qui limite la portée de l'estimation.",
+   "contested": "Ces devis sont non expérimentaux : l'adoption d'un manuel n'est pas aléatoire et peut refléter des caractéristiques non observées des districts (capacité administrative, engagement du leadership, ressources), qui affectent aussi les résultats. Koedel et ses co-auteurs contrôlent les caractéristiques des élèves et des écoles, mais pas la qualité du pilotage local. Surtout, la tentative de réplication multi-États de Blazar et al. (2020) — qui inclut Polikoff, co-auteur de l'étude californienne — ne retrouve pratiquement aucune différence moyenne entre manuels sur six États après la généralisation du Common Core. La lecture la plus cohérente est que l'effet estimé en Californie correspond à une période où les manuels différaient encore beaucoup.",
+   "sources": [
+    {
+     "author": "Cory Koedel, Diyi Li, Morgan S. Polikoff, Tenice Hardaway, Stephani L. Wrabel",
+     "title": "Mathematics Curriculum Effects on Student Achievement in California",
+     "org": "AERA Open",
+     "year": "2017",
+     "url": "https://doi.org/10.1177/2332858417690511"
+    },
+    {
+     "author": "Rachana Bhatt, Cory Koedel",
+     "title": "Large-Scale Evaluations of Curricular Effectiveness: The Case of Elementary Mathematics in Indiana",
+     "org": "Educational Evaluation and Policy Analysis, vol. 34 n°4, p. 391-412",
+     "year": "2012",
+     "url": "https://doi.org/10.3102/0162373712440040"
+    }
+   ]
+  },
+  {
+   "claim": "Le résultat le plus important pour un décideur est négatif : la plus grande étude multi-États jamais conduite ne trouve pratiquement aucune différence de progression entre écoles utilisant des manuels de mathématiques différents.",
+   "what_it_is": "Étude quasi-expérimentale mettant en commun les adoptions de manuels et les scores des élèves de six États américains, géographiquement et démographiquement divers, après l'adoption généralisée des standards Common Core. C'est le premier effort multi-manuels et multi-États de mesure de l'efficacité des manuels.",
+   "evidence_level": "quasi-expérimental",
+   "effect_size": "« Peu de preuves de différences dans les gains moyens de résultats entre écoles utilisant des manuels de mathématiques différents » : effets moyens non distinguables de zéro. Les auteurs trouvent une variance un peu plus grande des gains parmi les écoles utilisant des éditions antérieures au Common Core, et parmi celles les plus exposées à un manuel donné, mais qualifient ces différences de « petites ». Population : élèves du primaire et du collège de six États.",
+   "concrete_practice": "Le test de la thèse : si le manuel est un levier bon marché, alors les écoles qui changent pour un manuel mieux coté doivent progresser davantage. Le devis compare la progression des écoles selon le manuel adopté, à caractéristiques comparables.",
+   "concrete_example": "David Blazar, Blake Heller, Thomas Kane, Morgan Polikoff, Douglas Staiger et Scott Carrell ont reconstitué, pour six États, quel manuel de mathématiques chaque école utilisait, et l'ont apparié aux gains de scores des élèves. Le résultat, publié en 2020 dans le Journal of Policy Analysis and Management, contredit frontalement l'attente : ils concluent que « malgré l'intérêt et l'attention considérables portés aux manuels comme intervention peu coûteuse et miraculeuse pour améliorer les résultats des élèves, l'adoption d'un nouveau manuel ou d'un nouvel ensemble de ressources pédagogiques, à elle seule, est peu susceptible d'atteindre cet objectif ». Leur explication mécanique est capitale pour la FWB : les éditions postérieures au Common Core sont devenues homogènes entre elles, parce qu'elles sont désormais écrites pour un jeu de standards unique, alors que les éditions antérieures étaient écrites pour un ensemble de standards plus large et donc plus variées.",
+   "conditions": "Ce résultat nul s'applique à un marché déjà aligné sur des standards communs. Il ne démontre pas que le curriculum n'a pas d'importance, mais que la variation résiduelle entre manuels commercialisés n'en a plus beaucoup. Corollaire : le rendement d'une politique de curriculum est maximal là où l'hétérogénéité de qualité est encore forte — situation probable en FWB, où aucune évaluation publique des ressources n'existe.",
+   "contested": "C'est ce résultat qui est lui-même contesté par les partisans du curriculum, sur deux angles. Premièrement, il mesure l'adoption formelle, pas l'usage réel : si les enseignants n'utilisent pas le manuel adopté, l'estimation est diluée vers zéro — critique que les auteurs admettent en distinguant les écoles « plus exposées ». Deuxièmement, il ne teste que les mathématiques, alors que la thèse de la Louisiane repose surtout sur la lecture et sur des curricula riches en connaissances (Wit & Wisdom, CKLA, EL Education), dont le mécanisme supposé (construction de connaissances) met plusieurs années à produire un effet mesurable et ne serait pas capté par une mesure annuelle de progression. Aucune des deux objections n'a été tranchée empiriquement.",
+   "sources": [
+    {
+     "author": "David Blazar, Blake Heller, Thomas J. Kane, Morgan Polikoff, Douglas O. Staiger, Scott Carrell",
+     "title": "Curriculum Reform in the Common Core Era: Evaluating Elementary Math Textbooks Across Six U.S. States",
+     "org": "Journal of Policy Analysis and Management",
+     "year": "2020",
+     "url": "https://doi.org/10.1002/pam.22257"
+    }
+   ]
+  },
+  {
+   "claim": "La Louisiane n'a pas imposé un curriculum : elle a construit un système d'information et d'incitation — revues publiques par tiers, contrats de prix d'État, catalogue de formation adossé aux ressources cotées, évaluations formatives alignées — dans un cadre où l'adoption reste une décision locale.",
+   "what_it_is": "Description institutionnelle du dispositif de la Louisiana Department of Education (LDOE) à partir de 2012-2013 : revues annotées en ligne des manuels K-12, classement « Tier 1 – Exemplifies Quality », « Tier 2 – Approaching Quality », « Tier 3 – Not Representing Quality », contrats d'État pour les Tier 1, curricula ELA développés par l'État et mis en ligne gratuitement (Guidebooks), catalogue de prestataires de formation continue sélectionnés sur leur lien explicite avec un curriculum Tier 1, et banque d'évaluations formatives LEAP 360.",
+   "evidence_level": "descriptif",
+   "effect_size": "Sans objet (étude descriptive). Mesure de portée : selon le rapport de revue de la LDOE consulté en septembre 2026, 152 soumissions sont cotées, dont 99 en Tier 1 et 53 en Tier 3 ; 92 des 99 produits Tier 1 disposent d'un prix contractuel négocié par l'État.",
+   "concrete_practice": "L'État recrute des enseignants de son propre réseau (le programme Teacher Leaders) pour évaluer publiquement les manuels contre des critères dérivés des standards, publie les rapports annotés, négocie un prix pour les produits cotés Tier 1, refuse de référencer les prestataires de formation qui ne s'adossent pas à un curriculum coté, et fournit gratuitement une banque d'items alignés pour l'évaluation formative.",
+   "concrete_example": "La LDOE a fait réaliser ses revues par des enseignants issus de son réseau de 5 000 « Teacher Leaders » — des enseignants présents dans chaque district, qui participent à la production des ressources de l'État, assistent aux formations de l'État puis reforment leurs collègues dans leurs écoles. Constatant, selon un responsable interrogé par RAND, « un trou dans le marché » pour la lecture en cycles 3-4, l'État a lui-même développé les ELA Guidebooks pour les classes 3 à 12 : plans d'unités, séances détaillées, supports élèves, notes pédagogiques et évaluations, gratuits en ligne, les districts n'achetant que les œuvres littéraires, dont la LDOE publie le coût pour éclairer la décision. Le même responsable décrit la résistance rencontrée : « Ce n'est pas agréable quand vous donnez des notes Tier 3 à de gros éditeurs qui ont de gros lobbies et qui rapportent des millions de dollars. Il aurait été facile de laisser tomber. » Avant 2012, les districts louisianais étaient au contraire tenus d'acheter sur une liste restreinte imposée par l'État : la réforme a consisté à supprimer l'obligation et à la remplacer par de l'information.",
+   "conditions": "Le dispositif exige : une capacité d'expertise indépendante pour coter (la LDOE a mobilisé ses Teacher Leaders), un pouvoir d'achat d'État pour rendre le référencement financièrement attractif, une continuité politique sur une décennie, et la volonté politique d'assumer publiquement le rejet de produits d'éditeurs puissants.",
+   "contested": "Le point faible est que la LDOE a été à la fois le producteur d'un curriculum (les Guidebooks), l'évaluateur des curricula concurrents et l'acheteur : ce cumul de rôles n'a, à ma connaissance, jamais fait l'objet d'un audit indépendant. Par ailleurs, aucune évaluation causale de l'ensemble du dispositif louisianais n'existe : les rapports RAND sont explicitement descriptifs et corrélationnels, et leurs auteurs écrivent qu'ils ne peuvent pas « utiliser les données pour inférer un quelconque changement réel » imputable aux actions de l'État. Toute présentation de la Louisiane comme une preuve causale est un abus.",
+   "sources": [
+    {
+     "author": "Julia H. Kaufman, Lindsey E. Thompson, V. Darleen Opfer",
+     "title": "Creating a Coherent System to Support Instruction Aligned with State Standards: Promising Practices of the Louisiana Department of Education (RR-1613)",
+     "org": "RAND Corporation",
+     "year": "2016",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1600/RR1613/RAND_RR1613.pdf"
+    },
+    {
+     "author": "Louisiana Department of Education",
+     "title": "Comprehensive Tiered Review Report (fichier de revue des ressources, cycles 2016-2017 à 2025-2026)",
+     "org": "Louisiana Department of Education",
+     "year": "2026",
+     "url": "https://doe.louisiana.gov/docs/default-source/curricular-resources/comprehensive-tiered-review-report.xlsx"
+    },
+    {
+     "author": "Louisiana Department of Education",
+     "title": "Online Instructional Materials Reviews",
+     "org": "Louisiana Department of Education",
+     "year": "2026",
+     "url": "https://doe.louisiana.gov/academics/online-instructional-materials-reviews"
+    }
+   ]
+  },
+  {
+   "claim": "Le dispositif louisianais a réellement changé ce que les enseignants utilisent : en 2015, près de 90 % des enseignants de mathématiques y déclaraient utiliser Eureka Math ou EngageNY, contre 44 % dans les autres États comparables — un différentiel d'usage de l'ordre de 30 à 60 points de pourcentage.",
+   "what_it_is": "Enquête par panel représentatif (RAND American Teacher Panel) menée en juin et octobre 2015 auprès d'enseignants de mathématiques et de français des États ayant adopté le Common Core (SACC states), comparant la Louisiane au reste de ces États.",
+   "evidence_level": "descriptif (enquête représentative, comparaison inter-États sans identification causale)",
+   "effect_size": "72 % des enseignants de mathématiques louisianais déclarent utiliser EngageNY contre 36 % dans les autres États SACC ; 70 % déclarent utiliser Eureka Math contre 10 % ailleurs ; au total près de 90 % utilisent Eureka Math ou EngageNY contre 44 % ailleurs. Consultation de ressources en ligne alignées : 10 à 20 points de pourcentage de plus en Louisiane. Enseignants déclarant consulter les documents officiels de standards : 88 % en Louisiane contre 68 % ailleurs. Population : enseignants K-12 de mathématiques et de français.",
+   "concrete_practice": "Mesurer non pas ce que les écoles achètent, mais ce que les enseignants ouvrent réellement le lundi matin — par enquête auprès d'un panel représentatif, avec une liste nominative de ressources.",
+   "concrete_example": "À l'automne 2015, RAND a demandé à un panel national d'enseignants d'indiquer, dans une longue liste nominative de ressources papier et en ligne, celles qu'ils utilisaient effectivement pour préparer leurs cours. Le contraste est frappant et il porte sur une ressource précise : Eureka Math, curriculum de mathématiques coté Tier 1 par la Louisiane et l'un des deux seuls, sur 26 programmes K-8 examinés par EdReports à l'époque, jugés alignés au Common Core sur tous les niveaux et sur les deux dimensions (focalisation/cohérence et rigueur/pratiques mathématiques). En Louisiane, 70 % des enseignants de mathématiques déclarent l'utiliser ; dans les autres États ayant les mêmes standards, 10 %. Le mécanisme n'est pas l'obligation — l'État rappelle sur son site que les districts ne sont tenus d'adopter aucun curriculum — mais la conjonction d'une cotation publique, d'un contrat de prix et d'une version gratuite en ligne via EngageNY.",
+   "conditions": "Ce transfert d'usage suppose l'existence d'une ressource gratuite ou peu coûteuse et de qualité reconnue (ici Eureka Math via EngageNY, financé par l'État de New York), et un canal de diffusion professionnel (les 5 000 Teacher Leaders). Sans ressource disponible, la cotation ne fait que signaler un manque.",
+   "contested": "Trois réserves. (1) Les données sont déclaratives : les enseignants surestiment probablement l'usage d'une ressource valorisée par leur hiérarchie. RAND note d'ailleurs que les enseignants louisianais déclarent aussi utiliser des supports cotés en dessous du Tier 1. (2) Le rapport de suivi de RAND en 2019 constate que l'usage déclaré ne signifie pas usage fidèle : les enseignants « n'utilisaient parfois pas les leçons Tier 1 » telles qu'écrites. (3) Utiliser une bonne ressource n'est pas la même chose qu'obtenir de meilleurs résultats : la chaîne causale usage → apprentissage n'est pas établie par cette enquête, dont le taux de réponse aux enquêtes en ligne de ce type se situe, comme le rappellent les auteurs, entre 20 et 47 %.",
+   "sources": [
+    {
+     "author": "Julia H. Kaufman, Lindsey E. Thompson, V. Darleen Opfer",
+     "title": "Creating a Coherent System to Support Instruction Aligned with State Standards: Promising Practices of the Louisiana Department of Education (RR-1613)",
+     "org": "RAND Corporation",
+     "year": "2016",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1600/RR1613/RAND_RR1613.pdf"
+    },
+    {
+     "author": "Julia H. Kaufman, Sy Doan, Maria-Paz Fernandez",
+     "title": "The Rise of Standards-Aligned Instructional Materials for U.S. K-12 Mathematics and English Language Arts Instruction: Findings from the 2021 American Instructional Resources Survey (RR-A134-11)",
+     "org": "RAND Corporation",
+     "year": "2021",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA100/RRA134-11/RAND_RRA134-11.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Sur le résultat qui compte — le NAEP — la Louisiane est le seul État américain à avoir dépassé son niveau d'avant-pandémie en lecture en CM1 : +6,1 points entre 2019 et 2024, alors que le public national reculait de 5,1 points.",
+   "what_it_is": "Données primaires du National Assessment of Educational Progress (NAEP), test national à faibles enjeux administré sur échantillon représentatif d'État, extraites du service de données du National Center for Education Statistics pour les 50 États, le District de Columbia et la moyenne du public national.",
+   "evidence_level": "comparaison descriptive de séries temporelles (aucune identification causale)",
+   "effect_size": "Lecture, CM1 (grade 4) : Louisiane 209,9 en 2019 → 216,0 en 2024 (+6,1 points) ; public national 219,4 → 214,3 (-5,1). La Louisiane est le seul État à gagner plus de 2 points (l'Alabama gagne +1,5 ; tous les autres reculent). Elle passe du bas du classement au 15e rang sur 52 juridictions en 2024. Mathématiques CM1 : 231,3 → 234,5 (+3,2) contre -2,7 pour le public national. Population : élèves de CM1 et de 4e des écoles publiques.",
+   "concrete_practice": "Suivre un indicateur externe, indépendant de l'administration scolaire de l'État et non soumis aux enjeux locaux de responsabilisation, pour contrôler les résultats affichés par les évaluations d'État.",
+   "concrete_example": "Les données NAEP 2024, extraites directement du service de données du NCES, donnent la Louisiane à 216,0 en lecture de CM1, soit 1,7 point au-dessus de la moyenne des écoles publiques américaines (214,3) — pour un État dont le score était inférieur de 12,1 points à cette moyenne en 2009, et dont RAND rappelait en 2019 qu'il avait obtenu des résultats inférieurs à la moyenne nationale « dans toutes les matières testées depuis que le NAEP a été administré pour la première fois sur un échantillon représentatif d'État en 1992 ». Le renversement est concentré sur le primaire.",
+   "conditions": "L'interprétation suppose que la composition de l'échantillon d'élèves testés est stable — hypothèse à vérifier lorsqu'un État modifie ses règles de passage de classe, car retenir en CE2 les lecteurs les plus faibles améliore mécaniquement le score de CM1 sans améliorer les apprentissages.",
+   "contested": "Fortement contesté, et sur plusieurs fronts. (1) Le NAEP ne permet aucune inférence causale : la Louisiane a empilé sur la même période au moins trois politiques distinctes — la réforme du curriculum (à partir de 2012-2013), l'Act 108 de 2021 (SB216, sénateur Robert Mills) qui impose une formation continue en littératie précoce à certains enseignants, et l'Act 260 de 2023 (SB163, sénatrice Sharon Hewitt) qui impose une formation en numératie. Attribuer le gain au seul curriculum n'est pas identifiable. (2) Le gain est cantonné au primaire : sur les mêmes données NAEP, la Louisiane recule de 271,6 à 266,8 en mathématiques de 4e entre 2019 et 2024 (-4,8 points), et sa lecture de 4e est étale (257,4 → 256,5). Un système qui gagne en CM1 et perd en 4e ne « marche » pas au sens plein. (3) Les gains d'État en CM1 sont, aux États-Unis, systématiquement suspectés de refléter les politiques de non-promotion en CE2 ; je n'ai pas pu vérifier sur source primaire le contenu et la date d'entrée en vigueur d'une éventuelle règle louisianaise de ce type, et je m'abstiens donc d'affirmer qu'elle existe — mais l'objection doit être posée à quiconque avance ce chiffre.",
+   "sources": [
+    {
+     "author": "National Center for Education Statistics",
+     "title": "NAEP Data Service — moyennes de scores en lecture et mathématiques, grades 4 et 8, Louisiane et écoles publiques nationales, 2009-2024 (extraction directe)",
+     "org": "U.S. Department of Education, Institute of Education Sciences",
+     "year": "2026",
+     "url": "https://www.nationsreportcard.gov/DataService/GetAdhocData.aspx?type=data&subject=reading&grade=4&subscale=RRPCM&variable=TOTAL&jurisdiction=LA,NP&stattype=MN:MN&Year=2019,2024"
+    },
+    {
+     "author": "Louisiana State Legislature",
+     "title": "Act 108 (SB216, sénateur Robert Mills) — Requires early literacy professional development for certain teachers, session ordinaire 2021",
+     "org": "Louisiana State Legislature",
+     "year": "2021",
+     "url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=21RS&b=ACT108&sbi=y"
+    },
+    {
+     "author": "Louisiana State Legislature",
+     "title": "Act 260 (SB163, sénatrice Sharon Hewitt) — Requires numeracy professional development for certain teachers, session ordinaire 2023",
+     "org": "Louisiana State Legislature",
+     "year": "2023",
+     "url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=23RS&b=ACT260&sbi=y"
+    }
+   ]
+  },
+  {
+   "claim": "La réforme louisianaise n'a pas réduit les inégalités : sur la période centrale de la réforme, 7 des 8 écarts examinés sur le NAEP se sont creusés en Louisiane, alors que 7 des 8 mêmes écarts se réduisaient au niveau national.",
+   "what_it_is": "Analyse quantitative de RAND (2019) sur les résultats LEAP (évaluation d'État), NAEP et ACT de la Louisiane, examinant l'évolution des écarts entre élèves éligibles et non éligibles à la cantine gratuite ou à tarif réduit (proxy de pauvreté), et entre élèves noirs ou hispaniques et les autres.",
+   "evidence_level": "quasi-expérimental / corrélationnel (régressions avec contrôles, sans identification causale revendiquée)",
+   "effect_size": "Sur le NAEP, entre 2011 et 2017 : 7 des 8 écarts examinés se creusent en Louisiane ; sur le plan national, 7 des 8 écarts équivalents se réduisent. Sur le LEAP, creusement statistiquement significatif de l'écart entre élèves noirs ou hispaniques et les autres à partir de 2014. Population : élèves de Louisiane, primaire et secondaire.",
+   "concrete_practice": "Décomposer systématiquement les gains agrégés par sous-groupe socio-économique et ethnique, et comparer la trajectoire des écarts à la trajectoire nationale — faute de quoi une amélioration moyenne peut masquer une divergence.",
+   "concrete_example": "En 2019, Julia Kaufman, Elizabeth Steiner et Matthew Baird (RAND) ont apparié les résultats LEAP individuels de la Louisiane aux caractéristiques des élèves (éligibilité cantine, statut économique, éducation spécialisée, maîtrise de l'anglais) et à la composition de leur école. Ils constatent que les scores des élèves non pauvres et non noirs/non hispaniques remontent nettement entre 2016 et 2017, tandis que ceux des élèves noirs ou hispaniques déclinent légèrement mais régulièrement depuis 2014, produisant un creusement statistiquement significatif. Leur hypothèse explicative, testée sur les données du RAND American Teacher Panel 2017, est que les enseignants des écoles à forte proportion d'élèves pauvres ou minoritaires (au-delà du 75e centile) déclarent des pratiques pédagogiques différentes de leurs collègues — autrement dit, que l'accès au curriculum de qualité et à sa mise en œuvre fidèle est lui-même socialement inégal.",
+   "conditions": "Le constat vaut pour la période 2011-2017, c'est-à-dire la montée en charge de la réforme curriculaire, avant les mandats de formation de 2021 et 2023. Il n'est pas exclu que la trajectoire récente diffère, mais je n'ai pas trouvé d'analyse actualisée des écarts.",
+   "contested": "Les auteurs eux-mêmes n'attribuent pas causalement ce creusement à la réforme du curriculum : la comparabilité des scores LEAP dans le temps est limitée (changement de test), et ils écrivent explicitement ne pas pouvoir inférer de changements réels d'acquis. Un partisan de la réforme objectera que le curriculum de qualité est précisément l'outil qui égalise l'accès au contenu, et que le creusement observé traduit un défaut de mise en œuvre dans les écoles défavorisées, non un défaut de la politique. L'objection est plausible mais non testée. Pour une fédération patronale plaidant la réduction de l'écart social de 92 points PISA en FWB, la prudence s'impose : aucune donnée louisianaise ne permet d'annoncer un effet égalisateur du curriculum.",
+   "sources": [
+    {
+     "author": "Julia H. Kaufman, Elizabeth D. Steiner, Matthew D. Baird",
+     "title": "Raising the Bar for K-12 Academics: Early Signals on How Louisiana's Education Policy Strategies Are Working for Schools, Teachers, and Students (RR-2303-2)",
+     "org": "RAND Corporation",
+     "year": "2019",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR2300/RR2303z2/RAND_RR2303z2.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Ce qui produit un effet mesurable n'est pas le curriculum seul mais le curriculum enseigné : la méta-analyse de référence donne +0,21 écart-type pour les programmes de développement professionnel et de curriculum en STEM, et identifie comme facteur de réussite le fait d'apprendre aux enseignants à utiliser les ressources.",
+   "what_it_is": "Méta-analyse de 95 programmes expérimentaux et quasi-expérimentaux de développement professionnel et de curriculum en sciences, technologie, ingénierie et mathématiques, de la maternelle à la fin du secondaire, examinant quels contenus, activités et formats sont associés aux meilleurs résultats élèves.",
+   "evidence_level": "méta-analyse",
+   "effect_size": "Impact moyen pondéré de +0,21 écart-type sur les acquis des élèves, à travers des études conduites rigoureusement. Modérateurs associés à des effets plus forts : aider les enseignants à apprendre à utiliser les ressources du curriculum ; travailler les connaissances disciplinaires, les connaissances pédagogiques de contenu et la compréhension de la manière dont les élèves apprennent ; ateliers d'été ; réunions d'enseignants pour résoudre les problèmes de mise en œuvre. Population : élèves pré-K à terminale, États-Unis principalement.",
+   "concrete_practice": "Ne pas financer de la formation générique, mais de la formation adossée à la ressource que les enseignants vont effectivement utiliser, avec un temps massé (stage d'été) et un suivi collectif en cours d'année consacré aux problèmes concrets de mise en œuvre.",
+   "concrete_example": "Kathleen Lynch, Heather Hill, Kathryn Gonzalez et Cynthia Pollard ont codé 95 programmes selon leur contenu et leur format, puis régressé les tailles d'effet sur ces caractéristiques. C'est exactement l'architecture retenue par la Louisiane : la LDOE publie un catalogue de prestataires de formation et ne recommande que ceux qui ont établi un lien explicite entre leur offre et un curriculum coté Tier 1, en négociant avec eux plusieurs niveaux de prix pour que les districts puissent choisir. RAND note n'avoir trouvé « aucun autre exemple clair » de département d'État établissant ce lien entre prestataires de formation et curricula. C'est la pièce que les États qui se contentent de publier une liste de manuels n'ont pas.",
+   "conditions": "Les effets de 0,21 sont des moyennes d'essais souvent conduits à échelle limitée, avec des formateurs proches des concepteurs. La transposition exige un dispositif de formation à l'échelle : en FWB, l'IFPC est l'opérateur naturel, mais l'adossement de son catalogue à des ressources cotées n'existe pas aujourd'hui.",
+   "contested": "Le point faible est l'échelle. La méta-analyse de Kraft, Blazar et Hogan sur 60 études causales de coaching d'enseignants trouve 0,49 écart-type sur les pratiques et 0,18 sur les acquis, mais montre que les effets moyens des essais d'efficacité de grands programmes ne représentent « qu'une fraction » des effets trouvés dans les essais de petits programmes — la dégradation à l'échelle est la règle, pas l'exception. Les mêmes auteurs relèvent que l'essentiel des preuves provient de programmes de coaching en littératie au préscolaire et au primaire. Un dispositif FWB à 130 000 membres du personnel doit donc budgéter une perte d'effet substantielle par rapport aux essais publiés, et ne pas promettre 0,21.",
+   "sources": [
+    {
+     "author": "Kathleen Lynch, Heather C. Hill, Kathryn E. Gonzalez, Cynthia Pollard",
+     "title": "Strengthening the Research Base That Informs STEM Instructional Improvement Efforts: A Meta-Analysis",
+     "org": "Educational Evaluation and Policy Analysis",
+     "year": "2019",
+     "url": "https://doi.org/10.3102/0162373719849044"
+    },
+    {
+     "author": "Matthew A. Kraft, David Blazar, Dylan Hogan",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "org": "Review of Educational Research",
+     "year": "2018",
+     "url": "https://doi.org/10.3102/0034654318759268"
+    }
+   ]
+  },
+  {
+   "claim": "Un essai randomisé montre que donner aux enseignants l'accès à des séances de qualité prêtes à l'emploi relève les acquis de 0,06 écart-type, et de 0,09 si l'accès est accompagné — l'accompagnement vaut la moitié de l'effet total.",
+   "what_it_is": "Expérimentation de terrain randomisée : des enseignants de mathématiques de collège reçoivent aléatoirement soit rien, soit l'accès à une banque de séances de haute qualité déjà existantes en ligne, soit cet accès plus un soutien à leur utilisation.",
+   "evidence_level": "essai randomisé",
+   "effect_size": "Accès seul : +0,06 écart-type sur les acquis en mathématiques (significativité marginale). Accès plus soutien : +0,09 écart-type. Les gains sont plus importants pour les enseignants les moins performants, ce qui suggère que ces séances se substituent à la compétence ou à l'effort de l'enseignant. Population : élèves de collège aux États-Unis.",
+   "concrete_practice": "Plutôt que de produire un curriculum complet, mettre à disposition des séances déjà construites et validées, réduire le coût de recherche pour l'enseignant, et adjoindre un accompagnement minimal à l'usage.",
+   "concrete_example": "C. Kirabo Jackson et Alexey Makarin ont tiré au sort, parmi des enseignants de mathématiques de collège, ceux qui recevraient l'accès à des séances clés en main déjà disponibles en ligne, et parmi ceux-ci, ceux qui recevraient en plus un soutien à leur utilisation. Les élèves des enseignants ayant reçu accès et soutien progressent de 0,09 écart-type de plus que le groupe témoin. Les auteurs concluent que ces ressources en ligne sont « plus scalables et plus efficaces au regard du coût que la plupart des politiques visant à améliorer la qualité des enseignants », à condition que le coût de recherche soit surmonté. Le résultat sur les enseignants les plus faibles est directement pertinent pour un système comme la FWB confronté à une pénurie d'enseignants et à un recrutement affaibli : une ressource de qualité amortit la variance de compétence enseignante.",
+   "conditions": "L'effet suppose des séances réellement de meilleure qualité que ce que l'enseignant produirait, un format directement utilisable en classe, et un dispositif qui règle le coût de recherche et de sélection. Sans accompagnement, l'effet est marginalement significatif seulement.",
+   "contested": "Trois limites. L'essai porte sur un seul niveau et une seule discipline (mathématiques au collège), sur une plateforme spécifique, et sur une durée courte : rien n'établit la persistance des gains. La taille d'effet (0,06 à 0,09) est petite au regard de l'écart de 22 points PISA que la FWB accuse en mathématiques face à la Communauté flamande — il faudrait plusieurs leviers de cet ordre, cumulés et maintenus, pour en combler une part. Enfin, le fait que les gains soient concentrés chez les enseignants les plus faibles implique que l'effet moyen diminuera dans un système où la qualité de l'enseignement est déjà homogène.",
+   "sources": [
+    {
+     "author": "C. Kirabo Jackson, Alexey Makarin",
+     "title": "Can Online Off-the-Shelf Lessons Improve Student Outcomes? Evidence from a Field Experiment",
+     "org": "American Economic Journal: Economic Policy",
+     "year": "2018",
+     "url": "https://doi.org/10.1257/pol.20170211"
+    }
+   ]
+  },
+  {
+   "claim": "L'argument budgétaire est le plus solide de tout le dossier : le ratio coût-efficacité du changement de curriculum a été estimé à environ 40 fois celui de la réduction de la taille des classes, l'écart de prix entre le curriculum le plus cher et le moins cher d'un essai fédéral n'étant que de 13 dollars par élève.",
+   "what_it_is": "Analyse coût-efficacité du Center for American Progress appliquant les tailles d'effet des essais sur les curricula aux prix réels des programmes, et les comparant à l'expérience randomisée de réduction de la taille des classes (projet STAR au Tennessee).",
+   "evidence_level": "quasi-expérimental (analyse coût-efficacité dérivée d'essais randomisés)",
+   "effect_size": "Ratio coût-efficacité du changement de curriculum environ 40 fois supérieur à celui de la réduction de la taille des classes dans une expérience randomisée de référence. Écart de prix entre le produit le plus cher et le moins cher de l'étude fédérale : 13 dollars par élève ; prix d'un curriculum de mathématiques élémentaire de qualité supérieure : environ 36 dollars par élève.",
+   "concrete_practice": "Comparer explicitement, dans la décision budgétaire, le coût par écart-type gagné : le manuel est un poste déjà budgété, changer de manuel modifie une dépense existante au lieu d'en créer une nouvelle.",
+   "concrete_example": "Ulrich Boser, Matthew Chingos et Chelsea Straus ont rapporté, en octobre 2015, les effets mesurés par l'essai fédéral sur les quatre curricula de mathématiques aux prix catalogue réels de ces mêmes curricula. Le produit le plus cher de l'essai ne coûtait que 13 dollars par élève de plus que le moins cher, pour un écart d'acquis pouvant atteindre 0,17 écart-type — alors que réduire la taille des classes suppose d'embaucher des enseignants et de construire des locaux. Cette arithmétique est précisément celle qu'exploite la Louisiane : Eureka Math était disponible gratuitement en ligne via la plateforme EngageNY financée par l'État de New York, tout en existant en version imprimée chez Great Minds, et 92 des 99 produits louisianais cotés Tier 1 bénéficient aujourd'hui d'un prix contractuel négocié par l'État. Koedel et ses co-auteurs formulent le même constat pour la Californie : l'effet du meilleur manuel « peut être obtenu à un coût marginal effectivement nul ».",
+   "conditions": "Le raisonnement ne tient que si l'effet différentiel existe réellement dans le marché considéré. Si les ressources disponibles sont de qualité homogène, le ratio coût-efficacité, même excellent, s'applique à un numérateur nul.",
+   "contested": "C'est l'argument le plus repris et le plus fragile dans son numérateur. Il mobilise des tailles d'effet (0,17) issues d'un essai portant sur des écoles très défavorisées, sur des curricula antérieurs à la standardisation du marché, et retient l'écart maximal entre programmes. Le résultat nul de Blazar et al. (2020) rend ce ratio non défendable dans un marché déjà aligné. De plus, l'analyse ne compte que le prix d'achat des supports : elle omet le coût de la formation continue adossée, qui est en réalité la condition de l'effet d'après la méta-analyse de Lynch et al. Un chiffrage FWB honnête doit intégrer le coût de formation, non le prix du manuel seul.",
+   "sources": [
+    {
+     "author": "Ulrich Boser, Matthew M. Chingos, Chelsea Straus",
+     "title": "The Hidden Value of Curriculum Reform: Do States and Districts Receive the Most Bang for Their Curriculum Buck?",
+     "org": "Center for American Progress",
+     "year": "2015",
+     "url": "https://www.americanprogress.org/article/the-hidden-value-of-curriculum-reform/"
+    },
+    {
+     "author": "Cory Koedel, Diyi Li, Morgan S. Polikoff, Tenice Hardaway, Stephani L. Wrabel",
+     "title": "Mathematics Curriculum Effects on Student Achievement in California",
+     "org": "AERA Open",
+     "year": "2017",
+     "url": "https://doi.org/10.1177/2332858417690511"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation indépendante des ressources est devenue une infrastructure de marché aux États-Unis : EdReports a publié 1 021 rapports par niveau, mobilise 881 évaluateurs et environ 100 heures de travail par rapport, et revendique un usage par des districts scolarisant plus de 15 millions d'élèves.",
+   "what_it_is": "EdReports est une organisation à but non lucratif qui évalue publiquement l'alignement et la qualité pédagogique des manuels de mathématiques, de français, de sciences et de lecture fondamentale, selon une procédure par étapes (gateways), et publie gratuitement les rapports.",
+   "evidence_level": "descriptif",
+   "effect_size": "Sans objet (indicateurs d'activité, non d'impact). 1 021 rapports par niveau publiés depuis un démarrage en 2015 avec 87 revues de mathématiques K-8 ; 881 évaluateurs répartis sur les 50 États et le District de Columbia ; environ 100 heures de travail par rapport ; districts scolarisant plus de 15 millions d'élèves déclarés utilisateurs ; 98 des 200 plus grands districts du pays documentés comme utilisateurs.",
+   "concrete_practice": "Un tiers indépendant, extérieur à l'administration et aux éditeurs, évalue les ressources contre des critères publics et publie le résultat ; les autorités et les écoles s'en servent pour acheter.",
+   "concrete_example": "Quand la Louisiane a lancé ses revues par tiers, EdReports avait examiné 26 programmes de mathématiques K-8 et n'en avait retenu que deux — Bridges in Mathematics et Eureka Math — comme alignés au Common Core à tous les niveaux et sur les deux dimensions évaluées (focalisation et cohérence d'une part, rigueur et pratiques mathématiques d'autre part). En français, sur sept séries examinées pour les niveaux 3 à 8, trois seulement (Amplify ELA, Expeditionary Learning, ReadyGEN) satisfaisaient toutes les exigences à tous les niveaux. Ce taux de rejet très élevé est le fait structurant : sans évaluation indépendante, aucun acheteur ne pouvait savoir que la majorité des produits vendus comme « alignés » ne l'étaient pas. Dix ans plus tard, le rapport de revue de la Louisiane compte 99 produits Tier 1 sur 152 soumissions — le marché s'est effectivement déplacé, mais la capacité de discrimination du dispositif a diminué d'autant.",
+   "conditions": "Exige un financement indépendant durable, un vivier d'évaluateurs crédibles auprès de la profession, et un référentiel de qualité stable et public. La FWB n'a aucun de ces trois éléments aujourd'hui pour ses ressources pédagogiques.",
+   "contested": "Trois critiques sérieuses. (1) Les chiffres cités sont produits par EdReports sur sa propre page « impact » : ce sont des indicateurs d'activité et d'usage auto-déclarés, pas une évaluation externe de son influence causale sur les achats ou les acquis. Je n'ai pas pu vérifier ses bailleurs sur source primaire et je m'abstiens de les nommer. (2) Les revues mesurent l'alignement aux standards, pas l'efficacité mesurée sur les élèves : un produit « Meets Expectations » n'a pas été démontré supérieur par un essai. (3) La convergence du marché qu'elles ont provoquée est précisément ce qui, selon Blazar et al., a fait disparaître l'effet différentiel des manuels — le succès de l'instrument a érodé son propre rendement. Morgan Polikoff, l'un des principaux chercheurs du domaine, a publié en 2021 un ouvrage entier (Beyond Standards, Harvard Education Press) plaidant pour la réforme par le curriculum tout en documentant la fragmentation de la gouvernance qui en empêche l'effet.",
+   "sources": [
+    {
+     "author": "EdReports",
+     "title": "Our Impact (rapports publiés, évaluateurs, usage par les districts)",
+     "org": "EdReports.org",
+     "year": "2026",
+     "url": "https://www.edreports.org/impact"
+    },
+    {
+     "author": "Julia H. Kaufman, Lindsey E. Thompson, V. Darleen Opfer",
+     "title": "Creating a Coherent System to Support Instruction Aligned with State Standards: Promising Practices of the Louisiana Department of Education (RR-1613)",
+     "org": "RAND Corporation",
+     "year": "2016",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1600/RR1613/RAND_RR1613.pdf"
+    },
+    {
+     "author": "Morgan S. Polikoff",
+     "title": "Beyond Standards: The Fragmentation of Education Governance and the Promise of Curriculum Reform",
+     "org": "Harvard Education Press (recension : Journal of School Choice)",
+     "year": "2021",
+     "url": "https://doi.org/10.1080/15582159.2021.1992741"
+    }
+   ]
+  },
+  {
+   "claim": "La qualité des manuels a aussi été reliée aux acquis dans un système scolaire d'Europe continentale : en Allemagne, sur plus de 1 400 élèves suivis trois ans, la qualité du manuel de mathématiques a un effet substantiel sur l'expertise adaptative en calcul — mais l'effet croît avec les connaissances préalables de l'élève.",
+   "what_it_is": "Série d'études allemandes appariant une analyse fine des opportunités d'apprentissage offertes par quatre manuels de mathématiques de première année primaire à des données longitudinales d'élèves, au moyen d'analyses multiniveaux.",
+   "evidence_level": "quasi-expérimental (analyse multiniveaux sur données longitudinales non randomisées)",
+   "effect_size": "Étude longitudinale sur trois ans, 1 404 élèves de 82 classes : « effet substantiel » de la qualité du manuel sur l'expertise adaptative en addition et soustraction à plusieurs chiffres en fin de troisième année ; les auteurs ne fournissent pas de coefficient standardisé dans le résumé accessible et je ne peux donc pas donner de chiffre. Étude complémentaire : 1 513 élèves de 84 classes, relation significative entre qualité didactique spécifique du manuel et réussite sur les comparaisons quantitatives. Une interaction inter-niveaux indique que l'effet de la qualité du manuel augmente avec les connaissances arithmétiques préalables de l'élève.",
+   "concrete_practice": "Analyser les manuels non sur leur conformité formelle au programme mais sur les opportunités d'apprentissage qu'ils offrent réellement pour une compétence précise (ici, la flexibilité stratégique en calcul), puis relier cette analyse aux performances des élèves des classes qui les utilisent.",
+   "concrete_example": "Henning Sievert, Ann-Katrin van den Ham, Inga Niedermeyer et Aiso Heinze (Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik, Kiel) ont codé le contenu de quatre manuels allemands de première année primaire pour identifier combien d'occasions chacun offrait de développer une expertise adaptative en addition et soustraction, puis ont analysé, sur une cohorte longitudinale de 1 404 élèves répartis dans 82 classes, si les élèves des classes utilisant les manuels les plus riches en ces occasions développaient une meilleure flexibilité de calcul après trois ans de scolarité. Ils constatent à la fois de fortes disparités de qualité entre manuels d'un même marché national et une relation significative avec les acquis. Une étude parallèle sur 1 513 élèves de 84 classes obtient le même type de résultat pour la modélisation des comparaisons de quantités.",
+   "conditions": "Ces études supposent un marché national où plusieurs manuels coexistent avec des différences réelles de conception didactique — ce qui est le cas en Allemagne, et probablement en FWB. Elles supposent aussi une expertise didactique capable de coder finement les manuels : en Allemagne, c'est un institut de recherche public dédié à la didactique des mathématiques et des sciences.",
+   "contested": "Devis non randomisé : les classes ne sont pas assignées aléatoirement à un manuel, et le choix du manuel peut refléter la formation ou les convictions didactiques de l'enseignant, qui affectent aussi les acquis. Les auteurs contrôlent les connaissances préalables mais pas la qualité de l'enseignant. Le résultat le plus dérangeant pour un plaidoyer d'équité est l'interaction inter-niveaux : l'effet du bon manuel augmente avec le niveau préalable de l'élève, ce qui signifie qu'un meilleur manuel pourrait creuser l'écart plutôt que le réduire — cohérent avec le creusement des écarts observé en Louisiane et directement contraire à l'usage que l'on serait tenté de faire de ce levier en FWB.",
+   "sources": [
+    {
+     "author": "Henning Sievert, Ann-Katrin van den Ham, Inga Niedermeyer, Aiso Heinze",
+     "title": "Effects of mathematics textbooks on the development of primary school children's adaptive expertise in arithmetic",
+     "org": "Learning and Individual Differences",
+     "year": "2019",
+     "url": "https://doi.org/10.1016/j.lindif.2019.02.006"
+    },
+    {
+     "author": "Henning Sievert, Ann-Katrin van den Ham, Aiso Heinze",
+     "title": "The role of textbook quality in first graders' ability to solve quantitative comparisons: a multilevel analysis",
+     "org": "ZDM – Mathematics Education",
+     "year": "2021",
+     "url": "https://doi.org/10.1007/s11858-021-01266-x"
+    }
+   ]
+  },
+  {
+   "claim": "Le récit « la Louisiane prouve que le curriculum fonctionne » doit être manié avec précaution : il n'existe aucune évaluation causale de la réforme, et son principal porte-parole public dirige aujourd'hui l'éditeur des curricula qu'il a fait coter Tier 1.",
+   "what_it_is": "Examen critique de la base probante réellement disponible sur la Louisiane et de l'économie politique de sa diffusion internationale.",
+   "evidence_level": "descriptif",
+   "effect_size": "Sans objet. Constat d'absence : aucune estimation causale (essai randomisé, différence-en-différences, contrôle synthétique) de l'effet de la politique curriculaire louisianaise sur les acquis n'a pu être identifiée dans cette revue.",
+   "concrete_practice": "Avant d'importer un modèle, distinguer ce qui est documenté (l'architecture institutionnelle, l'usage des ressources par les enseignants, les trajectoires de scores) de ce qui est inféré (l'attribution causale) et de ce qui est plaidé (le récit de réforme).",
+   "concrete_example": "Le 26 février 2025, le Thomas B. Fordham Institute a consacré un épisode de son podcast « The Education Gadfly Show » (n°958) aux gains NAEP de la Louisiane et au « pouvoir d'un curriculum fort », avec pour invité John White, ancien superintendant de l'État — et, comme l'indique la page de l'épisode, actuel directeur général de Great Minds PBC. Or Great Minds PBC est l'éditeur d'Eureka Math, d'Eureka Math Squared et de Wit & Wisdom, tous cotés Tier 1 par la Louisiane et présents comme tels dans le rapport de revue de l'État. Du côté académique, les trois rapports RAND successifs (2016, 2018, 2019) sont explicitement descriptifs : celui de 2019 indique que les données d'acquis ne peuvent pas servir à inférer un changement réel imputable aux actions de l'État, et constate par ailleurs un creusement des écarts. L'écart entre la solidité du récit et la solidité de la preuve est considérable.",
+   "conditions": "Ce constat ne disqualifie pas la politique louisianaise : il indique que son statut probant est celui d'une hypothèse institutionnelle plausible et bien documentée, pas d'un résultat démontré. Une note de position honnête doit le dire, sous peine d'être disqualifiée par la première contradiction technique.",
+   "contested": "On objectera, à juste titre, qu'une réforme systémique déployée sur tout un État est par construction difficile à évaluer causalement, et que l'absence de preuve n'est pas preuve d'absence. C'est exact — mais c'est vrai symétriquement de tous les leviers concurrents, et cela retire à la Louisiane son statut d'argument d'autorité. Deux arguments extérieurs renforcent la prudence : Blazar et al. (2020) ne trouvent pas d'effet du changement de manuel sur six États, et RAND observe que les écarts sociaux et ethniques se sont creusés en Louisiane pendant la réforme. À l'inverse, le fait que la Louisiane soit le seul État à dépasser son niveau de lecture de 2019 en 2024 est un fait brut, vérifiable sur les données du NAEP, que les sceptiques du curriculum n'ont pas expliqué autrement de manière documentée.",
+   "sources": [
+    {
+     "author": "John White, David Griffith, Amber M. Northern",
+     "title": "#958: Louisiana's NAEP gains and the power of a strong curriculum, with John White (The Education Gadfly Show, 26 février 2025)",
+     "org": "Thomas B. Fordham Institute",
+     "year": "2025",
+     "url": "https://fordhaminstitute.org/national/resources/958-louisianas-naep-gains-and-power-strong-curriculum-john-white"
+    },
+    {
+     "author": "Julia H. Kaufman, Elizabeth D. Steiner, Matthew D. Baird",
+     "title": "Raising the Bar for K-12 Academics: Early Signals on How Louisiana's Education Policy Strategies Are Working for Schools, Teachers, and Students (RR-2303-2)",
+     "org": "RAND Corporation",
+     "year": "2019",
+     "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR2300/RR2303z2/RAND_RR2303z2.pdf"
+    },
+    {
+     "author": "Louisiana Department of Education",
+     "title": "Comprehensive Tiered Review Report (produits Great Minds PBC cotés Tier 1 : Eureka Math Squared K-5, Wit & Wisdom K-5)",
+     "org": "Louisiana Department of Education",
+     "year": "2026",
+     "url": "https://doe.louisiana.gov/docs/default-source/curricular-resources/comprehensive-tiered-review-report.xlsx"
+    }
+   ]
+  }
+ ]
+}

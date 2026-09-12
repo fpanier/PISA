@@ -1,0 +1,489 @@
+{
+ "topic": "Sobral et l'État du Ceará (Brésil) : une réforme scolaire à budget contraint, du diagnostic de lecture à la mise à l'échelle par financement lié aux résultats",
+ "headline": "Sobral puis le Ceará ont fait passer un système scolaire pauvre du bas au sommet du classement brésilien en vingt ans, non par un levier unique mais par un assemblage cohérent — cible unique d'alphabétisation en fin de 2e année, évaluation externe annuelle censitaire servant de boucle de rétroaction pédagogique, matériel structuré, directions recrutées sur critères techniques, et transferts fiscaux généraux aux communes indexés sur les apprentissages — avec des effets causaux vérifiés mais modestes (0,10 à 0,18 écart-type), une dépense par élève inférieure à la moyenne nationale, et un plafond net : rien de tout cela n'a fait progresser le lycée.",
+ "searches_run": 26,
+ "transposability_fwb": "Ce qui se transpose et ce qui ne se transpose pas à la Fédération Wallonie-Bruxelles.\n\nTRANSPOSABLE AVEC PEU D'ADAPTATION. (1) Le diagnostic externe de lecture en 1re-2e primaire, rendu public et « scandaleux », comme acte politique fondateur : il coûte peu (environ 3 USD par élève et par passation à Sobral en 2019, soit 650 000 USD pour toute une commune de 33 000 élèves) et ne requiert aucune modification institutionnelle. (2) La cible intermédiaire unique, courte et vérifiable — « tous lisent à la fin de la 2e année » — atteinte en quatre ans à Sobral, donc dans une législature : c'est le seul élément du dossier qui résout le problème politique d'une réforme à horizon de douze ans comme le Pacte. (3) Le matériel séquencé avec plans de leçon et la formation continue mensuelle ancrée sur la classe, assurée par des enseignants expérimentés du réseau et non par des universitaires (ESFAPEGE) : 660 USD par enseignant et par an à Sobral en 2019. (4) La boucle de rétroaction en cascade (résultats → réunion réseau → visite d'école → réunion direction/coordinateur → réunion équipe enseignante), qui est la vraie innovation organisationnelle et coûte surtout du temps de cadre intermédiaire. (5) Le mentorat entre pairs incité (Escola Nota 10) : environ 7 200 USD par versement et par école, moins de 5 % du budget d'une école, pour +0,18 écart-type sur l'école faible sans dégrader l'école mentor — le rapport coût/effet le plus favorable de tout le dossier, et il ne passe par aucun pilotage central des personnels.\n\nNON TRANSPOSABLE TEL QUEL. (1) Le cœur du modèle du Ceará est un mécanisme fiscal : 18 % de la quote-part d'ICMS — un impôt d'État, non affecté, redistribué aux communes — réalloué selon les apprentissages (loi 14.023/2007), pouvant représenter plus du tiers des recettes totales d'une commune pauvre. La FWB n'a ni impôt propre de cette nature, ni pouvoir de redistribution discrétionnaire d'une masse comparable vers des entités autonomes ; le rapport de la Banque mondiale lui-même pose la décentralisation de la gestion des écoles comme condition nécessaire du dispositif et note qu'« un gouvernement central ne peut pas s'inciter financièrement lui-même ». Le levier équivalent en FWB ne peut donc être qu'une réallocation entre pouvoirs organisateurs, ce qui heurte frontalement la liberté d'enseignement et la logique de dotations par élève. (2) Le recrutement des directions sur concours technique en cinq épreuves, avec remplacement de deux tiers des directions en une année (Sobral, 2001) et renouvellement intégral entre 2011 et 2016, suppose que l'employeur puisse nommer et révoquer — impossible dans un système à pouvoirs organisateurs multiples où la FWB n'est pas l'employeur. (3) Le préalable de Sobral — annulation de 1 000 contrats d'enseignants sur environ 3 000, soit un tiers du corps, juridiquement possible parce qu'ils avaient été recrutés hors procédure méritocratique — est un acte inimaginable et probablement contre-productif dans un système en pénurie d'enseignants. (4) Les primes individuelles liées aux résultats (30 % du salaire pour les classes d'alphabétisation) sont le point le plus contesté du dossier, explicitement critiqué par les universitaires selon la Banque mondiale elle-même, et n'ont jamais fait l'objet d'une évaluation causale isolée à Sobral.\n\nCE QUE LE CAS DIT DE LA CONTRAINTE BUDGÉTAIRE. Sobral a atteint le premier rang national en dépensant 1 340 USD par élève contre une moyenne brésilienne de 2 184 USD, avec un taux d'encadrement plus dégradé que la moyenne (28,9 élèves par enseignant contre 20,3 au Brésil). Le message utile pour une note à contrainte budgétaire forte n'est pas « dépenser plus » mais « réallouer vers l'information sur les apprentissages et l'encadrement pédagogique intermédiaire, en acceptant des classes plus chargées ». Ce message est toutefois à manier avec prudence : il est tiré d'un système parti de très bas, où les rendements marginaux d'un enseignement explicite structuré sont mécaniquement plus élevés qu'en Europe continentale, et où la comparaison internationale disponible (PISA for Schools 2017 : 375 points en mathématiques à Sobral contre 490 dans l'OCDE) montre que l'excellence nationale brésilienne reste très loin des standards européens.\n\nCE QUE LE CAS DIT SUR LE REDOUBLEMENT. Le dossier est indirectement pertinent pour les 35 % de redoublants à 15 ans en FWB : le Ceará a réglé le problème en amont, par l'alphabétisation à l'âge correct et non par une interdiction du redoublement. Le décalage âge-classe est passé à Sobral de 32 % à 2 % en primaire et de 74 % à 4 % en secondaire inférieur entre 2001 et 2018, sans politique de promotion automatique, par la prévention de l'échec en lecture en 1re et 2e année. Attention toutefois : l'indice IDEB qui structure tout le système intègre les taux de passage, ce qui crée une incitation directe à ne pas faire redoubler — un biais de mesure qu'il faudrait neutraliser dans toute transposition.\n\nCE QUE LE CAS DIT SUR LA DURÉE ET LA GOUVERNANCE. Le mécanisme d'ICMS a survécu à plusieurs alternances et continue d'être recalibré (lois 17.320/2020, 17.540/2021, 18.189/2022 ; décrets 36.330/2024 et 37.051/2025), ce qui est l'argument le plus solide du dossier en faveur d'une institutionnalisation juridique de la réforme plutôt que d'un pilotage par plan. À l'inverse, la personnalisation extrême du cas — la même famille politique (Cid puis Ivo Gomes) à la mairie de Sobral puis au gouvernorat de l'État — est exactement ce qui ne se reproduit pas sur commande, et devrait interdire de présenter Sobral comme un modèle clé en main.",
+ "items": [
+  {
+   "claim": "Un diagnostic externe de lecture, conçu hors administration et rendu public de façon délibérément brutale, a été le déclencheur politique de la réforme de Sobral — et non un plan stratégique préalable.",
+   "what_it_is": "Une évaluation externe de la capacité à lire, commandée par la commune à un consultant indépendant (Edgar Linhares), passée en 2000 puis étendue début 2001 à tous les élèves entrant en 2e, 3e et 4e année, dont les résultats ont été communiqués à la radio par le maire lui-même.",
+   "evidence_level": "descriptif (étude de cas documentaire, sans évaluation contrefactuelle du diagnostic lui-même)",
+   "effect_size": "non disponible pour le diagnostic pris isolément ; les résultats du diagnostic sont eux-mêmes les chiffres : 48 % des élèves de 2e année incapables de lire en 2000 (échantillon de 75 % des élèves), puis 60 % des entrants en 2e année, 40 % en 3e et 20 % en 4e sur environ 12 000 élèves testés fin 2000",
+   "concrete_practice": "La commune n'a pas conçu l'évaluation en interne : elle n'en avait pas la capacité (la Banque mondiale note qu'avant 1997 Sobral n'avait « aucune capacité interne pour évaluer les compétences en lecture, identifier les pratiques pédagogiques à changer, ni former les enseignants »). Elle a acheté une expertise externe, qui a ensuite structuré la politique d'alphabétisation, conçu les évaluations et formé les 100 premiers enseignants. Le maire est allé annoncer l'échec sur les radios locales, avec un message unique : les bâtiments sont neufs, les élèves n'apprennent pas.",
+   "concrete_example": "Entre 1997 et 2000, l'administration de Cid Gomes à Sobral avait investi dans les bâtiments, les repas, le transport scolaire, et fait passer les inscriptions du réseau municipal de 9 000 à 17 000 élèves entre 1996 et 1999. Un partenariat avec l'Instituto Ayrton Senna lancé en 1996 visait à réduire le décalage âge-classe, qui touchait 83 % des élèves avec deux ans de retard ou plus. Trois ans plus tard, l'évaluation montrait que rien n'avait bougé. C'est le second diagnostic, portant sur environ 12 000 élèves fin 2000, qui a établi que 60 % des entrants en 2e année ne savaient pas lire — la définition retenue étant « ne reconnaît aucun son dans les mots, même s'il reconnaît le nom des lettres ». Sumiya et al. (2017), cités par McNaught, écrivent que « sans ces données, les responsables de la politique éducative de la commune croyaient faire du bon travail, principalement parce qu'ils avaient augmenté les salaires des enseignants et construit de belles écoles ».",
+   "conditions": "Trois conditions apparaissent nécessaires : (1) le diagnostic doit être externe à l'administration évaluée, sinon il est négociable ; (2) il doit porter sur une compétence dont l'échec est indiscutable (savoir lire), pas sur un indicateur composite ; (3) il doit être rendu public par l'autorité politique elle-même, qui assume ainsi l'échec de sa propre politique antérieure d'investissement en inputs. McNaught souligne que l'administration n'a adopté cette approche qu'au second mandat, après l'échec avéré de la stratégie d'inputs du premier.",
+   "contested": "Les chiffres du diagnostic divergent entre sources primaires : la Banque mondiale (Cruz et Loureiro, 2020) écrit « 40 % des élèves de 3e année ne savaient pas lire un mot simple » et « 40 % des élèves du primaire n'étaient pas capables de lire », tandis que l'INEP (2005) repris par McNaught (2022) donne 48 % en 2e année en 2000 puis 60 %/40 %/20 % début 2001. Cette divergence, sur le fait fondateur du récit, n'est expliquée par aucune des deux sources. Par ailleurs, aucune des deux ne constitue une évaluation causale : l'attribution de la suite au diagnostic relève de la reconstruction narrative a posteriori, et Sumiya et al. (2017) analysent d'ailleurs l'entrée du sujet à l'agenda par le modèle de Kingdon, c'est-à-dire comme une conjonction contingente et non comme une séquence causale reproductible.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil (RISE Insight Note, DOI 10.35489/bsg-rise-ri_2022/039)",
+     "org": "RISE Programme, Blavatnik School of Government, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    },
+    {
+     "author": "Lilia Asuca Sumiya, Maria Arlete Duarte de Araujo, Hironobu Sano",
+     "title": "A hora da alfabetização no Ceará: o PAIC e suas múltiplas dinâmicas",
+     "org": "Education Policy Analysis Archives, vol. 25",
+     "year": "2017",
+     "url": "https://doi.org/10.14507/epaa.25.2641"
+    }
+   ]
+  },
+  {
+   "claim": "Le choix d'une cible intermédiaire unique, courte et vérifiable — tous les élèves lisent à la fin de la 2e année — est ce qui a permis d'aligner un système entier en quatre ans, c'est-à-dire dans la durée d'un mandat.",
+   "what_it_is": "Une cible d'apprentissage unique, fixée début 2001 à Sobral puis reprise par l'État du Ceará en 2007 sous le nom de PAIC (Pacto pela Alfabetização na Idade Certa), qui sert simultanément de critère d'évaluation, d'objet de la formation des enseignants, de base des primes et de composante principale de la formule de financement des communes.",
+   "evidence_level": "quasi-expérimental pour l'effet du programme d'État (PAIC) ; descriptif pour le mécanisme d'alignement lui-même",
+   "effect_size": "PAIC au Ceará : +0,10 écart-type en portugais et +0,18 écart-type en mathématiques en 5e année (Costa et Carnoy, 2015, triples différences, écoles municipales du Ceará vs États limitrophes). À Sobral, la part d'élèves de 6 ans sachant lire des phrases passe de 33,7 % en 2001 à 88,9 % en 2004, et celle des élèves de 7 ans lisant un texte avec aisance de 49,1 % à 91,7 % (Maia, 2006).",
+   "concrete_practice": "La cible n'est pas un slogan : elle est opérationnalisée. Les élèves de 1re et 2e année passent deux fois par an une épreuve orale de fluence en lecture (vitesse, précision, prosodie) sur listes de mots, phrases et textes. Les élèves de 3e à 5e année déjà en échec sont regroupés en petits groupes selon leur niveau de lecture réel, avec cours supplémentaires et suivi individuel. Au niveau de l'État, une épreuve censitaire annuelle en 2e année (SPAECE-Alfa) mesure la cible pour toutes les écoles publiques du Ceará, et alimente directement la formule de répartition fiscale.",
+   "concrete_example": "À Sobral, sept objectifs avaient été fixés début 2001, mais la priorité absolue portait sur les deux premiers (alphabétiser en 1re année ; rattraper les élèves de 2e à 4e année). Les cibles 1 (alphabétisation) et 4 (abandon sous 5 %) ont été atteintes en quatre ans : dès 2005, tous les élèves étaient alphabétisés en fin de 2e année et l'abandon en primaire était sous 5 %. Les cibles 2 et 3 (rattrapage des retardataires et suppression du décalage âge-classe) ont demandé huit ans et ont été atteintes en 2009. Le décalage âge-classe est passé de 32 % (2001) à 2 % (2018) en primaire et de 74 % à environ 4 % en secondaire inférieur ; l'abandon en secondaire inférieur, de 21 % en 2001 à pratiquement zéro en 2018. Au niveau de l'État, le PAIC a été précédé d'un pilote 2005-2006 dans 56 communes financé par l'UNICEF, avec l'union des secrétaires municipaux (UNDIME) et l'association des maires (APRECE), avant reprise par le gouvernement de l'État en 2007.",
+   "conditions": "La Banque mondiale explicite la logique politique : « politiquement, les cibles d'alphabétisation fournissent des résultats à court terme atteignables dans un mandat d'administration ». La cible doit donc être (a) fondamentale d'un point de vue pédagogique — sans lecture, rien d'autre ne s'apprend ; (b) mesurable par une épreuve simple et peu coûteuse ; (c) atteignable dans un cycle électoral. Elle sert de point d'entrée qui « renforce l'encadrement intermédiaire, promeut la méritocratie, installe les incitations et structure l'évaluation externe », à partir de quoi les autres niveaux et matières peuvent être construits.",
+   "contested": "Le rapport Costa et Carnoy (2015) conclut lui-même que le PAIC n'a pas réduit l'écart entre les élèves ayant fréquenté l'école maternelle et les autres — la cible d'alphabétisation ne compense donc pas les inégalités d'origine préscolaire, ce qui est directement pertinent pour un système à fort écart social. Par ailleurs, le focus sur une compétence unique est critiqué dans la littérature brésilienne critique sur le SPAECE, qui y voit un rétrécissement du curriculum et un instrument de contrôle du travail enseignant plutôt qu'un outil pédagogique (Revista de Instrumentos, Modelos e Políticas em Avaliação Educacional, 2024). Enfin, je n'ai pas pu retrouver dans cette session l'article original de Costa et Carnoy en texte intégral : les tailles d'effet de 0,10 et 0,18 écart-type sont citées d'après la note de la Banque mondiale de Goldemberg, Bacalhau et Lautharte (2020), et non vérifiées sur l'article source, dont seul le résumé (via ERIC) a pu être consulté.",
+   "sources": [
+    {
+     "author": "Leandro Oliveira Costa, Martin Carnoy",
+     "title": "The Effectiveness of an Early-Grade Literacy Intervention on the Cognitive Achievement of Brazilian Students",
+     "org": "Educational Evaluation and Policy Analysis, 37(4), 567-590",
+     "year": "2015",
+     "url": "https://doi.org/10.3102/0162373715571437"
+    },
+    {
+     "author": "Leandro Oliveira Costa, Martin Carnoy",
+     "title": "Notice ERIC EJ1084499 (résumé : approche en triples différences, effet positif en portugais et en mathématiques, mais pas de réduction de l'écart lié à la fréquentation préscolaire)",
+     "org": "ERIC, Institute of Education Sciences",
+     "year": "2015",
+     "url": "https://eric.ed.gov/?id=EJ1084499"
+    },
+    {
+     "author": "Diana Goldemberg, Priscilla Bacalhau, Ildo José Lautharte Junior",
+     "title": "Can Peer Mentoring Coupled with Incentives Affect School Turnaround? Evidence from Ceará State in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/996321595484841150/Can-Peer-Mentoring-Coupled-with-Incentives-Affect-School-Turnaround-Evidence-from-Ceara-State-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught (citant Maurício Holanda Maia, 2006)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le levier structurant du Ceará n'est ni pédagogique ni managérial mais fiscal : 18 % de la quote-part d'un impôt d'État est redistribuée aux communes selon les apprentissages, sans affectation à l'éducation — ce qui fait du maire, et non du seul échevin de l'enseignement, le responsable des résultats scolaires.",
+   "what_it_is": "La loi de l'État du Ceará 14.023/2007 a changé les critères de répartition de la quote-part communale de l'ICMS (taxe sur la circulation des marchandises et services). Auparavant fondée sur la population et le revenu, elle est devenue entièrement fondée sur les résultats en éducation, santé et environnement, l'éducation pesant 72 % de l'enveloppe, soit 18 % du total de l'ICMS reçu par une commune.",
+   "evidence_level": "quasi-expérimental (plusieurs évaluations indépendantes : contrôle synthétique, différences en différences, discontinuité) ; le dispositif lui-même est documenté par la législation et par l'institut public qui l'opère",
+   "effect_size": "Ponne (2023, contrôle synthétique, données 1995-2019) : incitation fiscale combinée à l'assistance technique, +12 % sur les scores de portugais en primaire et +6,5 % en secondaire inférieur ; effets de même sens en mathématiques mais non statistiquement significatifs ; aucun effet au niveau du lycée. Montants : les transferts liés aux résultats passent de 283,1 millions de R$ en 2009 à 484,5 millions en 2017 (prix constants 2017), soit plus de 100 millions USD par an ; pour certaines communes pauvres, plus d'un tiers des recettes totales (jusqu'à 70 % certaines années).",
+   "concrete_practice": "L'indice de qualité de l'éducation (IQE) combine le niveau et la progression de trois indicateurs : l'alphabétisation en 2e année (SPAECE-Alfa), les résultats en lecture et mathématiques en 5e année, et le taux de passage de la 1re à la 5e année. Trois dispositifs anti-triche sont intégrés à la formule : le score moyen est multiplié par le taux de participation à l'épreuve (empêche d'écarter les élèves faibles), et pondéré par une mesure d'égalité interne (à l'origine l'inverse d'un demi écart-type des scores, puis une combinaison des proportions d'élèves par niveau de maîtrise), ce qui pénalise toute stratégie consistant à ne faire progresser qu'un sous-groupe. La pondération donnait à l'origine deux tiers à l'alphabétisation et un tiers au primaire, avec un poids élevé sur la progression pour que les communes les plus faibles aient une chance réelle ; elle a ensuite été rééquilibrée vers les niveaux à mesure que le système progressait.",
+   "concrete_example": "Le dispositif a été conçu et opéré non par le secrétariat à l'éducation mais par l'IPECE, l'institut de recherche économique de l'État rattaché au secrétariat au plan, avec des économistes chargés de simuler gagnants et perdants avant vote de la loi. Point décisif : les sommes reçues ne sont pas affectées à l'éducation — le maire peut les dépenser comme il veut. La Banque mondiale en fait le cœur de son guide de réplication : « faire en sorte que ces ressources supplémentaires ne soient pas liées aux dépenses d'éducation est essentiel pour créer des incitations plus fortes pour les maires, et pas seulement pour le secrétariat à l'éducation ». Effet mesuré sur le comportement politique : la part des communes du Ceará dont l'IDEB du primaire dépasse la moyenne brésilienne passe de 7 % en 2007 à 71 % une décennie plus tard.",
+   "conditions": "La Banque mondiale liste quatre conditions nécessaires explicites : des champions politiques au sommet (le gouverneur, pas seulement le ministre) ET techniques (des économistes capables de simuler la formule) ; un système de mesure fiable et indépendant des communes évaluées ; des fonds généraux suffisants, distincts du financement de base des écoles qui doit rester stable ; et une décentralisation réelle de la gestion des écoles — « un gouvernement centralisé ne peut pas s'inciter financièrement lui-même ». Le rapport ajoute qu'attendre « le moment parfait » est une erreur, et que l'égalité des chances entre communes doit être construite en cours de route.",
+   "contested": "Trois réserves sérieuses. (1) L'étude la plus favorable, qui conclut que l'incitation fiscale combinée à l'assistance technique produit un effet 2 à 3 fois supérieur à l'incitation seule (Lautharte, Oliveira et Loureiro, 2020), est un mimeo de la Banque mondiale jamais publié : une recherche dans Semantic Scholar et Crossref ne retrouve aucune version publiée, et les auteurs sont les mêmes que ceux du rapport promotionnel — conflit d'indépendance manifeste. (2) L'évaluation indépendante la plus rigoureuse (Ponne, 2023, publiée à comité de lecture) trouve des effets réels mais bien plus modestes que le récit institutionnel, non significatifs en mathématiques, et nuls au lycée. (3) Les premières évaluations citées par la Banque mondiale (Petterini et Irffi, 2013 ; Brandão, 2014 ; Carneiro et Irffi, 2017) portent sur des fenêtres temporelles courtes ou des groupes de contrôle différents et n'ont pas fait l'objet d'une réplication coordonnée. Je n'ai pas pu accéder au texte intégral de Ponne (2023) dans cette session — les tailles d'effet proviennent du résumé officiel de l'article.",
+   "sources": [
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    },
+    {
+     "author": "Marcos Holanda, Marcelo Barbosa, Louisee Cruz, Andre Loureiro",
+     "title": "Implementing a Results-Based Financing Mechanism for Subnational Governments to Improve Education Outcomes: An Implementation Guide Inspired by the Case of Ceará, Brazil",
+     "org": "World Bank (REACH Trust Fund)",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/561471606111232725/Implementing-a-Results-Based-Financing-Mechanism-for-Subnational-Governments-to-Improve-Education-Outcomes-An-Implementation-Guide-Inspired-by-the-Case-of-Ceara-Brazil"
+    },
+    {
+     "author": "Bruno Gasparotto Ponne",
+     "title": "Better Incentives, Better Marks: A Synthetic Control Evaluation of the Educational Policies in Ceará, Brazil",
+     "org": "Brazilian Political Science Review, 17(1)",
+     "year": "2023",
+     "url": "https://doi.org/10.1590/1981-3821202300010005"
+    },
+    {
+     "author": "Francis Carlo Petterini, Guilherme Diniz Irffi",
+     "title": "Evaluating the impact of a change in the ICMS tax law in the state of Ceará in municipal education and health indicators",
+     "org": "EconomiA, 14, 171-184",
+     "year": "2013",
+     "url": "https://doi.org/10.1016/j.econ.2013.10.003"
+    }
+   ]
+  },
+  {
+   "claim": "Le mécanisme fiscal du Ceará a survécu à près de vingt ans et à plusieurs alternances politiques parce qu'il a été inscrit dans la loi et recalibré régulièrement — c'est l'argument le plus solide du dossier en faveur d'une institutionnalisation juridique plutôt que d'un plan pluriannuel.",
+   "what_it_is": "La pérennisation et la révision périodique de la formule de répartition de la quote-part d'ICMS par des lois d'État et des décrets successifs, publiés et documentés par l'institut public qui opère le dispositif (IPECE).",
+   "evidence_level": "descriptif (analyse documentaire de la législation publiée par l'organisme opérateur)",
+   "effect_size": "non disponible (il s'agit d'un fait institutionnel, non d'un effet mesuré) ; ordre de grandeur du dispositif : de 283 millions de R$ (2009) à 484,5 millions de R$ (2017) transférés annuellement en fonction des résultats",
+   "concrete_practice": "La formule n'est pas figée : les poids relatifs entre niveau et progression, et entre alphabétisation en 2e année et apprentissages en 5e année, sont révisés à mesure que le système progresse, précisément pour maintenir l'engagement des communes qui, sans cela, se retrouveraient soit découragées soit assurées de gagner. Le guide de la Banque mondiale en fait un principe de conception explicite : « mettre à jour la formule à mesure que les résultats évoluent, pour maintenir l'engagement des joueurs dans le jeu ».",
+   "concrete_example": "L'IPECE documente une chaîne continue de textes : loi d'État 14.023/2007 (création), décret de 2008 (formules techniques), décret de fin 2011 (modification des poids), décret de décembre 2019 (intégration de la 9e année), loi 17.320 du 22 octobre 2020 (refonte de la structure de la quote-part), loi 17.540 du 29 juin 2021 puis loi 18.189 du 29 août 2022 (modifications de l'indice de qualité de l'éducation), décret 36.330 du 5 décembre 2024 (nouvelle modification de l'IQE), décret 37.051 du 29 décembre 2025 (indice environnemental pour 2026-2027). Le dispositif est donc actif et entretenu près de vingt ans après sa création, sous des gouvernements successifs, et a survécu au départ de son initiateur politique.",
+   "conditions": "La Banque mondiale liste cinq conditions de continuité : asseoir le mécanisme sur une base légale ; garantir la disponibilité stable des fonds dans la durée ; adapter la règle d'incitation à l'évolution des résultats ; maintenir les conditions financières et techniques de fonctionnement du système de mesure ; communiquer constamment les résultats à la société. La transparence est une condition de survie politique : l'État doit « montrer les calculs », publier les données et accorder aux communes le droit de contester les mesures.",
+   "contested": "La continuité formelle d'un dispositif ne prouve pas sa continuité d'effet. Aucune des évaluations causales disponibles ne couvre la période postérieure à 2019 (Ponne s'arrête en 2019, l'évaluation du mentorat porte sur 2009-2015, Costa et Carnoy sur les années 2000). Il est donc impossible d'affirmer sur la base des sources consultées que le mécanisme produit encore aujourd'hui les effets estimés pour sa première décennie — et les révisions répétées de la formule signifient que le dispositif évalué n'est plus exactement le dispositif en vigueur. Par ailleurs, je n'ai pas pu vérifier dans cette session les résultats IDEB de Sobral et du Ceará postérieurs à 2017 : tous les rapports de la Banque mondiale utilisés s'arrêtent à la vague 2017, et les portails de l'INEP n'étaient pas exploitables. Toute affirmation sur la trajectoire de Sobral après 2017 serait donc non sourcée et ne doit pas figurer dans une note de position.",
+   "sources": [
+    {
+     "author": "IPECE (Instituto de Pesquisa e Estratégia Econômica do Ceará)",
+     "title": "Cota-Parte do ICMS (page officielle recensant lois et décrets : Lei 17.320/2020, Lei 17.540/2021, Lei 18.189/2022, Decreto 36.330/2024, Decreto 37.051/2025)",
+     "org": "Gouvernement de l'État du Ceará",
+     "year": "2026",
+     "url": "https://www.ipece.ce.gov.br/cota-parte-do-icms/"
+    },
+    {
+     "author": "Marcos Holanda, Marcelo Barbosa, Louisee Cruz, Andre Loureiro",
+     "title": "Implementing a Results-Based Financing Mechanism for Subnational Governments to Improve Education Outcomes",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/561471606111232725/Implementing-a-Results-Based-Financing-Mechanism-for-Subnational-Governments-to-Improve-Education-Outcomes-An-Implementation-Guide-Inspired-by-the-Case-of-Ceara-Brazil"
+    }
+   ]
+  },
+  {
+   "claim": "L'incitation financière seule ne suffit pas : c'est la combinaison avec une assistance technique dense aux communes les plus faibles qui produit l'effet — et cette complémentarité est la leçon la plus robuste du dossier pour un système à opérateurs autonomes.",
+   "what_it_is": "Le PAIC associe au mécanisme fiscal une assistance technique structurée du secrétariat d'État aux 184 secrétariats communaux : matériel pédagogique scripté, formation des formateurs, gouvernance en trois niveaux (équipes d'État, équipes régionales, équipes communales), et diagnostic d'apprentissage en début d'année avec plateforme numérique de restitution.",
+   "evidence_level": "quasi-expérimental (contrôle synthétique publié à comité de lecture ; comparaison de frontière non publiée) ; descriptif pour le contenu de l'assistance",
+   "effect_size": "Ponne (2023) : les effets rapportés (+12 % en portugais en primaire, +6,5 % en secondaire inférieur) portent sur la combinaison incitation fiscale + assistance technique, et non sur l'incitation seule. Lautharte, Oliveira et Loureiro (2020, mimeo non publié) : effet 2 à 3 fois supérieur en présence des deux dispositifs par rapport à l'incitation fiscale seule, en comparant des écoles de part et d'autre de la frontière du Ceará.",
+   "concrete_practice": "L'État produit et distribue aux communes des matériels scriptés comportant une routine pédagogique définie pour chaque séance et des consignes explicites d'usage du temps, alignés sur le curriculum d'État. Les formateurs d'État forment le personnel des secrétariats communaux ; dans les communes aux niveaux d'alphabétisation critiques, ils forment directement les enseignants et observent les classes. L'État prépare l'épreuve de diagnostic, les protocoles de passation et la plateforme de saisie ; les communes impriment, font passer et saisissent. La plateforme restitue les résultats désagrégés par classe et par élève. L'assistance porte aussi sur des points très concrets de gestion : suppression des classes multigrades, usage effectif du temps pédagogique, autonomie des écoles, critères méritocratiques de sélection des directions, incitations pour les enseignants des classes d'alphabétisation.",
+   "concrete_example": "Le résultat mesuré par Lautharte et al. sur les écoles de frontière porte sur des comportements observables et non seulement sur des scores : après l'introduction du dispositif complet, la sélection politique des directeurs recule de 14,3 %, les directeurs déclarent avoir reçu 16,6 % de formation continue en plus et la jugent plus utile (+16 %), le financement communal des écoles augmente de 18 %, l'absence de manuels pédagogiques fournis par la commune recule de près de 30 %, la probabilité qu'un membre du personnel soit envoyé au domicile d'un élève absent augmente de 9 %, et les enseignants déclarent participer davantage aux décisions de l'école (+5,26 %). Côté élèves, la probabilité de travailler hors du domicile recule de 35 % et les filles ont 5,6 % de chances de plus d'être scolarisées — effets absents pendant la période d'incitation fiscale seule.",
+   "conditions": "La Banque mondiale formule la condition en termes de symétrie des échecs : des incitations bien conçues sans support technique peuvent améliorer la moyenne « mais certaines communes peuvent se décourager et décrocher, avec des effets négatifs sur l'équité » ; inversement, un support technique de qualité sans incitations ne mobilise que les communes déjà faibles, les autres se désengageant du dispositif d'accompagnement. Les deux doivent recevoir « le même niveau d'importance ». La décentralisation effective de la gestion des écoles est un préalable au second comme au premier.",
+   "contested": "L'étude qui fonde le chiffre le plus frappant (effet 2 à 3 fois supérieur) est un mimeo interne de la Banque mondiale, non publié, non relu par des pairs, et signé par un auteur qui est aussi co-auteur des rapports promotionnels sur le Ceará : il ne devrait pas être cité comme une preuve dans une note de position. Les résultats de comportement listés ci-dessus proviennent de la même source et héritent de la même faiblesse. L'étude indépendante publiée (Ponne, 2023) ne sépare pas l'effet de l'assistance technique de celui de l'incitation fiscale de manière probante et ne confirme pas les effets en mathématiques. Enfin, la Banque mondiale reconnaît elle-même que les cinq piliers du modèle « dépendent fondamentalement les uns des autres », ce qui rend toute attribution d'effet à un composant isolé méthodologiquement fragile.",
+   "sources": [
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    },
+    {
+     "author": "Bruno Gasparotto Ponne",
+     "title": "Better Incentives, Better Marks: A Synthetic Control Evaluation of the Educational Policies in Ceará, Brazil",
+     "org": "Brazilian Political Science Review, 17(1)",
+     "year": "2023",
+     "url": "https://doi.org/10.1590/1981-3821202300010005"
+    },
+    {
+     "author": "Ildo Lautharte, Victor Hugo Oliveira, Andre Loureiro",
+     "title": "Education Incentives, Technical Assistance, or Both? Evidence from a Results-Based Financing to the Mayor in Brazil (mimeo non publié, cité dans le rapport de la Banque mondiale)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    }
+   ]
+  },
+  {
+   "claim": "Le mentorat entre directions d'école, appariées et financièrement incitées, améliore de façon causale les écoles les plus faibles sans dégrader les écoles mentors — pour un coût dérisoire et sans remplacer aucun directeur.",
+   "what_it_is": "Le Prêmio Escola Nota 10 (PEN10) du Ceará apparie chaque année les 150 écoles les mieux classées et les 150 moins bien classées sur l'indice de qualité de l'éducation issu de l'évaluation censitaire, verse une subvention aux deux, et conditionne un second versement à la progression effective de l'école faible l'année suivante.",
+   "evidence_level": "quasi-expérimental de haute qualité : régression sur discontinuité au rang 150, exploitant l'impossibilité pour une direction de manipuler précisément son rang",
+   "effect_size": "+0,484 point d'indice de qualité (échelle 0-10) pour les écoles faibles participantes, soit 0,18 écart-type, significatif à 5 %, après une seule année de mentorat. Probabilité de franchir le seuil de 5 sur l'indice : +15 points de pourcentage. Effet sur les écoles mentors : non statistiquement significatif (ni positif ni négatif).",
+   "concrete_practice": "Les paires sont formées en appariant la meilleure école avec la plus faible, la deuxième avec l'avant-dernière, etc., en cherchant à rester dans le même district scolaire. Les équipes doivent se rencontrer au moins six fois dans l'année. La direction de l'école performante partage matériels, visites sur place et programmation d'activités pédagogiques. Le second versement est conditionné à la fois au maintien du résultat de l'école mentor et à la progression de l'école mentorée. La participation des écoles sélectionnées est volontaire mais le taux d'adhésion est de 100 % depuis la création.",
+   "concrete_example": "Entre 2009 et 2015, les sept éditions fondées sur l'évaluation d'alphabétisation en 2e année ont créé 1 048 partenariats entre 1 429 écoles distinctes. Fait notable : 62 écoles entrées dans le dispositif comme écoles faibles y sont revenues ensuite comme écoles mentors après redressement. Écart de départ : indice moyen de 9,7 pour les mentors contre 2,8 pour les mentorées. Coût : environ 7 200 USD par versement pour une école faible, soit moins de 5 % de son budget annuel ; l'école mentor reçoit 75 % de la dotation au premier versement et 25 % au second. Le programme représentait 43 millions de R$ en 2017, soit 52 % du budget total du PAIC. Deux facteurs conditionnent la réussite de la paire : la proximité géographique (appartenir au même district vaut +0,6 point d'indice ; chaque heure de trajet supplémentaire, au-delà des 3 heures moyennes, coûte 0,1 point) et la similarité de taille des deux écoles.",
+   "conditions": "Trois conditions techniques ressortent. (1) Un classement public, censitaire et annuel des écoles, sans lequel aucun appariement n'est possible. (2) Un écart réel de compétence managériale entre mentor et mentoré : les auteurs observent que les écoles mentors ont paradoxalement des enseignants moins diplômés et une infrastructure moins bonne que les écoles faibles, ce qui suggère que l'écart transférable est bien une compétence de direction, et non des ressources. (3) Une taille de dispositif restreinte : seules 150 paires sont formées chaque année parmi environ 3 000 écoles éligibles.",
+   "contested": "Les auteurs formulent eux-mêmes trois limites sévères. (1) L'estimation est un effet local au seuil (LATE) : elle vaut pour les écoles situées autour du rang 150, soit environ les 5 % les plus faibles des écoles éligibles, et « plus on s'éloigne de ce seuil, moins cette estimation est informative ». (2) Une extension significative du programme produirait probablement des effets plus faibles, puisque les paires auraient moins à apprendre l'une de l'autre. (3) L'étude ne sépare pas l'effet du mentorat de celui de la subvention en espèces — il est possible que ce soit simplement l'argent qui produise l'effet. Par ailleurs, une revue brésilienne des thèses et mémoires consacrés au Prêmio Escola Nota Dez (Costa, Vidal et Araújo, 2023) oppose explicitement deux corpus : les travaux quantitatifs qui trouvent des améliorations de résultats, et les travaux qualitatifs qui documentent « un ensemble expressif de contraintes, d'obstacles et de difficultés rencontrés par les écoles ». La littérature quantitative internationale sur le mentorat des directions est d'ailleurs décrite comme mitigée par les auteurs eux-mêmes (le programme McREL Balanced Leadership n'a eu aucun effet sur les résultats des élèves aux États-Unis).",
+   "sources": [
+    {
+     "author": "Diana Goldemberg, Priscilla Bacalhau, Ildo José Lautharte Junior",
+     "title": "Can Peer Mentoring Coupled with Incentives Affect School Turnaround? Evidence from Ceará State in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/996321595484841150/Can-Peer-Mentoring-Coupled-with-Incentives-Affect-School-Turnaround-Evidence-from-Ceara-State-in-Brazil"
+    },
+    {
+     "author": "Diana Goldemberg",
+     "title": "Essays on Economics of Education (thèse de doctorat, EPGE/FGV, Rio de Janeiro) — source de l'estimation par régression sur discontinuité",
+     "org": "Fundação Getulio Vargas",
+     "year": "2019",
+     "url": "http://hdl.handle.net/10438/27359"
+    },
+    {
+     "author": "Anderson Gonçalves Costa, Eloisa Maia Vidal, Karlane Holanda Araújo",
+     "title": "Evidências da produção stricto sensu sobre o Prêmio Escola Nota Dez: resultados, gestão e efeitos nas escolas do Ceará (2013-2020)",
+     "org": "Revista Meta: Avaliação, 15(48)",
+     "year": "2023",
+     "url": "https://doi.org/10.22347/2175-2753v15i48.4087"
+    }
+   ]
+  },
+  {
+   "claim": "Le recrutement des directions d'école sur concours technique, détaché de toute nomination politique, est identifié par tous les observateurs comme le facteur décisif — mais il n'a jamais été évalué isolément et suppose un pouvoir de nomination que la plupart des systèmes européens n'ont pas.",
+   "what_it_is": "Une procédure de sélection des directeurs et des coordinateurs pédagogiques en cinq étapes, encadrée par une loi communale, qui remplace la nomination politique ou l'élection par la communauté scolaire, pratiques dominantes au Brésil.",
+   "evidence_level": "descriptif pour la procédure ; quasi-expérimental indirect pour l'effet (mesure d'un recul de la sélection politique associé au dispositif d'État, dans une étude non publiée)",
+   "effect_size": "non disponible pour l'effet de la seule procédure de sélection sur les apprentissages. Indicateur indirect au niveau de l'État : recul de 14,3 % de la sélection des directeurs sur base politique après l'introduction du mécanisme de financement lié aux résultats (Lautharte, Oliveira et Loureiro, 2020, mimeo non publié).",
+   "concrete_practice": "La procédure dure quatre mois et comporte cinq épreuves : examen écrit, formation au leadership, mise en situation de groupe sur des cas concrets de gestion d'école, entretien, et évaluation du curriculum vitae. Les directeurs sont nommés pour trois ans, reconductibles si le travail est satisfaisant, révocables en cas de performance insuffisante. Le secrétariat nomme les directeurs ; ceux-ci choisissent ensuite leurs coordinateurs pédagogiques parmi les candidats admis. Les entretiens sont conduits par l'école municipale de formation des enseignants (ESFAPEGE), elle-même composée d'enseignants expérimentés du réseau sélectionnés sur épreuve pratique (préparer et donner un cours, évalué sur le plan de leçon, la conduite de classe, la maîtrise du contenu, les procédés méthodologiques et la gestion du temps).",
+   "concrete_example": "À Sobral, la loi communale 123 de 1997 a défini les critères techniques de recrutement des enseignants et des directions. En 2001, deux tiers des anciens directeurs ont été remplacés (Maia, 2006). Entre 2011 et 2016, trois procédures successives ont abouti au renouvellement de l'ensemble des directeurs et coordinateurs pédagogiques du réseau. Un coordinateur pédagogique est affecté pour 350 élèves ; il observe les cours, accompagne les enseignants et suit les apprentissages. La Banque mondiale note que la mesure « a dérangé les conseillers municipaux et les anciens directeurs », qui considéraient les écoles comme faisant partie de leur agenda politique, et que la réponse a consisté à les recevoir et les traiter de manière identique quelle que soit leur affiliation.",
+   "conditions": "Trois conditions. (1) L'autorité organisatrice doit détenir le pouvoir de nommer et de révoquer — condition remplie au Brésil où la commune est employeur. (2) La sélection technique doit s'accompagner d'une autonomie réelle : à Sobral, le fonds communal FUNDAE (loi 315/2001) transfère directement aux écoles des moyens répartis à 70 % selon les effectifs et à 30 % selon cinq indicateurs de processus (respect du menu des repas, paiement des factures dans les délais, transmission des données au secrétariat, organisation de réunions de parents, envoi des rapports de présence) et des objectifs d'apprentissage. (3) L'autonomie doit être compensée par un accompagnement dense : une équipe du secrétariat visite les écoles deux fois par mois, et une unité pédagogique dédiée travaille avec les coordinateurs sur la planification, l'observation de classe, le retour aux enseignants et l'analyse des évaluations.",
+   "contested": "Aucune évaluation causale n'isole l'effet de la procédure de sélection : la Banque mondiale reconnaît que « les recherches existantes indiquent que le succès de Sobral tient à un ensemble de mesures qui se renforcent mutuellement », ce qui rend l'attribution d'un effet propre impossible. Le seul chiffre disponible provient d'un mimeo non publié. Plus fondamentalement, la portée du dispositif est bornée par le pouvoir d'employeur : le guide de réplication de la Banque mondiale en fait une condition institutionnelle préalable et non un levier libre. Enfin, la littérature brésilienne critique lit cette « méritocratisation » comme l'importation d'une logique gérentielle de nouvelle gestion publique dans l'école, en tension avec le principe constitutionnel brésilien de gestion démocratique de l'enseignement — un débat qu'aucun des rapports de la Banque mondiale ne mentionne.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught (citant Maurício Holanda Maia, 2006, et INEP, 2005)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    },
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    }
+   ]
+  },
+  {
+   "claim": "Le matériel pédagogique scripté et la formation mensuelle ancrée sur la classe forment le cœur opérationnel de la réforme — et le facteur de réussite identifié chez les enseignants n'est ni l'obéissance au script ni son rejet, mais son appropriation.",
+   "what_it_is": "Un ensemble de matériels séquencés fournissant, pour chaque séance, une routine pédagogique explicite, des plans de leçon, des cahiers d'exercices et des consignes d'usage du temps, alignés sur la séquence d'apprentissage puis sur le curriculum, adossés à une formation continue mensuelle en service.",
+   "evidence_level": "descriptif pour le dispositif ; quasi-expérimental pour l'effet du programme d'ensemble dans lequel il s'insère (PAIC)",
+   "effect_size": "non disponible pour le matériel pris isolément. Le programme d'État qui le distribue produit +0,10 écart-type en portugais et +0,18 écart-type en mathématiques en 5e année (Costa et Carnoy, 2015). Coût de la formation à Sobral : 770 000 USD en 2019, soit 660 USD par enseignant et par an.",
+   "concrete_practice": "Chaque mois, les enseignants participent à une formation en service portant sur les objectifs d'apprentissage des composantes curriculaires, la préparation et la discussion du matériel scripté, des cahiers de devoirs et des items d'examen. La formation porte fortement sur la gestion de classe — « chaque minute en classe compte pour l'apprentissage » — et sur la planification pédagogique à partir de l'analyse des résultats des élèves. Les coordinateurs pédagogiques et le personnel du secrétariat observent les cours. Les nouveaux enseignants reçoivent un accompagnement supplémentaire pendant leur période probatoire. La loi brésilienne prévoit qu'un tiers du temps de travail soit consacré à la préparation et à la formation ; à Sobral, ces activités se déroulent obligatoirement à l'école ou à l'école de formation, ce qui permet leur suivi, et les enseignants n'y consacrent que 20 % de leur temps, la commune payant les 13,33 % de temps supplémentaire passé en classe.",
+   "concrete_example": "En 2001, un consultant externe a formé les 100 premiers enseignants de Sobral, préparé les matériels structurés et les plans de leçon, et discuté leur mise en œuvre avec les enseignants. Le matériel a d'abord été conçu pour la seule alphabétisation avec une séquence d'apprentissage explicite (2002), avant que les curricula de portugais et de mathématiques ne soient rédigés en 2015 avec la contribution des enseignants du réseau, chaque discipline définissant un profil d'entrée et de sortie par année. À partir de 2006, la formation a été reprise par des enseignants expérimentés du réseau au sein de l'école municipale de formation (ESFAPEGE) — alors que, note la Banque mondiale, « dans la plupart des endroits au Brésil ces activités sont assurées par des universitaires ». Les formations, d'abord organisées le week-end, ont été déplacées sur le temps de travail avec remplacement des enseignants, parce que ceux-ci étaient épuisés (INEP, 2005). Observation décisive rapportée par Maia (2006) : « le trait commun des enseignants qui réussissaient était une attitude d'acceptation de la méthode proposée, tempérée d'autonomie et de créativité. Ceux qui résistaient à la méthode sans proposer d'alternative, et ceux qui la suivaient comme une prescription rigide, obtenaient les plus mauvais résultats. »",
+   "conditions": "Le matériel n'a d'effet que s'il est (a) aligné avec les évaluations, la formation et l'accompagnement — la Banque mondiale parle de « cohérence instructionnelle » comme élément critique, et note qu'« il ne s'agit pas seulement d'avoir les bons instruments mais de les aligner pour qu'ils se renforcent mutuellement » ; (b) accompagné d'observations de classe et de retours réguliers ; (c) laissé à l'appropriation de l'enseignant plutôt qu'imposé comme prescription. Sobral n'a pas attendu d'avoir un curriculum écrit pour agir : la séquence d'apprentissage de 2002 a précédé de treize ans le curriculum de 2015.",
+   "contested": "Aucune des évaluations disponibles ne teste le matériel scripté seul contre une alternative. La littérature académique brésilienne critique associe ce type de matériel et l'évaluation externe qui l'accompagne à une dépossession du travail enseignant et à un rétrécissement du curriculum ; l'analyse critique du SPAECE publiée en 2024 interroge explicitement « l'intentionnalité de cette évaluation » et ses implications sur la pratique éducative quotidienne. Par ailleurs, l'observation de Maia (2006) sur l'appropriation est une inférence qualitative tirée de discussions avec les équipes pédagogiques, non une comparaison contrôlée entre modalités d'usage du script. Enfin, McNaught renvoie lui-même à Muralidharan et Singh (2020) sur un programme indien de gestion scolaire ayant échoué malgré des évaluations, des plans d'action et des réunions de suivi : le dispositif formel ne garantit rien.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught (citant Maia 2006, Sumiya 2015 et INEP 2005)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    },
+    {
+     "author": "Leandro Oliveira Costa, Martin Carnoy",
+     "title": "The Effectiveness of an Early-Grade Literacy Intervention on the Cognitive Achievement of Brazilian Students",
+     "org": "Educational Evaluation and Policy Analysis, 37(4)",
+     "year": "2015",
+     "url": "https://doi.org/10.3102/0162373715571437"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation n'est pas un instrument de classement mais l'horloge du système : à Sobral, un tiers du temps du secrétariat à l'éducation y est consacré, et chaque vague de résultats déclenche une cascade de réunions obligatoires jusqu'à la classe.",
+   "what_it_is": "Un dispositif à quatre niveaux d'évaluation (communale semestrielle, mensuelle en classe, étatique annuelle SPAECE, fédérale bisannuelle SAEB), doublé d'une chaîne de réunions codifiée qui transforme mécaniquement les résultats en décisions pédagogiques.",
+   "evidence_level": "descriptif (étude de cas, avec chiffres de coûts et de couverture) ; aucune évaluation causale du dispositif d'évaluation lui-même",
+   "effect_size": "non disponible pour le dispositif isolé. Coût : environ 650 000 USD par an à Sobral pour deux passations, soit environ 3 USD par élève et par test (2019, taux 1 USD = 3,65 R$). Résultats associés : 84 % des élèves de 3e année à Sobral ont un niveau de lecture adéquat contre 55 % au Brésil, et 84 % en mathématiques contre 45 % ; la part d'élèves en performance insuffisante en primaire est de 2,7 % en portugais et 1,6 % en mathématiques.",
+   "concrete_practice": "Les évaluations ont lieu deux fois par an : les résultats de fin d'année fixent les objectifs de l'année suivante, les résultats de mi-année déclenchent des corrections. En 1re et 2e année, l'épreuve est orale et porte sur la fluence (vitesse, précision, prosodie) ; de la 2e à la 9e année, deux épreuves de 24 items en portugais et en mathématiques, construites sur les matrices de référence de l'État et du niveau fédéral. Les résultats sont analysés avec les enseignants descripteur par descripteur, de sorte que chacun sache quelles compétences ses élèves ne maîtrisent pas ; lorsqu'une faiblesse apparaît sur le même descripteur dans plusieurs écoles, le secrétariat construit une formation spécifique.",
+   "concrete_example": "La cascade de réunions est codifiée (INEP, 2005, repris par McNaught) : (1) le secrétariat réunit tous les directeurs pour partager les résultats de l'ensemble de la commune ; (2) l'équipe de superintendance visite chaque école pour aider le directeur à analyser ses propres résultats ; (3) le directeur travaille les données avec ses coordinateurs pédagogiques pour identifier les problèmes et les enseignants nécessitant le plus d'appui ; (4) le directeur et les coordinateurs réunissent tous les enseignants et co-construisent les stratégies de rattrapage. Entre deux évaluations : réunion hebdomadaire directeur-coordinateurs, réunion bimensuelle avec les enseignants, formation mensuelle, visites de classe des coordinateurs, réunion hebdomadaire de tous les directeurs animée par la superintendance, et visites bimensuelles de la superintendance dans chaque école. Le premier superintendant, Joan Edesson de Oliveira, a visité seul les 38 écoles en 2002 avant que son équipe ne s'étoffe. Sobral a créé en 2009 une unité externe dédiée, la Casa da Avaliação. Un tableau de présence est affiché au mur de chaque école et les parents sont appelés le jour même d'une absence.",
+   "conditions": "Le dispositif ne fonctionne que si (a) l'évaluation reste perçue comme un outil d'appui et non comme une inspection : la Banque mondiale note que les résistances initiales ont été levées par la fourniture d'un appui technique aux écoles, de sorte que « les éducateurs ont compris que le suivi n'était pas la même chose qu'une inspection » ; (b) le retour d'information est assez rapide et désagrégé pour être actionnable ; (c) les résultats sont publics, y compris affichés sur les murs des écoles à la demande des communautés.",
+   "contested": "Le dispositif alimente directement des primes individuelles et un mécanisme de financement, ce qui crée une tension structurelle avec sa fonction pédagogique et un risque documenté d'enseignement pour le test. La Banque mondiale ne traite cette tension qu'indirectement, en décrivant les protections anti-triche intégrées à la formule de financement. La littérature critique brésilienne sur le SPAECE conteste précisément l'intentionnalité du dispositif et ses effets sur la pratique. Par ailleurs, un tiers du temps d'un secrétariat consacré à l'évaluation est un chiffre déclaratif, non audité, issu d'entretiens avec les responsables de Sobral. Enfin, la distinction entre le suivi et l'inspection repose ici sur un témoignage qualitatif et non sur une mesure du climat professionnel.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught (citant INEP, 2005, Vencendo o desafio da aprendizagem nas séries iniciais: a experiência de Sobral/CE)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le résultat le plus contre-intuitif du dossier pour un système sous contrainte budgétaire : Sobral atteint le premier rang national en dépensant environ 60 % de la moyenne brésilienne par élève, avec des classes plus chargées que la moyenne.",
+   "what_it_is": "Une trajectoire de dépense éducative communale qui triple en valeur absolue entre 2001 et 2015 tout en restant nettement sous la moyenne nationale, avec une structure de dépense réorientée vers l'information sur les apprentissages et l'encadrement pédagogique plutôt que vers la réduction de la taille des classes.",
+   "evidence_level": "descriptif (comparaison de coûts et de résultats, avec analyse graphique de la frontière d'efficience, sans identification causale)",
+   "effect_size": "Dépense par élève à Sobral : 543 USD en 2001, 1 340 USD en 2015-2019, contre une moyenne brésilienne de 2 184 USD. Taux d'encadrement : 28,9 élèves par enseignant à Sobral contre 21,0 dans les écoles municipales du Ceará et 20,3 au Brésil (2019). Résultat associé : IDEB du primaire de 9,1 contre 5,5 pour la moyenne brésilienne (2017).",
+   "concrete_practice": "La commune a d'abord réorganisé son réseau pour supprimer les classes multigrades et concentrer les moyens, puis financé sur ce gain d'efficience : son école de formation d'enseignants, son bureau d'évaluation indépendant, les primes aux enseignants et directeurs, l'extension de la maternelle et des écoles à temps plein. La ventilation 2019 est publiée : 3,5 millions USD de transport scolaire, 770 000 USD de formation d'enseignants (660 USD par enseignant), 650 000 USD d'évaluations (environ 3 USD par élève et par test). Le personnel représente 53 % du budget éducation.",
+   "concrete_example": "Le point de départ est un arbitrage politiquement coûteux : en 1997, le réseau de Sobral était fragmenté en écoles rurales minuscules en mauvais état, avec des classes multigrades. La commune a regroupé les écoles — de 96 à 57 selon la Banque mondiale, de 96 à 38 début 2001 selon Maia (2006) cité par McNaught — sans fermer les bâtiments, mais en cessant d'y dispenser le primaire (les plus petits bâtiments ne conservant que la maternelle et l'éducation des adultes). Les parents refusant d'envoyer leurs enfants plus loin, la commune a financé le transport scolaire et le maire est allé s'expliquer personnellement. La part de l'éducation dans le budget communal est passée de 14 % en 2000 à 27 % en 2015 puis 24 %. La Banque mondiale montre que les communes du Ceará dépensent moins d'un tiers de ce que dépensent les États riches comme São Paulo tout en obtenant de meilleurs indices de qualité.",
+   "conditions": "L'efficience repose sur trois conditions cumulatives : (a) un point de départ très bas, où les rendements d'un enseignement structuré de la lecture sont mécaniquement élevés ; (b) l'acceptation politique d'un taux d'encadrement dégradé en échange d'investissements en formation, évaluation et encadrement intermédiaire ; (c) un mécanisme national de péréquation préexistant (FUNDEF en 1996, remplacé par FUNDEB en 2007) qui a stabilisé et augmenté les ressources des communes pauvres et fourni, selon la Banque mondiale, « l'argent et la légitimité » pour réorganiser le réseau et changer le mode de recrutement.",
+   "contested": "Trois objections. (1) La comparaison de dépense par élève entre Sobral et la moyenne brésilienne ignore les différences de coût du travail : le salaire moyen d'un enseignant à Sobral était de 1 100 USD par mois en 2019, dans un État dont le PIB par habitant est le cinquième plus faible du Brésil — la dépense plus faible reflète en partie des salaires plus faibles, pas seulement une meilleure allocation. (2) Les sources primaires divergent sur l'ampleur de la restructuration du réseau (96 vers 57 ou 96 vers 38), ce qui est une différence considérable et n'est réconcilié par aucune des deux. (3) L'analyse d'efficience de la Banque mondiale est graphique et descriptive : elle montre que Sobral se situe au-dessus de la frontière pour son niveau de dépense, ce qui ne dit rien du rendement marginal d'un euro supplémentaire dans un système déjà proche de la frontière, comme peut l'être un système européen.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught (citant Maurício Holanda Maia, 2006)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    },
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    }
+   ]
+  },
+  {
+   "claim": "Les primes aux enseignants et aux écoles indexées sur les résultats sont le composant le plus fragile du dossier : sévèrement critiquées par les universitaires, jamais évaluées isolément à Sobral, et adossées à des évaluations menées ailleurs au Brésil.",
+   "what_it_is": "Un système de primes monétaires versées aux enseignants, coordinateurs pédagogiques et directeurs lorsque l'école atteint ses objectifs d'apprentissage, complété par un bonus de salaire spécifique aux enseignants affectés aux classes d'alphabétisation.",
+   "evidence_level": "descriptif à Sobral (aucune évaluation causale locale) ; l'appui probant invoqué provient d'évaluations menées dans d'autres États brésiliens",
+   "effect_size": "non disponible pour Sobral. Montants documentés : bonus de 30 % du salaire pour les enseignants des classes d'alphabétisation (décret municipal 342/2002) ; prime de performance individuelle en 2019 de six versements de 55 USD, sur un salaire moyen de 1 100 USD par mois. Au niveau de l'État, la prime Escola Nota 10 représente environ 7 200 USD par versement et par école faible.",
+   "concrete_practice": "La prime Escola Alfabetizadora est créée en 2001 (décret 309/2001) pour les écoles atteignant leurs objectifs d'alphabétisation en 1re à 5e année. Elle est renommée Escolas de Sucesso en 2007 (décret 983/2007) et élargie aux résultats en portugais et mathématiques en 3e-5e année, puis étendue en 2012 à la maternelle et au secondaire inférieur avec cinq catégories, et enfin rebaptisée Escola Aprender Melhor (loi municipale 1693/2017). Les critères actuels combinent l'atteinte de l'objectif moyen d'apprentissage, une performance minimale garantie dans toutes les classes — condition anti-moyennisation —, et la participation effective des élèves aux évaluations externes. Le calibrage est ajusté dans le temps : dès 2003, le bonus des enseignants d'alphabétisation pouvait être réduit de 25 % ou 50 % selon l'écart à l'objectif, mais l'enseignant récupérait la prime entière s'il atteignait la cible l'année suivante.",
+   "concrete_example": "Le témoignage d'une enseignante de 1re année recueilli par l'INEP en 2005 illustre le mécanisme tel qu'il est vécu : « En 2001 je n'ai pas eu de résultat satisfaisant, mais le directeur m'a fait confiance et, grâce à Dieu, non seulement lui mais toute l'équipe de coordination, toute l'équipe de direction, tout le monde — j'ai obtenu un excellent résultat en 2002. » Le dispositif combine donc une sanction financière graduée avec un accompagnement, et une possibilité explicite de rattrapage l'année suivante. Au niveau de l'État, le Prêmio Escola Nota 10 applique la même logique à l'échelle des écoles avec un second versement conditionné.",
+   "conditions": "Trois garde-fous apparaissent nécessaires : (a) la prime doit être assortie d'un plancher de performance dans toutes les classes, faute de quoi l'école optimise sa moyenne en négligeant les élèves les plus faibles ; (b) la participation aux évaluations doit être une condition de versement, faute de quoi les élèves faibles sont écartés du test ; (c) l'échec doit être rattrapable l'année suivante, sinon l'incitation devient punitive et démotivante. Les critères ont dû être ajustés en permanence « à l'évolution des indicateurs d'apprentissage », ce qui suppose une capacité technique continue.",
+   "contested": "C'est le point le plus explicitement contesté du dossier, et la Banque mondiale l'écrit elle-même en note de bas de page : « les récompenses financières pour les enseignants et les écoles ont été vivement critiquées par les universitaires, mais n'ont pas rencontré de résistance de la part des enseignants ». La justification probante avancée renvoie à des évaluations menées ailleurs — Pernambuco (Bruns et Ferraz, 2011) et São Paulo (Oshiro et Scorzafave, 2015) — et non à Sobral ni au Ceará : aucune évaluation causale n'isole l'effet des primes dans le cas étudié. La revue brésilienne des thèses sur le Prêmio Escola Nota Dez (Costa, Vidal et Araújo, 2023) documente pour sa part « un ensemble expressif de contraintes, d'obstacles et de difficultés rencontrés par les écoles » dans le volet qualitatif, en contraste avec les résultats quantitatifs favorables. Enfin, les travaux brésiliens sur les politiques de responsabilisation dans d'autres États (Pernambuco) rapportent, du point de vue des directeurs, une intensification de la pression et des exigences sur les personnels. Un système européen ne devrait pas importer ce composant sur la foi de ce dossier.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil (voir note 19 : « Financial rewards for teachers and schools were sharply criticized by academics »)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Anderson Gonçalves Costa, Eloisa Maia Vidal, Karlane Holanda Araújo",
+     "title": "Evidências da produção stricto sensu sobre o Prêmio Escola Nota Dez: resultados, gestão e efeitos nas escolas do Ceará (2013-2020)",
+     "org": "Revista Meta: Avaliação, 15(48)",
+     "year": "2023",
+     "url": "https://doi.org/10.22347/2175-2753v15i48.4087"
+    },
+    {
+     "author": "Tim McNaught (citant INEP, 2005)",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le plafond du modèle est net et documenté : ni Sobral ni le Ceará n'ont réussi à faire progresser l'enseignement secondaire supérieur, et à 15 ans les élèves de Sobral se situent au niveau moyen brésilien, très loin des standards de l'OCDE.",
+   "what_it_is": "L'absence d'effet du dispositif au-delà du secondaire inférieur, établie à la fois par la comparaison internationale directe (PISA for Schools à Sobral) et par l'évaluation par contrôle synthétique au niveau de l'État.",
+   "evidence_level": "comparaison internationale directe (PISA for Schools, échantillon d'écoles) pour Sobral ; quasi-expérimental (contrôle synthétique) pour l'absence d'effet au lycée au Ceará",
+   "effect_size": "PISA for Schools 2017 à Sobral : 427 points en lecture, 375 en mathématiques, 411 en sciences, contre 407, 377 et 401 pour la moyenne brésilienne et 493, 490 et 493 pour la moyenne OCDE. Sobral n'est donc au-dessus de la moyenne brésilienne qu'en lecture (+20 points), est légèrement en dessous en mathématiques, et se situe à environ 115 points OCDE d'écart en mathématiques. Ponne (2023) : aucun effet statistiquement détectable des politiques du Ceará sur les résultats du secondaire supérieur.",
+   "concrete_practice": "La raison structurelle est institutionnelle et elle est explicitée par la Banque mondiale : au Brésil le secondaire supérieur relève des gouvernements d'État, or « un pilier clé des réformes du Ceará était un mécanisme robuste d'incitation par les résultats destiné aux communes, mais le gouvernement de l'État ne peut pas s'inciter financièrement lui-même ». Le levier central du modèle est donc inopérant sur le niveau d'enseignement que l'État gère directement. S'ajoute la difficulté de réformer des réseaux scolaires de grande taille, et la question du curriculum national.",
+   "concrete_example": "En 2017, 16 des 18 lycées publics de Sobral ont passé PISA for Schools, dans le cadre d'un partenariat entre la commune et l'État — la commune n'étant pas compétente pour ce niveau. Résultat : la meilleure commune du Brésil au classement national IDEB produit, à 15 ans, des élèves au niveau moyen brésilien en mathématiques. Au niveau de l'État, l'indice IDEB du secondaire supérieur reste faible partout au Brésil, le meilleur score national dépassant à peine 4 sur une échelle de 0 à 10, et le Ceará se classe 6e des États sans que ce résultat soit comparable à ses performances au primaire. Ponne teste explicitement l'hypothèse selon laquelle les lycées, recevant des élèves mieux préparés, devraient bénéficier indirectement des réformes : l'hypothèse est rejetée.",
+   "conditions": "Deux conditions expliquent l'échec relatif : le dispositif d'incitation suppose une relation entre deux niveaux de gouvernement distincts, ce qui n'existe pas quand l'État gère lui-même les écoles ; et la taille des réseaux gérés directement rend l'accompagnement pédagogique dense beaucoup plus coûteux. La Banque mondiale reconnaît que « Sobral a géré ses améliorations de manière plus directe parce que c'est une petite commune, mais la plupart des États et des pays n'ont ni le personnel ni la capacité de faire cela ».",
+   "contested": "Deux réserves en sens inverse. (1) Le chiffre PISA for Schools de Sobral porte sur des lycées gérés par l'État, non par la commune : il ne mesure donc pas directement l'effet du modèle de Sobral mais bien son absence d'effet au-delà de son périmètre — cette distinction est importante et souvent effacée dans la reprise du cas. (2) Les élèves testés en 2017 avaient été scolarisés au primaire au milieu des années 2000, période où la réforme produisait déjà ses effets, ce qui rend l'absence de transmission vers le haut d'autant plus frappante ; mais on ne peut exclure qu'un décalage générationnel plus long soit nécessaire. Plus largement, l'usage du cas de Sobral comme modèle « de classe mondiale » — le titre même du rapport de la Banque mondiale — est en tension directe avec les résultats PISA que ce même rapport publie.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil (tableau 2 : performance à PISA, Sobral, Brésil et OCDE, 2017)",
+     "org": "World Bank / données OCDE",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Bruno Gasparotto Ponne",
+     "title": "Better Incentives, Better Marks: A Synthetic Control Evaluation of the Educational Policies in Ceará, Brazil",
+     "org": "Brazilian Political Science Review, 17(1)",
+     "year": "2023",
+     "url": "https://doi.org/10.1590/1981-3821202300010005"
+    },
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation causale la plus rigoureuse de Sobral elle-même trouve des résultats partiels : effets significatifs en primaire, effets non significatifs sur les apprentissages en secondaire inférieur — ce qui invalide la lecture du cas comme un succès uniforme.",
+   "what_it_is": "L'évaluation quasi-expérimentale de la réforme de Sobral par appariement sur score de propension et différences en différences, comparant les écoles de Sobral à un groupe de contrôle d'écoles publiques brésiliennes comparables, sur les évaluations nationales Prova Brasil.",
+   "evidence_level": "quasi-expérimental (appariement sur score de propension suivi de différences en différences), sur les élèves de 5e et 9e année entre 2005 et 2011",
+   "effect_size": "tailles d'effet non disponibles dans les sources consultées : seule la direction et la significativité des résultats sont rapportées. Effets positifs et significatifs à court et long terme en lecture, et à long terme en mathématiques, en primaire, l'impact étant plus fort en mathématiques qu'en lecture ; effets positifs mais NON significatifs sur les apprentissages en secondaire inférieur. Effet positif et significatif sur l'abandon scolaire aux deux niveaux.",
+   "concrete_practice": "L'étude ne teste pas un dispositif mais le paquet complet appliqué par une commune, en comparant sa trajectoire à celle d'écoles publiques brésiliennes présentant des caractéristiques observables similaires avant la réforme. C'est la seule tentative identifiée dans le dossier d'attribuer causalement les résultats de Sobral aux politiques de Sobral plutôt qu'à sa trajectoire socio-économique ou à des facteurs non observés.",
+   "concrete_example": "La Banque mondiale résume ainsi le résultat : « Une étude quasi-expérimentale analyse la performance des écoles de Sobral en lecture et en mathématiques à l'évaluation nationale (Prova Brasil) et trouve des résultats positifs et significatifs à court et long terme pour la lecture et des effets de long terme pour les mathématiques dans l'enseignement primaire. L'impact est plus élevé en mathématiques qu'en lecture. Pour le secondaire inférieur, les résultats sur les apprentissages sont positifs mais non significatifs. » L'effet sur l'abandon scolaire est établi par une étude distincte (Bezerra et al., 2018). Cette validation partielle contraste avec la présentation générale du cas : sur la même période, l'IDEB du primaire de Sobral passe de 4,0 (2005) à 7,3 (2011) puis 9,1 (2017), tandis que la moyenne brésilienne passe de 3,4 à 4,7 puis 5,5.",
+   "conditions": "La validité de ce type d'estimation dépend de la disponibilité d'un groupe de contrôle crédible : Sobral étant une commune atypique à bien des égards, l'appariement sur caractéristiques observables ne neutralise pas les déterminants non observés, en particulier la qualité du leadership politique — qui est précisément le facteur que tous les observateurs qualitatifs jugent décisif et qui est par construction non appariable.",
+   "contested": "Trois problèmes. (1) Je n'ai pas pu accéder au texte intégral de Rocha, Menezes-Filho et Komatsu (2018) ni de Bezerra et al. (2018) dans cette session : les résultats ci-dessus sont rapportés d'après le résumé qu'en fait la Banque mondiale, et aucune taille d'effet chiffrée n'est disponible. Il serait imprudent de citer une magnitude. (2) L'étude s'arrête en 2011, soit six ans avant le résultat spectaculaire de 2017 le plus souvent invoqué : la partie la plus impressionnante de la trajectoire de Sobral n'a fait l'objet d'aucune validation causale identifiée. (3) La Banque mondiale conclut de l'ensemble de la littérature que « les complémentarités entre les éléments clés à Sobral semblent plus susceptibles de réussir ensemble que si elles étaient tentées individuellement » — formulation qui, si elle est probablement juste, est aussi commode : elle rend le modèle non falsifiable composant par composant et immunise le récit contre l'échec d'un élément particulier.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro (résumant Rocha, Menezes-Filho et Komatsu, 2018, et Bezerra, Komatsu, Menezes-Filho et Mannes, 2018)",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil, section 4",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Vanessa R. G. Bezerra, Bruno K. Komatsu, Naercio A. Menezes-Filho, Yuri S. Mannes",
+     "title": "Avaliação do Impacto das Políticas Educacionais em Sobral sobre a Evasão Escolar",
+     "org": "ANPEC (Associação Nacional dos Centros de Pós-Graduação em Economia)",
+     "year": "2018",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    }
+   ]
+  },
+  {
+   "claim": "Le préalable de la réforme de Sobral fut un acte de force administratif — l'annulation de 1 000 contrats d'enseignants, soit un tiers du corps — rendu possible par un vice juridique de recrutement et non par un arbitrage sur la qualité pédagogique.",
+   "what_it_is": "La réorganisation du réseau scolaire et l'établissement d'un plan de carrière enseignant, décidés avant 2001, donc avant la politique d'alphabétisation proprement dite, et qui en constituent la condition de possibilité.",
+   "evidence_level": "descriptif (étude de cas documentaire avec références législatives précises)",
+   "effect_size": "non disponible en termes d'apprentissages. Ampleur de la mesure : 1 700 suppressions d'emplois municipaux dont 1 000 enseignants ; effectif municipal ramené de 4 200 à 2 500 agents.",
+   "concrete_practice": "Le décret a annulé tous les contrats de fonctionnaires conclus depuis 1988 qui n'avaient pas été établis sur une procédure technique, en s'appuyant sur la Constitution brésilienne de 1988 qui garantit la stabilité d'emploi aux seuls agents admis par procédure méritocratique. La Banque mondiale précise que « la seconde réforme a rencontré peu d'opposition du syndicat enseignant puisque le gouvernement municipal a prouvé que les enseignants avaient été recrutés illégalement ». Les critères techniques de recrutement des enseignants et des directions ont été fixés par la loi communale 123 de 1997, et le plan de carrière enseignant par la loi communale 256 de 2000.",
+   "concrete_example": "Avant 1997, les directeurs d'école de Sobral étaient nommés politiquement, agissaient comme chefs de communauté et sélectionnaient les enseignants selon leurs propres critères. La séquence suivie a été : (1) regroupement des écoles pour supprimer les classes multigrades et réduire leur nombre d'environ un tiers ; (2) amélioration de l'infrastructure et des repas ; (3) transport scolaire pour soutenir la fréquentation ; (4) critères techniques de recrutement (1997) ; (5) plan de carrière (2000). Le financement de cette séquence a été rendu possible par le fonds fédéral de péréquation FUNDEF, dont les premiers transferts sont arrivés en 1998 et qui, selon la Banque mondiale, « a fourni à Sobral l'argent et la légitimité pour réorganiser le réseau scolaire et changer le processus de recrutement des enseignants ». FUNDEF imposait en outre aux collectivités de créer un plan de carrière enseignant et de consacrer 60 % des transferts aux salaires.",
+   "conditions": "Cette séquence n'a été possible que par la conjonction de trois facteurs : un vice juridique préexistant dans les recrutements, qui a neutralisé l'opposition syndicale sur un terrain de légalité et non de politique éducative ; un afflux simultané de ressources fédérales nouvelles, qui a permis de restructurer sans austérité ; et un mouvement de dévolution des écoles de l'État vers les communes engagé par le Ceará dès 1995, qui a clarifié les responsabilités. Aucun de ces trois facteurs n'est reproductible sur décision.",
+   "contested": "C'est l'épisode le moins discuté du dossier et le plus problématique politiquement. Ni la Banque mondiale ni McNaught ne fournissent d'analyse de ses effets — sur la pénurie d'enseignants, sur le climat professionnel, sur les personnes concernées — ni de contre-expertise syndicale ou judiciaire. La formulation de la Banque mondiale (« peu d'opposition du syndicat puisque la commune a prouvé que les enseignants avaient été recrutés illégalement ») est une affirmation non documentée par une source tierce. McNaught reprend le fait sans le discuter davantage. Enfin, l'ensemble du cas est indissociable d'une configuration politique particulière — la famille Ferreira Gomes, Cid Gomes maire de 1997 à 2004 puis gouverneur du Ceará à partir de 2006, son frère Ivo Gomes secrétaire à l'éducation puis maire — c'est-à-dire une continuité dynastique de vingt ans que McNaught décrit sans en tirer les conséquences sur la reproductibilité, et que la Banque mondiale mentionne en note de bas de page. Présenter Sobral comme un modèle transférable sans mentionner cette configuration serait une omission grave.",
+   "sources": [
+    {
+     "author": "Louisee Cruz, Andre Loureiro",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil (section 2 et notes 15-17)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/143291593675433703/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil"
+    },
+    {
+     "author": "Tim McNaught",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme, University of Oxford",
+     "year": "2022",
+     "url": "https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La dévolution quasi-intégrale des écoles aux communes est la condition institutionnelle qui distingue le Ceará du reste du Brésil et qui rend le modèle possible — elle est aussi ce qui le rend le plus difficile à transposer.",
+   "what_it_is": "Le transfert, engagé par l'État du Ceará dès 1995, de la gestion du primaire et du secondaire inférieur aux 184 communes, poussé beaucoup plus loin que dans les autres États brésiliens.",
+   "evidence_level": "descriptif (données administratives du recensement scolaire brésilien, comparaison inter-États)",
+   "effect_size": "Part des effectifs publics du primaire scolarisés dans des écoles gérées par les communes : Ceará 98 % en 2007 et 99,3 % en 2018, contre 76 % puis 83,5 % pour le Brésil. Pour le secondaire inférieur : Ceará 77 % en 2007 et 96 % en 2018, contre 42 % puis 50,5 % pour le Brésil. En 2007, tous les autres États étaient sous 50 % au secondaire inférieur, certains à 3 %.",
+   "concrete_practice": "Chaque commune brésilienne dispose d'une autonomie administrative comparable à celle d'un État : elle peut définir ses propres politiques éducatives tant qu'elles ne contredisent pas les normes nationales et de l'État, et tout aspect de la gestion scolaire relève d'elle — recrutement et licenciement des enseignants et directeurs, développement professionnel, entretien des bâtiments, curriculum et matériel, repas. L'État du Ceará ne gère donc pas les écoles du niveau concerné : il incite et il accompagne. La Banque mondiale résume ainsi la division du travail : le programme phare d'alphabétisation « offre un menu d'options dans lequel les communes peuvent puiser et qu'elles adaptent, avec le soutien de l'État, plutôt qu'une solution unique ».",
+   "concrete_example": "C'est cette dévolution qui explique pourquoi le secondaire inférieur à Sobral est entièrement communal, contrairement à la plupart du Brésil : les élèves de ce niveau étaient encore dans des écoles gérées par l'État jusqu'en 2011, et la première évaluation du réseau communal de Sobral à ce niveau date de 2013 (IDEB 5,8), pour atteindre la première place nationale en 2017 (7,2). Sobral avait négocié avec l'État de prioriser d'abord le primaire puis d'étendre progressivement le secondaire inférieur, l'élargissement du réseau étant financièrement difficile pour une commune.",
+   "conditions": "Le rapport de la Banque mondiale pose la condition en termes explicites : « le financement lié aux résultats avec assistance technique n'est possible qu'avec un certain niveau de décentralisation du système éducatif », et « peu de pays ont le personnel ou la capacité de gérer directement de grands systèmes éducatifs tout en maintenant des niveaux élevés de performance ». Une seconde condition est que le financement de base des écoles reste stable et indépendant du mécanisme incitatif : « les systèmes éducatifs locaux doivent disposer d'un financement stable pour leur fonctionnement de base, indépendant du mécanisme de financement lié aux résultats ».",
+   "contested": "L'argument de la décentralisation comme condition de succès est asymétrique et jamais testé : le Brésil est massivement décentralisé partout, mais un seul État a produit ces résultats — la décentralisation est donc au mieux une condition nécessaire, certainement pas suffisante, et le rapport ne teste pas l'hypothèse alternative que la dévolution poussée du Ceará soit elle-même une conséquence du même leadership politique plutôt qu'une cause indépendante. Par ailleurs, la littérature brésilienne analyse ce « régime de collaboration » de manière moins consensuelle : une étude de terrain conclut à une collaboration horizontale limitée, avec une « participation sous tutelle » suivie d'une verticalisation par l'instrumentalisation des normes et directives de l'État (Conhecer, 2023) — c'est-à-dire une recentralisation de fait sous couvert de coopération, lecture entièrement absente des rapports de la Banque mondiale.",
+   "sources": [
+    {
+     "author": "Andre Loureiro, Louisee Cruz, Ildo Lautharte, David K. Evans",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty (section 2.D et figure 11)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/281071593675958517/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty"
+    },
+    {
+     "author": "Marcos Holanda, Marcelo Barbosa, Louisee Cruz, Andre Loureiro",
+     "title": "Implementing a Results-Based Financing Mechanism for Subnational Governments to Improve Education Outcomes (section 3 : conditions nécessaires)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "http://documents.worldbank.org/curated/en/561471606111232725/Implementing-a-Results-Based-Financing-Mechanism-for-Subnational-Governments-to-Improve-Education-Outcomes-An-Implementation-Guide-Inspired-by-the-Case-of-Ceara-Brazil"
+    },
+    {
+     "author": "(revue à comité de lecture brésilienne)",
+     "title": "Da colaboração à gestão por resultados na educação do Ceará",
+     "org": "Conhecer: debate entre o público e o privado, 13(30)",
+     "year": "2023",
+     "url": "https://doi.org/10.32335/2238-0426.2023.13.30.8132"
+    }
+   ]
+  }
+ ]
+}

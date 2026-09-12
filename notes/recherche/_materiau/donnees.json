@@ -1,0 +1,438 @@
+{
+ "topic": "La donnée au service de l'apprentissage : évaluation formative, feedback, évaluations intermédiaires, systèmes d'alerte précoce, design des évaluations nationales et charge administrative",
+ "headline": "La donnée n'améliore les apprentissages que lorsqu'elle déclenche une action pédagogique rapide et outillée : le feedback mal conçu dégrade la performance dans un tiers des cas, les évaluations intermédiaires « data-driven » produisent des effets modestes voire nuls en essai randomisé, et le seul dispositif massivement convaincant est l'alerte précoce sur des indicateurs comportementaux simples (présence, échecs de cours) — à condition que la collecte reste minimale et que les résultats servent au diagnostic, pas à la sanction.",
+ "headline_unused": "x",
+ "searches_run": 24,
+ "transposability_fwb": "Ce qui se transpose bien à la FWB. (1) L'alerte précoce est le levier le plus robuste et le plus compatible avec une gouvernance partagée : les indicateurs de Chicago (absentéisme, échecs de cours, crédits) sont déjà dans les bases administratives de la FWB, ne requièrent aucune nouvelle épreuve, et l'action reste entièrement dans la main de l'école et de son PO — donc sans atteinte à la liberté d'enseignement. C'est aussi le levier le moins coûteux dans un contexte de déficit de 1,5 Md EUR : Chicago a produit ses gains avec des rapports de données et du temps d'équipe, pas avec du personnel supplémentaire. Un usage évident en FWB : appliquer la logique « on-track » au 1er degré du secondaire et au redoublement (35 % des élèves de 15 ans), en transformant l'échec de fin d'année en signal d'alerte dès la Toussaint. (2) Le design « comparaison externe standardisée à faibles enjeux » : la FWB est à 472 points PISA, c'est-à-dire précisément dans la zone (400-500) où Bergbauer-Hanushek-Woessmann estiment l'effet encore significativement positif (≈ +0,13 écart-type à 500 points) ; à l'inverse, le simple reporting interne sans comparaison externe est estimé sans effet. Le test CLÉ de 4e primaire (2026) et le modèle flamand des Vlaamse toetsen (feedback confidentiel à l'école, aucune publication ni classement) offrent un design déjà adapté à un système à réseaux multiples. (3) La règle de frugalité britannique — pas plus de trois collectes sommatives par élève et par an, « collecter une fois, utiliser plusieurs fois », aucune remontée systématique de l'évaluation formative au niveau de l'école — est directement importable et répond au reproche central adressé au Pacte par les directions.\n\nCe qui ne se transpose PAS tel quel. (1) Les résultats américains de « data-driven instruction » (Bambrick-Santoyo, ANet, CDDRE, Apollo 20) sont indissociables d'un environnement à forte imputabilité (tests d'État à enjeux, direction pouvant recruter et réaffecter, temps d'instruction extensible, réunions de données de trois heures hors horaire). Aucune de ces conditions n'existe en FWB : sans pouvoir de gestion des ressources humaines et sans marge horaire, le cycle « évaluer-analyser-réenseigner » se réduit à un exercice d'encodage. L'essai ANet montre d'ailleurs que là où la capacité de l'école est faible, l'effet devient négatif et significatif (-0,23 écart-type en maths) : importer ce modèle dans les écoles FWB les plus fragiles serait probablement contre-productif. (2) Le résultat gallois sur les palmarès (Burgess et al.) ne plaide pas pour la publication de classements en FWB : dans un quasi-marché scolaire avec libre choix, inscriptions contraintes et forte ségrégation (92 points PISA d'écart entre quartiles extrêmes), la publication de résultats bruts alimenterait la sélection des élèves plutôt que l'amélioration pédagogique — le risque documenté de « gaming » (Neal & Schanzenbach, Jacob & Levitt) y serait maximal. (3) Le Teaching at the Right Level (0,15 à 0,70 écart-type) suppose un regroupement des élèves par niveau de maîtrise pendant une plage horaire dédiée et des camps intensifs : incompatible en l'état avec le tronc commun et les normes d'encadrement de la FWB, mais son principe — la donnée ne vaut que si elle change qui enseigne quoi, à qui, pendant combien de temps — est la condition de réussite à retenir. (4) Enfin, la contrainte budgétaire impose une conclusion inconfortable : les dispositifs de données coûteux et lourds (plateformes, encodages triannuels, tableaux de bord multicritères) ont, en essai randomisé, les effets les plus faibles ; le dispositif le moins cher (liste d'alerte + réunion hebdomadaire d'équipe) a les effets les mieux documentés. Un arbitrage de simplification n'est donc pas ici un renoncement mais un alignement sur la preuve.",
+ "items": [
+  {
+   "claim": "Le feedback n'est pas un levier uniformément positif : dans la méta-analyse de référence, plus d'un tiers des interventions de feedback ont DÉGRADÉ la performance, alors même que l'effet moyen était positif.",
+   "what_it_is": "Kluger & DeNisi (1996) ont agrégé un siècle d'études expérimentales sur les « interventions de feedback » (toute information donnée à une personne sur sa performance). Leur théorie (Feedback Intervention Theory) explique la dispersion : plus le feedback déplace l'attention vers le Soi (notes, comparaison entre élèves, éloge ou critique de la personne) et loin de la tâche, plus il devient inefficace ou nuisible.",
+   "evidence_level": "méta-analyse (d'études majoritairement expérimentales, hors et en contexte scolaire)",
+   "effect_size": "d = 0,41 en moyenne (607 tailles d'effet, 23 663 observations) ; mais plus d'un tiers des interventions produisent un effet NÉGATIF sur la performance ultérieure. Population : adultes et élèves, tâches cognitives et motrices.",
+   "concrete_practice": "Concrètement, cela invalide la pratique la plus répandue en FWB : rendre une copie avec une note chiffrée et un commentaire global. La note capte l'attention et annule le commentaire. Les pratiques compatibles avec la preuve sont : rendre le travail SANS note avec une consigne d'action (« reprends les questions 3 et 7 en appliquant la règle X »), réserver un temps de classe pour que l'élève agisse sur le retour, et faire porter le retour sur la tâche et la stratégie, jamais sur la personne.",
+   "concrete_example": "Dans l'essai randomisé Embedding Formative Assessment (Angleterre, 140 écoles secondaires, 25 393 élèves de Year 10, 2015-2017), l'une des cinq stratégies imposées aux enseignants était explicitement « providing feedback that moves learning forward ». Le dispositif consistait en 18 ateliers mensuels de 75-90 minutes (Teacher Learning Communities) de 8 à 14 enseignants, plus une observation croisée mensuelle entre pairs, sur deux ans, pour un coût de 3 895 £ par école (soit 1,20 £ par élève et par an) et environ 2 heures par mois par enseignant. Résultat mesuré sur l'Attainment 8 du GCSE : effet de 0,10 écart-type (IC 95 % : -0,01 à 0,21 ; p = 0,09), soit l'équivalent de 2 mois de progression et d'environ une note de GCSE dans une matière.",
+   "conditions": "Le feedback fonctionne quand (a) il porte sur la tâche et non sur le Soi, (b) l'élève dispose d'un temps de classe pour l'utiliser, (c) il suit un enseignement initial de qualité — un feedback ne peut pas compenser un enseignement défaillant. Il échoue quand il est accompagné d'une note, quand il est différé au point de ne plus pouvoir être exploité, ou quand il devient une obligation de traçabilité écrite pour la direction ou l'inspection.",
+   "contested": "Trois limites à ne pas lisser. (1) Le corpus de Kluger & DeNisi est en grande partie non scolaire (tâches de laboratoire, contextes professionnels) : la transposition à la classe est une inférence, pas un résultat direct. (2) L'essai EFA n'atteint la significativité qu'au seuil de 10 % sur l'issue principale, et ne trouve AUCUN effet sur les notes spécifiques d'anglais ou de mathématiques ; l'effet sur les élèves défavorisés (FSM) est de 0,07 et non significatif (p = 0,22). (3) L'évaluation indépendante (NIESR) signale que l'effet monte à 0,13 (p < 0,05) uniquement dans le sous-échantillon d'écoles n'ayant jamais participé au programme TEEP — analyse exploratoire, donc à traiter avec prudence.",
+   "sources": [
+    {
+     "author": "Avraham N. Kluger, Angelo DeNisi",
+     "title": "The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory",
+     "org": "Psychological Bulletin, 119(2), 254-284",
+     "year": "1996",
+     "url": "https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf"
+    },
+    {
+     "author": "Stefan Speckesser, Johnny Runge, Francesca Foliano, Matthew Bursnall, Nathan Hudson-Sharp, Heather Rolfe, Jake Anders (NIESR)",
+     "title": "Embedding Formative Assessment: Evaluation report and executive summary",
+     "org": "Education Endowment Foundation",
+     "year": "2018",
+     "url": "https://www.llse.org.uk/kil/uploads/datahub/4567ceb%5E03in-03/2021-06-04-EEF%20-%202018%20-%20Embedding%20formative%20assessment.pdf"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Embedding Formative Assessment (project page)",
+     "org": "EEF",
+     "year": "2018",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment"
+    }
+   ]
+  },
+  {
+   "claim": "La taille d'effet de 0,4 à 0,7 attribuée à l'évaluation formative depuis Black & Wiliam (1998) n'est pas soutenue par la littérature : la meilleure estimation méta-analytique est d'environ 0,20 écart-type, et elle varie fortement selon la discipline.",
+   "what_it_is": "Black & Wiliam, « Inside the Black Box » (Phi Delta Kappan, 1998), est une synthèse narrative — et non une méta-analyse formelle — de ~250 études ; la fourchette 0,4-0,7 y est un résumé informel, jamais une estimation agrégée calculée. Kingston & Nash (2011) ont tenté l'agrégation formelle : sur plus de 300 études K-12 examinées, seules 13 fournissaient l'information nécessaire au calcul, donnant 42 tailles d'effet indépendantes.",
+   "evidence_level": "méta-analyse (Kingston & Nash 2011, modèle à effets aléatoires) confrontée à une synthèse narrative (Black & Wiliam 1998)",
+   "effect_size": "Effet moyen pondéré = 0,20 écart-type (K-12). Modérateurs : 0,32 en langue d'enseignement, 0,17 en mathématiques, 0,09 en sciences. À comparer aux 0,4-0,7 annoncés en 1998 et repris depuis dans la quasi-totalité des documents de politique éducative.",
+   "concrete_practice": "L'implication pratique n'est pas d'abandonner l'évaluation formative — 0,20 écart-type reste substantiel pour un dispositif quasi gratuit — mais de cesser de la vendre comme une solution miracle et de refuser les plans qui tablent sur un effet trois fois supérieur à ce que la preuve autorise. Concrètement : ne pas construire un chantier de réforme entier sur une promesse de 0,7 écart-type.",
+   "concrete_example": "Le cas le plus instructif est la transformation du concept en programme mesuré. Le programme Embedding Formative Assessment, conçu par Dylan Wiliam lui-même et Siobhan Leahy, déployé par le réseau SSAT dans 140 écoles secondaires anglaises pendant deux ans (2015-2017) sur 25 393 élèves, avec une notation de sécurité de la preuve « very high » attribuée par l'EEF, produit 0,10 écart-type sur l'Attainment 8 — soit la moitié de l'estimation méta-analytique de Kingston & Nash et un septième de la borne haute de 1998. L'évaluation note aussi que le contenu formatif était « très similaire aux approches déjà en place » dans la plupart des écoles : la valeur ajoutée venait du mécanisme de communauté d'apprentissage entre enseignants, pas du contenu.",
+   "conditions": "L'écart entre 0,7 promis et 0,10 obtenu s'explique par trois facteurs identifiés dans les évaluations : (a) les études originales sont de petite échelle, souvent conduites par les concepteurs, sur des durées courtes et des tests conçus par les chercheurs ; (b) les tests utilisés en essai à grande échelle sont des examens nationaux, moins sensibles ; (c) l'évaluation de processus de l'EFA indique que les gains de pratique enseignante mettent plus de deux ans à se traduire en résultats, et que les élèves plus âgés, « orientés examen », y sont moins réceptifs.",
+   "contested": "Je n'ai PAS pu retrouver et vérifier de déclaration publiée dans laquelle Dylan Wiliam retirerait explicitement la fourchette 0,4-0,7 ; cette affirmation circule largement mais je ne la cite pas faute de source primaire vérifiable. Ce qui est établi et sourcé, c'est (a) que Kingston & Nash écrivent explicitement que la fourchette « n'est pas soutenue par la base de recherche existante », et (b) que Wiliam critique publiquement la conversion des tailles d'effet en « mois de progression » utilisée par l'EEF, qu'il juge fondée sur des normes inappropriées (Glass, McGaw & Smith 1981). Autre limite : Kingston & Nash ne retiennent que 13 études sur 300+, ce qui expose leur estimation à un biais de sélection en sens inverse, critique qui leur a été adressée.",
+   "sources": [
+    {
+     "author": "Paul Black, Dylan Wiliam",
+     "title": "Inside the Black Box: Raising Standards Through Classroom Assessment",
+     "org": "Phi Delta Kappan, 80(2), 139-148",
+     "year": "1998",
+     "url": "https://people.bath.ac.uk/edspd/Weblinks/MA_Ass/Resources/Using%20assessment%20formatively/Black%20&%20Wiliam%201998%20PDK.pdf"
+    },
+    {
+     "author": "Neal Kingston, Brooke Nash",
+     "title": "Formative Assessment: A Meta-Analysis and a Call for Research",
+     "org": "Educational Measurement: Issues and Practice, 30(4), 28-37",
+     "year": "2011",
+     "url": "https://eric.ed.gov/?id=EJ951173"
+    },
+    {
+     "author": "Dylan Wiliam",
+     "title": "Note publique sur la conversion des tailles d'effet en mois de progression par l'EEF",
+     "org": "Substack",
+     "year": "2024",
+     "url": "https://substack.com/@dylanwiliam137385/note/c-238506241"
+    }
+   ]
+  },
+  {
+   "claim": "Les évaluations intermédiaires couplées à un accompagnement à l'analyse de données (« data-driven instruction ») produisent, en essais randomisés, des effets nuls à très faibles sur les acquis — bien inférieurs à ce que promet la littérature managériale.",
+   "what_it_is": "Le modèle standard : des épreuves communes trimestrielles alignées sur les référentiels, des résultats rendus sous 48 h par élève et par item, des réunions d'analyse animées par un coach, et une planification de « réenseignement » des notions échouées. C'est le modèle de Paul Bambrick-Santoyo (« Driven by Data », Jossey-Bass, 2010 puis 2.0 en 2019), opérationnalisé à grande échelle par l'Achievement Network (ANet) et par le Center for Data-Driven Reform in Education (CDDRE) de Johns Hopkins.",
+   "evidence_level": "essais randomisés en grappes (deux essais indépendants, un au niveau des districts, un au niveau des écoles)",
+   "effect_size": "CDDRE, an 1 : +0,06 écart-type en mathématiques (significatif), +0,03 en lecture (non significatif), sur plus de 500 écoles / 59 districts / 7 États. ANet, après 2 ans : math -0,04 (SE 0,037 ; p = 0,30) et lecture -0,05 (SE 0,028 ; p = 0,099) sur 89 écoles et 21 335 élèves de Grades 3-8 ; dans l'échantillon réduit aux écoles ayant travaillé deux ans avec ANet : 0,00 et -0,01, non significatifs.",
+   "concrete_practice": "Dans une école ANet : quatre épreuves intermédiaires par an en maths et anglais (Grades 3-8), résultats renvoyés en environ deux jours ouvrables, puis une réunion « données » de trois heures, souvent après les cours, réunissant tous les enseignants de maths et d'anglais, animée par un coach ANet ; la réunion s'ouvre sur la célébration des résultats positifs, se poursuit par du développement professionnel collectif (comment analyser un item), puis par l'analyse par chacun de ses propres données et la conception de séquences de remédiation.",
+   "concrete_example": "Essai ANet (Harvard CEPR, West, Morton & Herlihy) : 119 écoles recrutées dans cinq districts — Boston, Chelsea et Springfield (Massachusetts), Jefferson Parish (Louisiane) et Chicago — appariées par paires puis randomisées, l'école traitée recevant deux ans de services ANet subventionnés (vagues 2011-13 et 2012-14), l'école témoin y accédant ensuite. Résultat : les enseignants traités déclarent consulter et utiliser les données significativement plus souvent, jugent leurs épreuves plus exigeantes et se disent plus satisfaits du délai et de la clarté des données ; mais ils ne se déclarent pas plus enclins à différencier leur enseignement, ils jugent leurs épreuves de maths MOINS bien alignées sur le programme, et l'effet sur les résultats aux tests d'État est nul après deux ans. Effets positifs isolés à Springfield, effets négatifs en Massachusetts oriental et à Chicago.",
+   "conditions": "L'essai ANet identifie lui-même la condition décisive : l'hétérogénéité selon la « préparation » de l'école mesurée avant randomisation. Dans le tiers d'écoles les mieux préparées, l'effet est positif et significatif dans l'échantillon réduit ; dans le tiers médian, nul ; dans le tiers le moins préparé, NÉGATIF et significatif (-0,23 écart-type en maths dans l'échantillon complet). Les auteurs pointent deux mécanismes : la capacité des enseignants et surtout leur marge de manœuvre pour insérer du réenseignement dans une progression imposée. Là où le programme est rigide, les données créent une injonction sans issue.",
+   "contested": "Le point le plus dérangeant pour les promoteurs : les auteurs testent la théorie du changement et la trouvent valide en coupe transversale (les écoles où les enseignants utilisent le plus les données obtiennent les meilleurs résultats), tout en mesurant un effet causal nul — autrement dit la corrélation observée dans les écoles performantes n'est pas reproductible par l'intervention. Par ailleurs, Slavin et al. (2013), sur le même essai CDDRE suivi jusqu'à 4 ans, ne trouvent « peu de différences importantes » aux années 1 et 2, et des effets positifs seulement en année 3-4 (ex. lecture 5e année : +0,13 n.s. an 1, +0,09 n.s. an 2, +0,24 p<0,10 an 3, +0,50 p<0,01 an 4, en écarts-types au niveau école, non comparables aux tailles d'effet individuelles) — un profil temporel qui peut signaler un effet réel différé, mais aussi une attrition différentielle de l'échantillon. Enfin, la réussite affichée de North Star Academy (Newark) sous la direction de Bambrick-Santoyo n'a jamais fait l'objet d'une évaluation contrefactuelle publiée de ce seul dispositif : c'est une réussite d'établissement, pas une preuve d'efficacité du levier isolé.",
+   "sources": [
+    {
+     "author": "Deven Carlson, Geoffrey D. Borman, Michelle Robinson",
+     "title": "A Multistate District-Level Cluster Randomized Trial of the Impact of Data-Driven Reform on Reading and Mathematics Achievement",
+     "org": "Educational Evaluation and Policy Analysis, 33(3), 378-398",
+     "year": "2011",
+     "url": "https://eric.ed.gov/?id=EJ935253"
+    },
+    {
+     "author": "Martin R. West, Beth A. Morton, Corinne M. Herlihy",
+     "title": "Achievement Network's Investing in Innovation Expansion: Impacts on Educator Practice and Student Achievement",
+     "org": "Center for Education Policy Research, Harvard University",
+     "year": "2016",
+     "url": "https://files.eric.ed.gov/fulltext/ED565458.pdf"
+    },
+    {
+     "author": "Robert E. Slavin, Alan Cheung, GwenCarol Holmes, Nancy A. Madden, Anne Chamberlain",
+     "title": "Effects of a Data-Driven District Reform Model on State Assessment Outcomes",
+     "org": "American Educational Research Journal, 50(2), 371-396 (version de travail Johns Hopkins, juillet 2011)",
+     "year": "2013",
+     "url": "https://www.successforall.org/wp-content/uploads/2016/02/Effects-of-a-Data-Driven-District-Reform-Model-July-2011.pdf"
+    },
+    {
+     "author": "Paul Bambrick-Santoyo",
+     "title": "Driven by Data: A Practical Guide to Improve Instruction",
+     "org": "Jossey-Bass",
+     "year": "2010",
+     "url": "https://www.goodreads.com/book/show/7827734-driven-by-data"
+    }
+   ]
+  },
+  {
+   "claim": "Dans un système d'Europe continentale à enseignement primaire décentralisé, une intervention structurée de décision fondée sur les données produit environ un mois d'apprentissage supplémentaire, et bénéficie particulièrement aux écoles à faible indice socio-économique.",
+   "what_it_is": "Le projet « Focus » aux Pays-Bas : un dispositif de deux ans de développement professionnel à l'échelle de l'école entière (direction + équipe) visant à exploiter systématiquement le système national de suivi des élèves (leerlingvolgsysteem, épreuves Cito semestrielles) pour fixer des objectifs par classe, analyser les écarts et adapter l'enseignement. C'est le contrepoint européen aux essais américains.",
+   "evidence_level": "quasi-expérimental longitudinal (modèles mixtes linéaires sur données d'acquis, deux années avant et deux années pendant l'intervention)",
+   "effect_size": "Effet moyen positif équivalant à environ un mois d'apprentissage supplémentaire par an ; effet significativement plus élevé dans les écoles à faible statut socio-économique. Population : 53 écoles primaires néerlandaises.",
+   "concrete_practice": "La routine : chaque semestre, les résultats des épreuves standardisées Cito remontent automatiquement dans le système de suivi ; l'équipe analyse les résultats par groupe de niveau, fixe des objectifs ambitieux et explicites pour chaque groupe, planifie l'instruction différenciée, et réévalue au semestre suivant. La direction pilote le cycle ; le développement professionnel porte sur la compétence d'analyse, pas sur la production de données nouvelles.",
+   "concrete_example": "Van Geel, Keuning, Visscher & Fox ont suivi 53 écoles primaires néerlandaises, en utilisant les données d'acquis des deux années PRÉCÉDANT l'intervention comme contrefactuel interne, puis les deux années de l'intervention. Le dispositif reposait intégralement sur des épreuves déjà existantes et obligatoires (le système Cito), sans création d'un nouvel appareil d'évaluation ni d'une nouvelle plateforme — l'effort a porté sur la formation des équipes à lire et exploiter ces données. Publication dans l'American Educational Research Journal (2016, 53(2), 360-394).",
+   "conditions": "Deux conditions structurelles expliquent que cela marche aux Pays-Bas et échoue souvent ailleurs : (a) l'existence préalable d'un système national d'épreuves standardisées à faibles enjeux, longitudinal et comparatif, que les écoles n'ont pas à construire ; (b) l'investissement porte sur la CAPACITÉ D'ANALYSE des équipes et non sur la collecte. L'effet plus fort en milieu défavorisé suggère que le levier sert surtout à corriger des attentes trop basses.",
+   "contested": "Le design n'est pas randomisé : les 53 écoles se sont portées volontaires, ce qui expose à une auto-sélection des équipes les plus motivées, et la comparaison avant/après ne neutralise pas les tendances temporelles nationales. L'effet, converti en mois d'apprentissage, est du même ordre de grandeur que celui de l'essai EFA anglais (2 mois) et reste modeste. Enfin, les travaux ultérieurs de la même équipe (Schildkamp et al.) sur les facteurs favorisant ou entravant la décision fondée sur les données montrent une mise en œuvre très inégale selon les écoles, ce qui relativise la reproductibilité d'un effet moyen.",
+   "sources": [
+    {
+     "author": "Marieke van Geel, Trynke Keuning, Adrie J. Visscher, Jean-Paul Fox",
+     "title": "Assessing the Effects of a School-Wide Data-Based Decision-Making Intervention on Student Achievement Growth in Primary Schools",
+     "org": "American Educational Research Journal, 53(2), 360-394",
+     "year": "2016",
+     "url": "https://journals.sagepub.com/doi/10.3102/0002831216637346"
+    },
+    {
+     "author": "University of Twente Research Information",
+     "title": "Assessing the Effects of a School-Wide Data-Based Decision-Making Intervention on Student Achievement Growth in Primary Schools (notice et résumé)",
+     "org": "Université de Twente",
+     "year": "2016",
+     "url": "https://research.utwente.nl/en/publications/assessing-the-effects-of-a-school-wide-data-based-decision-making/"
+    }
+   ]
+  },
+  {
+   "claim": "L'indicateur « Freshman OnTrack » de Chicago est le cas le plus convaincant d'une donnée simple qui transforme un système : le taux d'élèves « on-track » est passé de 58 % à 89 % entre 2007 et 2017, et le taux de diplomation à cinq ans a progressé de 19 points entre 2011 et 2017.",
+   "what_it_is": "Un indicateur binaire, calculable dès la fin de la 9e année (équivalent 3e secondaire) : l'élève est « on-track » s'il a accumulé au moins cinq crédits et n'a pas échoué plus d'un semestre de cours de base. Il a été établi par Allensworth & Easton (Consortium on Chicago School Research, 2005 puis 2007) comme meilleur prédicteur de la diplomation que les scores de 8e année ou les caractéristiques sociales.",
+   "evidence_level": "descriptif longitudinal à grande échelle avec contrôles (analyse de cohortes du UChicago Consortium) ; la valeur prédictive de l'indicateur est corrélationnelle, l'attribution causale de la hausse de diplomation reste débattue et assumée comme telle par les auteurs",
+   "effect_size": "Taux Freshman OnTrack : 58 % (2007) → 89 % (2017). Taux de diplomation à cinq ans : +19 points de pourcentage entre 2011 et 2017 (record annoncé à 78 % en 2017). Les élèves on-track ont 3,5 fois plus de chances d'obtenir leur diplôme. Population : l'ensemble des lycées publics de Chicago, environ 30 000 entrants en 9e année par cohorte.",
+   "concrete_practice": "Le district n'a acheté aucun programme clé en main. Il a mis les données en temps réel entre les mains des directions : (1) une « freshman watch list » signalant dès l'inscription les entrants à risque d'absentéisme et de faibles performances ; (2) des « freshmen success reports » mensuels identifiant les élèves en difficulté nécessitant une intervention ; (3) un rapport de « credit recovery » identifiant au second semestre tous les élèves devant rattraper des crédits. Avant cela, les directions de lycée n'avaient même pas accès aux notes et présences du primaire, conservées sur des fiches papier. Les écoles ont ensuite construit leur propre réponse : équipes de réussite de 9e année, réunions hebdomadaires de suivi nominatif, contacts familles.",
+   "concrete_example": "Steinmetz College Prep, lycée de quartier de Chicago : entre la cohorte de référence et la cohorte de 9e année 2007-08, le taux Freshman OnTrack augmente de 11 points de pourcentage et le taux de diplomation de la cohorte de 7 points de pourcentage. Le rendement de l'indicateur s'est même RENFORCÉ : dans la cohorte de référence, 74 % des élèves on-track obtenaient leur diplôme contre 25 % des off-track (écart de 49 points) ; en 2007-08, 78 % contre 21 % (écart de 57 points). À l'échelle du district, le taux on-track des garçons afro-américains est passé de 43 % à 71 %, et environ 7 000 élèves supplémentaires par cohorte ont achevé leur 9e année.",
+   "conditions": "Quatre conditions explicitement identifiées par les chercheurs : (a) l'indicateur est SIMPLE, calculable sans nouvelle épreuve, et compréhensible par tous les adultes de l'école ; (b) la donnée arrive assez tôt (premier trimestre) pour que l'action soit encore possible ; (c) le district a laissé la conception de la réponse aux directions plutôt que d'imposer un programme — condition décisive dans un système décentralisé ; (d) l'échec de cours a été recadré, passant d'un jugement sur l'élève à un signal d'alerte pour les adultes.",
+   "contested": "Les auteurs eux-mêmes posent le problème du biais de sélection : on aurait dû s'attendre à ce que le rendement de l'indicateur DIMINUE à mesure que davantage d'élèves marginaux passaient on-track — ce ne fut pas le cas, ce qui est contre-intuitif et appelle des explications alternatives. L'analyse n'est pas un essai randomisé : il s'agit d'une comparaison de cohortes avec contrôles pour la composition du corps étudiant, l'ouverture de nouvelles écoles et les caractéristiques d'entrée. La question de l'inflation des résultats (assouplissement des exigences de notation pour faire passer les élèves) est la critique la plus sérieuse ; le Consortium y répond en montrant que les scores ACT moyens et la croissance EXPLORE-ACT sont restés stables alors que beaucoup plus d'élèves atteignaient la 11e année — argument fort mais indirect.",
+   "sources": [
+    {
+     "author": "Elaine M. Allensworth, John Q. Easton",
+     "title": "What Matters for Staying On-Track and Graduating in Chicago Public High Schools",
+     "org": "Consortium on Chicago School Research, University of Chicago",
+     "year": "2007",
+     "url": "https://consortium.uchicago.edu/sites/default/files/2018-10/07%20What%20Matters%20Final.pdf"
+    },
+    {
+     "author": "Melissa Roderick, Thomas Kelley-Kemple, David W. Johnson, Susan Ryan",
+     "title": "The Preventable Failure: Improvements in High School Graduation Rates when High Schools Focus on the Ninth-Grade Year",
+     "org": "UChicago Consortium on School Research",
+     "year": "2021",
+     "url": "https://consortium.uchicago.edu/sites/default/files/2021-09/The%20Preventable%20Failure-Sep2021-Consortium.pdf"
+    },
+    {
+     "author": "UChicago Consortium on School Research",
+     "title": "What Matters for Staying On-Track and Graduating in Chicago Public Schools (page de publication)",
+     "org": "University of Chicago",
+     "year": "2007",
+     "url": "https://consortium.uchicago.edu/publications/what-matters-staying-track-and-graduating-chicago-public-schools"
+    }
+   ]
+  },
+  {
+   "claim": "Un système d'alerte précoce formalisé produit, en essai randomisé, des effets réels mais partiels : moins d'absentéisme chronique et moins d'échecs de cours après un an, mais aucun effet sur la moyenne, les exclusions ou l'accumulation de crédits — et la mise en œuvre s'avère très difficile.",
+   "what_it_is": "L'Early Warning Intervention and Monitoring System (EWIMS) est un processus en sept étapes (définir les rôles, utiliser l'outil d'alerte, examiner les données, les interpréter, assigner des interventions, suivre les progrès, évaluer et ajuster) piloté par une équipe dédiée dans chaque école, sur des indicateurs d'engagement (présence), de comportement (exclusions) et de performance (notes, crédits).",
+   "evidence_level": "essai contrôlé randomisé en grappes (écoles randomisées), REL Midwest / American Institutes for Research, financement IES",
+   "effect_size": "Après un an : proportion d'élèves en absentéisme chronique (≥10 % du temps d'instruction manqué) de 10 % en écoles EWIMS contre 14 % en écoles témoins (différence de 4 points, significative) ; proportion d'élèves ayant échoué à au moins un cours de 21 % contre 26 % (différence de 5 points, significative). Aucun effet sur la moyenne faible, les exclusions, ou la faible accumulation de crédits. Population : 73 lycées en Indiana, Michigan et Ohio, 37 671 élèves de 9e et 10e année, année scolaire 2014-15.",
+   "concrete_practice": "Dans une école EWIMS : une équipe pluridisciplinaire (direction, conseiller, enseignants) se réunit à intervalle fixe devant un tableau listant nominativement les élèves franchissant un seuil d'alerte ; chaque élève signalé se voit assigner une intervention (tutorat, contact famille, suivi de présence) ; l'équipe revient sur la liste à la réunion suivante pour vérifier si l'indicateur s'est redressé, et ajuste.",
+   "concrete_example": "L'essai de Faria et al. (2017) : 73 lycées de trois États randomisés pour utiliser ou non EWIMS pendant l'année 2014/15. Le résultat le plus instructif n'est pas l'effet mais la mise en œuvre : sur les écoles assignées au traitement, seules 2 ont mis en œuvre le modèle complet à un niveau modéré ou élevé, et 8 écoles ont ABANDONNÉ EWIMS en cours d'année. Autrement dit, l'effet mesuré de 4 à 5 points de pourcentage est obtenu malgré une fidélité de mise en œuvre très faible — ce qui plaide à la fois pour la robustesse du principe et contre l'illusion qu'un tel système s'installe spontanément.",
+   "conditions": "Réussite conditionnée à : une équipe explicitement mandatée et dotée de temps de réunion protégé ; un outil qui pousse la liste nominative aux adultes plutôt que d'attendre qu'ils la consultent ; des seuils d'alerte peu nombreux et non négociables ; une offre d'intervention réellement disponible en aval — sans quoi le signal ne débouche sur rien. Échoue quand l'équipe n'existe que sur le papier, quand le tableau de bord exige une saisie manuelle, ou quand aucun dispositif de remédiation n'est adossé au signal.",
+   "contested": "Le What Works Clearinghouse, dans son guide de pratique « Preventing Dropout in Secondary Schools » (2017), attribue à la recommandation « suivre les progrès de tous les élèves et intervenir dès les premiers signes de difficulté d'assiduité, de comportement ou d'acquis » un niveau de preuve MINIMAL — le plus bas des quatre recommandations du guide, la recommandation la mieux étayée (preuve forte) étant au contraire l'engagement des élèves par des curricula reliant les apprentissages aux parcours d'études et de carrière. Il faut donc dire clairement : l'alerte précoce est le levier « donnée » le mieux documenté, mais au sein de la littérature sur le décrochage, ce n'est pas le levier le mieux noté. Par ailleurs l'essai EWIMS ne mesure PAS d'effet sur la diplomation (horizon d'un an seulement).",
+   "sources": [
+    {
+     "author": "Ann-Marie Faria, Nicholas Sorensen, Jessica Heppen, Jill Bowdon, Suzanne Taylor, Ryan Eisner, Shandra Foster",
+     "title": "Getting students on track for graduation: Impacts of the Early Warning Intervention and Monitoring System after one year (REL 2017-272) — infographie de résultats",
+     "org": "Institute of Education Sciences, Regional Educational Laboratory Midwest",
+     "year": "2017",
+     "url": "https://ies.ed.gov/sites/default/files/migrated/rel/infographics/pdf/REL_MW_Early_Warning_Intervention_and_Monitoring_System.pdf"
+    },
+    {
+     "author": "What Works Clearinghouse",
+     "title": "Preventing Dropout in Secondary Schools (Educator's Practice Guide, NCEE 2017-4028)",
+     "org": "Institute of Education Sciences, U.S. Department of Education",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/24"
+    },
+    {
+     "author": "What Works Clearinghouse",
+     "title": "Preventing Dropout in Secondary Schools (notice ERIC ED575971)",
+     "org": "IES",
+     "year": "2017",
+     "url": "https://eric.ed.gov/?id=ED575971"
+    }
+   ]
+  },
+  {
+   "claim": "Le design de l'évaluation nationale détermine son effet : les évaluations standardisées permettant une comparaison EXTERNE améliorent les acquis, surtout dans les systèmes de performance moyenne ou faible ; le reporting purement interne et le contrôle des enseignants n'ont aucun effet, et deviennent même nuisibles dans les systèmes déjà performants.",
+   "what_it_is": "Bergbauer, Hanushek & Woessmann exploitent six vagues PISA (2000-2015), plus de deux millions d'élèves dans 59 pays, pour estimer l'effet de réformes du régime d'évaluation en éliminant les effets fixes pays et année. Ils distinguent quatre catégories : évaluation standardisée avec comparaison externe (SCOMP), évaluation standardisée à usage interne (SINT), reporting interne (IRPT) et contrôle des enseignants incluant l'inspection (TMON).",
+   "evidence_level": "panel international quasi-expérimental (effets fixes pays et année, exploitation des réformes de régime d'évaluation) — au-dessus d'une comparaison corrélationnelle mais en deçà d'un essai randomisé",
+   "effect_size": "À 400 points PISA (un écart-type sous la moyenne OCDE), l'introduction d'une évaluation standardisée avec comparaison externe accroît les acquis de 0,37 écart-type en mathématiques ; l'effet décroît de 0,025 écart-type tous les 10 points PISA initiaux ; à 500 points (moyenne OCDE) il reste significativement positif à environ 0,13 écart-type dans les trois matières. L'évaluation standardisée à usage strictement interne devient significativement NÉGATIVE au-delà d'environ 490 points initiaux. Le contrôle des enseignants (inspection incluse) est non significatif sur l'essentiel de la distribution et significativement négatif dans les systèmes très performants.",
+   "concrete_practice": "Traduit en design : une épreuve commune, corrigée selon un standard identique, dont les résultats situent l'élève et l'école par rapport à une référence externe (moyenne nationale, écoles de composition sociale comparable), restituée à l'équipe pédagogique — sans conséquence administrative automatique pour l'école ni pour l'enseignant. À l'inverse, multiplier les épreuves internes « pour le suivi » sans point de comparaison externe n'apporte rien et peut coûter du temps d'enseignement.",
+   "concrete_example": "La Communauté flamande offre le cas contemporain le plus proche. Les « Vlaamse toetsen » sont des épreuves numériques centrales, obligatoires, en néerlandais (compréhension en lecture, écriture) et en mathématiques, conçues par un consortium universitaire (Steunpunt Centrale Toetsen in Onderwijs), partiellement adaptatives, passées par environ 70 000 élèves par cohorte : lancement en mai 2024 en 4e primaire et 2e secondaire, extension en 6e primaire en mai 2026 et en dernière année secondaire en mai 2027. Chaque école reçoit un rapport de feedback individualisé comportant des résultats bruts ET des résultats contextualisés (comparaison à des écoles similaires), avec accès à un tableau de bord depuis septembre 2025. Point décisif du design : les résultats des écoles ne sont communiqués ni aux parents ni au public sous quelque forme que ce soit, il n'existe ni classement ni bulletin d'école ; le conseil de classe peut utiliser le résultat individuel comme information complémentaire mais jamais comme critère unique. L'inspection y a accès pour moduler la fréquence de ses audits. Résultats 2025 en 4e primaire : 34 % des élèves atteignent les attentes en résolution de problèmes mathématiques, 44 % en numération, 75 % en tableaux et diagrammes, 94 % en objets et relations géométriques ; 76 % des élèves se situent aux niveaux C ou D en compréhension de lecture. Les résultats 2024 et 2025 ne diffèrent pas significativement.",
+   "conditions": "Trois conditions de design se dégagent : (a) comparabilité externe — sans référence commune, la donnée ne produit aucun changement de comportement ; (b) faibles enjeux individuels et institutionnels — pas de classement public, pas de conséquence automatique ; (c) restitution contextualisée (comparaison à écoles de profil socio-économique comparable), faute de quoi le retour se réduit à un constat de composition sociale. La FWB, à 472 points PISA, se situe dans la zone où l'effet estimé est encore positif.",
+   "contested": "Limites sérieuses. (1) Il s'agit d'un panel de pays : l'identification repose sur des réformes déclaratives codées à partir des questionnaires PISA, avec un risque de mesure imparfaite et d'endogénéité des réformes (un pays qui décroche réforme son système d'évaluation). (2) Les effets estimés sont de très grande ampleur (0,37 écart-type), ce qui doit rendre prudent : aucun essai randomisé n'approche de telles magnitudes en éducation. (3) Le résultat que le contrôle des enseignants et l'inspection sont neutres voire nuisibles est en tension avec d'autres littératures et n'a pas, à ma connaissance, fait l'objet d'une réplication indépendante. (4) Les Vlaamse toetsen sont trop récentes pour qu'un effet sur les acquis ait été mesuré : c'est un design conforme à la preuve, pas encore une preuve.",
+   "sources": [
+    {
+     "author": "Annika B. Bergbauer, Eric A. Hanushek, Ludger Woessmann",
+     "title": "Testing",
+     "org": "Journal of Human Resources, 59(2), 349-388",
+     "year": "2024",
+     "url": "https://www.hanushek.net/sites/default/files/Bergbauer+Hanushek+Woessmann%202024%20JHR%2059(2).pdf"
+    },
+    {
+     "author": "Vlaamse overheid",
+     "title": "Flemish tests (Vlaamse toetsen) — présentation officielle du dispositif",
+     "org": "Gouvernement flamand",
+     "year": "2025",
+     "url": "https://www.vlaanderen.be/en/studying/flemish-tests"
+    },
+    {
+     "author": "VRT NWS",
+     "title": "Eerste resultaten Vlaamse toetsen: leerlingen hebben vooral moeite met wiskunde",
+     "org": "VRT",
+     "year": "2024",
+     "url": "https://www.vrt.be/vrtnws/nl/2024/06/24/resultaten-vlaamse-toetsen/"
+    },
+    {
+     "author": "KennisWest / Steunpunt Centrale Toetsen in Onderwijs",
+     "title": "Vlaamse toetsen: resultaten 2025",
+     "org": "Steunpunt Centrale Toetsen in Onderwijs",
+     "year": "2025",
+     "url": "https://www.kenniswest.be/publicatie/vlaamse-toetsen-resultaten-2025/271166"
+    }
+   ]
+  },
+  {
+   "claim": "Dès qu'une évaluation devient à enjeux forts, les acteurs optimisent l'indicateur et non l'apprentissage : ciblage des élèves proches du seuil, tricherie mesurable, et gains qui ne se répliquent pas sur des tests à faibles enjeux (loi de Campbell).",
+   "what_it_is": "Le corpus empirique sur les effets pervers de l'imputabilité par les tests, développé principalement sur le No Child Left Behind américain et sur le système d'imputabilité de Chicago (1996), qui en fut le précurseur.",
+   "evidence_level": "quasi-expérimental (différences de différences sur données administratives exhaustives) et détection algorithmique sur données d'items",
+   "effect_size": "Tricherie : cas sérieux de tricherie d'enseignant ou d'administrateur détectés dans au minimum 4 à 5 % des classes de primaire par an (Chicago). Ciblage : les gains en lecture et en mathématiques se concentrent sur les élèves du MILIEU de la distribution, et sont absents chez les élèves les plus faibles académiquement (Chicago, réformes de 1996 et NCLB de 2002). Divergence haut/bas enjeux : gains importants sur l'ITBS à enjeux, aucun effet correspondant sur l'IGAP à faibles enjeux. Effet global du NCLB : +0,23 écart-type en mathématiques de 4e année en 2007, aucun effet en lecture de 4e année.",
+   "concrete_practice": "Les comportements documentés : concentrer le tutorat et l'attention sur les élèves situés juste sous le seuil de « proficiency » (les « bubble kids ») en délaissant ceux qui sont clairement au-dessus ou trop loin en dessous ; augmenter le temps consacré aux matières et formats testés au détriment des autres ; dans les cas extrêmes, modifier les réponses des élèves. Tout cela améliore l'indicateur sans améliorer les apprentissages.",
+   "concrete_example": "Neal & Schanzenbach ont exploité deux chocs successifs dans le même district — l'imputabilité locale de Chicago introduite en 1996 et le NCLB introduit en 2002 — sur données administratives exhaustives, en comparant les progrès par quantile de performance initiale. Les deux réformes produisent des hausses notables de scores en lecture et en mathématiques chez les élèves du milieu de la distribution, mais PAS chez les élèves les moins avantagés académiquement. Le mécanisme est structurel, pas moral : un système qui compte le nombre d'élèves franchissant un seuil donne une incitation faible à s'occuper de ceux qui sont déjà au-dessus et de ceux qui n'ont aucune chance de l'atteindre à court terme. Parallèlement, Jacob & Levitt, avec un algorithme croisant fluctuations inattendues de scores et configurations de réponses suspectes sur les données d'items de Chicago, chiffrent la tricherie sérieuse à au moins 4-5 % des classes primaires par an.",
+   "conditions": "Le risque est maximal quand : l'indicateur est un compte de franchissement de seuil plutôt qu'une mesure de progression ; les conséquences pour l'école ou l'enseignant sont automatiques ; les mêmes acteurs administrent et corrigent l'épreuve ; il n'existe aucune mesure indépendante à faibles enjeux permettant de vérifier si les gains sont réels. Le risque est minimal quand l'épreuve est externe, corrigée hors de l'école, et que ses résultats alimentent un diagnostic sans conséquence administrative directe.",
+   "contested": "Ne pas caricaturer : le même corpus montre que l'imputabilité par les tests a AUSSI produit des gains réels. Dee & Jacob trouvent un effet du NCLB de 0,23 écart-type en mathématiques de 4e année, avec des améliorations aux percentiles bas comme hauts, et des gains en 8e année particulièrement marqués chez les groupes traditionnellement faibles — mais aucun effet en lecture. La lecture honnête est donc : l'imputabilité par les tests produit des gains réels mais étroits (la matière et le format testés), au prix d'effets de distorsion mesurables. Débat non tranché : on ignore si le solde net est positif, et la réponse dépend du poids qu'on donne aux matières non testées et aux élèves hors de la zone du seuil.",
+   "sources": [
+    {
+     "author": "Derek A. Neal, Diane Whitmore Schanzenbach",
+     "title": "Left Behind by Design: Proficiency Counts and Test-Based Accountability",
+     "org": "The Review of Economics and Statistics, 92(2), 263-283",
+     "year": "2010",
+     "url": "https://direct.mit.edu/rest/article/92/2/263/58591/Left-Behind-by-Design-Proficiency-Counts-and-Test"
+    },
+    {
+     "author": "Brian A. Jacob, Steven D. Levitt",
+     "title": "Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating",
+     "org": "The Quarterly Journal of Economics, 118(3), 843-877",
+     "year": "2003",
+     "url": "https://pricetheory.uchicago.edu/levitt/Papers/JacobLevitt2003.pdf"
+    },
+    {
+     "author": "Thomas S. Dee, Brian A. Jacob",
+     "title": "The Impact of No Child Left Behind on Student Achievement",
+     "org": "Journal of Policy Analysis and Management, 30(3), 418-446",
+     "year": "2011",
+     "url": "https://tom-dee.github.io/files/jpam2011.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Supprimer l'information publique sur la performance des écoles a un coût mesuré, et ce coût se concentre sur les écoles défavorisées : l'abolition des palmarès au pays de Galles a fait chuter les résultats d'environ 1,9 note de GCSE par élève et par an par rapport à l'Angleterre, sans aucun effet sur les écoles du quartile supérieur.",
+   "what_it_is": "En 2001, le pays de Galles a cessé de publier les tableaux de performance des écoles, tandis que l'Angleterre les a maintenus. Burgess, Wilson & Worth exploitent cette divergence en différences de différences sur les résultats individuels au GCSE, constituant l'une des rares expériences naturelles propres sur la publication de données scolaires.",
+   "evidence_level": "quasi-expérimental (expérience naturelle, différences de différences entre deux systèmes voisins)",
+   "effect_size": "Chute relative des résultats équivalant à 1,92 note de GCSE par élève et par an au pays de Galles par rapport à l'Angleterre. Hétérogénéité : aucun effet dans les écoles du quartile supérieur des palmarès ; l'effet négatif se concentre sur les écoles à faible performance et à public défavorisé.",
+   "concrete_practice": "Ce que teste réellement cette expérience, c'est l'effet de la seule PUBLICATION de l'information, sans changement des programmes, du financement ou de l'inspection. Le mécanisme plausible est la pression réputationnelle exercée sur les directions des écoles les plus exposées — et son retrait a relâché cette pression précisément là où elle produisait quelque chose.",
+   "concrete_example": "Le pays de Galles a abandonné la publication des tableaux de performance scolaire à partir de 2001 ; l'Angleterre, système voisin partageant le même examen (GCSE), les mêmes qualifications et un contexte institutionnel très proche, les a conservés. Les auteurs comparent les trajectoires des cohortes avant et après 2001 dans les deux pays. Le résultat est robuste à plusieurs spécifications et publié dans le Journal of Public Economics (2013, vol. 106, p. 57-67). L'étude a été retenue comme étude de cas d'impact dans l'exercice national britannique d'évaluation de la recherche (REF 2014).",
+   "conditions": "Le résultat vaut dans un système où : le libre choix d'école existe, les familles peuvent réellement arbitrer, et les écoles concurrentes sont géographiquement accessibles. Il ne dit rien de l'effet de publier des résultats BRUTS plutôt que de la valeur ajoutée — nuance capitale, car la publication de résultats bruts dans un système ségrégué récompense la composition sociale du public et non la qualité de l'enseignement.",
+   "contested": "C'est le résultat le plus inconfortable de ce dossier pour un système à faibles enjeux, et il faut le présenter tel quel : il suggère qu'un régime purement diagnostique, sans aucune exposition externe, peut sous-performer. Mais il est fortement contesté sur trois plans. (1) L'ampleur (près de 2 notes de GCSE par élève et par an) est jugée implausiblement élevée par plusieurs commentateurs, et d'autres évolutions politiques galloises concomitantes pourraient contaminer l'estimation. (2) L'étude ne mesure pas les coûts : ni le rétrécissement du curriculum, ni la sélection des élèves, ni la charge de travail. (3) Elle est en tension apparente avec Bergbauer et al., qui trouvent que le contrôle et le reporting sans comparaison externe standardisée n'apportent rien — la conciliation la plus vraisemblable est que ce qui compte est la COMPARABILITÉ EXTERNE de l'information, pas sa publication grand public, mais cette conciliation reste une hypothèse et non un résultat établi.",
+   "sources": [
+    {
+     "author": "Simon Burgess, Deborah Wilson, Jack Worth",
+     "title": "A natural experiment in school accountability: The impact of school performance information on pupil progress",
+     "org": "Journal of Public Economics, 106, 57-67",
+     "year": "2013",
+     "url": "https://econpapers.repec.org/RePEc:eee:pubeco:v:106:y:2013:i:c:p:57-67"
+    },
+    {
+     "author": "University of Bristol",
+     "title": "A natural experiment in school accountability: the impact of school performance information on pupil progress (notice institutionnelle)",
+     "org": "University of Bristol Research Information",
+     "year": "2013",
+     "url": "https://research-information.bris.ac.uk/en/publications/a-natural-experiment-in-school-accountability-the-impact-of-schoo-2/"
+    }
+   ]
+  },
+  {
+   "claim": "La donnée ne produit d'effet que si elle modifie effectivement ce qui est enseigné, à qui, et pendant combien de temps : les dispositifs où le diagnostic déclenche un regroupement et un enseignement ciblés obtiennent des effets de 0,15 à 0,70 écart-type, sans commune mesure avec ceux des dispositifs purement informationnels.",
+   "what_it_is": "Le « Teaching at the Right Level » (TaRL) de l'ONG indienne Pratham : une évaluation orale individuelle très simple de quelques minutes classe chaque enfant en niveaux de maîtrise (reconnaît-il les lettres, les mots, lit-il un paragraphe, un texte ?), puis les élèves sont REGROUPÉS par niveau de maîtrise et non par âge, pendant une plage horaire dédiée, avec des activités calibrées sur ce niveau. C'est le contre-exemple radical des dispositifs où la donnée est produite puis rangée.",
+   "evidence_level": "série de six essais contrôlés randomisés dans sept États indiens (Banerjee, Banerji, Berry, Cole, Duflo, Glennerster, Kannan, Khemani, Linden, Mukherji, Shotland, Walton et al.)",
+   "effect_size": "Modèle Haryana (personnes-ressources gouvernementales formées par Pratham appuyant les enseignants sur une heure dédiée) : +0,15 écart-type en langue. Modèle Uttar Pradesh (volontaires Pratham conduisant des camps intensifs de 40 jours sur temps scolaire plus 10 jours en été) : +0,70 écart-type en langue. À comparer aux 0,00 à 0,06 écart-type des essais randomisés américains de data-driven instruction.",
+   "concrete_practice": "Les deux ingrédients non négociables : (1) l'outil de diagnostic est trivial à administrer (quelques minutes, oral, par l'enseignant lui-même), donc il est réellement passé ; (2) une plage horaire est libérée et la composition des groupes est modifiée en fonction du résultat. Aucun tableau de bord, aucune plateforme, aucun encodage.",
+   "concrete_example": "Les évaluations de mise à l'échelle publiées en 2016 par Banerjee et al. comparent quatre modèles d'insertion du TaRL dans le système scolaire public indien. Deux échouent : au Bihar et en Uttarakhand, où le dispositif reposait sur la seule formation des enseignants sans temps dédié ni appui de terrain, l'adoption par les enseignants a été faible et les effets nuls. Deux réussissent : au Haryana, avec des personnes-ressources de l'administration formées par Pratham et appuyant les enseignants pendant une heure d'enseignement dédiée (+0,15 écart-type en langue) ; en Uttar Pradesh, avec des camps d'apprentissage intensifs de 40 jours animés par des volontaires Pratham pendant le temps scolaire (+0,70 écart-type). La comparaison des quatre modèles isole précisément la condition d'efficacité : ce n'est ni le diagnostic ni la formation, c'est le temps dédié et l'appui de proximité.",
+   "conditions": "Réussit quand : diagnostic ultra-simple, temps d'enseignement explicitement réservé, regroupement effectif des élèves par niveau, appui humain de proximité. Échoue quand : on se contente de former les enseignants et de leur fournir l'outil sans modifier ni l'emploi du temps ni l'organisation des groupes — c'est exactement ce qui s'est produit au Bihar et en Uttarakhand.",
+   "contested": "Transposabilité fortement contestée. (1) Le contexte de départ est un système à très faibles acquis (des enfants de 5e année ne lisant pas un texte de 2e année) : les rendements du ciblage y sont mécaniquement plus élevés que dans un système d'Europe occidentale. Bergbauer et al. converge d'ailleurs sur ce point : la valeur marginale de l'information décroît avec le niveau de performance du système. (2) Le regroupement par niveau de maîtrise est proche de l'« ability grouping », dont les effets sont controversés dans la littérature occidentale et qui entre en tension frontale avec la logique de tronc commun de la FWB. (3) L'effet de 0,70 écart-type provient du modèle le plus intensif (camps hors routine scolaire ordinaire), difficilement institutionnalisable. À ne pas présenter comme un dispositif importable, mais comme la démonstration de la condition de réussite.",
+   "sources": [
+    {
+     "author": "Abhijit Banerjee, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukherji, Marc Shotland, Michael Walton",
+     "title": "Mainstreaming an Effective Intervention: Evidence from Randomized Evaluations of \"Teaching at the Right Level\" in India",
+     "org": "NBER Working Paper No. 22746",
+     "year": "2016",
+     "url": "https://www.nber.org/papers/w22746"
+    },
+    {
+     "author": "J-PAL (Abdul Latif Jameel Poverty Action Lab)",
+     "title": "Teaching at the Right Level to improve learning (étude de cas de mise à l'échelle)",
+     "org": "J-PAL, MIT",
+     "year": "2023",
+     "url": "https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning"
+    }
+   ]
+  },
+  {
+   "claim": "L'usage intensif des données est une caractéristique des écoles efficaces, mais il n'est efficace qu'en faisceau avec d'autres pratiques — isolé, il n'explique rien ; combiné, un paquet de cinq pratiques rend compte d'environ 45 % de la variation d'efficacité entre écoles.",
+   "what_it_is": "Dobbie & Fryer ont collecté des données sur le fonctionnement interne de 39 écoles sous contrat de New York et les ont corrélées à l'efficacité mesurée par tirage au sort d'admission. Fryer a ensuite testé le transfert de ce paquet de pratiques dans des écoles publiques ordinaires de Houston (Apollo 20), par expérimentation de terrain au niveau des écoles et comparaisons quasi-expérimentales.",
+   "evidence_level": "corrélationnel sur efficacité estimée par loterie (Dobbie & Fryer 2013) ; puis expérience de terrain randomisée au niveau des écoles et comparaisons quasi-expérimentales (Fryer 2014)",
+   "effect_size": "L'indice des cinq pratiques — feedback fréquent aux enseignants, usage des données pour guider l'enseignement, tutorat à forte dose, temps d'instruction accru, culture d'attentes élevées — explique environ 45 % de la variation d'efficacité entre écoles, et reproduit un résultat similaire sur un échantillon distinct. À l'inverse, les intrants traditionnellement mesurés (taille des classes, dépense par élève, certification et formation des enseignants) ne sont PAS corrélés à l'efficacité. Transfert à Houston : +0,206 écart-type par an en mathématiques, +0,043 écart-type en lecture.",
+   "concrete_practice": "Dans les écoles étudiées, l'usage des données n'est jamais un acte administratif isolé : il commande l'affectation du tutorat à forte dose (qui reçoit du tutorat cette semaine, sur quelle notion), la planification du temps d'instruction supplémentaire, et le feedback donné aux enseignants après observation de classe. C'est le couplage donnée → ressource qui produit l'effet.",
+   "concrete_example": "L'expérience Apollo 20 à Houston : le district a injecté le paquet des cinq pratiques dans des écoles publiques traditionnelles à faible performance, sous la supervision d'un comité de pilotage dédié de la Houston ISD Foundation, avec randomisation au niveau des écoles. L'effet moyen sur les acquis est de 0,206 écart-type par an en mathématiques et de 0,043 écart-type en lecture. Le contraste avec l'essai ANet est instructif : ANet fournissait les données et l'accompagnement à l'analyse mais ne touchait ni au temps d'instruction, ni au tutorat, ni au recrutement — et obtient un effet nul. Apollo 20 changeait les cinq leviers simultanément et obtient un effet substantiel en mathématiques.",
+   "conditions": "Le déterminant est la capacité de l'école à convertir un diagnostic en ressource : temps, adulte, groupe. Cela suppose une marge de manœuvre organisationnelle (horaire, affectation du personnel, budget) dont les directions doivent effectivement disposer. Dans un système où la direction ne peut ni recruter, ni réaffecter, ni modifier substantiellement l'horaire, le même paquet est inapplicable — et l'on retombe sur le cas ANet.",
+   "contested": "Trois réserves lourdes. (1) L'analyse de Dobbie & Fryer est CORRÉLATIONNELLE : 39 écoles, indice construit a posteriori sur des pratiques suggérées par la recherche qualitative, risque élevé de surajustement ; l'affirmation « la donnée cause l'efficacité » n'est pas établie par ce travail. (2) L'effet quasi nul en lecture (0,043) est systématique dans cette littérature et rarement commenté par les promoteurs. (3) L'effet est obtenu dans un contexte de tests d'État à enjeux forts, et l'on ne peut pas exclure qu'une part des gains en mathématiques relève de l'alignement sur le test plutôt que d'un apprentissage transférable — c'est précisément la critique adressée à Bambrick-Santoyo, dont les ouvrages sont accusés d'encourager implicitement le « teaching to the test ».",
+   "sources": [
+    {
+     "author": "Will Dobbie, Roland G. Fryer Jr.",
+     "title": "Getting Beneath the Veil of Effective Schools: Evidence from New York City",
+     "org": "American Economic Journal: Applied Economics, 5(4), 28-60",
+     "year": "2013",
+     "url": "https://scholar.harvard.edu/files/fryer/files/dobbie_fryer_revision_final.pdf"
+    },
+    {
+     "author": "Roland G. Fryer Jr.",
+     "title": "Injecting Charter School Best Practices into Traditional Public Schools: Evidence from Field Experiments",
+     "org": "The Quarterly Journal of Economics, 129(3), 1355-1407",
+     "year": "2014",
+     "url": "https://scholar.harvard.edu/files/fryer/files/2014_injecting_charter_school_best_practices_into_traditional_public_schools.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La charge administrative de la collecte est un risque documenté et quantifié, pas une objection corporatiste : au Royaume-Uni 56 % des enseignants citaient la gestion des données comme source de charge inutile, et le groupe d'experts gouvernemental a conclu qu'il ne faut PAS remonter l'évaluation formative au niveau de l'école et pas plus de trois collectes sommatives par élève et par an.",
+   "what_it_is": "L'Independent Teacher Workload Review Group, mandaté par le ministère britannique de l'Éducation après la Workload Challenge, a publié en mars 2016 un rapport entièrement consacré à la charge liée à la gestion des données, avec des principes et des recommandations opérationnelles. C'est à ma connaissance le document de politique publique le plus précis sur la frugalité des données scolaires.",
+   "evidence_level": "descriptif (enquête nationale auprès des enseignants + rapport d'expertise institutionnelle) ; ce n'est pas une évaluation d'impact et ne doit pas être présenté comme telle",
+   "effect_size": "56 % des répondants à l'enquête Workload Challenge du DfE déclarent que la gestion des données est une source de charge de travail inutile. Recommandation chiffrée : « les données sommatives ne devraient normalement pas être collectées plus de trois fois par an et par élève ». Population : enseignants et directions d'Angleterre.",
+   "concrete_practice": "Les quatre principes posés par le rapport, directement opérationnels : « Be streamlined » — éliminer les doublons, « collect once, use many times » ; « Be ruthless » — ne collecter que ce qui sert les résultats des élèves, la quantité de données devant être proportionnée à leur utilité, toujours demander POURQUOI la donnée est nécessaire ; « Be prepared to stop activity » — ne pas présumer qu'une collecte doit continuer parce qu'elle a toujours existé ; « Be aware of workload issues » — se demander non seulement combien de temps cela prendra mais si ce temps ne serait pas mieux employé ailleurs. Et cette recommandation décisive, qui va au-delà de la Commission on Assessment Without Levels : « il n'y a pas de valeur intrinsèque à consigner l'évaluation formative ; ce qui compte est qu'on agisse sur elle » — donc les données d'évaluation formative ne devraient PAS être collectées en routine au niveau de l'école, en raison de la charge que cela crée.",
+   "concrete_example": "En FWB, l'étude conduite par Branka Cattonar (UCLouvain), Vanessa Angrilli, Géraldine Lambert et Agnès Deprit (HEG) en juin 2021 pour le Pacte pour un Enseignement d'excellence documente exactement le mécanisme redouté. Un groupe d'étude de 18 directions d'établissement fondamental et secondaire juge unanimement la simplification administrative indispensable, et pointe que certaines réformes en cours ALOURDISSENT au contraire leur travail : « elles citent notamment le travail mené autour des Plans de pilotage ou certains nouveaux projets de numérisation qui, selon elles, vont simplifier le travail de l'Administration générale mais complexifier le leur ». Leur formule est directe : « Informatiser ne signifie pas simplifier ». Sur l'application des plans de pilotage précisément, les directions rapportent : impression illisible (« Le plan est génial sur ordinateur, mais quand on l'imprime, on ne s'y retrouve plus »), écrasement des versions antérieures lors des modifications, impossibilité de réordonner les actions sans tout réencoder (« Si on veut insérer une action parmi celles déjà existantes, on doit tout effacer puis tout ré-encoder »), onglets découverts tardivement (une direction déclare « avoir passé deux week-ends à créer un document Word avec les différents onglets du plan de pilotage »). Les deux mesures de simplification jugées prioritaires par la totalité des 18 répondants sont la signature électronique et la meilleure connexion des applications et bases de données relatives aux enseignants et aux élèves ; « éviter les doubles encodages inutiles » est cité par 15 répondants sur 18. Signal que le problème est réel et reconnu : en mai 2026, le gouvernement de la FWB a bouclé un premier paquet de mesures anti-charge administrative, dont un allègement de l'encodage des plans de pilotage et un délai porté de 110 à 150 jours ouvrables scolaires, après recueil de 554 propositions de terrain via un outil participatif lancé à l'automne 2025.",
+   "conditions": "Le rapport britannique identifie les deux causes de bascule d'une donnée utile vers une donnée pesante : (a) l'objectif de la collecte n'a pas clairement identifié comment elle servira à améliorer les résultats ; (b) le processus de collecte est inefficace, dupliqué ou trop long. Il pointe également le rôle du régime d'inspection : la pratique antérieure d'Ofsted consistant à chercher des preuves de progrès des élèves À L'INTÉRIEUR D'UNE SÉANCE a mécaniquement engendré une pression à mesurer ce progrès séance par séance — c'est-à-dire que c'est le dispositif de contrôle qui a produit la surcollecte, pas les écoles.",
+   "contested": "Deux réserves d'honnêteté. (1) Le rapport britannique est un document d'expertise politique adossé à une enquête déclarative, non une évaluation d'impact : rien n'établit que l'application de ses recommandations améliore les acquis des élèves ni même, de façon mesurée, la charge réelle. (2) L'étude FWB de 2021 repose sur un groupe d'étude qualitatif de 18 directions volontaires : c'est un matériau riche et récent mais non représentatif, et il relève du recueil de perceptions. (3) Il existe une tension à ne pas masquer avec l'item précédent sur le pays de Galles et avec Bergbauer et al. : réduire la collecte de données peut aussi réduire l'information comparative qui produit les effets positifs. La ligne de partage défendable — collecter peu, mais collecter de façon externe et comparable — est une synthèse raisonnée, pas un résultat expérimental démontré.",
+   "sources": [
+    {
+     "author": "Independent Teacher Workload Review Group (présidé par Lauren Costello OBE)",
+     "title": "Eliminating unnecessary workload associated with data management",
+     "org": "Department for Education (Royaume-Uni)",
+     "year": "2016",
+     "url": "https://assets.publishing.service.gov.uk/media/5a8014c5e5274a2e8ab4e12a/Eliminating-unnecessary-workload-associated-with-data-management.pdf"
+    },
+    {
+     "author": "Branka Cattonar (UCLouvain), Vanessa Angrilli, Géraldine Lambert, Agnès Deprit (HEG)",
+     "title": "Groupe d'étude « Simplification administrative » — Rapport du groupe d'étude mené auprès de directeurs d'établissement",
+     "org": "Pacte pour un Enseignement d'excellence, Fédération Wallonie-Bruxelles",
+     "year": "2021",
+     "url": "https://pactepourunenseignementdexcellence.cfwb.be/wp-content/uploads/2025/05/Simplification-administrative-directions-rapport-groupe-etudes-2021.pdf"
+    },
+    {
+     "author": "Belga / BX1",
+     "title": "FWB : le gouvernement boucle un 1er paquet anti-charge administrative dans l'enseignement",
+     "org": "BX1",
+     "year": "2026",
+     "url": "https://bx1.be/categories/news/fwb-le-gouvernement-boucle-un-1er-paquet-anti-charge-administrative-dans-lenseignement/"
+    }
+   ]
+  },
+  {
+   "claim": "La FWB est précisément en train de reconstruire son architecture de données d'apprentissage — fin des évaluations externes non certificatives en 2026, création du test CLÉ en 4e primaire, déploiement du DAccE — ce qui ouvre une fenêtre pour appliquer les enseignements de la preuve, mais aussi le risque de reproduire l'erreur de la collecte sans usage.",
+   "what_it_is": "Trois chantiers simultanés. (1) Les évaluations externes non certificatives (EENC), organisées depuis 1994-1995 en 3e et 5e primaire et dans une année du degré supérieur du secondaire en français, mathématiques et éveil/sciences, dont les résultats ne comptaient pas pour le bulletin, s'arrêtent : 2025-2026 est la dernière année. (2) Le test CLÉ (Calculer, Lire, Écrire), non certificatif, les remplace en DÉBUT de 4e primaire dès septembre 2026, avec pour objectif explicite de mesurer la maîtrise des savoirs fondamentaux à l'issue des trois premières années et de détecter rapidement les difficultés. (3) Le DAccE (Dossier d'Accompagnement de l'Élève), créé par le décret du 31 mars 2022, dossier numérique individuel suivant l'élève, encodé trois fois par an (novembre, mars, fin d'année).",
+   "evidence_level": "descriptif institutionnel (textes réglementaires, communications officielles, presse) ; aucune évaluation d'impact de ces dispositifs n'existe à ce jour",
+   "effect_size": "Non disponible : aucun de ces trois dispositifs FWB n'a fait l'objet d'une évaluation d'impact publiée. Seule donnée d'usage disponible : en 2023-2024, 21 % des élèves de 1re primaire ont bénéficié d'un accompagnement personnalisé via le DAccE.",
+   "concrete_practice": "Pour les EENC, le dispositif comportait pour chaque matière un carnet de test rempli par l'élève, un dossier de l'enseignant (objectifs, calendrier, consignes de passation et de correction), une analyse des résultats donnant les moyennes FWB ET les moyennes par catégorie d'indice socio-économique pour permettre à l'école de se situer, et des « pistes didactiques » — des activités de classe directement adossées aux questions les moins bien réussies. Ce dernier élément est le plus important et le plus rarement imité : l'épreuve ne renvoyait pas seulement un diagnostic, elle renvoyait le remède. Pour le DAccE, le volet de suivi pédagogique n'est renseigné que pour les élèves présentant des difficultés persistantes, et ne contient ni résultats d'évaluation ni informations disciplinaires ; il est complété par une personne désignée par la direction (généralement le titulaire) après réflexion collective de l'équipe et, le cas échéant, du centre PMS.",
+   "concrete_example": "Le cas du DAccE illustre exactement le risque de charge décrit dans la littérature britannique. Initialement prévu pour la rentrée 2022, son déploiement a été reporté à 2023 en réponse aux inquiétudes des équipes éducatives, qui percevaient ce nouveau document comme une charge de travail supplémentaire. En 2024-2025, il concerne les élèves de 1re maternelle à 5e primaire, avec trois périodes d'encodage annuelles. Le gouvernement a inscrit sa simplification parmi les mesures du paquet anti-charge administrative de mai 2026. Le contraste avec le modèle flamand est instructif : la Flandre a fait le choix inverse d'une épreuve centrale unique par niveau, numérique, adaptative, corrigée et analysée centralement, avec restitution d'un tableau de bord contextualisé à l'école — la charge de production repose sur l'administration et le consortium universitaire, pas sur l'enseignant.",
+   "conditions": "Les conditions issues de la preuve internationale s'appliquent directement au test CLÉ : (a) le placer en DÉBUT d'année (ce qui est le cas) pour que le diagnostic soit encore actionnable, contrairement à une épreuve de fin d'année qui arrive trop tard ; (b) restituer un résultat comparatif externe ET contextualisé par indice socio-économique (les EENC le faisaient déjà : à préserver) ; (c) accompagner le résultat de pistes didactiques adossées aux items échoués (les EENC le faisaient : à préserver) ; (d) garantir l'absence de publication et de classement d'écoles, à l'image du modèle flamand ; (e) ne pas ajouter d'encodage à la charge des équipes — la correction et l'analyse doivent être centralisées.",
+   "contested": "Plusieurs incertitudes doivent être dites. (1) Le passage de deux points de mesure primaires (3e et 5e) à un seul (début de 4e) réduit la capacité de suivi longitudinal et supprime toute mesure externe dans le secondaire à partir de 2026-2027 — ce qui va à rebours de ce que suggère Bergbauer et al. pour un système à 472 points PISA. Aucune évaluation ne permet de trancher si le gain de charge compense la perte d'information. (2) Le lien entre le DAccE et le test CLÉ n'est pas établi publiquement : deux dispositifs de données coexistent sans architecture d'ensemble démontrée. (3) Je n'ai PAS trouvé de source fiable documentant un recours juridictionnel contre le DAccE ; je ne l'affirme donc pas. Les critiques documentées portent sur la charge de travail perçue et le report de mise en œuvre, pas sur un contentieux. (4) Aucune des sources consultées ne permet d'établir un effet du DAccE sur les apprentissages : le chiffre de 21 % d'élèves accompagnés est un indicateur d'activité, pas de résultat.",
+   "sources": [
+    {
+     "author": "Fédération Wallonie-Bruxelles",
+     "title": "Les évaluations non certificatives en secondaire (dispositif, disciplines, fin en juin 2026, remplacement par le test CLÉ) — Décret du 2 juin 2006 organisant les évaluations externes non certificatives",
+     "org": "enseignement.be, Direction des Standards éducatifs et des Évaluations",
+     "year": "2026",
+     "url": "http://www.enseignement.be/index.php?page=25162"
+    },
+    {
+     "author": "Ligue de l'Enseignement et de l'Éducation permanente",
+     "title": "Le test CLÉ : une nouvelle évaluation pour les élèves de 4e primaire dès 2026",
+     "org": "Ligue de l'Enseignement (Belgique)",
+     "year": "2026",
+     "url": "https://ligue-enseignement.be/education-enseignement/articles/breves/le-test-cle-une-nouvelle-evaluation-pour-les-eleves-de-4e-primaire-des-2026"
+    },
+    {
+     "author": "Cabinet de la Ministre Valérie Glatigny",
+     "title": "Renforcement des apprentissages de base : le Test CLÉ (Calculer, Lire, Écrire) en début de 4e primaire dès 2026",
+     "org": "Gouvernement de la Fédération Wallonie-Bruxelles",
+     "year": "2026",
+     "url": "https://glatigny.cfwb.be/home/communiques-de-presse/presses/renforcement-des-apprentissages-de-base-le-test-cle-calculer-lire-ecrire-en-debut-de-4eme-primaire-des-1.html"
+    },
+    {
+     "author": "Pacte pour un Enseignement d'excellence",
+     "title": "DAccE — Le Dossier d'Accompagnement de l'Élève",
+     "org": "Fédération Wallonie-Bruxelles",
+     "year": "2025",
+     "url": "https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-dacce/"
+    },
+    {
+     "author": "Amanda Datnow, Vicki Park",
+     "title": "Data-based decision-making for school improvement: Research insights and gaps",
+     "org": "Educational Research, 61(2)",
+     "year": "2019",
+     "url": "https://www.tandfonline.com/doi/full/10.1080/00131881.2019.1625716"
+    }
+   ]
+  }
+ ]
+}

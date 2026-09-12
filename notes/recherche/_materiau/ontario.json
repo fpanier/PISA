@@ -1,0 +1,438 @@
+{
+ "topic": "Ontario (2003-2013) : la stratégie de littératie et numératie, le Literacy and Numeracy Secretariat et la Student Success Strategy — résultats mesurés, évaluations indépendantes et limites",
+ "headline": "L'Ontario démontre qu'un système décentralisé peut relever ses résultats en dix ans sans sanction ni mise en concurrence — via une unité dédiée, un petit nombre d'objectifs tenus et un ciblage non stigmatisant des écoles faibles — mais les sources primaires (Auditeur général, WestEd, CMEC/PISA, Bureau de la responsabilité financière) montrent que le gain a été concentré en lecture au primaire, financé par une hausse réelle de ~39 % de la dépense par jeune, jamais évalué programme par programme, contredit en mathématiques dès 2012, et rompu politiquement en 2012 dès que la contrainte budgétaire est apparue.",
+ "headline_unused": "",
+ "searches_run": 32,
+ "items": [
+  {
+   "claim": "L'Ontario a obtenu une progression réelle et soutenue des résultats au primaire entre 2003 et 2008 en concentrant l'action sur un très petit nombre d'objectifs, portés par une unité administrative dédiée et durable — mais l'attribution causale n'a jamais été établie autrement que par corrélation temporelle.",
+   "what_it_is": "Le Literacy and Numeracy Secretariat (LNS), créé en novembre 2004 au sein du ministère de l'Éducation, est une direction spécialisée chargée d'appuyer plus de 4 000 écoles primaires réparties dans 72 conseils scolaires (anglophones/francophones, publics/catholiques), avec un objectif public unique et chiffré : 75 % des élèves de 6e année (12 ans) au niveau 3 (équivalent B) aux tests provinciaux EQAO en lecture, écriture et mathématiques d'ici 2008. Le LNS emploie plus de 80 « student achievement officers » (SAO), éducateurs expérimentés détachés qui travaillent directement dans les écoles et les conseils.",
+   "evidence_level": "descriptif + audit de performance indépendant (Auditeur général) ; la mesure des résultats est corrélationnelle (séries temporelles EQAO sans contrefactuel)",
+   "effect_size": "Moyenne des trois matières, 6e année, % au niveau 3 ou plus : 56 % en 2003/04 → 65 % en 2007/08 (+9 points) pour les écoles anglophones (n ≈ 140 000 élèves/an) ; 67 % → 78 % (+11 points) pour les écoles francophones (n ≈ 6 400 élèves/an). Décomposition anglophone : lecture +8 pts, écriture +13 pts, mathématiques +4 pts seulement. La cible de 75 % n'a pas été atteinte en 2008 pour les écoles anglophones (65 %) ; elle l'a été pour les francophones.",
+   "concrete_practice": "Le ministère fixe une cible unique, publique et datée ; une unité dédiée (et non un simple plan) est créée avec un budget propre et des agents de terrain ; les conseils scolaires restent responsables de la mise en œuvre ; les résultats EQAO annuels servent de tableau de bord public. Les SAO ne contrôlent pas, ils accompagnent : accès à de la formation, à des ressources, à de l'aide sur les plans d'amélioration d'école.",
+   "concrete_example": "Dépenses du LNS auditées : 339,6 M$ CAD entre 2004/05 et 2008/09, dont 288,0 M$ transférés aux conseils scolaires, répartis en une dizaine de programmes nommés (Ontario Focused Intervention Partnership 92,7 M$ ; Capacity Building 59,4 M$ ; Resources 51,9 M$ ; School Effectiveness Framework 23,1 M$ ; Schools Helping Schools 9,9 M$ ; Turnaround Strategy 6,2 M$ ; Tutors in the Classroom 6,0 M$ ; Schools on the Move 2,1 M$) et 51,6 M$ d'administration. Le total atteint 505 M$ au 31 mars 2011. Le 1er avril 2009, le LNS fusionne avec la division Student Success/Learning-to-18 pour former la Student Achievement Division couvrant la maternelle à la 12e année — la continuité institutionnelle a été maintenue au-delà d'un mandat ministériel.",
+   "conditions": "Continuité politique exceptionnelle (même gouvernement libéral de 2003 à 2018, mêmes ministres-clés), effectif spécialisé recruté parmi des praticiens crédibles, financement additionnel disponible, et une agence d'évaluation externe préexistante (EQAO, créée en 1996) fournissant une mesure annuelle standardisée de tous les élèves de 3e et 6e année. Sans instrument de mesure annuel universel, aucun pilotage de ce type n'est possible.",
+   "contested": "L'Auditeur général de l'Ontario (2009) est sévère : le LNS et les conseils visités n'avaient effectué que des évaluations « limitées » de la contribution des programmes aux résultats, et le ministère a répondu qu'il était « difficile d'évaluer chaque programme individuellement » et que c'est « l'effet de somme » qui comptait. Autrement dit : 288 M$ transférés sans savoir quels leviers fonctionnaient. L'Auditeur note aussi que le ministère ne suivait pas les cohortes d'élèves dans le temps, ce qui empêchait toute mesure de valeur ajoutée. Enfin, les 9 points de progression EQAO ne sont pas confirmés par une source externe : sur PISA, la lecture ontarienne est restée plate (533 en 2000 → 528 en 2012, variation non significative) pendant que l'EQAO montait de 9 points — ce qui peut indiquer un effet d'apprentissage du test plutôt qu'un gain de compétence transférable.",
+   "sources": [
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, Chapter 3, VFM Section 3.07 — Literacy and Numeracy Secretariat",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2011 Annual Report, Chapter 4, Follow-up Section 4.07 — Literacy and Numeracy Secretariat",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2011",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en11/407en11.pdf"
+    },
+    {
+     "author": "Council of Ministers of Education, Canada (CMEC)",
+     "title": "Measuring up: Canadian Results of the OECD PISA 2022 Study — Table B.3.21a (Reading, 2000-2022)",
+     "org": "CMEC",
+     "year": "2023",
+     "url": "https://www.cmec.ca/Publications/Lists/Publications/Attachments/438/PISA-2022_Canadian_Report_EN.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le « capacity building without blame » n'est pas un slogan : l'Ontario a délibérément supprimé toute conséquence, positive ou négative, attachée aux résultats des tests — et c'est précisément ce qui a permis aux écoles faibles d'accepter d'être identifiées comme telles.",
+   "what_it_is": "Modèle d'obligation de rendre compte fondé sur la responsabilité professionnelle plutôt que sur la reddition externe : les résultats EQAO servent à identifier les écoles à soutenir, jamais à les sanctionner, les classer publiquement ou les fermer. Les directions d'école et les conseils restent responsables, mais sans conséquence administrative attachée à l'atteinte ou non des standards.",
+   "evidence_level": "descriptif + étude de cas indépendante (WestEd, financée par le Département de l'Éducation américain) ; pas d'essai contrôlé, pas de comparaison avec un contrefactuel « accountability punitive »",
+   "effect_size": "Non disponible sous forme de taille d'effet. Indicateur indirect : la proportion d'écoles primaires ontariennes où moins de 34 % des élèves atteignaient le standard provincial est passée de 19 % (2003) à 5 % (2007) ; celle où 75 % ou plus l'atteignaient est passée de 13 % à 25 %. En 2003 il y avait plus d'écoles faibles que d'écoles fortes ; en 2007, l'inverse.",
+   "concrete_practice": "Aucune publication de palmarès d'écoles adossé à des conséquences ; aucun financement conditionné à la performance ; l'identification d'une école comme « en difficulté » déclenche l'arrivée de ressources et d'un accompagnateur, pas une inspection. Le vocabulaire est délibérément non stigmatisant (« partenariat », « écoles en mouvement »).",
+   "concrete_example": "Le Turnaround Schools Program (2004), ancêtre de l'OFIP : les écoles où moins de 34 % des élèves de 3e année atteignaient le niveau 3 en lecture (sur deux des trois années précédentes) étaient identifiées, puis invitées — sur base volontaire — à participer. Quatorze écoles se sont portées volontaires la première année ; elles ont reçu un financement additionnel, des ressources et un accès à une expertise externe. Les 14 ont amélioré leurs résultats EQAO en lecture, avec une hausse moyenne de 15 points de pourcentage d'élèves atteignant le standard provincial. Un directeur d'école OFIP interrogé dans l'évaluation externe CLLRN (2009) déclarait ne pas ressentir la pression du conseil scolaire mais bien du LNS, et la juger appropriée.",
+   "conditions": "Suppose que l'État renonce explicitement au levier de la sanction et accepte que l'amélioration prenne des années ; suppose aussi une mesure annuelle fiable, faute de quoi « sans blâme » devient « sans information ». Exige un corps d'accompagnateurs crédibles issus du métier (les SAO), donc un coût salarial permanent. Enfin, le volontariat initial du Turnaround Schools Program signifie que les 14 écoles étaient les plus motivées : ce n'est pas un échantillon représentatif.",
+   "contested": "Trois critiques documentées. (1) Klinger & Wade-Woolley (WestEd, 2012) — pourtant membres de l'équipe d'évaluation externe du LNS — avertissent que les seuils des catégories OFIP « semblent fondés sur la commodité et des regroupements logiques plutôt que sur une définition étayée par la recherche » et que l'équating des tests EQAO d'une année à l'autre pose problème, si bien qu'il est « difficile de déterminer si l'amélioration d'une année sur l'autre est réelle ou due à une erreur de mesure aléatoire » : sélectionner des écoles sur un score bas et mesurer ensuite leur progression est le cas d'école de la régression vers la moyenne. (2) Le syndicat des enseignants du primaire (ETFO) a fait réaliser par Environics un sondage téléphonique (novembre 2009, n = 1 010 membres, marge ±3,1 pts) : 94 % déclaraient consacrer un temps considérable à la préparation aux tests EQAO, 77 % que l'éventail des sujets enseignés se rétrécissait à cause du dispositif, 88 % que leur charge de travail avait augmenté, 56 % que les tests provinciaux n'avaient fait aucune différence sur la qualité de l'éducation. Source militante, mais méthodologiquement documentée. (3) L'absence de conséquence n'a pas empêché l'effet de bord classique du teaching to the test.",
+   "sources": [
+    {
+     "author": "Klinger, D. & Wade-Woolley, L.",
+     "title": "Supporting Low-Performing Schools in Ontario, Canada — Case Study",
+     "org": "WestEd (pour le U.S. Department of Education, contrat ED01CO0129)",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED541652.pdf"
+    },
+    {
+     "author": "Elementary Teachers' Federation of Ontario / Environics Research Group",
+     "title": "EQAO In Our Schools: Members Speak Out (sondage novembre 2009, n=1010)",
+     "org": "ETFO Voice",
+     "year": "2010",
+     "url": "https://etfovoice.ca/feature/eqao-our-schools-members-speak-out"
+    },
+    {
+     "author": "Glaze, A.",
+     "title": "How Ontario spread successful practices across 5,000 schools",
+     "org": "Phi Delta Kappan",
+     "year": "2013",
+     "url": "https://kappanonline.org/ontario-spread-successful-practices-across-5000-schools-glaze/"
+    }
+   ]
+  },
+  {
+   "claim": "L'Ontario Focused Intervention Partnership (OFIP) est le dispositif le plus transposable du modèle ontarien : un ciblage gradué, obligatoire mais non punitif, des écoles les plus faibles — mais ses résultats publiés reposent sur des comparaisons avant/après sans groupe témoin, une faiblesse méthodologique reconnue par les évaluateurs eux-mêmes.",
+   "what_it_is": "Dispositif lancé en 2006, qui remplace le Turnaround Schools Program en élargissant la cible (maternelle-6e année au lieu de maternelle-3e) et en rendant la participation obligatoire. Trois niveaux : OFIP 1 = écoles où moins de 34 % des élèves atteignent le standard en lecture (3e et 6e année, deux années sur trois) ; OFIP 2 = entre 34 % et 50 %, avec résultats stagnants ou en baisse ; OFIP 3 = entre 50 % et 74 %, stagnants ou en baisse. Le soutien est dégressif : les écoles OFIP 1 reçoivent deux ans d'accompagnement intensif par un SAO, les OFIP 2 un accompagnement plus léger, les OFIP 3 rien du ministère (elles relèvent du conseil scolaire).",
+   "evidence_level": "quasi-expérimental faible (pré/post sur écoles sélectionnées sur score bas, sans groupe de contrôle apparié) — assimilable à du descriptif rigoureux",
+   "effect_size": "2007-08 : 128 écoles OFIP 1, 230 OFIP 2, 706 OFIP 3. Le nombre d'écoles répondant au critère OFIP 1 (< 34 % au standard) est passé de 110 en 2006-07 à 18 en 2007-08. Proportion d'écoles ayant amélioré leur taux d'atteinte du standard en lecture 3e année : 66 % des OFIP 1, 77 % des OFIP 2, 50 % des OFIP 3 ; en 6e année : 76 %, 67 %, 61 %. Revue interne du ministère (décembre 2010) : pour les 137 écoles OFIP en 2009/10, amélioration moyenne de 5 points de pourcentage, et 62 d'entre elles ont franchi la barre des 50 % d'élèves au standard. Le ministère affirmait en 2009 que les écoles OFIP progressaient « au moins deux fois plus » que les écoles en général.",
+   "concrete_practice": "Le ministère calcule chaque année, à partir des résultats de l'agence d'évaluation, la liste des écoles des trois catégories. Un SAO (en binôme ou seul, rattaché à une équipe régionale avec un SAO responsable) est affecté aux écoles OFIP 1 et 2 pour deux ans. Il co-construit avec l'équipe de l'école et le conseil scolaire un plan d'amélioration, donne accès à des formations et ressources, et travaille sur les pratiques d'enseignement. Des leaders littératie/numératie sont identifiés dans l'école, parmi le personnel de direction et enseignant, et reçoivent une formation approfondie. Les directions gardent la main sur l'usage des fonds.",
+   "concrete_example": "Sur les 137 écoles OFIP de 2009/10, la revue interne du ministère de décembre 2010 identifie que le facteur de succès le plus fortement rapporté par les 62 écoles ayant franchi le seuil des 50 % est l'auto-évaluation au moyen du School Effectiveness Framework — un référentiel d'auto-diagnostic d'école introduit en 2007, complété annuellement par l'équipe puis revu périodiquement par une équipe de pairs externe au niveau du conseil scolaire. Les résultats de cette revue ont été diffusés à l'ensemble des 72 conseils scolaires. En parallèle, une étude externe de janvier 2011 sur les 32 écoles de l'initiative « Schools on the Move » (écoles en contexte difficile ayant fortement progressé) a isolé quatre facteurs transférables : un code de conduite commun soutenu dans toute l'école, un sentiment de responsabilité des enseignants pour les apprentissages, la conviction partagée que tous les élèves peuvent réussir, et l'enseignement explicite des compétences de littératie — ces conclusions ont ensuite été diffusées aux écoles OFIP.",
+   "conditions": "Nécessite (a) une mesure annuelle universelle par école, (b) un corps d'accompagnateurs suffisamment nombreux et légitimes, (c) l'acceptation par les réseaux/pouvoirs organisateurs que l'État identifie publiquement des écoles comme prioritaires, (d) un financement stable et fléché. Le passage du volontariat (14 écoles) à l'obligation (plus de 1 000 écoles) a supposé de diviser par un facteur important le soutien par école — le rapport WestEd note explicitement que le financement du Turnaround Schools Program « n'était pas soutenable à long terme ».",
+   "contested": "Quatre critiques documentées et convergentes. (1) L'Auditeur général (2009) n'a pas pu obtenir du LNS l'explication de la répartition des fonds OFIP : le financement allait de 13 $ à 83 $ par élève pour les conseils de plus de 1 000 élèves ; le conseil comptant le plus grand nombre d'écoles faibles (75 écoles où moins de la moitié des élèves atteignaient le standard) recevait 17 $ par élève, tandis que plusieurs conseils sans aucune école faible recevaient plus du double. Cause : une grande partie du financement OFIP reposait sur les allocations des années précédentes. (2) WestEd (2012) souligne la régression vers la moyenne, l'instabilité des résultats des très petites écoles, et le caractère arbitraire des seuils. (3) L'évaluation externe CLLRN (2009) relève la rotation et la formation insuffisante des SAO, la rapidité excessive du déploiement, et un déséquilibre au profit de la littératie au détriment de la numératie. (4) Même évaluation : les enseignants du primaire (maternelle-3e) des écoles OFIP se sentaient moins connectés à la stratégie que leurs collègues du cycle suivant, signe de difficulté à maintenir l'adhésion dans la durée.",
+   "sources": [
+    {
+     "author": "Klinger, D. & Wade-Woolley, L.",
+     "title": "Supporting Low-Performing Schools in Ontario, Canada — Case Study",
+     "org": "WestEd",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED541652.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2011 Annual Report, Follow-up Section 4.07 — Literacy and Numeracy Secretariat (revue interne OFIP de décembre 2010 ; étude externe Schools on the Move de janvier 2011)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2011",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en11/407en11.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, VFM Section 3.07 (répartition du financement OFIP : 13 $ à 83 $ par élève)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    },
+    {
+     "author": "Canadian Language & Literacy Research Network (CLLRN)",
+     "title": "The impact of the Literacy and Numeracy Secretariat: Changes in Ontario's education system — rapport d'évaluation pour le ministère de l'Éducation de l'Ontario",
+     "org": "CLLRN / ministère de l'Éducation de l'Ontario",
+     "year": "2009",
+     "url": "https://canadacommons.ca/artifacts/1227997/the-impact-of-the-literacy-and-numeracy-secretariat/1781071/"
+    }
+   ]
+  },
+  {
+   "claim": "La réduction de la taille des classes au primaire a absorbé environ cinq fois plus d'argent que l'ensemble des programmes pédagogiques du LNS, pour le levier dont la base de preuve internationale est la plus faible et le coût par mois de progrès le plus élevé.",
+   "what_it_is": "Politique d'abaissement obligatoire des effectifs de la maternelle à la 3e année : au moins 90 % des classes du primaire à 20 élèves ou moins, et 100 % à 23 élèves ou moins (« hard cap »), objectif atteint en 2008/09 selon le ministère.",
+   "evidence_level": "pour l'Ontario : étude d'implémentation qualitative et quantitative indépendante (Bascia et al., Canadian Education Association / OISE, 2010), sans évaluation causale des effets sur les acquis. Pour le levier lui-même : méta-analyses agrégées par l'Education Endowment Foundation (45 études, majoritairement non randomisées)",
+   "effect_size": "EEF Teaching and Learning Toolkit : environ +2 mois de progrès supplémentaires par an en moyenne, pour un coût « très élevé » et une base de preuve jugée « très limitée » (déclassée en raison du faible nombre d'essais randomisés, de la dépendance à des évaluations non indépendantes et d'une variance inexpliquée importante entre études). Seuil critique : les effets significatifs n'apparaissent pas tant que l'effectif n'est pas descendu sous 20, voire sous 15 élèves ; retirer 5 élèves d'une classe ne produit presque rien. Pour l'Ontario, aucune taille d'effet sur les acquis n'a été publiée.",
+   "concrete_practice": "Plafond légal opposable aux conseils scolaires, assorti d'un financement fléché pour l'embauche d'enseignants et d'un programme d'investissement immobilier pour créer les locaux nécessaires ; suivi de conformité classe par classe.",
+   "concrete_example": "Bascia et al. (OISE/CEA, 2010) documentent l'implémentation dans huit conseils scolaires, avec enquête auprès de 3 000 parents via People for Education. Chiffres d'allocation : 405,2 M$ pour le recrutement d'enseignants et 716,2 M$ d'investissement immobilier sur quatre ans, dont près de la moitié du volet enseignants (184,8 M$) est allée aux huit plus gros conseils ; allocation moyenne de 5,6 M$ par conseil, mais 23,1 M$ en moyenne pour les huit plus grands et 1,8 M$ pour les 44 plus petits. L'Auditeur général relève que le programme a coûté 1,4 milliard $ sur cinq ans, à comparer aux 288 M$ transférés par le LNS pour l'ensemble de ses programmes pédagogiques sur la même période. Effet de bord documenté par Bascia : pour respecter le plafond, de nombreux conseils ont multiplié les classes à degrés multiples, y compris sur des années évaluées par l'EQAO, ce que les enseignants signalaient comme une complication directe de la préparation aux tests.",
+   "conditions": "Ne fonctionne que si (a) l'effectif descend réellement sous 20, (b) le bâti scolaire permet de créer les classes supplémentaires — d'où les 716 M$ d'immobilier, (c) les enseignants modifient effectivement leurs pratiques : l'EEF est explicite, sans changement de pratique, la réduction seule n'améliore pas les apprentissages. Aucune de ces trois conditions n'est automatique.",
+   "contested": "Fortement contesté. L'EEF classe la réduction de taille des classes parmi les interventions à « faible impact pour un coût très élevé » et note que la majorité des études portent sur des réductions de 10 élèves, incomparables aux ajustements marginaux. L'Auditeur général (2009), confronté à l'absence d'évaluation des programmes du LNS, rapporte que le ministère lui a opposé précisément ce programme de réduction des classes comme co-explication des gains — ce qui revient à reconnaître qu'on ne sait pas attribuer les résultats. Il est donc impossible de dire, sur base des données ontariennes publiées, quelle part du gain EQAO revient à la pédagogie et quelle part à la taille des classes. Je n'ai trouvé aucune évaluation quasi-expérimentale ontarienne de l'effet de cette politique sur les acquis ; si elle existe, je ne l'ai pas retrouvée et je préfère le signaler plutôt que de citer une source approximative.",
+   "sources": [
+    {
+     "author": "Bascia, N., Connelly, C., Flessa, J., Mascall, B. et al.",
+     "title": "Ontario's Primary Class Size Reduction Initiative: Report on Early Implementation",
+     "org": "Canadian Education Association / OISE, University of Toronto",
+     "year": "2010",
+     "url": "https://www.edcan.ca/wp-content/uploads/cea-2010-class-size-on.pdf"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Teaching and Learning Toolkit — Reducing class size",
+     "org": "Education Endowment Foundation",
+     "year": "2025",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reducing-class-size"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, VFM Section 3.07 (1,4 Md$ pour la réduction des classes vs 288 M$ pour les programmes du LNS)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La Student Success Strategy au secondaire a fait passer le taux de diplomation de 68 % à 83 % en neuf ans en installant dans chaque établissement une fonction dédiée au décrochage — mais le chiffre communiqué est un taux à cinq ans, et le taux à quatre ans, bien plus bas, n'a jamais été mis en avant.",
+   "what_it_is": "Ensemble d'initiatives lancées en 2003 pour les élèves à risque de non-diplomation : un « student success leader » financé dans chacun des 72 conseils scolaires, un « student success teacher » à temps plein financé dans chaque école secondaire (environ 800 enseignants à partir de 2006/07), une équipe école (direction, student success teacher, conseiller d'orientation, enseignant spécialisé) suivant nominativement les élèves à risque, et des dispositifs de récupération de crédits, d'enseignement coopératif, de Specialist High Skills Major et de réengagement des décrocheurs.",
+   "evidence_level": "descriptif + audit de performance indépendant (Auditeur général, 2011 et suivi 2013) ; l'évolution du taux de diplomation est corrélationnelle, sans contrefactuel",
+   "effect_size": "Taux de diplomation à cinq ans (part d'une cohorte entrée en 9e année cinq ans plus tôt) : 68 % en 2003/04 → 81 % en 2009/10 → 83 % en 2011/12, pour une cible de 85 % en 2010/11 non atteinte à l'échéance. Mise en perspective essentielle donnée par l'Auditeur général : pour la même année 2009/10, le taux aurait été de 72 % s'il avait été calculé sur quatre ans (durée normale du secondaire) et de 91 % s'il avait été étendu jusqu'à l'âge de 25 ans. Financement : environ 130 M$ en 2010/11 et 150 M$ en 2012/13 transférés aux conseils.",
+   "concrete_practice": "Chaque école secondaire dispose d'un enseignant déchargé dont la mission exclusive est le suivi des élèves à risque ; un rapport « Taking Stock » suit l'accumulation de crédits élève par élève ; des facteurs de risque (genre, absentéisme, réussite des cours) déclenchent l'intervention ; les élèves ayant échoué à un cours peuvent récupérer le crédit en ne rattrapant que les compétences manquantes plutôt qu'en refaisant l'année entière.",
+   "concrete_example": "L'initiative de réengagement (« re-engagement ») : le ministère a fait réaliser une étude sur les motifs de décrochage et les conditions du retour, puis financé des dispositifs de reprise de contact avec les jeunes proches de la diplomation ayant quitté l'école. Résultat rapporté à l'Auditeur général : plus de 8 000 élèves sont revenus à l'école en 2011/12 pour achever leur diplôme (contre 5 000 en 2010/11), ce qui a justifié la reconduction du financement en 2013/14. En parallèle, la School Support Initiative, destinée aux écoles secondaires les moins performantes, est passée de 3 conseils et 27 écoles en 2008/09 à 26 conseils et 116 écoles en 2012/13 ; 55 écoles participantes ont suffisamment progressé en 2011/12 pour sortir du dispositif et perdre le financement associé.",
+   "conditions": "Suppose un système de crédits capitalisables (le diplôme ontarien s'obtient par accumulation de 30 crédits, pas par réussite d'une année), ce qui rend possible à la fois le suivi individualisé fin et la récupération partielle. Suppose aussi un identifiant élève permettant le suivi longitudinal. Dans un système à redoublement annuel et sans identifiant unique, le dispositif n'est pas directement transposable.",
+   "contested": "L'Auditeur général est critique sur cinq points. (1) Le taux communiqué est le plus flatteur des trois calculables ; les taux par conseil scolaire n'étaient généralement pas publics et les conseils n'utilisaient pas une méthode de calcul commune, rendant toute comparaison interne impossible. (2) Le ministère mesurait l'effet de la stratégie presque uniquement par le taux de diplomation, sans information sur la préparation réelle des diplômés aux études supérieures ou à l'emploi. (3) Le programme de récupération de crédits n'avait toujours pas été évalué : l'Auditeur a dû recommander en 2011 qu'on vérifie si les élèves y atteignaient réellement les attendus du cours, et en 2013 le ministère n'en était qu'au stade d'une « proposition » de revue pour 2012/13-2013/14. (4) Des stages d'enseignement coopératif crédités ne correspondaient pas aux attendus curriculaires (magasins de vêtements, restauration rapide, cafés). (5) Sur 245 M$ versés aux conseils en 2009/10 et 2010/11, seuls 15 M$ étaient alloués sur la base d'une évaluation directe des besoins des élèves — le reste au prorata des effectifs. Par ailleurs, la littérature et la presse canadiennes documentent une inflation des notes concomitante (moyennes d'admission à l'Université de Toronto passées de 83,9 % en 2006 à 90,2 % en 2023), ce qui alimente l'hypothèse qu'une partie de la hausse du taux de diplomation reflète un abaissement de l'exigence plutôt qu'un gain d'apprentissage ; je n'ai pas trouvé d'étude causale tranchant ce point.",
+   "sources": [
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2013 Annual Report, Chapter 4, Follow-up Section 4.13 — Student Success Initiatives (suivi du rapport 2011, VFM Section 3.13)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2013",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en13/413en13.pdf"
+    },
+    {
+     "author": "Bell, R. A.",
+     "title": "The Role of Student Success Teachers in Ontario Secondary Schools (thèse)",
+     "org": "University of Western Ontario",
+     "year": "2011",
+     "url": "https://ir.lib.uwo.ca/digitizedtheses/3585/"
+    },
+    {
+     "author": "Ministère de l'Éducation de l'Ontario (réponse citée dans l'audit)",
+     "title": "2009 Annual Report, VFM Section 3.07 — réponse ministérielle (diplomation 68 % → 77 % à cinq ans)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le point aveugle du modèle ontarien est documenté et sévère : pendant la décennie de la stratégie, la lecture s'est maintenue à un niveau élevé mais les mathématiques ont décroché de manière statistiquement significative sur PISA — l'un des rares cas où la mesure interne (EQAO en hausse) et la mesure externe (PISA en baisse) divergent nettement.",
+   "what_it_is": "Divergence entre les indicateurs de pilotage internes et les comparaisons internationales, sur la matière que la stratégie prétendait couvrir (la « numératie » du Literacy and Numeracy Secretariat).",
+   "evidence_level": "comparaison internationale standardisée avec tests de significativité et erreur de liaison (PISA/CMEC) — la meilleure preuve externe disponible, mais corrélationnelle",
+   "effect_size": "Mathématiques PISA, Ontario, élèves de 15 ans : 530 (2003) → 526 (2006) → 526 (2009) → 514 (2012, significatif) → 509 (2015, significatif) → 513 (2018, significatif) → 495 (2022, significatif). Soit −16 points dès 2012, −35 points en 2022 par rapport à 2003. Lecture PISA, Ontario : 533 (2000) → 530 → 534 → 531 → 528 → 527 → 524 (2018) — aucune variation significative par rapport à 2000 jusqu'en 2018 ; première baisse significative en 2022 (512). Le Québec, qui n'a pas conduit de stratégie comparable, se maintenait à 536 en mathématiques en 2012 contre 514 pour l'Ontario.",
+   "concrete_practice": "Le pilotage ontarien reposait sur l'EQAO, test provincial administré en 3e et 6e année. PISA n'entrait pas dans le tableau de bord de la stratégie. Le suivi de cohortes n'a été mis en place qu'après la recommandation du Comité permanent des comptes publics (décembre 2010).",
+   "concrete_example": "Le suivi de cohorte finalement réalisé est le résultat le plus parlant : sur les 120 000 élèves des conseils anglophones ayant passé l'évaluation de 3e année en 2006/07 puis celle de 6e année en 2009/10, 10 % de plus atteignaient le standard en lecture en 6e qu'en 3e, 6 % de plus en écriture — mais 8 % de MOINS en mathématiques. Pour les 5 700 élèves des conseils francophones, les trois indicateurs progressaient (+24 %, +6 %, +20 %). Autrement dit, dans le réseau anglophone, le système faisait perdre du terrain en mathématiques aux mêmes élèves qu'il faisait progresser en lecture, sur la période même de la stratégie. Élément explicatif documenté par les évaluateurs externes : aucune des ressources web ou imprimées produites par le LNS ne portait sur les compétences fondamentales de lecture (décodage, phonique) ; les ressources visaient des stratégies dites « à haut rendement » centrées sur la compréhension et l'interprétation. L'évaluation CLLRN (2009) a recommandé de rééquilibrer vers les compétences fondamentales en littératie ET en numératie — recommandation que l'Ontario n'a pas suivie à temps.",
+   "conditions": "La leçon est conditionnelle au choix des indicateurs : un système qui se pilote exclusivement sur son propre test finit par optimiser ce test. La leçon est transposable partout où un pilotage interne existe sans validation externe indépendante.",
+   "contested": "Le lien de causalité entre la stratégie et la baisse en mathématiques n'est pas établi : la baisse est générale au Canada (532 → 497 pour l'ensemble du pays entre 2003 et 2022) et dans l'OCDE (500 → 472), et l'Ontario a moins décroché que le Manitoba, la Saskatchewan ou l'Alberta. Le débat public ontarien a attribué la baisse à la pédagogie dite « discovery math » du curriculum de 2005, mais je n'ai trouvé aucune évaluation causale permettant de l'établir, et je préfère le signaler que de citer une étude que je ne peux pas vérifier. Les tentatives de correction ultérieures ont échoué : la « renewed math strategy » de 2016 (60 minutes de mathématiques par jour, spécialistes en mathématiques dans les écoles, environ 60 M$ selon la presse — chiffre que je n'ai pas pu confirmer sur un document ministériel primaire) n'a pas inversé la tendance, et les résultats EQAO de mathématiques de 6e année sont restés autour de 48-51 %. Constat le plus dérangeant pour un plaidoyer de transformation : l'Ontario a dépensé des sommes importantes pendant vingt ans sans jamais redresser les mathématiques.",
+   "sources": [
+    {
+     "author": "Council of Ministers of Education, Canada (CMEC)",
+     "title": "Measuring Up: Canadian Results of the OECD PISA 2022 Study — Tables B.1.14a (mathématiques 2003-2022) et B.3.21a (lecture 2000-2022)",
+     "org": "CMEC",
+     "year": "2023",
+     "url": "https://www.cmec.ca/Publications/Lists/Publications/Attachments/438/PISA-2022_Canadian_Report_EN.pdf"
+    },
+    {
+     "author": "Council of Ministers of Education, Canada (CMEC)",
+     "title": "Measuring up: Canadian Results of the OECD PISA 2012 Study",
+     "org": "CMEC",
+     "year": "2013",
+     "url": "http://cmec.ca/publications/lists/publications/attachments/318/pisa2012_canadianreport_en_web.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2011 Annual Report, Follow-up Section 4.07 — données de suivi de cohorte 2006/07-2009/10",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2011",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en11/407en11.pdf"
+    },
+    {
+     "author": "Klinger, D. & Wade-Woolley, L.",
+     "title": "Supporting Low-Performing Schools in Ontario, Canada (absence de ressources sur le décodage et la phonique ; recommandation CLLRN 2009)",
+     "org": "WestEd",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED541652.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La réforme ontarienne a été financée par une expansion budgétaire massive et non par une réallocation : la dépense publique réelle par jeune en éducation a augmenté d'environ 39 % entre 2002-03 et 2013-14 — c'est la condition la moins transposable du modèle.",
+   "what_it_is": "Structure de financement de la décennie de réforme, mesurée par l'organisme budgétaire indépendant du Parlement ontarien.",
+   "evidence_level": "données budgétaires officielles d'une institution indépendante (Financial Accountability Office of Ontario)",
+   "effect_size": "Dépense publique réelle (corrigée de l'inflation) par enfant/jeune en éducation : 8 836 $ en 2002-03 → 9 652 $ (2003-04) → 10 424 $ (2004-05) → 11 054 $ (2007-08) → 11 947 $ (2010-11) → 12 245 $ (2011-12) → 12 296 $ (2013-14). Soit +39 % en termes réels sur onze ans. Sur la période 2001-02 à 2011-12, la croissance réelle par jeune a été de 3,5 % par an en moyenne. À titre de comparaison, la décennie précédente (1991-92 à 2001-02) avait vu cette dépense reculer de 11 934 $ à 8 721 $, soit −3,1 % par an.",
+   "concrete_practice": "Chaque brique de la stratégie a été financée en ajout : 1,4 Md$ pour la réduction des classes du primaire sur cinq ans, 505 M$ pour le LNS jusqu'en 2011, 130-150 M$ par an pour la Student Success Strategy, plus le recrutement d'environ 800 student success teachers et de plus de 80 student achievement officers.",
+   "concrete_example": "Sur l'unique brique de la taille des classes, l'allocation documentée est de 405,2 M$ pour le recrutement d'enseignants et 716,2 M$ d'investissement immobilier sur quatre ans, plus 90 M$ par an supplémentaires pour les enseignants lors du durcissement du plafond. Au même moment, le LNS transférait 288 M$ aux conseils sur cinq ans pour l'ensemble de ses programmes pédagogiques. Le rapport entre les deux — environ 5 pour 1 en faveur du levier structurel le moins étayé — est l'indicateur le plus net de la manière dont l'argent a réellement été dépensé.",
+   "conditions": "Croissance économique et marges budgétaires disponibles de 2003 à 2011 ; consensus politique sur la priorité éducative ; démographie favorable (les effectifs scolaires ontariens ont légèrement baissé sur la période, ce qui a mécaniquement gonflé la dépense par élève). Aucune de ces conditions n'est réunie dans un système sous contrainte budgétaire sévère.",
+   "contested": "C'est le point le plus discuté. Des think tanks de sensibilité libérale (Fraser Institute) soutiennent que l'augmentation de dépense n'a pas produit de gain proportionnel de performance, en s'appuyant sur la divergence entre la dépense et les résultats PISA — argument que les données CMEC ci-dessus étayent partiellement pour les mathématiques, mais qui ignore le maintien du niveau en lecture et la hausse du taux de diplomation. À l'inverse, les architectes de la réforme (Fullan, Levin) ont soutenu que l'argent n'était pas le moteur mais la condition de possibilité du renforcement des capacités. Aucune étude ne permet de trancher le rendement marginal de cet investissement. Ce qu'on peut affirmer sans ambiguïté : le cas ontarien ne démontre PAS qu'une transformation systémique peut être conduite à budget constant, parce qu'elle ne l'a pas été.",
+   "sources": [
+    {
+     "author": "Financial Accountability Office of Ontario",
+     "title": "Government Spending Trends: 1990 to 2023 (Figure 6.2 — dépense réelle par enfant/jeune en éducation)",
+     "org": "Financial Accountability Office of Ontario (organisme indépendant du Parlement ontarien)",
+     "year": "2024",
+     "url": "https://fao-on.org/en/report/governmentspendingtrends/"
+    },
+    {
+     "author": "Bascia, N. et al.",
+     "title": "Ontario's Primary Class Size Reduction Initiative: Report on Early Implementation (405,2 M$ enseignants ; 716,2 M$ immobilier)",
+     "org": "Canadian Education Association / OISE",
+     "year": "2010",
+     "url": "https://www.edcan.ca/wp-content/uploads/cea-2010-class-size-on.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, VFM Section 3.07 (1,4 Md$ classes vs 288 M$ LNS)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le « partenariat sans rancune » avec les syndicats, présenté comme le cœur du modèle ontarien, n'a pas survécu au premier choc budgétaire : en 2012, le gouvernement a imposé par la loi des conventions collectives à environ 130 000 enseignants, une loi jugée ensuite inconstitutionnelle.",
+   "what_it_is": "Le Putting Students First Act (projet de loi 115, 2012) a imposé les termes des conventions collectives du secteur de l'éducation pour la période du 1er septembre 2012 au 31 août 2014, gelé les rémunérations et supprimé l'accumulation des crédits de congé maladie, dans un contexte de déficit provincial de 14,4 Md$.",
+   "evidence_level": "faits juridiques et législatifs établis (texte de loi, décision de la Cour supérieure de justice de l'Ontario) ; l'effet sur la dynamique de réforme est une lecture interprétative, non une preuve quantifiée",
+   "effect_size": "Non disponible en taille d'effet sur les apprentissages. Ordres de grandeur institutionnels : contrats imposés à environ 130 000 enseignants du primaire et du secondaire ; décision de la Cour supérieure de justice du 20 avril 2016 concluant que la loi 115 avait entravé de manière substantielle la négociation collective, contrairement à l'article 2(d) de la Charte canadienne ; réparation de 103 M$ accordée à la seule Elementary Teachers' Federation of Ontario.",
+   "concrete_practice": "Jusqu'en 2012, le modèle reposait sur des conventions collectives provinciales de quatre ans négociées — l'Auditeur général note en 2009 que le ministère revendiquait deux conventions consécutives de quatre ans comme un facteur explicatif des résultats, au même titre que les programmes pédagogiques. La paix sociale était donc explicitement considérée par le gouvernement comme un levier de performance.",
+   "concrete_example": "Séquence complète et vérifiable : 2004-2012, deux conventions collectives provinciales successives de quatre ans négociées, permettant une stabilité sans précédent et invoquée par le ministère devant l'Auditeur général comme co-explication des progrès ; septembre 2012, adoption du projet de loi 115 imposant les conventions à l'ensemble du secteur ; janvier 2013, le gouvernement impose les contrats puis abroge la loi ; avril 2016, la Cour supérieure de justice déclare la loi contraire à la Charte ; réparations versées, dont 103 M$ pour les seuls membres de l'ETFO employés par un conseil public anglophone en 2012-2013 et/ou 2013-2014. Le coût de la rupture a donc dépassé, pour un seul syndicat, un tiers de tout ce que le LNS avait transféré aux conseils scolaires en cinq ans.",
+   "conditions": "Le partenariat coûtait cher : il reposait sur des augmentations salariales et des créations de postes financées par la croissance de la dépense. Il n'a tenu que tant que la contrepartie financière tenait. Transposé à un système en déficit, cela signifie qu'un modèle de changement fondé sur l'adhésion professionnelle doit prévoir dès le départ ce qui remplacera la contrepartie budgétaire quand elle disparaîtra.",
+   "contested": "Deux lectures s'affrontent et aucune n'est tranchée par la preuve. Pour les architectes de la réforme, la rupture de 2012 est un accident politique exogène qui ne condamne pas le modèle. Pour ses critiques, elle révèle que le « respect du professionnalisme » ontarien était un achat de paix sociale plutôt qu'un changement de gouvernance, et qu'il s'est évaporé dès que la contrainte budgétaire est apparue. Aucune étude ne permet de mesurer l'effet de la rupture de 2012 sur les résultats des élèves — la période coïncide avec le plafonnement général des résultats, sans qu'on puisse isoler la cause. Michael Fullan lui-même, dans « Choosing the wrong drivers for whole system reform » (2011), avait identifié la reddition de comptes punitive comme un « mauvais moteur », ce qui rend la séquence de 2012 d'autant plus significative.",
+   "sources": [
+    {
+     "author": "Assemblée législative de l'Ontario",
+     "title": "Bill 115, Putting Students First Act, 2012",
+     "org": "Legislative Assembly of Ontario",
+     "year": "2012",
+     "url": "https://www.ola.org/en/legislative-business/bills/parliament-40/session-1/bill-115"
+    },
+    {
+     "author": "Elementary Teachers' Federation of Ontario",
+     "title": "ETFO's Charter Challenge Against Bill 115 and Remedy Decision (décision du 20 avril 2016 ; réparation de 103 M$)",
+     "org": "ETFO",
+     "year": "2016",
+     "url": "https://www.etfo.ca/etfo-action/bills/etfo-s-unfair-labour-practice-complaint-against-the-government-of-ontario"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, VFM Section 3.07 (invocation par le ministère des deux conventions collectives de quatre ans)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    },
+    {
+     "author": "Fullan, M.",
+     "title": "Choosing the wrong drivers for whole system reform (CSE Seminar Series Paper No. 204)",
+     "org": "Centre for Strategic Education",
+     "year": "2011",
+     "url": "https://michaelfullan.ca/wp-content/uploads/2016/06/13396088160.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le levier le plus documenté et le plus transposable à budget contraint n'est pas provincial mais local : la réallocation interne d'un conseil scolaire vers la formation pédagogique, avec des gains de 15 à 24 points de pourcentage en deux ans — au prix d'un conflit social frontal.",
+   "what_it_is": "Stratégie d'amélioration à l'échelle d'un conseil scolaire, financée par redéploiement de moyens existants plutôt que par argent neuf, documentée par une série d'études de cas commandée par le LNS lui-même sur huit conseils identifiés comme performants parmi les 72.",
+   "evidence_level": "étude de cas qualitative avec données de résultats avant/après, commanditée par l'administration évaluée (donc non indépendante) et sur échantillon sélectionné sur le succès",
+   "effect_size": "Keewatin-Patricia District School Board (6 300 élèves, 24 écoles, forte population autochtone, nord-ouest de l'Ontario), % d'élèves aux niveaux 3-4 : 3e année lecture 31 % (2002-03) → 54 % (2004-05), soit +23 points ; écriture 38 % → 53 % (+15) ; mathématiques 38 % → 62 % (+24). 6e année : lecture 42 % → 58 % (+16) ; écriture 45 % → 50 % (+5) ; mathématiques 41 % → 51 % (+10).",
+   "concrete_practice": "Le conseil fixe deux priorités (réduire l'écart de réussite entre élèves autochtones et non autochtones ; construire la capacité pédagogique du système), puis finance ces priorités en réallouant explicitement des moyens de fonctionnement vers l'accompagnement pédagogique, et remplace la formation ponctuelle par de l'accompagnement « at-the-elbow » entre pairs.",
+   "concrete_example": "Les arbitrages effectifs sont nommés dans le rapport : (1) révision des heures de nettoyage, avec déplacement des équipes en horaire 15h-23h et réduction du volume horaire global ; (2) réduction de sept à six heures par jour du temps de travail des assistants d'éducation — décision qui a provoqué une grève de 14 semaines dans le conseil ; (3) fermeture de huit écoles depuis la fusion des conseils, les moyens correspondants étant redéployés vers la littératie ; (4) remplacement de la formation externe par un modèle de formateur-relais : plutôt que d'envoyer un enseignant par école en formation externe, le conseil en envoie un seul se former comme formateur, qui forme ensuite ses collègues — économie documentée de 50 000 $ sur une seule initiative, le coût résiduel n'étant que le temps de décharge ; (5) affectation du Learning Opportunities Grant, utilisable à d'autres fins, à la priorité littératie. Sur le volet formation, chaque direction d'école a reçu une journée complète de formation à chaque rapport de panel d'experts publié (lecture, mathématiques, par cycle) et était invitée à venir accompagnée d'un enseignant de son école.",
+   "conditions": "Suppose un pouvoir organisateur disposant d'une réelle autonomie budgétaire et de la capacité juridique et politique de fermer des écoles et de renégocier des conditions de travail du personnel non enseignant. Suppose une direction générale prête à assumer un conflit social long. Suppose enfin que les gains soient mesurables, donc qu'une évaluation externe standardisée existe.",
+   "contested": "Trois réserves majeures. (1) La source est une étude de cas publiée par le Literacy and Numeracy Secretariat lui-même (Queen's Printer for Ontario), avec Michael Fullan et Avis Glaze comme codirecteurs de collection : ce sont les promoteurs de la stratégie qui documentent son succès. (2) Les huit conseils ont été sélectionnés parmi 72 précisément parce qu'ils progressaient — biais de sélection sur la variable dépendante, qui interdit toute généralisation. (3) Les progressions de 2002-03 à 2004-05 précèdent largement l'action du LNS (créé fin 2004) et coïncident avec un Early Literacy Plan local lancé dès septembre 2000 : le cas documente ce que peut faire un conseil scolaire, pas ce qu'a produit la stratégie provinciale. Il reste que c'est l'un des rares exemples chiffrés d'amélioration financée par réallocation interne, ce qui en fait sa valeur pour un système sous contrainte.",
+   "sources": [
+    {
+     "author": "Maggisano, C. & Campbell, C. (dir. de collection : Campbell, C., Fullan, M., Glaze, A.)",
+     "title": "Unlocking Potential for Learning: Effective District-Wide Strategies to Raise Student Achievement in Literacy and Numeracy — Case Study Report, Keewatin-Patricia District School Board",
+     "org": "The Literacy and Numeracy Secretariat / Queen's Printer for Ontario (ISBN 1-4249-2056-6)",
+     "year": "2006",
+     "url": "https://michaelfullan.ca/wp-content/uploads/2016/06/13396068530.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'Ontario a formé des dizaines de milliers d'enseignants et de directions en quelques années sur un petit nombre de pratiques communes — mais la base de preuve du principal véhicule utilisé, la communauté d'apprentissage professionnelle, reste prometteuse pour les enseignants et mitigée pour les élèves.",
+   "what_it_is": "Stratégie de renforcement des capacités à l'échelle du système : production centralisée de ressources pédagogiques (monographies « Capacity Building Series », webémissions, DVD), formations massives sur un nombre restreint de pratiques identifiées comme « à haut rendement », puis appropriation en communautés d'apprentissage professionnelles (PLC) dans chaque école.",
+   "evidence_level": "pour le déploiement ontarien : descriptif + évaluation externe commanditée (CLLRN 2009). Pour l'efficacité des PLC : synthèse de revues systématiques (NIoT Evidence Portal), qualité de preuve jugée modérée, impact élève « mitigé »",
+   "effect_size": "Déploiement : en 2005-06, plus de 12 000 directions et enseignants ont suivi des ateliers sur la lecture partagée et plus de 16 000 sur la différenciation pédagogique. Efficacité des PLC selon la synthèse indépendante : impact sur les enseignants « mitigé », impact sur les élèves « prometteur », force de la preuve « modérée » ; certaines revues rapportent de petits gains en mathématiques et en langue lorsque la collaboration est étroitement reliée à des objectifs de performance, d'autres ne trouvent aucun effet mesurable sur les acquis. Aucune taille d'effet standardisée n'est publiable de manière fiable.",
+   "concrete_practice": "Le ministère finance et produit lui-même les ressources, avec des chercheurs comme partenaires ; il structure des réseaux de directions d'école (Leading Student Achievement: Networks for Learning) ; il organise des conférences annuelles réunissant directions et enseignants ; les écoles ayant progressé sont mises en réseau pour diffuser leurs pratiques (Schools on the Move, 32 écoles étudiées en 2011) ; les pratiques promues sont peu nombreuses et identiques dans toute la province : différenciation, stratégies de compréhension en lecture, lecture partagée et guidée, évaluation formative continue, blocs de temps protégés dédiés à la littératie.",
+   "concrete_example": "Le choix de la lecture partagée et de la lecture guidée comme deux pratiques phares diffusées par les SAO dans toutes les écoles OFIP illustre à la fois la force et la faiblesse du modèle : il a produit un message pédagogique commun et cohérent dans 4 000 écoles primaires — WestEd le souligne comme une réussite — mais au prix d'une individualisation moindre du soutien, et sur un socle pédagogique qui excluait le décodage et la phonique. Les évaluateurs notent qu'une partie des élèves des écoles OFIP 1 ne disposaient probablement pas des compétences fondamentales nécessaires pour tirer profit de ces stratégies « à haut rendement ».",
+   "conditions": "Exige une capacité de production éditoriale et de formation centralisée conséquente, un corps d'accompagnateurs, du temps de décharge pour les enseignants, et surtout un choix pédagogique explicite et assumé — ce qui, dans un système à liberté d'enseignement, suppose que les réseaux co-construisent ce choix plutôt que de le recevoir. Les conditions d'efficacité des PLC identifiées par la synthèse indépendante sont exigeantes : appropriation par les enseignants plutôt qu'imposition, soutien actif de la direction, temps dédié protégé, alignement avec le plan d'amélioration de l'école.",
+   "contested": "Quatre critiques. (1) La synthèse du National Institute of Teaching relève qu'un grand nombre de revues portent sur les résultats des enseignants, l'apprentissage des élèves étant « inféré plutôt que mesuré », que peu de revues suivent l'impact causal ou de long terme, que la question du rapport coût-efficacité est rarement explorée, et que l'essentiel de la preuve disponible est descriptive, autodéclarée ou issue de petits contextes. (2) Elle identifie aussi des risques : tensions et compétition internes, charge de travail accrue, perte d'autonomie, « en particulier lorsque la participation est imposée ou mal alignée sur les objectifs propres des enseignants » — risque direct dans un déploiement provincial. (3) L'évaluation CLLRN (2009) reprochait au LNS l'insuffisance de l'ancrage dans la recherche empirique, la distribution défaillante des ressources aux directions et enseignants, et la rapidité excessive du déploiement. (4) Le choix des contenus n'a pas été neutre : l'absence de phonique et de décodage dans l'ensemble des ressources LNS est un choix de doctrine pédagogique que les évaluateurs externes ont critiqué dès 2009 et qui est aujourd'hui largement contesté par la recherche sur l'apprentissage de la lecture.",
+   "sources": [
+    {
+     "author": "National Institute of Teaching (Evidence Portal)",
+     "title": "Professional learning communities — evidence summary",
+     "org": "National Institute of Teaching (Royaume-Uni)",
+     "year": "2025",
+     "url": "https://evidenceportal.niot.org.uk/wp-content/uploads/2025/06/Professional-Learning-Communities-NIoT-Evidence-portal.pdf"
+    },
+    {
+     "author": "Klinger, D. & Wade-Woolley, L.",
+     "title": "Supporting Low-Performing Schools in Ontario, Canada (12 000 et 16 000 participants aux formations 2005-06 ; recommandations CLLRN)",
+     "org": "WestEd",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED541652.pdf"
+    },
+    {
+     "author": "Gallagher, M. J., Malloy, J. & Ryerson, R.",
+     "title": "Achieving excellence: Bringing effective literacy pedagogy to scale in Ontario's publicly-funded education system, Journal of Educational Change, 17(4), 477-504",
+     "org": "Journal of Educational Change (Springer)",
+     "year": "2016",
+     "url": "https://link.springer.com/article/10.1007/s10833-016-9284-6"
+    }
+   ]
+  },
+  {
+   "claim": "L'Ontario a fait du leadership scolaire un objet de politique publique à part entière, avec un référentiel provincial unique adossé à une synthèse de recherche — mais le référentiel lui-même n'est pas une preuve d'efficacité, et l'effet du leadership sur les acquis reste indirect et modéré.",
+   "what_it_is": "L'Ontario Leadership Framework (première version 2006, révision majeure 2012) décrit les pratiques de leadership et les « ressources personnelles de leadership » que la meilleure preuve disponible relie, directement ou indirectement, à l'apprentissage et au bien-être des élèves. Il sert de base commune à la sélection, au développement et à l'auto-évaluation des directions d'école et des cadres de conseil scolaire, avec un District Effectiveness Framework pour l'échelon intermédiaire.",
+   "evidence_level": "synthèse de recherche (le référentiel agrège des résultats corrélationnels et quasi-expérimentaux) + étude de terrain longitudinale sur écoles en redressement (Leithwood & Strauss, deux ans, commandée par la Canadian Education Association)",
+   "effect_size": "Non disponible sous forme de taille d'effet unique et vérifiable pour l'Ontario. Résultat structurant de la littérature mobilisée : les pratiques de leadership orientées vers la construction de l'organisation ont des effets plus forts sur les résultats que celles ciblant directement l'enseignement en classe (les fonctions de gestion organisationnelle du chef d'établissement contribuant davantage que la plupart des autres fonctions mesurées).",
+   "concrete_practice": "Un référentiel unique et public, utilisé pour recruter, former et évaluer ; un programme de formation des directions structuré ; des réseaux de directions d'école (Leading Student Achievement) organisés à l'échelle provinciale et inter-conseils ; des « walk-throughs » (visites de classes structurées) avec des « look-fors » définis, c'est-à-dire des indicateurs observables de la mise en œuvre effective des pratiques cibles.",
+   "concrete_example": "Leithwood & Strauss ont suivi pendant deux ans des écoles ontariennes identifiées comme nécessitant un redressement significatif, et en ont tiré huit affirmations étayées sur le leadership de redressement, organisées en quatre catégories de pratiques (définir une direction, développer les personnes, redessiner l'organisation, piloter le programme d'enseignement), publiées par la Canadian Education Association en 2008 puis étendues aux cas américains et anglais dans l'ouvrage Leading School Turnaround (2010). Au niveau d'un conseil, l'exemple de Keewatin-Patricia montre la déclinaison concrète : formation d'une journée complète des directions à chaque rapport de panel d'experts publié, formation aux « look-fors » avant les visites de classes, invitation systématique d'un enseignant à accompagner sa direction en formation, et un questionnement explicite de la direction générale sur l'équilibre entre le temps où les directions sont hors de leur école pour se former et le temps où elles y sont pour piloter les apprentissages.",
+   "conditions": "Suppose que la direction d'école dispose d'une réelle marge de manœuvre sur l'organisation pédagogique et sur l'affectation des moyens — au Keewatin-Patricia, il est explicitement noté que les directions gardaient un fort contrôle sur l'usage des fonds. Suppose aussi un temps de direction protégé : le principal obstacle identifié est l'arbitrage entre la formation hors école et la présence pédagogique dans l'école.",
+   "contested": "Trois réserves. (1) L'Ontario Leadership Framework est une synthèse normative, pas une évaluation : il décrit ce que la recherche associe à de bons résultats, il ne démontre pas que son adoption produit ces résultats. Je n'ai trouvé aucune évaluation causale de l'impact du référentiel lui-même sur les acquis des élèves ; si elle existe, je ne l'ai pas retrouvée et préfère le signaler. (2) Les structures de leadership scolaire n'ont pas été modifiées par la stratégie — WestEd note que seule la capacité de leadership pédagogique a été renforcée, pas les pouvoirs ni l'organisation : le levier est donc de formation, pas de gouvernance. (3) L'étude Leithwood & Strauss porte sur des écoles en redressement sélectionnées, sans groupe témoin, et ses conclusions sont de nature interprétative.",
+   "sources": [
+    {
+     "author": "Leithwood, K.",
+     "title": "The Ontario Leadership Framework 2012 — with a Discussion of the Research Foundations",
+     "org": "Institute for Education Leadership / ministère de l'Éducation de l'Ontario",
+     "year": "2012",
+     "url": "https://www.education-leadership-ontario.ca/application/files/2514/9452/5287/The_Ontario_Leadership_Framework_2012_-_with_a_Discussion_of_the_Research_Foundations.pdf"
+    },
+    {
+     "author": "Leithwood, K. & Strauss, T.",
+     "title": "Turnaround Schools and the Leadership They Require",
+     "org": "Canadian Education Association",
+     "year": "2008",
+     "url": "https://eric.ed.gov/?id=ED535437"
+    },
+    {
+     "author": "Maggisano, C. & Campbell, C.",
+     "title": "Unlocking Potential for Learning — Keewatin-Patricia District School Board (formation des directions, look-fors, walk-throughs)",
+     "org": "The Literacy and Numeracy Secretariat / Queen's Printer for Ontario",
+     "year": "2006",
+     "url": "https://michaelfullan.ca/wp-content/uploads/2016/06/13396068530.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Après 2013, la trajectoire ontarienne s'est arrêtée puis inversée : c'est le résultat le plus utile du cas, car il indique qu'une stratégie d'amélioration produit ses gains sur environ huit ans puis s'épuise si elle n'est pas renouvelée sur ses contenus.",
+   "what_it_is": "Phase de plafonnement puis de recul, mesurable simultanément sur l'indicateur interne (EQAO) et externe (PISA), et coïncidant avec la fin de la période de consensus politique et budgétaire.",
+   "evidence_level": "séries temporelles officielles (EQAO, CMEC/PISA) — descriptif rigoureux, sans identification causale",
+   "effect_size": "PISA mathématiques Ontario : 514 (2012) → 509 (2015) → 513 (2018) → 495 (2022), soit un plateau de six ans puis un décrochage de 18 points. PISA lecture Ontario : 528 (2012) → 527 (2015) → 524 (2018) → 512 (2022). EQAO 2024-2025, écoles anglophones : 3e année lecture 74 %, écriture 65 %, mathématiques 64 % ; 6e année lecture 86 %, écriture 85 %, mathématiques 51 % ; 9e année mathématiques 58 %. Le contraste est net : le niveau en lecture de 6e année (86 %) dépasse largement la cible historique de 75 %, tandis que les mathématiques de 6e année stagnent autour de 50 %, soit très loin de cette même cible fixée pour 2008.",
+   "concrete_practice": "L'Ontario a maintenu l'architecture (agence d'évaluation, division de la réussite des élèves, référentiels) mais n'a pas renouvelé les contenus pédagogiques prioritaires, en particulier en mathématiques et sur les compétences fondamentales de lecture.",
+   "concrete_example": "Les résultats EQAO 2024-2025, publiés en décembre 2025, sont présentés comme les meilleurs depuis la modernisation des évaluations en 2021-22 : la lecture de 6e année progresse de 82 % à 86 % et l'écriture de 80 % à 85 % en un an, tandis que les mathématiques de 6e année passent de 50 % à 51 %. Les écoles francophones affichent 63 % en mathématiques de 6e année (contre 58 % l'année précédente) et 89 % en lecture. Autrement dit, vingt ans après le lancement de la stratégie, la moitié des élèves ontariens de 12 ans n'atteint toujours pas le standard provincial en mathématiques — un résultat que le gouvernement lui-même qualifie de progression insuffisante.",
+   "conditions": "La leçon vaut pour tout système qui engage une stratégie longue : l'architecture institutionnelle (agence de mesure, unité dédiée, référentiels) se maintient plus facilement que le contenu pédagogique, et c'est le contenu qui s'épuise. Le renouvellement doit être programmé dès la conception.",
+   "contested": "L'interprétation est discutée. (1) Effet de plafond statistique : plus un indicateur approche de son maximum, plus les gains marginaux sont difficiles — ce qui explique une partie du plateau en lecture mais pas le recul en mathématiques. (2) Effet mondial : la baisse est générale dans l'OCDE (mathématiques 500 en 2003 → 472 en 2022) et au Canada (532 → 497), et l'Ontario a moins reculé que la plupart des provinces ; on ne peut donc pas imputer le décrochage ontarien à la seule fin de la stratégie. (3) Rupture de comparabilité : les évaluations EQAO ont été « modernisées » en 2021-22, ce qui interdit de comparer directement les pourcentages actuels à ceux de 2003-2013 — un point que j'ai vérifié et qui doit être signalé à tout lecteur tenté d'aligner les deux séries. (4) Effet pandémie : le cycle PISA 2022 est affecté par les fermetures d'écoles dans tous les systèmes.",
+   "sources": [
+    {
+     "author": "Education Quality and Accountability Office (EQAO)",
+     "title": "EQAO Releases Assessment Results for 2024-2025 School Year",
+     "org": "EQAO (agence provinciale d'évaluation, Ontario)",
+     "year": "2025",
+     "url": "https://www.eqao.com/about-eqao/news-release/assessment-results-2025/"
+    },
+    {
+     "author": "Council of Ministers of Education, Canada (CMEC)",
+     "title": "Measuring Up: Canadian Results of the OECD PISA 2022 Study — Tables B.1.14a et B.3.21a",
+     "org": "CMEC",
+     "year": "2023",
+     "url": "https://www.cmec.ca/Publications/Lists/Publications/Attachments/438/PISA-2022_Canadian_Report_EN.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le cas ontarien enseigne un principe de conception du financement souvent ignoré : l'argent de la réforme a été distribué majoritairement au prorata des effectifs et non des besoins, ce qui a systématiquement sous-doté les territoires les plus en difficulté.",
+   "what_it_is": "Mode d'allocation des transferts aux conseils scolaires pour les programmes d'amélioration, audité à deux reprises par l'Auditeur général au primaire (2009, suivi 2011) et au secondaire (2011, suivi 2013).",
+   "evidence_level": "audit de performance indépendant avec accès aux données financières du ministère (preuve administrative de premier ordre)",
+   "effect_size": "Primaire : sur les cinq premières années, pour près de 70 % des financements, soit le financement était calculé sur l'effectif quotidien moyen, soit le ministère ne pouvait pas expliquer sa méthode d'allocation. Plus de 200 M$ sur quatre programmes étaient dans ce cas. Écarts constatés sur l'OFIP : de 13 $ à 83 $ par élève pour les conseils de plus de 1 000 élèves ; le conseil comptant le plus grand nombre d'écoles faibles (75 écoles) recevait 17 $ par élève. Secondaire : sur 245 M$ versés en 2009/10 et 2010/11 pour les initiatives de réussite scolaire, seuls 15 M$ — soit 6 % — étaient alloués sur la base d'une évaluation directe des besoins des élèves.",
+   "concrete_practice": "Redressement documenté après audit : en 2010/11, le ministère indique que la majorité du financement des programmes est désormais allouée sur la base des besoins ; il introduit des contrats de transfert précisant les critères de financement, les obligations de reporting, les calendriers de paiement et les catégories de dépenses autorisées ; il commence à récupérer les fonds non dépensés en réduisant la subvention de l'année suivante ; et il élimine une initiative jugée inefficace (Leader-to-Leader) à l'issue d'une revue systématique fondée sur un modèle logique alignant objectifs, intrants, extrants, activités et indicateurs.",
+   "concrete_example": "Séquence complète et vérifiable, utile comme modèle de gouvernance : 2009, l'Auditeur général constate que les conseils ne transmettaient pas tous leurs rapports, que le ministère ne les relançait pas, et que les informations financières et de résultats transmises ne permettaient pas de savoir si les fonds avaient été dépensés pour leur objet ; il critique aussi le recours à des conseils scolaires « banquiers » redistribuant des fonds à des tiers sans protocole d'accord ni définition des responsabilités, avec des frais d'administration parfois excessifs. Mai 2010, audition devant le Comité permanent des comptes publics. Décembre 2010, le Comité dépose un rapport avec six recommandations et exige que le ministère rende compte notamment du suivi de cohortes, des critères d'évaluation des plans d'amélioration des conseils, des résultats des revues de programmes et de la part des financements alloués selon les besoins. 2010, le ministère formalise un plan triennal d'évaluation de tous ses programmes ; il publie des lignes directrices sur les frais d'administration et les conseils chefs de file. 2011, l'Auditeur constate les progrès. C'est un cycle audit → contrôle parlementaire → correction, bouclé en deux ans.",
+   "conditions": "Suppose l'existence d'une institution d'audit indépendante ayant accès aux données financières du ministère et la capacité de publier, et d'une commission parlementaire capable d'imposer une reddition de comptes. C'est une condition institutionnelle, pas pédagogique — et c'est probablement la plus facilement transposable de tout le cas ontarien.",
+   "contested": "Deux nuances. (1) Le ministère a partiellement contesté le constat, expliquant que ses décisions de financement intégraient plusieurs facteurs (effectif, nombre d'écoles faibles, éloignement géographique, capacité du conseil à mettre en œuvre le changement), et illustrant les écarts par un conseil du Nord de 1 357 élèves recevant 83 $ par élève contre un conseil du Sud de plus de 240 000 élèves recevant 17 $ — argument de coût fixe recevable, qui n'explique cependant pas que des conseils sans aucune école faible aient reçu plus du double des conseils les plus en difficulté. (2) Le ministère a reconnu devoir documenter et rendre transparentes ses décisions de financement, ce qui vaut aveu partiel. (3) Aucune étude ne mesure l'effet de la correction post-2010 sur les résultats des élèves : on sait que la gouvernance financière s'est améliorée, pas que les acquis en ont bénéficié.",
+   "sources": [
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2009 Annual Report, VFM Section 3.07 — Literacy and Numeracy Secretariat",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2009",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en09/307en09.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2011 Annual Report, Follow-up Section 4.07 (plan triennal d'évaluation ; suppression de Leader-to-Leader ; recommandations du Comité permanent des comptes publics, décembre 2010)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2011",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en11/407en11.pdf"
+    },
+    {
+     "author": "Office of the Auditor General of Ontario",
+     "title": "2013 Annual Report, Follow-up Section 4.13 — Student Success Initiatives (15 M$ sur 245 M$ alloués selon les besoins)",
+     "org": "Bureau de l'Auditeur général de l'Ontario",
+     "year": "2013",
+     "url": "https://www.auditor.on.ca/en/content/annualreports/arreports/en13/413en13.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose presque tel quel à la FWB. (1) L'architecture de ciblage non stigmatisant des écoles faibles (OFIP) : trois catégories définies par des seuils publics sur une mesure externe, un accompagnement gradué et limité dans le temps (deux ans), aucune conséquence administrative, un accompagnateur issu du métier. C'est compatible avec la liberté d'enseignement et la gouvernance partagée, parce que le pouvoir organisateur garde la main sur la mise en œuvre — l'État ne fait que financer, mesurer et accompagner. La FWB dispose déjà d'un équivalent partiel (les plans de pilotage/contrats d'objectifs et les Délégués au contrat d'objectifs), ce qui rend la comparaison directement opérationnelle : le point ontarien n'est pas l'existence du dispositif, c'est sa dotation en accompagnateurs de terrain crédibles (plus de 80 SAO pour 4 000 écoles primaires, soit environ un pour 50 écoles) et son caractère explicitement non sanctionnant. (2) Le cycle audit indépendant → commission parlementaire → correction documentée en deux ans : la FWB peut l'installer à coût quasi nul et c'est probablement le levier de gouvernance au meilleur rapport coût-efficacité de tout le dossier ontarien. (3) La règle de conception financière : allouer selon les besoins et non selon les effectifs, et exiger des rapports financiers et de résultats exploitables — l'Ontario a mis six ans à corriger cette erreur, la FWB peut ne pas la commettre. (4) La concentration sur un très petit nombre d'objectifs publics, chiffrés et datés, maintenus plus d'un mandat. (5) Un référentiel unique de leadership scolaire adossé à la recherche, utilisé pour le recrutement et la formation des directions — compatible avec la pluralité des réseaux si co-construit avec eux.\n\nCe qui ne se transpose pas. (1) Le financement. La réforme ontarienne a reposé sur une hausse de 39 % en termes réels de la dépense par jeune entre 2002-03 et 2013-14, dont 1,4 milliard $ pour la seule réduction de la taille des classes. Un système où l'enseignement pèse 54 % des dépenses et qui affiche un déficit de 1,5 Md EUR ne peut pas reproduire ce schéma. Corollaire direct : ne pas reprendre le levier de la taille des classes, qui a absorbé cinq fois le budget des programmes pédagogiques ontariens pour le levier le moins étayé (EEF : environ deux mois de progrès, preuve « très limitée », coût « très élevé », effets nuls au-dessus de 20 élèves et nuls sans changement de pratique). (2) La paix sociale achetée. Les deux conventions collectives provinciales de quatre ans, invoquées par le ministère ontarien lui-même comme co-explication des résultats, ont été financées par la croissance budgétaire ; dès que celle-ci a cessé, le gouvernement a imposé les contrats par la loi 115 (2012), jugée inconstitutionnelle en 2016, avec 103 M$ de réparations pour un seul syndicat. Un plaidoyer pour la FWB doit dire dès le départ ce qui remplacera la contrepartie budgétaire — autonomie professionnelle réelle, allègement des tâches administratives, reconnaissance — faute de quoi le « partenariat » ne survivra pas au premier arbitrage. (3) Le système de crédits capitalisables du secondaire ontarien, qui rend possibles à la fois le suivi individualisé fin, la récupération partielle de cours et la mesure de diplomation à cinq ans. La FWB, avec un redoublement à 35 % à 15 ans et une organisation annuelle, ne peut pas importer la Student Success Strategy telle quelle : ce qui est importable, c'est son principe — une fonction dédiée et financée dans chaque établissement, chargée exclusivement du suivi nominatif des élèves à risque — pas son architecture. (4) L'existence préalable d'une agence d'évaluation externe testant chaque année tous les élèves de deux niveaux (EQAO, créée en 1996) : sans mesure annuelle universelle, ni le ciblage OFIP, ni le suivi de cohortes, ni l'évaluation des dispositifs ne sont possibles. C'est le prérequis, pas un accessoire.\n\nTrois avertissements pour l'usage qui sera fait du cas. D'abord, ne pas présenter l'Ontario comme un succès homogène : la lecture s'est maintenue à haut niveau et la diplomation a progressé, mais les mathématiques ont décroché de 35 points PISA depuis 2003 et la moitié des élèves de 12 ans n'atteint toujours pas le standard provincial en mathématiques vingt ans après. Ensuite, ne pas citer le taux de diplomation de 83 % sans préciser qu'il s'agit d'un taux à cinq ans, le taux à quatre ans étant de 72 % en 2009/10 — la FWB ne gagnerait rien à importer une métrique flatteuse. Enfin, le cas ontarien montre que l'attribution causale est très faible : l'Auditeur général n'a jamais pu faire évaluer les programmes un par un, et le ministère lui a répondu que seul comptait « l'effet de somme ». Le message défendable est donc qu'une conduite de changement cohérente, continue et non punitive est une condition nécessaire de l'amélioration dans un système décentralisé — pas qu'elle en soit une garantie, ni qu'on sache lequel de ses composants produit l'effet."
+}

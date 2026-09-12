@@ -1,0 +1,470 @@
+{
+ "topic": "Programmes d'excellence : tirer le haut de la distribution sans dégrader l'équité",
+ "headline": "Les formes d'excellence qui réduisent aussi les inégalités sont celles qui élargissent l'accès (détection universelle de tous les élèves, inscription par défaut aux cours avancés, accélération individuelle en matière) et qui changent réellement le contenu enseigné ; celles qui se contentent de sélectionner et de regrouper les meilleurs — écoles à examen d'entrée, registres de « doués », ouverture de cours avancés sans soutien — produisent des effets causals proches de zéro tout en concentrant le bénéfice sur les élèves déjà favorisés.",
+ "searches_run": 24,
+ "transposability_fwb": "Ce qui se transpose à coût quasi nul et sans toucher à la liberté d'enseignement : (1) l'accélération individuelle (saut de classe, avance dans une seule matière), qualifiée d'intervention « pratiquement sans coût » par le rapport Templeton, qui relève d'une décision d'école et non d'une réforme de structure — elle est d'ailleurs le seul levier d'excellence compatible avec le contexte budgétaire FWB (déficit et 54 % des dépenses en enseignement) ; (2) l'inscription par défaut (opt-out) dans les options les plus exigeantes de la grille, réplicable dans chaque réseau puisqu'elle ne modifie ni l'offre ni le financement, seulement la procédure d'inscription ; (3) le dépistage universel par une épreuve standardisée passée par tous à un âge donné, techniquement simple mais qui suppose un outil d'évaluation externe commun aux réseaux — la FWB en dispose via ses épreuves certificatives externes, ce qui est un atout rare. Ce qui se transpose mal : le dépistage universel de Broward reposait sur un test de QI non verbal et une définition légale du « doué » propre à la Floride ; la notion même d'élève « à haut potentiel » identifié administrativement est culturellement et juridiquement étrangère à la FWB, et un registre de ce type reproduirait vraisemblablement le biais social observé en Angleterre. Ce qui ne se transpose pas du tout : les écoles à examen d'entrée type Boston/New York (effet causal nul et incompatibles avec le tronc commun) ; les maths schools britanniques, qui supposent un sixth form séparé de 16 à 18 ans, un financement public majoré par élève, un adossement à un département universitaire de mathématiques et une sélection sur GCSE — trois conditions qu'un système à réseaux multiples sous contrainte budgétaire ne peut réunir qu'à une échelle marginale (Exeter : 64 places, King's : 70) ; le modèle hongrois de classes spécialisées, adossé à un écosystème de compétitions centenaire (KöMaL, 1894) dont le pays paie le prix en inégalités via une sélection dès 10 ans. Point d'attention spécifique à la FWB : le pays est déjà à tracking précoce de fait (relégation par redoublement à 35 %) ; l'expérience polonaise montre que retarder l'orientation produit des gains supérieurs à un écart-type pour les élèves du bas, mais aucune de ces études n'a mesuré l'effet sur le haut de la distribution — c'est précisément le trou de preuve qui commande la prudence sur tout arbitrage FWB entre tronc commun et excellence.",
+ "items": [
+  {
+   "claim": "L'accélération (saut de classe, avance d'un an dans une matière) est le levier d'excellence le mieux documenté, mais sa taille d'effet apparente est massivement gonflée par le choix du groupe de comparaison : g = 0,70 contre les pairs du même âge, mais g = 0,09 — non significatif — contre les pairs plus âgés de la classe rejointe.",
+   "what_it_is": "Regrouper l'élève avec un contenu en avance sur son âge : entrée anticipée, saut d'une année entière, avance dans une seule discipline (« accélération par matière »), compactage du programme, cours de niveau supérieur suivi dans l'établissement voisin. Le rapport Templeton recense 18 à 20 formes distinctes, dont la plupart ne coûtent rien en personnel supplémentaire.",
+   "evidence_level": "méta-analyse de second ordre (synthèse de 6 méta-analyses d'accélération et 13 de groupement, portant sur ~100 ans de recherche, 1922-1994 pour le groupement)",
+   "effect_size": "Accélérés vs non-accélérés de même âge : g = 0,70. Accélérés vs non-accélérés plus âgés (la comparaison pertinente) : g = 0,09, non significatif. Toutes formes agrégées : g = 0,42. Pour le groupement : intra-classe 0,19 ≤ g ≤ 0,30 ; groupement inter-classes par matière g = 0,26 ; groupes spéciaux pour élèves doués g = 0,37 ; filières inter-classes permanentes 0,04 ≤ g ≤ 0,06 (nul). Population : élèves de la maternelle à la fin du secondaire, essentiellement américains.",
+   "concrete_practice": "Une école identifie un élève de 4e primaire très en avance en mathématiques et l'envoie suivre le cours de mathématiques de 5e ou de 6e primaire, en restant avec sa classe d'âge pour toutes les autres matières. Décision prise au niveau de l'établissement, sans budget additionnel, généralement à l'aide d'un protocole standardisé (l'Iowa Acceleration Scale du Belin-Blank Center) qui évalue aptitude, niveau scolaire, maturité et adhésion des parents avant de trancher.",
+   "concrete_example": "Le rapport « A Nation Deceived » (2004), financé par la John Templeton Foundation et dirigé par Nicholas Colangelo, Susan Assouline et Miraca Gross à l'Université de l'Iowa, puis sa suite « A Nation Empowered » (2015), ont documenté l'écart entre la recherche et les pratiques : la majorité des enseignants et parents américains croient l'accélération socialement dangereuse alors qu'aucune donnée ne le montre. Le rapport a nourri l'Acceleration Institute et l'adoption, par plusieurs États américains, de politiques d'accélération académique. Sur le plan quantitatif, c'est la méta-analyse de second ordre de Steenbergen-Hu, Makel et Olszewski-Kubilius (Review of Educational Research, 86(4), 2016, p. 849-899) qui fournit les chiffres de référence, et ses auteurs indiquent eux-mêmes que les méta-analyses de groupement qu'ils agrègent portent sur des travaux antérieurs à 1994, dont sept sur treize sont classées de faible qualité méthodologique.",
+   "conditions": "Fonctionne quand l'accélération est décidée élève par élève sur la base de preuves de maîtrise du contenu en amont, et non comme un statut. Échoue si l'élève accélère sans avoir consolidé les prérequis (c'est le mécanisme d'échec que documente indirectement le cas AP de Stephanie Owen). Condition institutionnelle : il faut que le règlement scolaire autorise la dissociation du parcours matière par matière — une grille horaire rigide et un groupe-classe unique rendent l'accélération par matière matériellement impossible.",
+   "contested": "Fortement contesté sur le plan causal. Aucune des méta-analyses agrégées ne repose sur une randomisation : les élèves accélérés sont sélectionnés précisément parce qu'ils sont plus avancés, donc le g = 0,70 mesure en grande partie la sélection et non l'effet du dispositif. Les auteurs de la méta-analyse de 2016 écrivent explicitement que leurs résultats ne peuvent remplacer une nouvelle méta-analyse de premier ordre, que la littérature sur le groupement s'est « largement arrêtée » dans les années 1990 et que les travaux récents utilisant régression sur discontinuité et appariement sur score de propension appellent une réévaluation. Ils signalent aussi une limite technique sur la conversion des tailles d'effet en g de Hedges. À retenir : l'accélération n'abîme pas, mais l'ampleur du gain qu'elle produit n'est pas établie de façon causale.",
+   "sources": [
+    {
+     "author": "Saiying Steenbergen-Hu, Matthew C. Makel, Paula Olszewski-Kubilius",
+     "title": "What One Hundred Years of Research Says About the Effects of Ability Grouping and Acceleration on K–12 Students' Academic Achievement: Findings of Two Second-Order Meta-Analyses",
+     "org": "Review of Educational Research, 86(4), 849-899",
+     "year": "2016",
+     "url": "https://journals.sagepub.com/doi/abs/10.3102/0034654316675417"
+    },
+    {
+     "author": "Nicholas Colangelo, Susan G. Assouline, Miraca U. M. Gross",
+     "title": "A Nation Deceived: How Schools Hold Back America's Brightest Students (The Templeton National Report on Acceleration)",
+     "org": "The Connie Belin & Jacqueline N. Blank International Center for Gifted Education and Talent Development, University of Iowa",
+     "year": "2004",
+     "url": "https://www.accelerationinstitute.org/nation_deceived/nd_v1.pdf"
+    },
+    {
+     "author": "Susan G. Assouline, Nicholas Colangelo, Joyce VanTassel-Baska, Ann Lupkowski-Shoplik",
+     "title": "A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students, Volumes 1 et 2",
+     "org": "Belin-Blank Center, University of Iowa",
+     "year": "2015",
+     "url": "https://files.nwesd.org/website/Teaching_Learning/HiCap/2015-16%20meetings/NationEmpowered%20Vol2.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'objection sociale et affective à l'accélération — « on va casser l'enfant » — n'est étayée par aucune donnée longitudinale : sur 35 ans de suivi de 1 636 individus surdoués, le degré d'accélération ne covarie pas avec le bien-être psychologique à l'âge adulte.",
+   "what_it_is": "La principale résistance politique et professionnelle à l'accélération n'est pas académique mais psychosociale : la crainte que l'élève avancé d'un an soit isolé, immature socialement, ou mis en échec affectif. Le Study of Mathematically Precocious Youth (SMPY) teste cette croyance sur données longitudinales.",
+   "evidence_level": "étude longitudinale prospective sur cohortes (non randomisée, comparaison entre degrés d'accélération à l'intérieur d'une population sélectionnée)",
+   "effect_size": "Aucune covariation significative entre quantité d'accélération subie et bien-être psychologique mesuré au milieu de la vie. Trois cohortes : top 1 % d'aptitude identifiée en 1972-1974 (N = 1 020), top 0,5 % identifiée en 1976-1979 (N = 396), top 0,01 % identifiée en 1980-1983 (N = 220), toutes repérées avant 13 ans et suivies plus de 35 ans. Le rapport Templeton cite par ailleurs, chez Rogers, des effets moyens positifs du saut de classe sur l'ajustement social (g ≈ 0,34 sur 4 études) et psychologique (g ≈ 0,42 sur 3 études).",
+   "concrete_practice": "Le SMPY repère des élèves de moins de 13 ans par « above-level testing » : on leur fait passer le SAT, un test conçu pour des jeunes de 17-18 ans, afin de mesurer un niveau que les épreuves de leur âge ne discriminent plus (effet plafond). Ceux qui dépassent un seuil se voient proposer cours universitaires anticipés, saut de classe ou programmes d'été intensifs, puis sont suivis par questionnaires tous les 5 à 10 ans.",
+   "concrete_example": "Cohorte 3 du SMPY : 220 individus du top 0,01 % d'aptitude, identifiés entre 1980 et 1983 avant l'âge de 13 ans par le Center for Talented Youth de Johns Hopkins, puis interrogés à 35 ans de distance par Bernstein, Lubinski et Benbow (Vanderbilt University). Résultat mesuré : les individus les plus accélérés ne présentent ni satisfaction de vie, ni affects positifs/négatifs, ni équilibre travail-vie différents de ceux qui ne l'ont pas été — d'où le titre de l'article, « fruitless concerns ».",
+   "conditions": "Les résultats valent pour des élèves accélérés avec l'accord des familles et de l'école, dans un système où l'accélération est possible mais rare. Ils ne disent rien d'une politique d'accélération imposée ou massifiée.",
+   "contested": "Limite majeure : population extrêmement sélectionnée (top 1 % à top 0,01 %), très majoritairement américaine, avec autosélection dans l'accélération — les élèves les plus fragiles socialement étaient sans doute moins accélérés, ce qui biaise le résultat vers l'absence d'effet négatif. L'étude compare des degrés d'accélération entre eux, pas accélération vs non-accélération avec assignation aléatoire. Enfin, le SMPY est adossé à un courant (le talent development) qui plaide pour l'accélération, ce qui appelle une lecture prudente ; aucune réplication indépendante sur une population européenne n'a été identifiée dans cette revue.",
+   "sources": [
+    {
+     "author": "Brian O. Bernstein, David Lubinski, Camilla P. Benbow",
+     "title": "Academic Acceleration in Gifted Youth and Fruitless Concerns Regarding Psychological Well-Being: A 35-Year Longitudinal Study",
+     "org": "Journal of Educational Psychology",
+     "year": "2020",
+     "url": "https://www.wku.edu/academy/about/research_articles/bernstein_2020.pdf"
+    },
+    {
+     "author": "Study of Mathematically Precocious Youth",
+     "title": "SMPY — présentation du dispositif, cohortes et publications",
+     "org": "Vanderbilt University, Peabody College",
+     "year": "2026",
+     "url": "https://my.vanderbilt.edu/smpy/"
+    },
+    {
+     "author": "David Lubinski, Camilla P. Benbow",
+     "title": "Study of Mathematically Precocious Youth After 35 Years: Uncovering Antecedents for the Development of Math-Science Expertise",
+     "org": "Perspectives on Psychological Science",
+     "year": "2006",
+     "url": "https://www.epfl.ch/education/education-and-science-outreach/wp-content/uploads/2019/08/LubinskiPersson_Study35Years2006.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le dépistage universel — faire passer une épreuve standardisée à tous les élèves plutôt que d'attendre qu'un parent ou un enseignant signale l'enfant — est le seul dispositif d'excellence dont l'effet sur l'équité soit massif et documenté : à norme d'admission inchangée, il a fait croître de 180 % le nombre d'élèves défavorisés admis en programme pour élèves doués.",
+   "what_it_is": "Substituer une évaluation de tous les élèves d'une cohorte à un système de nomination discrétionnaire. La norme d'admission ne bouge pas : on change uniquement la porte d'entrée, en supprimant le filtre parental et enseignant qui décide qui est testé.",
+   "evidence_level": "quasi-expérimental (comparaison de cohortes avant/après avec district-témoins de l'État, plus régression sur discontinuité aux seuils de l'épreuve de dépistage)",
+   "effect_size": "+180 % d'élèves défavorisés identifiés comme doués, +130 % d'élèves hispaniques, +80 % d'élèves noirs ; environ 300 élèves de 3e primaire ajoutés au programme, dont 80 % au titre du seuil réservé aux défavorisés ; taux global d'élèves doués +2,2 points de pourcentage (+1,5 pt pour le groupe non défavorisé, +2,9 pts pour le groupe défavorisé). Effet de concentration : avant le dépistage, 18 % des écoles du district scolarisaient la moitié des élèves doués ; après, 57 %.",
+   "concrete_practice": "Tous les élèves d'un même niveau passent, pendant le temps scolaire ordinaire et en une seule séance, un test d'aptitude non verbal ; ceux qui dépassent un seuil sont orientés vers l'évaluation approfondie qui décide de l'admission. Les parents ne sont plus la condition d'entrée dans le processus.",
+   "concrete_example": "Broward County Public Schools (Floride, ~200 000 élèves), printemps 2005 : le district fait passer à tous les élèves de 2e primaire le Naglieri Nonverbal Ability Test (NNAT). Les élèves non défavorisés dépassant 130 points, et les élèves bénéficiaires des repas subventionnés ou allophones dépassant 115 points, sont référés à un psychologue du district pour un test de QI (seuils légaux inchangés : 130 « Plan A » / 116 « Plan B »). Le district a dû financer environ 1 300 tests de QI supplémentaires par an. Résultat mesuré par David Card et Laura Giuliano sur les cohortes 2006-2007 comparées aux cohortes 2004-2005 et aux 22 autres districts de Floride. Fin de l'histoire, et elle est instructive : face à la crise budgétaire de 2007, le district coupe les heures supplémentaires de test, puis suspend entièrement le dépistage universel en 2010 ; dès 2011 la part d'élèves doués est retombée à son niveau de 2004-2005.",
+   "conditions": "Trois conditions nécessaires : une épreuve passée par tous et non sur demande ; un seuil différencié pour les élèves défavorisés et allophones (sans lui, le gain d'équité s'effondre — 80 % des élèves ajoutés relevaient du seuil abaissé) ; et un budget pérenne pour l'évaluation de second niveau, qui est exactement ce qui a tué le dispositif à Broward. Le mécanisme sous-jacent est bien établi : Grissom et Redding montrent sur données nationales américaines longitudinales qu'à score standardisé égal, les élèves noirs sont moins souvent orientés vers les services pour élèves doués, et que cet écart se réduit lorsque l'enseignant est lui-même noir — le filtre discrétionnaire est le problème.",
+   "contested": "Trois réserves sérieuses. (1) Un seul district : Card et Giuliano signalent eux-mêmes cette limite. (2) Identifier n'est pas faire progresser : les mêmes auteurs, en régression sur discontinuité, ne trouvent aucun effet sur les résultats en lecture et en mathématiques pour les élèves admis sur critère de QI, qu'ils soient favorisés ou non — le dépistage universel corrige une injustice d'accès, il ne garantit aucun gain d'apprentissage par lui-même. (3) La revue critique publiée dans le Journal of Advanced Academics en 2016 (« Minding the Gaps in Card and Giuliano's Research ») conteste la lecture optimiste du résultat ; et Card et Giuliano rappellent que malgré le dépistage, la part d'élèves noirs et hispaniques en programme pour doués reste très inférieure à celle des élèves blancs et asiatiques.",
+   "sources": [
+    {
+     "author": "David Card, Laura Giuliano",
+     "title": "Universal screening increases the representation of low-income and minority students in gifted education",
+     "org": "Proceedings of the National Academy of Sciences (PNAS)",
+     "year": "2016",
+     "url": "https://www.pnas.org/doi/full/10.1073/pnas.1605043113"
+    },
+    {
+     "author": "David Card, Laura Giuliano",
+     "title": "Can Universal Screening Increase the Representation of Low Income and Minority Students in Gifted Education?",
+     "org": "NBER Working Paper No. 21519",
+     "year": "2015",
+     "url": "https://www.nber.org/papers/w21519"
+    },
+    {
+     "author": "Jason A. Grissom, Christopher Redding",
+     "title": "Discretion and Disproportionality: Explaining the Underrepresentation of High-Achieving Students of Color in Gifted Programs",
+     "org": "AERA Open, 2(1), 1-25",
+     "year": "2016",
+     "url": "https://journals.sagepub.com/doi/full/10.1177/2332858415622175"
+    }
+   ]
+  },
+  {
+   "claim": "Ce n'est pas le label « doué » qui produit des gains, c'est le regroupement sur la performance récente et le contenu enseigné : dans le même district, les élèves admis sur QI ne progressent pas, tandis que les hauts performeurs noirs et hispaniques admis sur rang de résultats gagnent 0,5 écart-type en lecture et en mathématiques.",
+   "what_it_is": "Distinction décisive et presque toujours occultée dans le débat public : deux populations entrent dans la même classe d'excellence par deux portes différentes — une minorité par un score d'aptitude (QI), la majorité des places étant remplies par les élèves les mieux classés aux tests de l'année précédente. Les deux groupes ne réagissent pas du tout de la même manière.",
+   "evidence_level": "quasi-expérimental de haute qualité : régression sur discontinuité sur le rang de classement, complétée par une analyse inter-écoles et inter-cohortes",
+   "effect_size": "Élèves noirs et hispaniques hauts performeurs : +0,5 écart-type en lecture et en mathématiques en 4e primaire, gains persistants jusqu'en 6e primaire. Élèves admis sur QI élevé (favorisés comme défavorisés) : aucun effet détectable en lecture ni en mathématiques. Aucun effet négatif ni positif de débordement sur les non-participants restés en classe ordinaire.",
+   "concrete_practice": "Dans chaque école comptant au moins un élève « doué » en 4e primaire, le district ouvre une classe unique « doués / hauts performeurs ». Comme les élèves labellisés doués sont trop peu nombreux pour remplir la classe, le reste des places est attribué aux élèves les mieux classés aux tests de 3e primaire de cette école. La classe suit un programme accéléré et est confiée à un enseignant certifié en éducation des élèves doués.",
+   "concrete_example": "Broward County, cohortes de 4e primaire du milieu des années 2000 : David Card et Laura Giuliano exploitent le fait que le classement local crée un seuil net — l'élève classé juste au-dessus entre dans la classe, celui juste en dessous reste en classe ordinaire, les deux étant par construction équivalents. Résultat publié dans l'American Economic Review (106(10), 2016, p. 2783-2816) : gain de 0,5 écart-type concentré sur les élèves noirs et hispaniques, persistant deux ans plus tard. Les auteurs interprètent : l'effet vient de l'exposition à un contenu plus exigeant et à des enseignants formés, pas de la composition des pairs.",
+   "conditions": "Le résultat dépend d'un détail de conception capital : le rang est calculé à l'intérieur de chaque école (normes locales), et non sur l'ensemble du district. C'est ce qui permet à des écoles de quartiers défavorisés d'envoyer leurs meilleurs élèves dans le dispositif. Une norme unique à l'échelle du système aurait vidé ces écoles du dispositif et inversé le signe de l'effet sur l'équité. Deuxième condition : le classement est recalculé chaque année sur les résultats récents, ce qui rend l'appartenance réversible — à l'opposé d'un label acquis une fois pour toutes.",
+   "contested": "Le contrepoint le plus dur vient de Bui, Craig et Imberman (American Economic Journal: Economic Policy, 6(3), 2014, p. 30-62) : dans un autre grand district urbain américain, une régression sur discontinuité à la note-seuil d'admission aux programmes pour doués ne trouve aucun effet mesurable sur les résultats, alors même que le niveau des pairs augmente fortement ; et dans deux collèges-magnets pour élèves doués attribués par loterie — donc en randomisation quasi parfaite — l'exposition à des enseignants de meilleure qualité et à des pairs supérieurs d'un écart-ype n'améliore que les résultats en sciences. Les auteurs documentent au contraire de fortes baisses de notes et de rang relatif, compatibles avec un modèle de « comparaison sociale défavorable » (big-fish-little-pond). Autrement dit, sur le même type de dispositif, un district produit +0,5 écart-type et un autre zéro : le contenu et la conception locale font tout, l'étiquette ne fait rien.",
+   "sources": [
+    {
+     "author": "David Card, Laura Giuliano",
+     "title": "Can Tracking Raise the Test Scores of High-Ability Minority Students?",
+     "org": "American Economic Review, 106(10), 2783-2816",
+     "year": "2016",
+     "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.20150484"
+    },
+    {
+     "author": "Sa A. Bui, Steven G. Craig, Scott A. Imberman",
+     "title": "Is Gifted Education a Bright Idea? Assessing the Impact of Gifted and Talented Programs on Students",
+     "org": "American Economic Journal: Economic Policy, 6(3), 30-62",
+     "year": "2014",
+     "url": "https://www.aeaweb.org/articles?id=10.1257/pol.6.3.30"
+    },
+    {
+     "author": "David Card, Laura Giuliano",
+     "title": "Does Gifted Education Work? For Which Students?",
+     "org": "NBER Working Paper No. 20453",
+     "year": "2014",
+     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2492964"
+    }
+   ]
+  },
+  {
+   "claim": "Passer d'une inscription sur demande (opt-in) à une inscription par défaut (opt-out) dans les cours avancés est la mesure d'excellence la moins chère du répertoire, et elle déplace les effectifs de 5 à 13 points de pourcentage — mais elle ne referme pas automatiquement tous les écarts.",
+   "what_it_is": "On ne change ni l'offre de cours, ni les critères, ni le financement : on change la case cochée par défaut. Tout élève qui atteint un seuil de résultats est inscrit d'office au cours avancé de l'année suivante ; les familles qui ne le souhaitent pas doivent se désinscrire activement. C'est un « nudge » administratif appliqué à l'orientation scolaire.",
+   "evidence_level": "deux évaluations quasi-expérimentales convergentes : contrôle synthétique (Dallas) et différences-de-différences avec adoption échelonnée (État de Washington)",
+   "effect_size": "Dallas ISD : probabilité de suivre l'algèbre I avant l'entrée au lycée +13 points de pourcentage (de 23,6 % à 37,0 %) ; élèves hispaniques +16,4 pts ; élèves blancs +6,8 pts ; élèves noirs +5,8 pts ; écart hispanique/blanc réduit de près de 10 points ; écart noir/blanc élargi d'environ 1 point. État de Washington : +5,3 points de pourcentage de probabilité de suivre au moins un cours avancé, +5,1 pts pour les élèves « qualifiés » et +4,8 pts pour les non qualifiés, effet significatif en mathématiques (+7,3 pts pour la cohorte 2015, +5,0 pts pour 2016).",
+   "concrete_practice": "Un algorithme applique le seuil aux résultats de l'épreuve externe de fin de primaire ; les élèves au-dessus sont préinscrits en cours avancé dans le logiciel d'inscription de l'établissement, et la famille reçoit une notification indiquant comment se désinscrire. Aucun enseignant, aucun conseiller d'orientation, aucun parent n'a de rôle de filtre en amont.",
+   "concrete_example": "Dallas Independent School District, Texas (~145 000 élèves), rentrée 2019-2020 : le district inscrit automatiquement en cours de mathématiques « honors » de 6e année tout élève de 5e année ayant dépassé 1 625 au test STAAR de mathématiques (environ la moitié supérieure de l'État). Daniel Vargas Castaño, Dareem K. Antoine et Trey Miller (EdWorkingPaper AI25-1184, juillet 2025) construisent un district synthétique à partir de Houston, San Antonio et Aldine ISD et mesurent l'effet sur l'accès à l'algèbre I avant le lycée. Côté effectifs bruts, la part d'élèves hispaniques de 6e année en mathématiques honors passe de 33 % (2018-19) à 59 % (2022-23), et celle des élèves noirs de 17 % à 43 %. En parallèle, plus de 60 districts de l'État de Washington ont déployé la même logique dès 2014-15 sous le nom d'Academic Acceleration, évaluée par Austin, Backes, Goldhaber, Li et Streich.",
+   "conditions": "Deux conditions de succès. D'abord le seuil : à Dallas, seuls 38 % des élèves noirs franchissaient le seuil d'éligibilité contre 59 % des hispaniques et 72 % des blancs — d'où un écart noir/blanc qui se creuse malgré la politique. Un opt-out ne peut pas compenser des inégalités situées en amont du seuil. Ensuite l'absence de contingentement : si le nombre de places en cours avancé est fixe, l'inscription par défaut ne fait que déplacer la file d'attente. Les auteurs de Dallas concluent explicitement qu'un accompagnement plus large est nécessaire au-delà de l'opt-out.",
+   "contested": "Deux limites. (1) Les deux évaluations mesurent des inscriptions, pas des apprentissages : l'étude de Dallas ne rapporte aucun effet sur les résultats aux tests, et l'étude de Washington est présentée par ses auteurs comme descriptive. L'affirmation courante selon laquelle « la hausse des effectifs ne s'est pas accompagnée d'une baisse des résultats » circule dans la presse spécialisée mais je n'ai pas retrouvé l'estimation causale qui l'établirait — à ne pas reprendre telle quelle. (2) La mobilité résidentielle plus forte des élèves noirs à Dallas perturbe l'application de la règle, ce qui contribue au non-résultat sur cet écart.",
+   "sources": [
+    {
+     "author": "Daniel Vargas Castaño, Dareem K. Antoine, Trey Miller",
+     "title": "Closing the Gaps: An Examination of Early Impacts of Dallas ISD's Opt-out Policy on Advanced Course Enrollment",
+     "org": "EdWorkingPaper AI25-1184, Annenberg Institute, Brown University",
+     "year": "2025",
+     "url": "https://edworkingpapers.com/policy-practice-series/ai25-1184"
+    },
+    {
+     "author": "Megan Austin, Ben Backes, Dan Goldhaber, Dory Li, Francie Streich",
+     "title": "Leveling Up: An Academic Acceleration Policy to Increase Equity in Advanced High School Course Taking",
+     "org": "American Educational Research Journal",
+     "year": "2025",
+     "url": "https://journals.sagepub.com/doi/10.3102/00028312241282793"
+    },
+    {
+     "author": "Megan Austin, Ben Backes, Dan Goldhaber, Dory Li, Francie Streich",
+     "title": "Leveling Up: A Behavioral Nudge to Increase Enrollment in Advanced Coursework (Working Paper No. 271-1022)",
+     "org": "CALDER / American Institutes for Research",
+     "year": "2022",
+     "url": "https://files.eric.ed.gov/fulltext/ED625520.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Ouvrir largement des cours avancés sans soutien ni incitation ne réduit pas les inégalités : cela les creuse. Quand une école américaine ajoute des cours Advanced Placement, ce sont les élèves favorisés, blancs et asiatiques, et déjà les plus performants qui s'en saisissent.",
+   "what_it_is": "Test direct de la thèse « l'accès suffit ». Le programme Advanced Placement (cours de niveau universitaire dispensés au lycée, avec examen final donnant des crédits) est présenté depuis vingt ans comme un instrument de réduction des écarts sociaux et raciaux. Deux évaluations indépendantes — une quasi-expérimentale sur données administratives d'État, une randomisée — le contredisent.",
+   "evidence_level": "quasi-expérimental à effets fixes établissement × temps (Michigan), et essai randomisé contrôlé (offre d'inscription tirée au sort)",
+   "effect_size": "Michigan : les élèves non défavorisés économiquement, blancs et asiatiques, et à résultats antérieurs élevés, se saisissent davantage des cours AP supplémentaires, ce qui élargit les écarts de participation ; peu de preuves qu'une disponibilité accrue d'AP améliore les résultats universitaires pour quiconque, sauf pour les élèves les mieux préparés. Essai randomisé : plus de 1 800 élèves, 23 lycées n'offrant pas encore le cours ; aucun effet sur les scores SAT/ACT ; les élèves du groupe traité passent bien plus souvent l'examen AP que les témoins mais y renoncent massivement et, majoritairement, n'obtiennent pas la note de réussite ; hausse des aspirations à entrer dans une université plus sélective, sans effet sur l'inscription effective.",
+   "concrete_practice": "Un lycée ouvre un cours AP de sciences qu'il n'offrait pas ; les élèves s'y inscrivent ou non ; ceux qui s'inscrivent passent l'examen national en fin d'année. Rien d'autre ne change : ni le temps de préparation, ni le tutorat, ni la prise en charge du coût de l'examen.",
+   "concrete_example": "Dylan Conger (George Washington University), Mark C. Long (University of Washington) et Raymond McGhee Jr. ont randomisé l'offre d'inscription à un cours AP de sciences auprès de plus de 1 800 élèves dans 23 lycées qui ne proposaient pas ce cours auparavant (Education Finance and Policy, 18(1), 2023, p. 52-73). Le dispositif fonctionne comme une loterie : parmi les candidats, certains reçoivent la place, d'autres non. Résultat mesuré : la participation à l'examen AP augmente nettement, mais les scores d'entrée à l'université ne bougent pas et l'inscription dans un établissement de meilleure qualité non plus. En parallèle, Stephanie Owen (Colby College) exploite dans le Michigan la variation du nombre de cours AP offerts à l'intérieur d'un même lycée au fil du temps, et conclut qu'« élargir l'accès aux cours AP sans incitations ou soutiens supplémentaires pour que les élèves défavorisés réussissent a peu de chances de répondre aux inégalités éducatives ».",
+   "conditions": "Le cours avancé ne produit d'effet que si les prérequis sont maîtrisés et si l'élève dispose du temps et du soutien pour tenir le rythme. L'ouverture de l'offre agit sur l'offre, pas sur la préparation : c'est pourquoi elle bénéficie mécaniquement à ceux qui étaient déjà prêts.",
+   "contested": "Le résultat est lui-même contesté dans les deux sens. D'un côté, la littérature descriptive sur l'AP (recensée notamment par Russell T. Warne en 2017) reste largement favorable, mais elle est presque entièrement corrélationnelle et n'isole pas la sélection. De l'autre, l'essai de Conger et al. porte sur un seul type de cours (sciences) dans des établissements qui n'en offraient pas — donc peu équipés — ce qui limite la généralisation ; et le taux massif de renoncement à l'examen dans le groupe traité complique l'interprétation. Ce que ces travaux établissent solidement, c'est le renversement de la charge de la preuve : l'élargissement d'accès seul ne se présume pas équitable.",
+   "sources": [
+    {
+     "author": "Dylan Conger, Mark C. Long, Raymond McGhee Jr.",
+     "title": "Advanced Placement and Initial College Enrollment: Evidence from an Experiment",
+     "org": "Education Finance and Policy, 18(1), 52-73",
+     "year": "2023",
+     "url": "https://direct.mit.edu/edfp/article-abstract/18/1/52/106759/Advanced-Placement-and-Initial-College-Enrollment"
+    },
+    {
+     "author": "Stephanie Owen",
+     "title": "The Advanced Placement Program and Educational Inequality",
+     "org": "Education Finance and Policy, 20(1), 1-33",
+     "year": "2025",
+     "url": "https://stephanieowen.github.io/owen_ap.pdf"
+    },
+    {
+     "author": "Russell T. Warne",
+     "title": "Research on the Academic Benefits of the Advanced Placement Program: Taking Stock and Looking Forward",
+     "org": "SAGE Open",
+     "year": "2017",
+     "url": "https://journals.sagepub.com/doi/10.1177/2158244016682996"
+    }
+   ]
+  },
+  {
+   "claim": "Les écoles de mathématiques adossées à une université britannique produisent une valeur ajoutée mesurable et — résultat rare — cette valeur ajoutée est la plus forte chez les élèves d'origine sociale modeste, des minorités sous-représentées et chez les filles ; mais elles n'ouvrent pas les portes d'Oxbridge aux élèves défavorisés.",
+   "what_it_is": "Établissements publics spécialisés accueillant les élèves de 16 à 18 ans uniquement, fondés et adossés chacun à un département universitaire de mathématiques, financés au-delà du barème ordinaire, avec mandat explicite d'élargir la participation des groupes sous-représentés en mathématiques. Sélection sur résultats de fin de secondaire inférieur (GCSE) et sur test d'admission.",
+   "evidence_level": "quasi-expérimental : appariement exact grossi (coarsened exact matching) élève par élève sur données administratives nationales, inférence par bootstrap à 1 000 itérations",
+   "effect_size": "Sur 970 élèves de maths schools diplômés entre 2016 et 2023, 905 appariés (7 % non appariés) : +6 points de pourcentage de probabilité d'obtenir la note maximale A* en A level de mathématiques, +11 points en A level Further Mathematics ; gain moyen d'environ +0,2 note en mathématiques et +0,2 note en Further Mathematics sur l'ensemble. Gains différenciés en mathématiques : +0,76 note pour les ethnicités sous-représentées, +0,6 pour les élèves de faible statut socio-économique, +0,36 pour les filles. Poursuite d'études : +9 points de pourcentage vers une licence de sciences mathématiques, +11 points vers une licence STEM à forte intensité mathématique (+14 pts pour les filles, +13 pts pour les ethnicités sous-représentées). Oxbridge : 21 % des élèves de maths schools contre 11 % du groupe témoin apparié — mais aucune différence significative pour les élèves de faible statut socio-économique.",
+   "concrete_practice": "Un élève de 16 ans intègre un sixth form de 64 à 130 places entièrement consacré aux mathématiques, à la physique et aux disciplines liées ; il y suit A level Mathematics, Further Mathematics et Physics, avec des enseignements assurés partiellement par des universitaires, des séminaires de recherche, de la préparation aux concours d'entrée universitaires et un programme d'outreach vers les écoles primaires et secondaires alentour.",
+   "concrete_example": "King's College London Mathematics School (Londres, ouverte en 2014, 70 places) et Exeter Mathematics School (ouverte en 2014, 64 places), rejointes par University of Liverpool Maths School en 2020. L'Observatory for Mathematical Education de l'Université de Nottingham a apparié, sur le National Pupil Database, chaque élève de ces écoles à un élève de même sexe, ethnicité, statut de repas gratuits, besoins éducatifs particuliers, quintile de privation, région, année et note exacte de GCSE en mathématiques et anglais, et suivant les mêmes A levels — en restreignant les témoins à des sixth forms de composition sociale comparable. Rapport publié en octobre 2025. Onze maths schools existent aujourd'hui, la dernière (Aston) ayant ouvert en 2025.",
+   "conditions": "Le dispositif suppose un financement public majoré, un partenariat réel avec un département universitaire de mathématiques, et surtout une politique de recrutement volontariste : le rapport note que les maths schools sont plus diverses en sexe et en origine sociale que la population nationale des élèves de Further Mathematics — c'est cette politique de recrutement, et non la sélection en elle-même, qui produit l'effet d'équité. Le dispositif ne concerne qu'une infime fraction d'une cohorte : environ 1,5 % des élèves de A level Further Mathematics en Angleterre.",
+   "contested": "Les auteurs eux-mêmes appellent à la prudence causale. Trois réserves qu'ils formulent : (1) le National Pupil Database ne contient ni la motivation de l'élève ni le recours à du tutorat privé, et les maths schools n'ont pas le droit d'utiliser les données de candidature qui permettraient d'apparier sur la motivation mathématique — « il est difficile de dire si ces variables non enregistrées conduisent à une surestimation ou une sous-estimation » ; (2) l'analyse est dominée par deux écoles seulement, très différentes l'une de l'autre (Exeter propose l'internat et un 4e A level, King's un curriculum plus contraint), et rien ne garantit la transférabilité aux écoles ouvertes récemment ; (3) l'appariement exact sur le statut de repas gratuits laisse environ la moitié des élèves défavorisés des maths schools sans témoin. Enfin, le résultat le plus gênant politiquement est interne au rapport : pour les élèves de faible statut socio-économique, la progression vers Oxbridge n'est pas significativement différente de celle du groupe témoin, alors même que leurs notes progressent davantage.",
+   "sources": [
+    {
+     "author": "Observatory for Mathematical Education",
+     "title": "Evaluation of pupil attainment and progression in Maths Schools",
+     "org": "University of Nottingham",
+     "year": "2025",
+     "url": "https://www.nottingham.ac.uk/observatory/documents/reports/pupil-attainment-progression-mathsschools.pdf"
+    },
+    {
+     "author": "King's College London",
+     "title": "University Maths Schools drive social mobility and widen participation in STEM",
+     "org": "King's College London (communiqué sur l'évaluation OME)",
+     "year": "2025",
+     "url": "https://www.kcl.ac.uk/news/university-maths-schools-drive-social-mobility-and-widen-participation-in-stem"
+    },
+    {
+     "author": "Observatory for Mathematical Education",
+     "title": "Review of Mathematical Education 2025",
+     "org": "University of Nottingham",
+     "year": "2025",
+     "url": "https://www.nottingham.ac.uk/observatory/documents/reports/rome-2025.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le résultat le plus contre-intuitif et le mieux établi de toute cette littérature : les écoles d'élite à examen d'entrée n'ajoutent quasiment rien. Entrer de justesse dans une exam school de Boston ou de New York, malgré un saut spectaculaire du niveau des pairs, n'améliore ni les résultats aux tests, ni l'entrée à l'université, ni la qualité de l'université fréquentée.",
+   "what_it_is": "Établissements publics sélectifs recrutant sur concours, à curriculum exigeant et à composition scolaire très homogène par le haut. Leur réputation repose entièrement sur les résultats de leurs diplômés — qui reflètent la sélection à l'entrée, non l'action de l'école. La régression sur discontinuité permet de séparer les deux : on compare les candidats juste au-dessus et juste en dessous du seuil d'admission, statistiquement identiques.",
+   "evidence_level": "quasi-expérimental de très haute qualité : régression sur discontinuité floue aux seuils d'admission, répliquée indépendamment sur deux villes par deux équipes distinctes",
+   "effect_size": "Abdulkadiroğlu, Angrist et Pathak : « peu d'effet des offres d'admission en exam school sur les résultats de la plupart des élèves », sur une batterie d'indicateurs — tests standardisés d'État, participation et scores PSAT et SAT, scores AP. Dobbie et Fryer : les candidats juste éligibles ont des pairs dont les scores de fin de primaire sont supérieurs de 0,17 à 0,36 écart-type, et pourtant l'effet sur les scores SAT, l'inscription à l'université, l'obtention du diplôme universitaire et la qualité de l'université fréquentée est faible ou nul.",
+   "concrete_practice": "Un élève passe le Specialized High Schools Admissions Test à New York (ou l'ISEE à Boston) ; au-dessus du rang de coupure il entre à Stuyvesant, Bronx Science ou Brooklyn Tech ; en dessous il va dans son lycée de secteur. Les deux élèves de part et d'autre du seuil ont des dossiers indiscernables ; on suit ensuite leurs trajectoires sur plusieurs années.",
+   "concrete_example": "Trois exam schools de New York (Stuyvesant, Bronx Science, Brooklyn Technical) analysées par Will Dobbie et Roland Fryer (American Economic Journal: Applied Economics, 6(3), 2014, p. 58-75), et les exam schools de Boston (dont Boston Latin School) plus celles de New York analysées par Atila Abdulkadiroğlu, Joshua Angrist et Parag Pathak (Econometrica, 2014) sous le titre volontairement provocateur « The Elite Illusion ». Dans les deux cas, le changement d'environnement est réel et massif — les admis passent d'une position sous la médiane à une position médiane dans les écoles les moins sélectives, et à l'extrême haut de la distribution dans les plus sélectives, avec nettement moins de camarades non blancs que les recalés — et l'effet mesuré sur les apprentissages reste proche de zéro.",
+   "conditions": "Le résultat porte sur les élèves situés au voisinage du seuil d'admission, c'est-à-dire les élèves marginaux. Il n'exclut pas formellement un effet pour les élèves très au-dessus du seuil, que la méthode ne peut pas identifier. Il porte aussi sur un contexte où l'alternative — le lycée public de secteur américain — est elle-même variable en qualité.",
+   "contested": "La portée de ce résultat est débattue. Trois objections sérieuses : (1) la validité externe est locale au seuil, et les partisans des écoles sélectives soutiennent que l'effet se joue ailleurs dans la distribution ; (2) les effets pourraient porter sur des dimensions non mesurées (réseaux, orientation, aspiration, carrière longue) — Dobbie et Fryer mesurent tout de même la qualité de l'université obtenue, ce qui limite cette objection ; (3) la convergence de trois études indépendantes (Boston, New York, plus le résultat de loterie de Bui, Craig et Imberman dans un troisième district où seuls les résultats en sciences progressent) rend l'hypothèse d'un artefact peu crédible. Il faut cependant noter l'asymétrie avec le résultat des maths schools britanniques, qui trouvent bien une valeur ajoutée : la différence probable n'est pas la sélectivité mais le contenu — spécialisation disciplinaire profonde et adossement universitaire dans un cas, curriculum général exigeant dans l'autre.",
+   "sources": [
+    {
+     "author": "Atila Abdulkadiroğlu, Joshua D. Angrist, Parag A. Pathak",
+     "title": "The Elite Illusion: Achievement Effects at Boston and New York Exam Schools",
+     "org": "Econometrica",
+     "year": "2014",
+     "url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA10266"
+    },
+    {
+     "author": "Will Dobbie, Roland G. Fryer Jr.",
+     "title": "The Impact of Attending a School with High-Achieving Peers: Evidence from the New York City Exam Schools",
+     "org": "American Economic Journal: Applied Economics, 6(3), 58-75",
+     "year": "2014",
+     "url": "https://www.aeaweb.org/articles?id=10.1257/app.6.3.58"
+    },
+    {
+     "author": "Blueprint Labs (MIT)",
+     "title": "Do Elite Exam Schools Add Value?",
+     "org": "MIT Blueprint Labs",
+     "year": "2014",
+     "url": "https://blueprintlabs.mit.edu/research/do-elite-exam-schools-add-value/"
+    }
+   ]
+  },
+  {
+   "claim": "Le concept d'« excellence gap » de Jonathan Plucker désigne un angle mort réel : un système peut réduire la part d'élèves faibles sans produire aucun élève excellent d'origine modeste ; mais la base de preuves sur la façon de refermer ces écarts reste mince et dominée par un seul pays.",
+   "what_it_is": "L'excellence gap est l'écart, entre groupes sociaux ou ethniques, dans la proportion d'élèves atteignant les niveaux de performance les plus élevés — par opposition à l'achievement gap, qui se mesure au seuil de maîtrise minimale. L'argument de Plucker : la focalisation exclusive sur le seuil bas a laissé prospérer une « sous-classe du talent » composée d'élèves à haut potentiel issus de milieux défavorisés.",
+   "evidence_level": "revue systématique (80 articles empiriques), adossée à une littérature de politique publique descriptive et corrélationnelle",
+   "effect_size": "La revue systématique de Meyer, Shen et Plucker (Review of Educational Research, 94(1), 2024, p. 33-72) identifie 80 articles empiriques répartis en trois catégories et sept sous-catégories ; seulement neuf portent sur le rôle des systèmes de reddition de comptes, tous situés aux États-Unis, dont cinq quantitatifs et quatre qualitatifs. Aucune taille d'effet agrégée n'est produite — la revue cartographie un champ, elle ne le synthétise pas métriquement.",
+   "concrete_practice": "Les stratégies recensées comme les plus prometteuses sont celles déjà documentées ailleurs dans cette revue : dépistage universel, normes locales d'identification (comparer l'élève à son école plutôt qu'à l'ensemble du système), groupement flexible et révisable, accélération. Les interventions psychosociales (état d'esprit de développement, appartenance) sont explicitement décrites comme décevantes pour les élèves avancés.",
+   "concrete_example": "Le programme Gifted and Talented d'Angleterre (1999-2010) offre le cas empirique le plus complet et le plus récent. Chaque école publique devait constituer un registre des 5 à 10 % d'élèves les plus performants ; l'État a financé à partir de 2002 la National Academy for Gifted and Talented Youth à l'Université de Warwick (écoles d'été, masterclasses, mentorat, compétitions), puis le programme Young Gifted & Talented confié au CfBT Education Trust en 2007 ; plus de 200 000 enfants y sont passés. Le programme a été supprimé en 2010 et ses crédits réaffectés au soutien des élèves défavorisés. John Jerrim et ses coauteurs ont apparié les registres scolaires nationaux aux données de l'enseignement supérieur et du marché du travail pour suivre des centaines de milliers de jeunes du primaire jusqu'au milieu de la vingtaine (Oxford Review of Education, 2026) : les élèves d'origine favorisée avaient nettement plus de chances d'être inscrits au registre, à résultats antérieurs égaux ; la participation est positivement associée aux résultats à 16 ans et à l'entrée dans les universités sélectives, mais ces bénéfices se concentraient sur les élèves déjà favorisés ; et rien n'indique que ces bénéfices éducatifs se soient traduits en meilleurs résultats sur le marché du travail.",
+   "conditions": "Refermer un excellence gap suppose d'agir sur l'identification (sinon le dispositif recrute les favorisés) et sur le contenu (sinon l'identification ne produit rien). Le cas anglais échoue sur le premier point ; le cas Broward réussit sur le premier et échoue sur le second pour les élèves identifiés sur QI ; seul le dispositif de Broward fondé sur le rang local réussit sur les deux.",
+   "contested": "Trois critiques à porter. (1) La revue de Meyer, Shen et Plucker est presque entièrement américaine, ce qui limite sa portée pour un système européen continental. (2) Plucker et Peters, coauteurs du livre fondateur « Excellence Gaps in Education » (Harvard Education Press), sont des acteurs engagés du champ de l'éducation des élèves doués : le concept d'excellence gap est autant un instrument de plaidoyer qu'une catégorie analytique, et il faut le traiter comme tel. (3) Sur l'étude de Jerrim et al., je n'ai pas pu accéder au texte intégral (article sous péage) : je rapporte ici les conclusions telles que présentées par la revue et par le billet de FFT Education Datalab, sans avoir vérifié les tailles d'effet ni la liste complète des auteurs sur la source primaire — les chiffres précis de cette étude ne doivent donc pas être cités.",
+   "sources": [
+    {
+     "author": "Melanie S. Meyer, Yuyang Shen, Jonathan A. Plucker",
+     "title": "Reducing Excellence Gaps: A Systematic Review of Research on Equity in Advanced Education",
+     "org": "Review of Educational Research, 94(1), 33-72",
+     "year": "2024",
+     "url": "https://journals.sagepub.com/doi/10.3102/00346543221148461"
+    },
+    {
+     "author": "Jonathan A. Plucker, Scott J. Peters",
+     "title": "Excellence Gaps in Education: Expanding Opportunities for Talented Students",
+     "org": "Harvard Education Press",
+     "year": "2016",
+     "url": "https://hep.gse.harvard.edu/9781612509945/excellence-gaps-in-education/"
+    },
+    {
+     "author": "John Jerrim et al.",
+     "title": "The education and labour market outcomes of England's gifted and talented children",
+     "org": "Oxford Review of Education",
+     "year": "2026",
+     "url": "https://www.tandfonline.com/doi/full/10.1080/03054985.2026.2632049"
+    },
+    {
+     "author": "FFT Education Datalab",
+     "title": "The education and labour market outcomes of England's gifted and talented children",
+     "org": "FFT Education Datalab",
+     "year": "2026",
+     "url": "https://ffteducationdatalab.org.uk/2026/03/the-education-and-labour-market-outcomes-of-englands-gifted-and-talented-children/"
+    }
+   ]
+  },
+  {
+   "claim": "Le detracking radical — supprimer les parcours accélérés au nom de l'équité — peut faire perdre le haut de la distribution sans rien gagner en bas : à San Francisco, la participation aux mathématiques avancées a chuté de 15 % et celle des élèves noirs de 52 % la première année, sans que les écarts ethno-raciaux visés ne se réduisent.",
+   "what_it_is": "Politique inverse des programmes d'excellence : repousser l'algèbre I en 9e année pour tous les élèves, supprimer la possibilité de la suivre en 8e année, imposer une séquence de cours identique jusqu'à l'avant-dernière année du lycée. Objectif affiché : supprimer un tri précoce qui condamnait de façon disproportionnée les élèves noirs et hispaniques au redoublement de l'algèbre.",
+   "evidence_level": "descriptif longitudinal sur données élèves (les auteurs qualifient eux-mêmes leur étude de descriptive et renoncent explicitement à l'inférence causale)",
+   "effect_size": "Participation à un cours de mathématiques AP : -6 points de pourcentage, soit -15 %, la première année, concentrée sur le calcul et sur les élèves asiatiques/insulaires du Pacifique. Élèves noirs : -5 points de pourcentage, soit -52 %. Élèves hispaniques : stable la première année, +1 point de pourcentage sur l'ensemble de la période post-réforme. Élèves noirs sur la période post-réforme : statistiquement indistinguables de l'avant-réforme. Detracking effectivement réalisé : 90 % des élèves de 9e année en algèbre I et 78 % des élèves de 10e année en géométrie la première année. Récupération : la participation aux mathématiques AP de la promotion 2021 est presque revenue au niveau de la dernière promotion pré-réforme (2018).",
+   "concrete_practice": "Un district cesse purement et simplement d'offrir l'algèbre I avant la 9e année. Tous les élèves suivent algèbre I en 9e, géométrie en 10e, algèbre II en 11e. Les élèves qui veulent atteindre le calcul avant la fin du lycée doivent ensuite recourir à des options de rattrapage : géométrie en cours d'été, ou cours compressé algèbre II/pré-calcul.",
+   "concrete_example": "San Francisco Unified School District, réforme des math pathways mise en œuvre à partir de l'année scolaire 2014-2015, en rupture avec la politique antérieure « Algebra for All » en 8e année. Elizabeth Huffaker, Sarah Novicoff et Thomas S. Dee (Stanford University) suivent les cohortes successives de 2016 à 2021 sur données individuelles de parcours (EdWorkingPaper n° 23-734, mars 2023). Contexte initial : parmi les élèves entrés au lycée en 2012, seuls 5 % des élèves noirs et 7 % des élèves hispaniques suivaient un cours de calcul AP, et environ 40 % de chaque cohorte devait redoubler l'algèbre I. Résultat mesuré : la réforme atteint son objectif de déségrégation des classes de 9e et 10e, échoue sur son objectif d'accès des groupes sous-représentés aux mathématiques avancées, et fait chuter la participation des groupes déjà performants.",
+   "conditions": "L'échec vient d'un enchaînement mécanique identifié par les auteurs : retarder l'algèbre I rend impossible d'achever la séquence de prérequis menant au calcul avant la fin du lycée. La réforme n'a été partiellement rattrapée qu'en réintroduisant des options d'accélération (cours d'été, cours compressés) — c'est-à-dire en réintroduisant du tracking, à un niveau resté toutefois inférieur à l'avant-réforme. Point crucial pour la FWB : dans la période post-réforme, l'accès à ces accélérations reposait uniquement sur la demande de l'élève, sans critère de résultats ni recommandation — et les auteurs pointent que c'est précisément ce qui a maintenu les écarts.",
+   "contested": "Étude explicitement descriptive : aucun contrefactuel construit, donc pas d'estimation causale au sens strict. Le débat est extrêmement politisé (« math wars ») et les lectures divergent frontalement : certains commentateurs soutiennent que le district a supprimé le tracking « sans nuire sérieusement » aux effectifs de calcul AP, puisque la promotion 2021 rejoint la promotion 2018 ; d'autres, dont Tom Loveless, y voient un échec net. Les auteurs eux-mêmes se tiennent au milieu : « la politique n'a finalement ni augmenté ni restreint l'accès ». Limite additionnelle qu'ils signalent : ils n'observent que les inscriptions et les crédits, jamais les apprentissages, les parcours universitaires ni le rapport des élèves aux mathématiques. Un plaidoyer honnête doit donc dire que SFUSD montre qu'un detracking mal séquencé coûte cher au haut sans bénéfice mesuré pour le bas — pas que le detracking en soi échoue.",
+   "sources": [
+    {
+     "author": "Elizabeth Huffaker, Sarah Novicoff, Thomas S. Dee",
+     "title": "Ahead of the Game? Course-Taking Patterns under a Math Pathways Reform",
+     "org": "EdWorkingPaper n° 23-734, Annenberg Institute, Brown University",
+     "year": "2023",
+     "url": "https://edworkingpapers.com/sites/default/files/ai23-734.pdf"
+    },
+    {
+     "author": "Tom Loveless",
+     "title": "San Francisco's Detracking Experiment",
+     "org": "Education Next",
+     "year": "2024",
+     "url": "https://www.educationnext.org/san-franciscos-detracking-experiment/"
+    }
+   ]
+  },
+  {
+   "claim": "Le seul essai randomisé à grande échelle sur le tracking renverse l'intuition égalitariste : regrouper les élèves par niveau a bénéficié à TOUS les quantiles, y compris aux plus faibles, parce qu'il permet aux enseignants d'ajuster le niveau d'enseignement — le bénéfice vient de l'enseignement, pas des pairs.",
+   "what_it_is": "Expérience de terrain randomisée testant directement l'arbitrage entre effet de pairs (négatif pour les faibles si on les sépare) et effet d'ajustement pédagogique (positif pour tous si l'enseignant peut viser le niveau réel de sa classe).",
+   "evidence_level": "essai contrôlé randomisé (assignation aléatoire des écoles au tracking ou non, groupes formés par un seuil net sur les résultats initiaux)",
+   "effect_size": "Après 18 mois, les élèves des écoles à tracking obtiennent des scores supérieurs de 0,14 écart-type (0,18 écart-type avec contrôle des scores de départ). Moitié supérieure de la distribution initiale : +0,19 écart-type. Moitié inférieure : +0,16 écart-type. Tous les quantiles bénéficient. Persistance : un an après la fin du programme, +0,16 écart-type (0,18 avec contrôles). Échantillon : 121 écoles primaires à classe unique de 1re année, dont 60 assignées au tracking et 61 au non-tracking, province occidentale du Kenya, à partir de 2005 ; durée 18 mois.",
+   "concrete_practice": "Dans le cadre de l'Extra-Teacher Program, une école reçoit le financement d'un enseignant contractuel supplémentaire et dédouble sa classe de 1re année. Dans les écoles « tracking », les élèves sont répartis entre les deux sections selon leur score initial (moitié basse d'un côté, moitié haute de l'autre) ; dans les écoles « non-tracking », ils sont répartis aléatoirement. Le taux de présence effective des élèves dans leur section assignée atteint 96 % dans les écoles à tracking.",
+   "concrete_example": "Extra-Teacher Program, Kenya, 2005-2007, évalué par Esther Duflo (MIT), Pascaline Dupas (Stanford) et Michael Kremer (Harvard), publié dans l'American Economic Review (101(5), 2011, p. 1739-1774). Le mécanisme identifié est explicite : dans les écoles à tracking, les enseignants sont plus souvent présents et effectivement en train d'enseigner, particulièrement dans les sections de niveau élevé ; et surtout, les enseignants des sections faibles peuvent viser un niveau que la classe peut suivre, au lieu d'enseigner « vers le haut de la distribution » comme les y incitent les examens nationaux. Une régression sur discontinuité au seuil de séparation permet aux auteurs de montrer que l'effet ne s'explique pas par la composition des pairs.",
+   "conditions": "Conditions très spécifiques et déterminantes. (1) Le point de départ est une classe unique pléthorique et extrêmement hétérogène dans un système à faible capacité, où l'enseignant enseignait de fait à une petite minorité d'élèves. (2) Le tracking s'accompagne d'un enseignant supplémentaire — le dispositif n'est pas à coût constant. (3) Les incitations des enseignants portaient sur les examens nationaux, ce qui les poussait à enseigner au sommet de la classe ; c'est ce biais que le tracking corrige. (4) Le regroupement est fait sur un test récent, à l'intérieur de l'école, pour 18 mois — pas une orientation de filière irréversible.",
+   "contested": "Résultat régulièrement instrumentalisé hors de son contexte. Les contre-preuves sont fortes en systèmes développés : la Education Endowment Foundation, à partir de la littérature internationale, estime que la constitution de classes de niveau permanentes (setting/streaming) est associée à un effet négatif d'environ un mois d'apprentissage, alors que le groupement par niveau à l'intérieur de la classe apporte environ trois mois — et la EEF souligne que les deux formes profitent davantage aux élèves déjà performants, lesquels sont disproportionnellement favorisés socialement. La preuve européenne va dans le même sens : en Pologne, la réforme de 1999 qui a retardé d'un an l'orientation vers l'enseignement professionnel a produit, pour les élèves qui auraient été orientés vers le professionnel, un gain estimé par appariement sur score de propension et différences-de-différences de l'ordre de 100 à 116 points PISA, soit plus d'un écart-type — mais cette étude ne mesure pas l'effet sur le haut de la distribution, ce qu'il faut dire. Conclusion honnête : ce n'est pas « le tracking » qui est en cause, c'est sa durée, son irréversibilité et son âge d'application.",
+   "sources": [
+    {
+     "author": "Esther Duflo, Pascaline Dupas, Michael Kremer",
+     "title": "Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya",
+     "org": "American Economic Review, 101(5), 1739-1774",
+     "year": "2011",
+     "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.101.5.1739"
+    },
+    {
+     "author": "Esther Duflo, Pascaline Dupas, Michael Kremer",
+     "title": "Peer Effects, Teacher Incentives, and the Impact of Tracking (version de travail avec estimations détaillées)",
+     "org": "NBER Working Paper No. 14475",
+     "year": "2008",
+     "url": "https://www.nber.org/papers/w14475"
+    },
+    {
+     "author": "Maciej Jakubowski, Harry Anthony Patrinos, Emilio Ernesto Porta, Jerzy Wiśniewski",
+     "title": "The effects of delaying tracking in secondary school: evidence from the 1999 education reform in Poland",
+     "org": "Education Economics",
+     "year": "2016",
+     "url": "https://hpatrinos.com/wp-content/uploads/2015/03/poland-tracking1.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La forme du regroupement décide de son signe : regrouper par niveau à l'intérieur de la classe apporte environ trois mois d'apprentissage, constituer des classes de niveau permanentes en fait perdre environ un — et les deux profitent davantage aux élèves déjà performants.",
+   "what_it_is": "Distinction opérationnelle entre trois pratiques souvent confondues : le groupement intra-classe (l'enseignant constitue des groupes de besoin mobiles à l'intérieur de sa classe), le setting (les élèves changent de groupe selon la matière), et le streaming (les élèves sont affectés à une classe de niveau unique pour toutes les matières).",
+   "evidence_level": "synthèse d'agence d'évaluation indépendante (Teaching and Learning Toolkit de l'EEF, synthèse de méta-analyses convertie en mois d'apprentissage), avec base de preuves auto-qualifiée de limitée",
+   "effect_size": "Groupement par niveau intra-classe : +3 mois d'apprentissage en moyenne ; effet concentré sur le primaire (+3 mois), effet global nul dans le secondaire. Setting/streaming : -1 mois. La EEF indique que les deux formes semblent plus bénéfiques aux élèves les plus performants qu'aux moins performants, et que ces derniers sont disproportionnellement issus de milieux défavorisés.",
+   "concrete_practice": "Concrètement : un enseignant de primaire constitue trois tables de travail en mathématiques selon la maîtrise de la notion en cours, recomposées toutes les deux à trois semaines sur la base d'une évaluation formative, et fait circuler les élèves entre elles. À l'opposé, l'école qui répartit les élèves de 1re secondaire en classe A, B et C pour l'année entière fait du streaming.",
+   "concrete_example": "Le Teaching and Learning Toolkit de l'Education Endowment Foundation (agence d'évaluation indépendante britannique dotée par le gouvernement) a publié en 2021 une refonte de ses entrées sur le sujet : révision de l'entrée « Setting or streaming » et création d'une entrée distincte « Within-class attainment grouping », précisément parce que l'agrégation des deux masquait des signes opposés. Un essai financé par l'EEF sur le groupement en mathématiques a par ailleurs conclu que les élèves bénéficiaires de repas gratuits progressaient de façon comparable en groupes de niveau et en groupes hétérogènes. Côté francophone, la conférence de consensus « Différenciation pédagogique » du Cnesco et de l'Ifé/ENS de Lyon (Lycée Diderot, Paris, 7-8 mars 2017) formule une recommandation opérationnelle convergente : les groupes de niveau à l'intérieur de la classe ne doivent pas être établis de manière permanente dans le temps, et les compétences servant à les constituer doivent être variées.",
+   "conditions": "Le groupement intra-classe ne produit d'effet que s'il est révisable fréquemment sur évaluation formative, et s'il s'accompagne d'un ajustement réel du contenu et non d'un simple ralentissement pour les uns. Le Cnesco souligne un écueil très répandu en contexte francophone : la différenciation y est spontanément comprise comme de la remédiation pour les plus fragiles, effectuée hors classe et en petits groupes homogènes — ce qui est exactement la configuration la moins soutenue par les preuves et laisse le haut de distribution sans réponse.",
+   "contested": "La EEF elle-même qualifie sa base de preuves de limitée et appelle à davantage d'études de qualité. Deux critiques méritent d'être portées. (1) La conversion en « mois d'apprentissage » est une commodité de communication qui écrase des intervalles de confiance larges et des contextes hétérogènes. (2) Le résultat central — que le groupement, sous toutes ses formes, profite davantage aux élèves déjà performants — est précisément l'argument des opposants à toute forme de groupement, et il est corroboré par une analyse internationale publiée en 2025 dans l'European Sociological Review sur les effets du groupement inter-classes intra-établissement pour les élèves défavorisés. Autrement dit, ce levier est réellement ambivalent et ne doit pas être présenté comme neutre du point de vue de l'équité.",
+   "sources": [
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Within class attainment grouping — Teaching and Learning Toolkit",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/within-class-attainment-grouping"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Setting and streaming — Teaching and Learning Toolkit",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/setting-and-streaming"
+    },
+    {
+     "author": "Cnesco / Ifé-ENS de Lyon",
+     "title": "Conférence de consensus « Différenciation pédagogique : comment adapter l'enseignement pour la réussite de tous les élèves ? » — Recommandations du jury",
+     "org": "Conseil national d'évaluation du système scolaire (France)",
+     "year": "2017",
+     "url": "https://www.cnesco.fr/wp-content/uploads/2017/03/CCDifferenciation_recommandations.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les olympiades et compétitions identifient un talent réellement prédictif de production scientifique ultérieure — chaque point supplémentaire à l'Olympiade internationale de mathématiques est associé à +2,6 % de publications et +4,5 % de citations à vie — mais ce talent est massivement perdu là où l'environnement ne le porte pas.",
+   "what_it_is": "Compétitions disciplinaires nationales et internationales, associées à un écosystème de revues de problèmes, de clubs, d'entraînements et parfois de classes spécialisées. Leur fonction documentée est double : révéler un potentiel que les épreuves scolaires ordinaires ne discriminent plus (effet plafond), et structurer un parcours.",
+   "evidence_level": "corrélationnel sur données exhaustives hand-collected avec contrôles étendus (les auteurs revendiquent explicitement de mesurer une association, pas un effet causal du dispositif)",
+   "effect_size": "Sur 4 710 participants à l'Olympiade internationale de mathématiques entre 1981 et 2000, dont 2 272 médaillés : chaque point supplémentaire (sur 42) est associé à +2,6 % de publications mathématiques et +4,5 % de citations. 22 % des participants obtiennent un doctorat en mathématiques, 1 % deviennent conférenciers au Congrès international des mathématiciens, 0,2 % obtiennent la médaille Fields. Perte de talent : un participant né dans un pays à bas revenu produit 34 % de publications en moins et 56 % de citations en moins qu'un participant également talentueux né dans un pays riche ; les auteurs estiment que la production de connaissances issue des participants à l'IMO serait supérieure de 10 % en publications et de 17 % en citations si cet écart de productivité était comblé. La probabilité conditionnelle qu'un médaillé d'or de l'IMO obtienne la médaille Fields est supérieure de deux ordres de grandeur à celle d'un docteur en mathématiques d'un département du top 10 mondial.",
+   "concrete_practice": "Un élève de secondaire résout chaque mois les problèmes d'une revue spécialisée, participe à une compétition nationale, est repéré et intégré à une équipe entraînée par des universitaires, puis concourt à l'international. Le dispositif ne coûte presque rien en infrastructure mais suppose un vivier d'enseignants et de mathématiciens disposés à entraîner.",
+   "concrete_example": "Le système hongrois est le cas le plus ancien et le plus documenté : compétition nationale de mathématiques fondée par la Société mathématique et physique en 1894, revue de problèmes KöMaL qui couvre l'ensemble des compétitions nationales et internationales, et classes spécialisées de mathématiques créées en 1962 par Imre Rábai au Fazekas Mihály Gimnázium de Budapest. Fazekas a produit un grand nombre de médaillés d'or à l'Olympiade internationale et occupe depuis 2024 la première place du classement national des lycées hongrois. Côté quantitatif, c'est le travail de Ruchir Agarwal (FMI) et Patrick Gaulé (Université de Bath), publié dans l'American Economic Review: Insights (2020), qui a reconstitué à la main les trajectoires de tous les participants à l'IMO sur vingt ans et documenté la perte de talent.",
+   "conditions": "Une compétition ne produit un effet que si elle est adossée à un parcours : entraînement régulier, enseignants formés, et surtout débouché institutionnel (filière universitaire, bourse, laboratoire). Le résultat d'Agarwal et Gaulé est précisément que le talent sans écosystème ne se convertit pas — c'est un argument pour financer l'aval autant que la compétition elle-même.",
+   "contested": "Faiblesse causale à assumer franchement. (1) Agarwal et Gaulé mesurent une association entre performance à l'IMO et production ultérieure, en argumentant que cette corrélation reflète la distribution du talent plutôt qu'un effet « le succès appelle le succès » — mais ils n'ont pas de variation exogène de la participation. Leur papier ne dit pas que la compétition cause la carrière scientifique ; il dit que la performance en compétition la prédit très fortement. (2) Sur l'effet des compétitions sur les apprentissages des participants ordinaires, la littérature est largement descriptive et rétrospective : une étude mixte sur les anciens participants au Science Olympiad américain, et une étude allemande sur la préparation à l'olympiade de mathématiques, documentent des associations avec la motivation et le choix d'orientation, sans contrefactuel. Je n'ai pas identifié d'essai randomisé sur la participation aux compétitions. (3) Le cas hongrois n'est adossé à aucune évaluation causale et s'accompagne d'un coût social lourd : Dániel Horn (Institut d'économie, Académie hongroise des sciences) montre que le système hongrois de sélection précoce — écrémage à 10 ans, puis 12, puis 14 — attire davantage les élèves de milieu favorisé même à résultats antérieurs égaux, et contribue à un niveau élevé d'inégalité des chances. La Hongrie est donc un modèle d'excellence qui a payé son haut de distribution par son équité.",
+   "sources": [
+    {
+     "author": "Ruchir Agarwal, Patrick Gaulé",
+     "title": "Invisible Geniuses: Could the Knowledge Frontier Advance Faster?",
+     "org": "American Economic Review: Insights",
+     "year": "2020",
+     "url": "https://www.aeaweb.org/articles?id=10.1257%2Faeri.20190457"
+    },
+    {
+     "author": "Ruchir Agarwal, Patrick Gaulé",
+     "title": "Talent matters: Evidence from Mathematics (version de travail avec estimations détaillées)",
+     "org": "IMF / University of Bath",
+     "year": "2018",
+     "url": "https://events.bse.eu/live/files/2302-patrickgaule59635pdf"
+    },
+    {
+     "author": "Julianna Connelly Stockton",
+     "title": "Education of Mathematically Talented Students in Hungary",
+     "org": "The Mathematics Enthusiast, Sacred Heart University",
+     "year": "2012",
+     "url": "https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?httpsredir=1&article=1046&context=math_fac"
+    },
+    {
+     "author": "Dániel Horn",
+     "title": "Early tracking and competition – A recipe for major inequalities in Hungary",
+     "org": "Institute of Economics, Hungarian Academy of Sciences",
+     "year": "2018",
+     "url": "https://www.academia.edu/109968054/Early_tracking_and_competition_A_recipe_for_major_inequalities_in_Hungary"
+    }
+   ]
+  },
+  {
+   "claim": "Faire suivre des cours d'enseignement supérieur à des élèves du secondaire (dual enrollment) est le dispositif d'excellence le mieux noté par l'agence fédérale américaine d'évaluation : effets positifs attestés sur l'accès à l'université, l'obtention du diplôme, l'accumulation de crédits et la réussite au secondaire.",
+   "what_it_is": "Un élève encore inscrit au secondaire suit un ou plusieurs cours d'enseignement supérieur — dans l'établissement universitaire, dans son lycée avec un enseignant accrédité, ou à distance — et en obtient les crédits, valables à la fois pour son diplôme secondaire et pour son cursus supérieur. Il s'agit d'une accélération de contenu, pas d'un label.",
+   "evidence_level": "revue systématique avec standards de preuve stricts (What Works Clearinghouse, Institute of Education Sciences, département de l'Éducation des États-Unis)",
+   "effect_size": "Effets positifs (niveau de preuve le plus élevé du WWC) sur cinq domaines : accès et inscription à l'université, obtention du diplôme universitaire, achèvement des études secondaires, accumulation de crédits, et résultats scolaires généraux au secondaire. Effets potentiellement positifs (preuve faible) sur l'assiduité, la préparation à l'université et le maintien dans le secondaire. Aucun effet discernable sur les résultats scolaires généraux à l'université. Base : 5 études retenues sur 35 examinées (2 satisfaisant les standards sans réserve, 3 avec réserve), 77 249 élèves du secondaire aux États-Unis. Rapport publié en février 2017.",
+   "concrete_practice": "Un élève de dernière année de secondaire suit un cours de mathématiques ou de sciences de première année universitaire, soit sur le campus soit dans son lycée avec un enseignant habilité par l'université, et obtient un crédit qui allège son cursus supérieur ultérieur. Le dispositif suppose une convention entre l'établissement secondaire et l'établissement supérieur, et une décision sur qui paie les frais d'inscription.",
+   "concrete_example": "Le What Works Clearinghouse (agence d'évaluation de l'Institute of Education Sciences, département de l'Éducation des États-Unis) a passé au crible 35 études sur les programmes de dual enrollment et publié en février 2017 un rapport d'intervention retenant 5 études conformes à ses standards de conception de groupe, portant au total sur 77 249 élèves de la 9e à la 12e année. C'est l'un des rares dispositifs de la famille « excellence » à obtenir la note maximale sur plusieurs domaines d'un organisme d'évaluation gouvernemental indépendant. Le même mécanisme est au cœur du modèle des maths schools britanniques (enseignement partiellement assuré par des universitaires) et des Early College High Schools américaines, dont l'évaluation alimente ce corpus.",
+   "conditions": "Trois conditions financières et institutionnelles. (1) Qui paie : les programmes qui font payer l'élève reproduisent les inégalités d'accès ; ceux qui sont gratuits les réduisent. (2) La qualité du cours : un cours universitaire dispensé au lycée n'a de valeur que si le contenu et l'exigence sont réellement ceux du supérieur. (3) Le transport et l'organisation horaire, qui déterminent quels élèves peuvent physiquement suivre.",
+   "contested": "Trois réserves. (1) La base de preuves est mince : 5 études seulement sur 35, ce qui est peu pour un dispositif aussi répandu, et le rapport date de 2017 — je n'ai pas identifié de mise à jour WWC postérieure. (2) Le WWC note explicitement aucun effet discernable sur les résultats scolaires généraux à l'université : le dispositif fait entrer et diplômer, il n'améliore pas la performance une fois entré. (3) Sélection : les élèves qui s'inscrivent en dual enrollment sont les plus motivés et les mieux préparés, et même les études quasi-expérimentales retenues peinent à neutraliser complètement ce biais — d'où les « réserves » attachées à trois des cinq études. Un plaidoyer prudent doit présenter ce levier comme prometteur et peu coûteux, pas comme démontré à la manière d'un essai randomisé.",
+   "sources": [
+    {
+     "author": "What Works Clearinghouse",
+     "title": "Dual Enrollment Programs — WWC Intervention Report",
+     "org": "Institute of Education Sciences, U.S. Department of Education",
+     "year": "2017",
+     "url": "https://eric.ed.gov/?id=ED572842"
+    },
+    {
+     "author": "What Works Clearinghouse",
+     "title": "Dual Enrollment Programs — Evidence Snapshot",
+     "org": "Institute of Education Sciences, U.S. Department of Education",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/671"
+    }
+   ]
+  }
+ ]
+}

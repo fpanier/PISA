@@ -1,0 +1,372 @@
+{
+ "topic": "Qualité, recrutement et formation des enseignants",
+ "headline": "La variation de qualité entre enseignants est le premier levier scolaire mesurable, mais presque aucun des instruments classiques pour l'accroître (diplômes, allongement de la formation initiale académique, hausse salariale générale, induction standardisée) n'a d'effet démontré : ce qui marche est étroitement ciblé — savoir disciplinaire, coaching rapproché, observation-feedback formative, primes ciblées, environnement professionnel de l'école — et perd une grande partie de son effet lorsqu'on le passe à l'échelle.",
+ "searches_run": 32,
+ "items": [
+  {
+   "claim": "L'écart de valeur ajoutée entre enseignants est la source de variation intra-scolaire la plus importante mesurée, et sa valeur économique est très élevée — mais l'ampleur exacte de cet effet est sérieusement contestée.",
+   "what_it_is": "L'« effet enseignant » désigne la part de la progression des élèves attribuable à l'enseignant plutôt qu'à l'élève, à sa famille ou à l'école. Il est estimé par des modèles de valeur ajoutée (value-added, VA) sur données longitudinales élève-enseignant appariées.",
+   "evidence_level": "quasi-expérimental (données administratives massives, effets fixes élève/école, quasi-expérience de mobilité enseignante) ; controverse méthodologique documentée dans la même revue",
+   "effect_size": "Chetty, Friedman & Rockoff (AER 2014) : remplacer un enseignant du 5e percentile inférieur de VA par un enseignant moyen augmente la valeur actuelle du revenu de vie des élèves d'environ 250 000 USD par classe (>1 million d'élèves américains). Hanushek (2011) : un enseignant situé 1 écart-type au-dessus de la moyenne génère plus de 400 000 USD de gains actualisés de revenus futurs par an pour une classe de 20 élèves. Rothstein (AER 2017) estime en revanche un biais des scores VA « de l'ordre de 10 à 35 % en termes de variance » par rapport aux effets causaux des enseignants.",
+   "concrete_practice": "Les systèmes qui prennent cet effet au sérieux cessent de traiter le corps enseignant comme homogène : ils identifient l'écart entre enseignants d'un même établissement, y adossent l'affectation des élèves les plus fragiles, l'allocation des primes, la titularisation et le développement professionnel. Concrètement, cela suppose des données longitudinales élève-enseignant, ce que la FWB ne possède pas à ce jour.",
+   "concrete_example": "Chetty, Friedman et Rockoff exploitent les dossiers administratifs d'un district scolaire urbain américain couplés aux déclarations fiscales fédérales de plus d'un million d'enfants suivis de l'école primaire jusqu'à l'âge adulte (1989-2009). Ils utilisent les changements d'affectation d'enseignants entre écoles comme quasi-expérience et montrent que les élèves confiés à des enseignants à forte VA sont plus souvent inscrits dans l'enseignement supérieur, ont des salaires plus élevés et moins de grossesses adolescentes. Jesse Rothstein reproduit exactement ces résultats sur les données de Caroline du Nord et montre que la quasi-expérience est invalide, parce que les mouvements d'enseignants sont corrélés à des changements de préparation des élèves.",
+   "conditions": "Exige un appariement élève-enseignant fiable sur plusieurs années et des tests standardisés comparables. L'effet est un effet « intra-école » : il ne dit rien sur la manière de produire de meilleurs enseignants, seulement sur l'ampleur de l'enjeu. Échoue là où le tri des élèves entre classes n'est pas aléatoire et non contrôlé.",
+   "contested": "Fortement contesté. Rothstein (AER 2017) conclut que la quasi-expérience de mobilité enseignante ne tient pas, que les scores VA sont modérément biaisés et que « les résultats de long terme sont sensibles aux contrôles et ne peuvent pas soutenir de conclusions fortes ». Par ailleurs, les chiffres en dollars de Hanushek (jusqu'à 100 000 milliards USD de valeur actualisée pour le remplacement des 5-8 % d'enseignants les moins efficaces) reposent sur une chaîne d'extrapolations (score PISA → croissance du PIB) beaucoup plus fragile que l'estimation de VA elle-même, et ne doivent pas être présentés comme une mesure.",
+   "sources": [
+    {
+     "author": "Raj Chetty, John N. Friedman, Jonah E. Rockoff",
+     "org": "American Economic Association",
+     "title": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+     "url": "https://www.aeaweb.org/articles?id=10.1257/aer.104.9.2633",
+     "year": "2014"
+    },
+    {
+     "author": "Jesse Rothstein",
+     "org": "American Economic Association",
+     "title": "Measuring the Impacts of Teachers: Comment (American Economic Review 107(6): 1656-84)",
+     "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20141440",
+     "year": "2017"
+    },
+    {
+     "author": "Eric A. Hanushek",
+     "org": "NBER / Economics of Education Review 30(3): 466-479",
+     "title": "The Economic Value of Higher Teacher Quality (NBER Working Paper 16606)",
+     "url": "https://www.nber.org/papers/w16606",
+     "year": "2011"
+    },
+    {
+     "author": "Steven G. Rivkin, Eric A. Hanushek, John F. Kain",
+     "org": "Econometrica 73(2): 417-458",
+     "title": "Teachers, Schools, and Academic Achievement",
+     "url": "https://doi.org/10.1111/j.1468-0262.2005.00584.x",
+     "year": "2005"
+    }
+   ]
+  },
+  {
+   "claim": "Le niveau de maîtrise disciplinaire de l'enseignant a un effet causal sur les résultats des élèves — c'est l'une des rares caractéristiques mesurables à l'entrée dont l'effet est identifié proprement.",
+   "what_it_is": "Effet du savoir disciplinaire de l'enseignant (mesuré par des tests passés par les enseignants eux-mêmes dans la matière qu'ils enseignent) sur la progression des élèves, identifié en comparant le même enseignant enseignant deux matières aux mêmes élèves.",
+   "evidence_level": "quasi-expérimental à identification forte (effets fixes élève ET enseignant, variation intra-enseignant intra-élève entre matières)",
+   "effect_size": "Un écart-type de plus dans le score disciplinaire de l'enseignant dans la matière considérée augmente le résultat des élèves d'environ 0,10 écart-type (après correction de l'erreur de mesure). Population : élèves de 6e année au Pérou, écoles à une seule classe par degré, enseignants et élèves testés en mathématiques et en lecture.",
+   "concrete_practice": "Traduit en politique : tester le savoir disciplinaire à l'entrée en formation initiale ou à la certification, dans la matière effectivement enseignée ; interdire ou limiter l'enseignement hors discipline (« out-of-field teaching ») ; faire porter la formation continue sur le contenu disciplinaire plutôt que sur la pédagogie générique.",
+   "concrete_example": "Metzler et Woessmann exploitent une enquête péruvienne unique dans laquelle les enseignants de 6e année ont passé les mêmes épreuves de mathématiques et de compréhension écrite que leurs élèves. En se restreignant aux écoles n'ayant qu'une seule classe par degré, le même enseignant enseigne les deux matières aux mêmes élèves : on compare donc la performance relative des élèves en maths et en lecture à la performance relative de leur propre enseignant dans ces deux matières. Toute caractéristique fixe de l'élève, de la famille, de l'enseignant ou de l'école s'annule. L'estimation corrigée donne environ 0,10 écart-type d'élève par écart-type d'enseignant.",
+   "conditions": "L'identification repose sur un contexte à faible niveau moyen de maîtrise disciplinaire des enseignants (Pérou), où la marge de progrès est large. Dans un système où tous les enseignants sont déjà au-dessus d'un seuil de compétence, le rendement marginal d'un savoir disciplinaire supplémentaire peut être plus faible. Suppose que l'enseignant couvre effectivement les deux matières.",
+   "contested": "La transposition à un pays de l'OCDE n'est pas démontrée : l'effet est estimé dans un pays à revenu intermédiaire. La littérature américaine sur les scores d'aptitude scolaire des enseignants (par ex. Harris & Sass) ne trouve pas d'effet, ce qui suggère que c'est le savoir disciplinaire spécifique, et non l'aptitude générale, qui importe — distinction que les politiques de sélection confondent souvent. Je n'ai pas pu vérifier sur source primaire les tailles d'effet de l'étude allemande COACTIV (Baumert, Kunter) souvent citée sur le même point, et je ne les cite donc pas.",
+   "sources": [
+    {
+     "author": "Johannes Metzler, Ludger Woessmann",
+     "org": "Journal of Development Economics 99(2): 486-496",
+     "title": "The impact of teacher subject knowledge on student achievement: Evidence from within-teacher within-student variation",
+     "url": "https://doi.org/10.1016/j.jdeveco.2012.06.002",
+     "year": "2012"
+    }
+   ]
+  },
+  {
+   "claim": "Les différences internationales de compétences cognitives des enseignants expliquent une part substantielle des écarts de performance entre pays, et ces différences sont liées au niveau relatif des salaires enseignants et aux débouchés alternatifs offerts aux femmes diplômées.",
+   "what_it_is": "Construction, à partir de l'enquête PIAAC, de mesures nationales de compétences cognitives (littératie et numératie) des adultes exerçant le métier d'enseignant, mises en relation avec les résultats PISA des élèves du même pays.",
+   "evidence_level": "comparaison internationale corrélationnelle, renforcée par des estimations à effets fixes pays exploitant la variation intra-pays entre matières, plus des tests placebo",
+   "effect_size": "Un écart-type de plus dans les compétences cognitives des enseignants d'un pays est associé à 0,10-0,15 écart-type de performance élève en plus (31 pays). Les auteurs estiment qu'« environ un quart » des écarts moyens de performance entre ces 31 pays serait comblé si chaque pays portait la compétence cognitive médiane de ses enseignants au niveau finlandais.",
+   "concrete_practice": "Deux leviers en découlent : (1) la sélectivité à l'entrée dans la formation initiale et au recrutement ; (2) la prime salariale relative des enseignants par rapport au marché du travail des diplômés équivalents — les auteurs montrent que les pays payant leurs enseignants au-dessus de ce que prédiraient leur sexe, expérience et compétences ont des enseignants plus compétents.",
+   "concrete_example": "Les auteurs utilisent les micro-données PIAAC (OCDE, 2011-2012), qui testent la littératie et la numératie d'adultes représentatifs de 31 pays, et isolent le sous-échantillon déclarant la profession d'enseignant. Test placebo décisif : ils refont l'analyse en remplaçant les enseignants par d'autres professions à haute qualification du même pays (cadres, ingénieurs et scientifiques, professions de santé, professions commerciales) — aucune de ces professions n'est systématiquement liée aux résultats des élèves, et les coefficients estimés sont toujours inférieurs à ceux des enseignants réels. Ils construisent aussi des « pseudo-enseignants » en tirant au hasard des adultes appariés aux enseignants sur leurs caractéristiques observables : là non plus, les estimations ne rivalisent pas avec celles obtenues sur les enseignants réels. L'Irlande paie ses enseignants nettement au-dessus du marché, les États-Unis et la Suède nettement en dessous.",
+   "conditions": "Dépend de la profondeur du vivier de diplômés et du niveau relatif de rémunération. Les auteurs montrent qu'une part plus élevée de femmes employées dans les professions hautement qualifiées hors enseignement est significativement associée à un niveau cognitif plus faible des enseignants : la concurrence du marché du travail qualifié érode mécaniquement le vivier enseignant, ce qu'une politique de sélectivité seule ne corrige pas.",
+   "contested": "Il s'agit d'une association entre agrégats nationaux, pas d'une expérience. Les effets fixes matière et les placebos réduisent, sans l'éliminer, le risque de variable omise au niveau pays (culture, institutions, examens de sortie centralisés). Aucun pays n'a mis en œuvre une hausse de sélectivité évaluée de manière contrefactuelle qui permettrait de tester la relation causale ; l'inférence « rendre le recrutement plus sélectif produira ces gains » n'est pas établie par cette étude.",
+   "sources": [
+    {
+     "author": "Eric A. Hanushek, Marc Piopiunik, Simon Wiederhold",
+     "org": "NBER Working Paper 20727",
+     "title": "The Value of Smarter Teachers: International Evidence on Teacher Cognitive Skills and Student Performance",
+     "url": "https://www.nber.org/papers/w20727",
+     "year": "2014"
+    }
+   ]
+  },
+  {
+   "claim": "Les diplômes de master, l'allongement de la formation initiale universitaire et l'établissement de formation fréquenté n'ont pas d'effet démontré sur les résultats des élèves — c'est l'un des résultats les plus robustes et les plus systématiquement ignorés du domaine.",
+   "what_it_is": "Ensemble de travaux sur données administratives appariant enseignants et élèves, testant si les « credentials » classiques (diplôme avancé, aptitude scolaire de l'enseignant, formation initiale de premier cycle, programme de formation suivi) prédisent la valeur ajoutée.",
+   "evidence_level": "quasi-expérimental (effets fixes élève, enseignant et école sur données de panel de la Floride, de la Caroline du Nord et du Missouri)",
+   "effect_size": "Harris & Sass : aucune preuve que la formation initiale (premier cycle) ni l'aptitude scolaire des enseignants n'influencent leur capacité à faire progresser les élèves. Koedel et al. : « la quasi-totalité de la variation d'efficacité des enseignants provient des différences intra-programme entre enseignants », les écarts entre programmes de formation étant bien plus faibles que ce que la littérature antérieure suggérait. Clotfelter, Ladd & Vigdor : l'expérience, les scores aux tests de licence et la certification régulière ont des effets positifs, plus importants en mathématiques qu'en lecture.",
+   "concrete_practice": "Conséquence budgétaire directe : les grilles barémiques qui rémunèrent le diplôme (master, agrégation supplémentaire) achètent un signal sans rendement mesuré sur les élèves. À l'inverse, les seuls éléments qui ressortent — expérience initiale, tests de certification, contenu disciplinaire — sont peu ou pas valorisés dans la plupart des grilles.",
+   "concrete_example": "Koedel, Parsons, Podgursky et Ehlert comparent l'efficacité en classe des diplômés de l'ensemble des programmes de formation des enseignants du Missouri à partir des données administratives de l'État. Les travaux antérieurs classaient publiquement les programmes (certains États, comme la Louisiane et le Tennessee, publiaient des palmarès). Les auteurs montrent que ces écarts apparents disparaissent en grande partie lorsqu'on corrige l'échantillonnage des enseignants : la variance entre programmes est quasi nulle une fois la variance intra-programme correctement traitée. Autrement dit, le palmarès des instituts de formation ne discrimine pas les futurs bons enseignants. Côté Floride, Harris et Sass estiment des modèles avec effets fixes élève, enseignant et école sur des mesures détaillées de formation initiale et continue : seuls deux éléments ressortent — la formation continue centrée sur le contenu disciplinaire (maths, collège et lycée) et l'expérience (maths et lecture au primaire, maths au collège).",
+   "conditions": "Ces résultats portent sur des systèmes où le master enseignant est un diplôme additionnel obtenu en cours de carrière (États-Unis), pas sur un système où le master est le diplôme d'accès. Ils ne disent pas qu'une formation initiale de meilleure qualité serait sans effet : ils disent que la durée et le niveau formel du diplôme, tels qu'ils existent, ne prédisent rien.",
+   "contested": "Deux objections sérieuses. (1) Les effets fixes enseignant absorbent toute sélection stable dans le métier, ce qui peut masquer un effet de la formation initiale opérant par la sélection à l'entrée plutôt que par la formation elle-même. (2) La mesure de résultat est presque toujours un test standardisé de maths/lecture : les effets d'une formation académique approfondie sur des dimensions non testées (contenu culturel, esprit critique, comportement) ne sont pas mesurés — Chetty, Friedman & Rockoff montrent d'ailleurs que la VA prédit des résultats adultes au-delà des tests. Ne pas conclure « la formation initiale est inutile », mais « son niveau formel et sa durée ne sont pas ce qui la rend utile ».",
+   "sources": [
+    {
+     "author": "Douglas N. Harris, Tim R. Sass",
+     "org": "CALDER Working Paper 3 / Journal of Public Economics 95(7-8): 798-812 (2011)",
+     "title": "Teacher Training, Teacher Quality, and Student Achievement",
+     "url": "https://eric.ed.gov/?id=ED509656",
+     "year": "2007"
+    },
+    {
+     "author": "Cory Koedel, Eric Parsons, Michael Podgursky, Mark Ehlert",
+     "org": "Education Finance and Policy 10(4): 508-534",
+     "title": "Teacher Preparation Programs and Teacher Quality: Are There Real Differences Across Programs?",
+     "url": "https://doi.org/10.1162/edfp_a_00172",
+     "year": "2015"
+    },
+    {
+     "author": "Charles Clotfelter, Helen Ladd, Jacob Vigdor",
+     "org": "NBER Working Paper 12828",
+     "title": "How and Why do Teacher Credentials Matter for Student Achievement?",
+     "url": "https://www.nber.org/papers/w12828",
+     "year": "2007"
+    }
+   ]
+  },
+  {
+   "claim": "Les voies alternatives d'entrée dans le métier ne dégradent pas les résultats des élèves ; leur effet dépend entièrement de la sélectivité du recrutement, pas du format raccourci de la formation.",
+   "what_it_is": "Programmes recrutant des diplômés hors filière pédagogique, formés de manière compressée et placés rapidement en responsabilité de classe : certification alternative américaine « classique », Teach For America, NYC Teaching Fellows, Teach First (Angleterre).",
+   "evidence_level": "deux essais randomisés de grande ampleur (affectation aléatoire des élèves aux enseignants) + une évaluation quasi-expérimentale en différences-de-différences appariées",
+   "effect_size": "Certification alternative vs traditionnelle (Constantine et al., ECR randomisé, ~2 600 élèves de la maternelle au CM2, 174 enseignants, 63 écoles, 7 États) : aucune différence statistiquement significative en maths ni en lecture. Teach For America en mathématiques au secondaire (Clark et al., ECR) : +0,07 écart-type, soit l'équivalent d'environ 2,6 mois d'école supplémentaires pour l'élève moyen. Teaching Fellows : aucune différence (ni meilleure ni moins bonne). Teach First (Allen & Allnutt, 168 écoles) : gains au niveau de l'établissement d'environ un point de note (« one grade ») sur l'une des huit meilleures matières au GCSE, et plus de 5 % d'un point de note au niveau du département disciplinaire pour un participant Teach First placé dans une équipe de six enseignants.",
+   "concrete_practice": "Ouvrir une voie de recrutement parallèle, très sélective, destinée à des diplômés d'autres disciplines, avec formation intensive d'été, entrée immédiate en classe, tutorat renforcé et engagement de durée (généralement deux ans), ciblée sur les établissements et les matières en pénurie.",
+   "concrete_example": "L'évaluation Mathematica/NCEE de Teach For America et des Teaching Fellows (Clark et al., 2013) est un essai randomisé : dans chaque école participante et chaque niveau contenant au moins un enseignant TFA/Fellows éligible et un enseignant de comparaison, les élèves ont été répartis aléatoirement entre les classes. Les élèves confiés aux enseignants TFA obtiennent 0,07 écart-type de plus aux tests de maths de fin d'année. Résultat clé pour la politique : les Teaching Fellows — même format raccourci, même placement en établissement difficile, mais recrutement moins sélectif — n'obtiennent aucun gain, tout en faisant mieux que les enseignants issus de voies alternatives encore moins sélectives. Le différenciateur est donc le vivier recruté, pas le raccourcissement de la formation.",
+   "conditions": "Dépend d'un vivier de diplômés prêts à accepter un engagement court, d'un prestige social attaché au programme, et de l'existence d'écoles en difficulté où les postes sont vacants. Suppose que le raccourcissement de la formation soit compensé par un accompagnement intensif en poste. Ne fonctionne que si le système autorise des entrées latérales — ce qui suppose un assouplissement des règles de titre requis.",
+   "contested": "Trois limites majeures. (1) L'évaluation Teach First (Allen & Allnutt) est quasi-expérimentale et les auteurs disent explicitement ne pas pouvoir déterminer si les gains proviennent de la qualité des participants eux-mêmes, d'effets d'entraînement sur le département, ou d'un changement d'ethos de l'école : ce n'est pas un effet enseignant identifié. (2) Le comparateur dans ces études est l'enseignant réellement disponible dans une école difficile, souvent un remplaçant non qualifié — pas un enseignant moyen du système. (3) La rotation élevée des participants (engagement de deux ans) déplace un coût sur les écoles ; aucune des études citées ne chiffre le coût net de ce renouvellement. Le débat américain sur TFA reste vif et je n'ai pas trouvé d'évaluation randomisée européenne de Teach First ou d'un programme Teach For All.",
+   "sources": [
+    {
+     "author": "Melissa A. Clark, Hanley S. Chiang, Tim Silva, Sheena McConnell, Kathy Sonnenfeld, Anastasia Erbe, Michael Puma",
+     "org": "National Center for Education Evaluation and Regional Assistance (NCEE 2013-4015), Institute of Education Sciences",
+     "title": "The Effectiveness of Secondary Math Teachers from Teach For America and the Teaching Fellows Programs",
+     "url": "https://ies.ed.gov/use-work/resource-library/report/evaluation-report/effectiveness-secondary-math-teachers-teach-america-and-teaching-fellows-programs",
+     "year": "2013"
+    },
+    {
+     "author": "Jill Constantine, Daniel Player, Tim Silva, Kristin Hallgren, Mary Grider, John Deke",
+     "org": "National Center for Education Evaluation and Regional Assistance (NCEE 2009-4043)",
+     "title": "An Evaluation of Teachers Trained through Different Routes to Certification. Final Report",
+     "url": "https://eric.ed.gov/?id=ED504313",
+     "year": "2009"
+    },
+    {
+     "author": "Rebecca Allen, Jay Allnutt",
+     "org": "British Educational Research Journal 43(4): 627-646",
+     "title": "The impact of Teach First on pupil attainment at age 16",
+     "url": "https://doi.org/10.1002/berj.3288",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "claim": "Aucun critère unique de recrutement ne prédit l'efficacité future d'un enseignant ; seul un faisceau d'indicateurs combinés y parvient, et de façon modérée.",
+   "what_it_is": "Test prédictif : mesurer, au moment de l'embauche, une batterie inhabituellement large de caractéristiques de candidats enseignants, puis observer leur valeur ajoutée et leur maintien dans le poste.",
+   "evidence_level": "corrélationnel prédictif sur cohorte de recrutement avec suivi longitudinal des résultats élèves",
+   "effect_size": "Pris individuellement, seuls quelques prédicteurs ont une relation statistiquement significative avec les résultats des élèves et des enseignants. Agrégés en deux facteurs (compétences cognitives ; compétences non cognitives), les deux facteurs ont une relation « modérément large » et statistiquement significative avec les résultats, en particulier les scores des élèves. Population : nouveaux enseignants de mathématiques de la ville de New York.",
+   "concrete_practice": "Remplacer le filtre unique (diplôme, concours académique, note de dossier) par une procédure de sélection multi-instruments : test de connaissance disciplinaire spécifique à l'enseignement, épreuve de raisonnement, inventaire de traits (persévérance), auto-efficacité, mise en situation. Et surtout : considérer que la sélection à l'entrée ne peut porter qu'une partie du poids — le reste doit venir de la titularisation différée et de l'évaluation en poste.",
+   "concrete_example": "Rockoff, Jacob, Kane et Staiger ont administré une enquête approfondie à des enseignants de mathématiques nouvellement recrutés par le district scolaire de New York, mesurant la connaissance disciplinaire spécifique à l'enseignement, l'aptitude cognitive, des traits de personnalité, le sentiment d'auto-efficacité et les scores à un instrument commercial de sélection d'enseignants (du type utilisé par les districts américains pour filtrer les candidatures). Ils ont ensuite relié ces mesures, pour chaque enseignant, à la valeur ajoutée observée sur ses élèves et à son maintien en poste. Conclusion opérationnelle : un district qui n'utilise qu'un seul de ces instruments — y compris l'instrument commercial vendu pour cela — ne trie quasiment rien ; l'agrégation en deux facteurs latents restaure un pouvoir prédictif modéré.",
+   "conditions": "Suppose un employeur capable de discriminer entre candidats, donc un marché où il y a plus de candidats que de postes. En situation de pénurie aiguë — cas de plusieurs matières en FWB — la sélection à l'entrée devient largement théorique : on recrute qui se présente. La sélectivité n'est un levier que si l'attractivité a d'abord été rétablie.",
+   "contested": "Le pouvoir prédictif reste modeste : l'essentiel de la variance de qualité enseignante demeure imprévisible au moment de l'embauche. C'est l'argument central de ceux qui plaident pour déplacer l'effort de la sélection ex ante vers la période probatoire et la titularisation différée. Par ailleurs l'étude est corrélationnelle et porte sur une seule ville, une seule discipline et une seule cohorte ; elle n'a pas fait l'objet, à ma connaissance, d'une réplication de même ampleur en Europe.",
+   "sources": [
+    {
+     "author": "Jonah E. Rockoff, Brian A. Jacob, Thomas J. Kane, Douglas O. Staiger",
+     "org": "Education Finance and Policy 6(1): 43-74",
+     "title": "Can You Recognize an Effective Teacher When You Recruit One?",
+     "url": "https://doi.org/10.1162/edfp_a_00022",
+     "year": "2011"
+    }
+   ]
+  },
+  {
+   "claim": "L'accompagnement structuré des enseignants débutants (induction, mentorat) n'améliore pas leur rétention — l'essai randomisé de référence est négatif sur ce point — alors même qu'il peut finir par améliorer les résultats des élèves après plusieurs années.",
+   "what_it_is": "« Comprehensive induction » : programme d'accompagnement intensif des enseignants débutants pendant un ou deux ans — mentor formé et rémunéré, observations réciproques, séminaires, groupes de pairs, temps dégagé — comparé à l'accompagnement ordinaire du district.",
+   "evidence_level": "essai contrôlé randomisé à grande échelle (NCEE/Mathematica), complété par une revue critique de 15 études empiriques",
+   "effect_size": "Aucun impact sur la rétention des enseignants après chacune des trois années de suivi — ni dans l'école d'origine, ni dans le district, ni dans la profession — ni sur les quatre premières années de carrière. Aucun impact sur les pratiques de classe la première année. Pour la version à deux ans du programme : aucun effet en années 1 et 2, puis en année 3 des effets équivalents à 0,11 écart-type en lecture et 0,20 écart-type en mathématiques (soit l'élève moyen passant du 50e au 54e percentile en lecture et au 58e en mathématiques). Échantillon : 1 009 enseignants débutants, 418 écoles, 17 districts américains.",
+   "concrete_practice": "Réduction de charge du débutant, mentor dédié formé et déchargé, cycle observation/feedback hebdomadaire, réseau de pairs, suivi sur deux ans. C'est le dispositif que la plupart des systèmes européens installent aujourd'hui pour répondre à l'abandon précoce du métier.",
+   "concrete_example": "L'essai Glazerman et al. (NCEE 2010-4027) a tiré au sort, au sein de 418 écoles de 17 districts urbains à forte pauvreté, les enseignants débutants recevant soit le programme d'induction complet fourni par des prestataires nationaux (New Teacher Center, ETS), soit l'accompagnement habituel du district. Le programme a bien changé la dose reçue : les enseignants du groupe traité rencontraient plus souvent leur mentor et passaient plus de temps avec lui, avec des différences statistiquement significatives. Malgré cela, la rétention n'a pas bougé sur quatre ans. Les gains d'apprentissage n'apparaissent qu'en troisième année, et seulement pour la version de deux ans. Autrement dit, le mécanisme par lequel l'induction est le plus souvent justifiée politiquement — garder les jeunes enseignants — est précisément celui que l'essai réfute.",
+   "conditions": "Le programme n'a produit d'effet élève qu'en version deux ans, et avec un décalage de trois ans : un dispositif évalué à 12 ou 24 mois conclura systématiquement à l'inefficacité. Il a été déployé dans des districts urbains à forte pauvreté où l'accompagnement de base était déjà présent, ce qui réduit le contraste traitement/contrôle.",
+   "contested": "Tension explicite dans la littérature. La revue d'Ingersoll et Strong (Review of Educational Research, 2011) portant sur 15 études conclut au contraire que l'induction a un impact positif sur trois séries de résultats (engagement et rétention, pratiques de classe, résultats des élèves) — mais elle signale elle-même que l'exception à ce schéma est justement « un vaste essai contrôlé randomisé » dans des écoles urbaines défavorisées, qui ne trouve ni effet sur la rétention ni effet sur les pratiques. Les études positives de cette revue sont majoritairement corrélationnelles et exposées à un biais de sélection (les enseignants les plus engagés participent davantage). Le niveau de preuve le plus élevé disponible est donc négatif sur la rétention.",
+   "sources": [
+    {
+     "author": "Steven Glazerman, Eric Isenberg, Sarah Dolfin, Martha Bleeker, Amy Johnson, Mary Grider, Matthew Jacobus",
+     "org": "Mathematica Policy Research pour le National Center for Education Evaluation and Regional Assistance (NCEE 2010-4027)",
+     "title": "Impacts of Comprehensive Teacher Induction: Final Results from a Randomized Controlled Study",
+     "url": "https://ies.ed.gov/use-work/resource-library/report/evaluation-report/impacts-comprehensive-teacher-induction-final-results-randomized-controlled-study",
+     "year": "2010"
+    },
+    {
+     "author": "Richard M. Ingersoll, Michael Strong",
+     "org": "Review of Educational Research 81(2): 201-233",
+     "title": "The Impact of Induction and Mentoring Programs for Beginning Teachers: A Critical Review of the Research",
+     "url": "https://doi.org/10.3102/0034654311403323",
+     "year": "2011"
+    }
+   ]
+  },
+  {
+   "claim": "Un système national de mentorat obligatoire pour tous les débutants est réalisable à grande échelle et bien accueilli, mais quatre ans après son lancement l'effet sur la rétention n'est toujours qu'« indicatif » et le coût en charge de travail des mentors est le principal point de friction.",
+   "what_it_is": "L'Early Career Framework (ECF) anglais : depuis septembre 2021, tout enseignant débutant en Angleterre suit un programme d'induction obligatoire de deux ans (au lieu d'un an), adossé à un référentiel national, avec un mentor désigné et un programme de formation fourni par des opérateurs agréés.",
+   "evidence_level": "évaluation nationale mixte (enquêtes à trois temps auprès des débutants, mentors et tuteurs d'induction ; études de cas ; appariement aux données administratives du School Workforce Census) — sans groupe de contrôle randomisé ; analyses de rétention par régression ajustée, explicitement présentées comme non causales",
+   "effect_size": "Cohorte 1 : environ 25 053 mentors mobilisés ; 95 % des débutants sur un parcours piloté par un opérateur. Rétention à 1 an : 87,6 % → 87,2 % (-0,4 point de pourcentage) l'année du déploiement national 2021/22, puis 88,7 % en 2022/23, plus haut niveau de la série depuis 2011. Rétention à 2 ans en léger recul (-0,6 point, à 86,8 %). Les régressions du ministère, contrôlant âge, sexe, origine, type d'emploi, niveau et type d'école, région et indice de précarité de l'école, suggèrent une rétention supérieure aux cohortes antérieures, mais l'effet en année 2 n'est que « faiblement significatif » et le rapport précise que ces estimations « ne reflètent pas nécessairement un impact direct de l'ECF sur la rétention ».",
+   "concrete_practice": "Un référentiel national unique de ce que tout débutant doit apprendre ; un mentor par débutant, choisi parmi des enseignants expérimentés, avec décharge horaire ; des programmes de formation fournis par un petit nombre d'opérateurs agréés ; une plateforme numérique de suivi appariée au recensement du personnel, qui permet d'évaluer.",
+   "concrete_example": "Dans la cohorte 1 anglaise (rentrée 2021), les mentors étaient majoritairement des enseignants très expérimentés occupant des fonctions de direction intermédiaire, appariés au débutant par discipline et par niveau ; la plupart des débutants ont conservé le même mentor pendant les deux ans de l'induction, et souvent au-delà. L'aspect le plus valorisé par les débutants a été le mentorat lui-même : temps passé avec le mentor, qualité de la relation, aide au développement de l'enseignement différencié. L'aspect le plus critiqué, côté mentors comme côté débutants, a été la charge de travail : le temps de préparation des séances de mentorat n'avait pas été anticipé, les mentors cumulaient souvent cette fonction avec d'autres responsabilités, et environ la moitié des débutants ont jugé la charge excessive. Le pilotage par un opérateur national a été préféré par la grande majorité au format « école-pilote » (choisi par seulement 5 % des débutants de la cohorte 1).",
+   "conditions": "Repose sur (1) un référentiel national accepté, (2) un financement dédié de la décharge des mentors, (3) une infrastructure de données appariant formation et recensement du personnel — sans laquelle aucune évaluation n'est possible. La décharge horaire du mentor est le poste de coût et le point de rupture : c'est là que la contrainte budgétaire mord d'abord.",
+   "contested": "L'évaluation ne permet pas d'attribuer causalement les mouvements de rétention à l'ECF : les cohortes de comparaison sont affectées par la surrétention liée au COVID, et le rapport le dit. Par ailleurs le programme a coïncidé avec une baisse plus marquée de la rétention aux années 2 à 4 (-1 à -2,6 points en 2021/22), c'est-à-dire pour des enseignants juste sortis du dispositif. Enfin, aucune mesure d'effet sur les apprentissages des élèves n'est disponible. Compte tenu du résultat randomisé de Glazerman et al., il faut considérer que le bénéfice « rétention » de ce type de programme reste non établi, quelle que soit sa popularité auprès des enseignants.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "org": "Department for Education (Royaume-Uni)",
+     "title": "Evaluation of the early career framework induction programmes — summary report",
+     "url": "https://www.gov.uk/government/publications/early-career-framework-induction-evaluation",
+     "year": "2025"
+    }
+   ]
+  },
+  {
+   "claim": "Le coaching individualisé en classe est le format de développement professionnel dont l'effet est le mieux établi — mais son efficacité s'effondre en grande partie dès qu'on le passe à l'échelle.",
+   "what_it_is": "Coaching : accompagnement individuel, récurrent, centré sur la pratique observée d'un enseignant, par un coach formé (observation, feedback, modélisation, cycle de reprise), par opposition aux stages et conférences.",
+   "evidence_level": "méta-analyse de 60 études à devis causal (essais randomisés et quasi-expériences)",
+   "effect_size": "Effets moyens agrégés : 0,49 écart-type sur la pratique d'enseignement et 0,18 écart-type sur les résultats des élèves. Population dominante : programmes de coaching en littératie pour enseignants de maternelle et de primaire aux États-Unis. Point critique : « les effets moyens issus des essais d'efficience sur de grands programmes ne représentent qu'une fraction des effets trouvés dans les essais d'efficacité sur de petits programmes ».",
+   "concrete_practice": "Un coach observe l'enseignant en classe, cible une pratique précise, en fait la démonstration, fait répéter l'enseignant, revient vérifier. Cycle hebdomadaire ou bimensuel sur une année scolaire. Le ratio coach/enseignants et la qualification des coachs sont les deux paramètres déterminants et les deux postes de coût.",
+   "concrete_example": "Kraft, Blazar et Hogan ont recensé l'ensemble de la littérature empirique sur le coaching enseignant et retenu 60 études à devis causal, dont de nombreux essais randomisés. Leur résultat le plus important pour un décideur n'est pas la moyenne, mais sa décomposition : lorsqu'un programme de coaching est testé sur un petit échantillon par ses propres concepteurs (essai d'efficacité), il produit des effets substantiels ; lorsqu'il est déployé à l'échelle d'un district ou d'un État avec des coachs recrutés en nombre (essai d'effectivité), l'effet chute à une fraction de sa valeur initiale. Les auteurs consacrent leur conclusion aux moyens de contenir cette érosion : usage de la vidéo pour réduire le coût de déplacement des coachs, spécialisation étroite du contenu coaché, formation standardisée des coachs.",
+   "conditions": "Exige un vivier de coachs compétents — c'est-à-dire d'enseignants expérimentés reconnus, déchargés — qui n'existe pas spontanément et qui est mécaniquement limité. C'est la contrainte fondamentale : on ne peut pas coacher 130 000 personnes avec la même intensité que 300. Exige aussi un objet de coaching précis (une pratique nommée), sans quoi le coaching dégénère en conversation.",
+   "contested": "Le biais de publication et le biais de développeur sont importants dans ce champ : la majorité des études viennent de programmes évalués par leurs concepteurs. Les auteurs eux-mêmes présentent l'érosion à l'échelle comme le principal avertissement de leur travail. La base de preuves est très concentrée sur la littératie au primaire aux États-Unis ; l'extrapolation au secondaire et aux mathématiques est peu documentée. Enfin, 0,18 écart-type sur les élèves est un effet moyen non pondéré par le coût : aucune analyse coût-efficacité comparative n'accompagne la méta-analyse.",
+   "sources": [
+    {
+     "author": "Matthew A. Kraft, David Blazar, Dylan Hogan",
+     "org": "Review of Educational Research 88(4): 547-588",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "url": "https://doi.org/10.3102/0034654318759268",
+     "year": "2018"
+    }
+   ]
+  },
+  {
+   "claim": "La formation continue « moyenne » a un effet quasi nul sur les apprentissages ; ce qui distingue les dispositifs efficaces n'est ni leur durée ni leur thème, mais le nombre de mécanismes d'apprentissage adulte qu'ils combinent.",
+   "what_it_is": "Théorie et test méta-analytique du développement professionnel des enseignants : les auteurs codent chaque programme selon les mécanismes qu'il mobilise, répartis en quatre catégories (construire une compréhension, motiver le changement, développer des techniques d'enseignement, ancrer la pratique), et relient ce codage à l'effet mesuré.",
+   "evidence_level": "revue systématique et méta-analyse (méta-régression) de 104 essais contrôlés randomisés, avec hypothèses pré-enregistrées",
+   "effect_size": "Effet moyen du développement professionnel sur les résultats des élèves dans l'échantillon : 0,05 écart-type (p < 0,001). Les programmes n'incorporant aucun mécanisme ont un effet attendu proche de zéro ; ceux en incorporant treize ont un effet attendu proche de 0,15 écart-type. Le nombre de mécanismes explique donc une variation équivalente à trois fois l'effet moyen. Par thème : la formation centrée sur l'investigation scientifique a un effet moyen positif (d = 0,07, p = 0,01), celles centrées sur l'évaluation formative (d = 0,04, p = 0,08) et sur l'exploitation des données ne se distinguent pas significativement de zéro.",
+   "concrete_practice": "Cesser de compter les jours de formation et commencer à spécifier ce qu'un dispositif fait : donne-t-il un modèle explicite de la pratique visée ? fixe-t-il un objectif ? fait-il répéter la technique ? organise-t-il un retour en classe et un rappel espacé ? Un cahier des charges de commande publique de formation peut être écrit sur cette base.",
+   "concrete_example": "L'essai randomisé « Embedding Formative Assessment » mené dans 140 établissements secondaires anglais illustre le cas d'un dispositif conçu pour l'échelle : formation initiale légère, puis communautés d'apprentissage internes animées par les enseignants eux-mêmes, l'essentiel du travail étant fait dans l'école, sans intervenant externe permanent. L'analyse primaire pré-enregistrée estime un effet de 0,09 écart-type sur les résultats aux examens nationaux externes ; l'analyse de sensibilité excluant les établissements déjà engagés dans un programme similaire, et l'analyse en conformité, donnent 0,11. Les résultats suggèrent en outre un rétrécissement de l'écart entre élèves à fort et faible niveau antérieur — mais pas de l'écart social. C'est un ordre de grandeur réaliste pour un dispositif réellement déployable sur un système entier, à comparer aux 0,49 écart-type sur la pratique obtenus par du coaching intensif à petite échelle.",
+   "conditions": "Le dispositif anglais fonctionne parce qu'il repose sur des communautés d'enseignants internes à l'établissement, avec un coût marginal faible par école — donc compatible avec une contrainte budgétaire. Il suppose en revanche du temps collectif protégé dans l'horaire des enseignants et une direction qui l'organise.",
+   "contested": "Les auteurs eux-mêmes qualifient leur soutien empirique de « qualifié » : la méta-régression donne une pente faible (β = 0,01, p = 0,02), la part de variance expliquée est de 16 % (36 % en stratifiant par domaine de contenu), et la relation s'effondre entièrement pour les dispositifs centrés sur l'exploitation des données (β = -0,01, p = 0,64, sur sept études seulement). Le codage des « mécanismes » est fait par les auteurs à partir des descriptions publiées, ce qui expose à une erreur de mesure et à une circularité potentielle. Enfin, un effet moyen de 0,05 écart-type doit être dit tel quel : la formation continue, telle qu'elle existe, ne produit pratiquement rien.",
+   "sources": [
+    {
+     "author": "Sam Sims, Harry Fletcher-Wood, Alison O'Mara-Eves, Sarah Cottingham, Claire Stansfield, Josh Goodrich, Jo Van Herwegen, Jake Anders",
+     "org": "Review of Educational Research 95(2): 213-254 (version de travail : Annenberg Institute EdWorkingPaper 22-507)",
+     "title": "Effective Teacher Professional Development: New Theory and a Meta-Analytic Test",
+     "url": "https://edworkingpapers.com/sites/default/files/ai22-507.pdf",
+     "year": "2025"
+    },
+    {
+     "author": "Jake Anders, Francesca Foliano, Matt Bursnall, Richard Dorsett, Nathan Hudson, Johnny Runge, Stefan Speckesser",
+     "org": "Journal of Research on Educational Effectiveness",
+     "title": "The Effect of Embedding Formative Assessment on Pupil Attainment",
+     "url": "https://doi.org/10.1080/19345747.2021.2018746",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "claim": "Une observation-évaluation exigeante des enseignants en poste, conçue comme un dispositif de développement et non de sanction, améliore durablement leur efficacité — et surtout celle des moins performants.",
+   "what_it_is": "Évaluation par observation en classe selon un référentiel détaillé, conduite par des pairs formés et des cadres, sur une année entière, avec restitution ; on observe la valeur ajoutée du même enseignant avant, pendant et après son année d'évaluation.",
+   "evidence_level": "quasi-expérimental (calendrier d'évaluation déterminé administrativement par l'année de recrutement, indépendamment de la performance ; comparaison intra-enseignant avant/pendant/après)",
+   "effect_size": "+0,05 écart-type l'année de l'évaluation elle-même (effet modeste, significativité inconstante) ; +0,11 écart-type en mathématiques les années suivant l'évaluation, par rapport à la performance de l'enseignant avant évaluation — soit environ 4,5 points de percentile pour un élève médian. Les gains les plus importants concernent les enseignants les moins performants au départ. Population : 105 enseignants de milieu de carrière, classes 4 à 8, Cincinnati Public Schools.",
+   "concrete_practice": "Chaque enseignant est observé quatre fois dans l'année (dont plusieurs par un pair expérimenté formé, extérieur à sa hiérarchie directe), noté sur un référentiel de pratiques détaillé, et reçoit un retour circonstancié. Le dispositif n'est pas un instrument de licenciement : c'est un miroir professionnel.",
+   "concrete_example": "Le Teacher Evaluation System de Cincinnati évaluait les enseignants selon un calendrier fixé par le district à partir de leur année de recrutement — donc sans lien avec leur performance, ce qui fournit la source d'identification. Taylor et Tyler suivent 105 enseignants de milieu de carrière recrutés entre 1993-94 et 1999-2000 et enseignant en classes 4 à 8 entre 2003-04 et 2009-10, et comparent la valeur ajoutée du même enseignant avant, pendant et après son année d'évaluation. La performance augmente modestement pendant l'année d'évaluation puis, de façon plus marquée et persistante, les années suivantes : l'enseignant a appris quelque chose de l'exercice. Les auteurs interprètent cela comme une acquisition d'information sur sa propre pratique, un effort durablement accru, ou les deux.",
+   "conditions": "Suppose des observateurs formés et crédibles, un référentiel de pratiques détaillé et partagé, et un climat où l'observation n'est pas lue comme un contrôle hiérarchique. C'est un levier peu coûteux en dépenses directes mais coûteux en temps de cadres et de pairs expérimentés. Dans un système à réseaux multiples, cela suppose un référentiel commun accepté par tous les pouvoirs organisateurs, ou au minimum des référentiels comparables.",
+   "contested": "Étude sur un seul district, 105 enseignants, une seule matière significative (mathématiques) : puissance statistique limitée et validité externe non établie. L'identification repose sur l'hypothèse que le calendrier d'évaluation est indépendant de la trajectoire de l'enseignant, ce qui est plausible mais non testable directement. Plus largement, la littérature américaine sur l'évaluation des enseignants a été discréditée dans sa version « sanction » (systèmes à enjeux forts adossés à la valeur ajoutée) : les résultats de Taylor et Tyler portent sur un dispositif d'observation formative, et ne doivent pas être invoqués pour justifier une évaluation à enjeux, dont l'effet est bien plus contesté.",
+   "sources": [
+    {
+     "author": "Eric S. Taylor, John H. Tyler",
+     "org": "American Economic Review 102(7): 3628-3651",
+     "title": "The Effect of Evaluation on Teacher Performance",
+     "url": "https://doi.org/10.1257/aer.102.7.3628",
+     "year": "2012"
+    },
+    {
+     "author": "Eric S. Taylor, John H. Tyler",
+     "org": "Education Next 12(4)",
+     "title": "Can Teacher Evaluation Improve Teaching? Evidence of systematic growth in the effectiveness of midcareer teachers",
+     "url": "https://www.educationnext.org/can-teacher-evaluation-improve-teaching/",
+     "year": "2012"
+    }
+   ]
+  },
+  {
+   "claim": "Une hausse générale et inconditionnelle des salaires enseignants n'améliore pas les apprentissages des élèves — le résultat le plus propre disponible est un doublement de salaire sans aucun effet mesurable.",
+   "what_it_is": "Test expérimental de l'hypothèse selon laquelle mieux payer les enseignants en poste améliore leur effort et donc les résultats des élèves.",
+   "evidence_level": "essai contrôlé randomisé à grande échelle sur un échantillon représentatif national, avec suivi à deux et trois ans",
+   "effect_size": "Aucune amélioration des résultats des élèves après deux et trois ans, malgré un doublement permanent du salaire de base. Les auteurs soulignent que « les effets sont estimés avec précision, ce qui permet d'exclure même des impacts positifs modestes ». Effets réels constatés : forte hausse de la satisfaction déclarée à l'égard du revenu, baisse du cumul d'emplois, baisse du stress financier déclaré.",
+   "concrete_practice": "Revalorisation barémique générale, non conditionnée à la performance, au poste occupé ou à la discipline enseignée. C'est la forme que prend presque toujours la négociation salariale dans l'enseignement, y compris en Europe continentale.",
+   "concrete_example": "En Indonésie, une réforme de certification a conduit à un doublement permanent du salaire de base des enseignants. Le gouvernement a accepté que le calendrier de mise en œuvre soit randomisé : dans un échantillon représentatif d'écoles indonésiennes, les enseignants d'un groupe tiré au sort ont vu la hausse appliquée par anticipation, les autres l'ayant reçue plus tard. On dispose donc d'une comparaison expérimentale entre des enseignants identiques payés du simple au double, dans les mêmes écoles d'un même pays. Deux et trois ans plus tard, les élèves des enseignants doublement payés ne réussissaient pas mieux. Les enseignants, eux, étaient nettement plus satisfaits de leur revenu et cumulaient moins d'emplois annexes.",
+   "conditions": "Il s'agit d'enseignants déjà en poste : l'expérience teste l'effet du salaire sur l'effort des titulaires, pas sur la composition future du corps enseignant. La distinction est centrale pour la politique : une hausse salariale peut être justifiée par son effet de long terme sur le vivier de recrutement sans produire d'effet de court terme sur les apprentissages. Le contexte est celui d'un pays à revenu intermédiaire où les enseignants cumulaient massivement des emplois.",
+   "contested": "La généralisation à un système européen est discutable sur deux points. (1) Le canal « effort des titulaires » que l'expérience ferme n'est pas le seul : Hanushek, Piopiunik et Wiederhold montrent, en coupe internationale, que les pays payant leurs enseignants au-dessus de leur valeur de marché ont des enseignants cognitivement plus compétents — canal de composition, de long terme, non testé par l'expérience indonésienne. (2) Dans un système en pénurie, l'effet pertinent d'une hausse salariale est sur le nombre de candidats, pas sur les résultats à trois ans. Conclusion prudente : une revalorisation générale est un mauvais instrument pour améliorer les résultats à court terme, et un instrument possible mais lent et coûteux pour améliorer le vivier.",
+   "sources": [
+    {
+     "author": "Joppe de Ree, Karthik Muralidharan, Menno Pradhan, Halsey Rogers",
+     "org": "The Quarterly Journal of Economics 133(2): 993-1039",
+     "title": "Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia",
+     "url": "https://doi.org/10.1093/qje/qjx040",
+     "year": "2018"
+    },
+    {
+     "author": "Joppe de Ree, Karthik Muralidharan, Menno Pradhan, Halsey Rogers",
+     "org": "World Bank Policy Research Working Paper 8264",
+     "title": "Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia",
+     "url": "https://doi.org/10.1596/1813-9450-8264",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "claim": "À l'inverse d'une hausse générale, des primes ciblées sur des disciplines et des établissements précis modifient réellement les comportements de mobilité — mais l'effet est limité, dépendant du ciblage, et s'effondre si le critère d'éligibilité est mal compris ou mal conçu.",
+   "what_it_is": "Primes de rétention ou de recrutement versées à des enseignants identifiés (discipline en pénurie, établissement difficile, enseignant évalué efficace), par opposition à une revalorisation barémique générale. Inclut aussi la déréglementation de la grille salariale permettant aux employeurs de différencier les rémunérations.",
+   "evidence_level": "quasi-expérimental : différences-de-différences sur données administratives d'État (Caroline du Nord) ; régression sur discontinuité floue (Tennessee) ; exploitation de l'expiration échelonnée des conventions collectives comme source de variation exogène (Wisconsin)",
+   "effect_size": "Caroline du Nord : une prime annuelle de 1 800 USD réservée aux enseignants certifiés de mathématiques, sciences et enseignement spécialisé exerçant dans des lycées à forte pauvreté ou en échec a réduit le taux moyen de rotation des enseignants visés de 12 %, la réponse la plus forte venant des enseignants expérimentés. Tennessee : une prime de rétention de 5 000 USD pour les enseignants évalués efficaces dans les « Priority Schools » a un effet global non distinguable de zéro, mais un effet positif consistant, statistiquement et substantiellement significatif, pour les enseignants des matières et niveaux faisant l'objet de tests. Wisconsin : l'introduction d'une rémunération flexible a augmenté les salaires des enseignants de haute qualité, accru la qualité du corps enseignant (par l'arrivée d'enseignants de qualité venus d'autres districts et par un effort accru) et amélioré les résultats des élèves (tailles d'effet non vérifiées sur la source primaire).",
+   "concrete_practice": "Trois variantes distinctes : (a) prime de discipline et de lieu, versée automatiquement à qui remplit le critère ; (b) prime de rétention conditionnée à une évaluation d'efficacité ; (c) autonomie donnée à l'employeur pour sortir de la grille d'ancienneté et négocier individuellement.",
+   "concrete_example": "Le dispositif de Caroline du Nord (2001-2004) est le cas le plus instructif pour un système contraint budgétairement. L'État a versé 1 800 USD par an — une somme faible — aux seuls enseignants certifiés de mathématiques, de sciences et d'enseignement spécialisé exerçant dans des établissements secondaires à forte pauvreté ou classés en échec. La rotation de ces enseignants a baissé de 12 %. Les auteurs relèvent que l'effet a probablement été bridé par l'incapacité de l'État à faire connaître correctement les critères d'éligibilité aux enseignants concernés : une part des bénéficiaires potentiels ignorait être éligible. Ils en déduisent qu'un différentiel salarial permanent, clairement communiqué, produirait un effet supérieur. À l'inverse, au Tennessee, la prime de 5 000 USD — presque trois fois plus élevée — n'a rien produit en moyenne, parce que le critère d'éligibilité reposait sur une note d'efficacité composite pondérant fortement la performance de l'école : les enseignants de matières non testées voyaient leur note dépendre du résultat collectif d'une école par définition en difficulté, ce qui créait une incitation à en partir.",
+   "conditions": "Trois conditions de réussite ressortent : le critère d'éligibilité doit être compréhensible et connu à l'avance ; il doit être sous le contrôle de l'enseignant (le Tennessee échoue précisément sur ce point) ; la prime doit être perçue comme permanente et non comme un dispositif d'une année. Le calendrier administratif compte aussi : au Tennessee, le calendrier de candidature et des cas de non-conformité dans la distribution des primes ont dégradé à la fois le dispositif et son évaluation.",
+   "contested": "Aucune de ces trois études n'est un essai randomisé. L'étude du Wisconsin (Biasi) est largement citée dans le débat sur la flexibilité salariale, mais je n'ai pas pu vérifier ses tailles d'effet sur la source primaire et je ne les rapporte donc pas : seule la direction des résultats, telle qu'énoncée dans le résumé publié, est citée ici. Plus fondamentalement, ces dispositifs déplacent des enseignants entre établissements plutôt qu'ils n'en créent : dans un système en pénurie généralisée, une prime ciblée peut améliorer les écoles visées en dégradant les autres, effet que les évaluations citées ne mesurent pas.",
+   "sources": [
+    {
+     "author": "Charles Clotfelter, Elizabeth Glennie, Helen Ladd, Jacob Vigdor",
+     "org": "Journal of Public Economics 92(5-6): 1352-1370 ; NBER Working Paper 12285",
+     "title": "Would higher salaries keep teachers in high-poverty schools? Evidence from a policy intervention in North Carolina",
+     "url": "https://www.nber.org/papers/w12285",
+     "year": "2008"
+    },
+    {
+     "author": "Matthew G. Springer, Walker A. Swain, Luis A. Rodriguez",
+     "org": "Educational Evaluation and Policy Analysis 38(2): 199-221",
+     "title": "Effective Teacher Retention Bonuses: Evidence from Tennessee",
+     "url": "https://doi.org/10.3102/0162373715609687",
+     "year": "2016"
+    },
+    {
+     "author": "Barbara Biasi",
+     "org": "American Economic Journal: Economic Policy 13(3): 63-102",
+     "title": "The Labor Market for Teachers under Different Pay Schemes",
+     "url": "https://doi.org/10.1257/pol.20200295",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "claim": "La progression d'un enseignant au fil de sa carrière dépend massivement de l'établissement où il travaille : à expérience égale, l'environnement professionnel de l'école détermine s'il s'améliore ou stagne.",
+   "what_it_is": "Analyse de l'hétérogénéité des « rendements de l'expérience » : on documente que la courbe moyenne de progression des enseignants avec l'ancienneté masque des trajectoires très différentes, et on relie ces différences à une mesure de l'environnement professionnel de l'école construite à partir d'enquêtes exhaustives auprès des enseignants.",
+   "evidence_level": "quasi-expérimental / corrélationnel avancé (données administratives longitudinales appariées à une enquête d'État exhaustive ; comparaison de trajectoires individuelles)",
+   "effect_size": "Les enseignants travaillant dans des écoles situées au 75e percentile de qualité de l'environnement professionnel progressent 38 % de plus, après dix ans, que ceux exerçant dans des écoles au 25e percentile. Population : enseignants du Massachusetts (Kraft & Papay) ; pour la rétention, enseignants de Caroline du Nord (Ladd).",
+   "concrete_practice": "Les dimensions de l'environnement professionnel mesurées incluent la qualité de la direction, l'ordre et la sécurité, la collaboration entre pairs, le temps et les ressources, le retour d'information sur la pratique. Agir dessus relève de la direction d'établissement et de l'organisation du travail, pas du statut ni du barème.",
+   "concrete_example": "Kraft et Papay apparient les données administratives de valeur ajoutée des enseignants du Massachusetts à une enquête administrée à l'échelle de l'État auprès de l'ensemble des enseignants, portant sur leurs conditions de travail. Ils construisent une mesure d'« environnement professionnel » par établissement et comparent, sur dix ans, les trajectoires d'amélioration d'enseignants ayant démarré au même niveau. L'écart est considérable : l'enseignant placé dans une école au 75e percentile s'améliore de 38 % de plus que son homologue placé au 25e percentile. Côté rétention, Helen Ladd combine les données administratives de Caroline du Nord à une enquête de 2006 adressée à tous les enseignants de l'État : les conditions de travail prédisent fortement l'intention de quitter l'école, indépendamment des autres caractéristiques de l'établissement — y compris la composition raciale des élèves — et « le leadership, au sens large, ressort comme la dimension la plus saillante ».",
+   "conditions": "C'est le levier le moins coûteux en dépense directe et le plus exigeant en capacité de pilotage local : il suppose des directions d'établissement formées, disposant de marges réelles d'organisation, et évaluées sur cette dimension. Dans un système à liberté d'enseignement et à pouvoirs organisateurs multiples, c'est aussi le levier le plus compatible avec la gouvernance existante, puisqu'il s'exerce au niveau de l'école.",
+   "contested": "Ni l'une ni l'autre de ces études n'établit une causalité stricte : les enseignants ne sont pas affectés aléatoirement aux établissements, et un enseignant ambitieux peut choisir une école bien dirigée (sélection). Les mesures d'environnement professionnel sont des perceptions déclarées, donc potentiellement endogènes à la satisfaction de l'enseignant. Ladd note elle-même que les perceptions prédisent bien moins les départs effectifs à un an que les intentions de départ, ce qui doit tempérer les conclusions opérationnelles. Enfin, aucun essai randomisé ne démontre qu'une intervention sur l'environnement professionnel produit ces gains : on connaît la corrélation, pas la fonction de production.",
+   "sources": [
+    {
+     "author": "Matthew A. Kraft, John P. Papay",
+     "org": "Educational Evaluation and Policy Analysis 36(4): 476-500",
+     "title": "Can Professional Environments in Schools Promote Teacher Development? Explaining Heterogeneity in Returns to Teaching Experience",
+     "url": "https://doi.org/10.3102/0162373713519496",
+     "year": "2014"
+    },
+    {
+     "author": "Helen F. Ladd",
+     "org": "Educational Evaluation and Policy Analysis 33(2): 235-261",
+     "title": "Teachers' Perceptions of Their Working Conditions: How Predictive of Planned and Actual Teacher Movement?",
+     "url": "https://doi.org/10.3102/0162373711398128",
+     "year": "2011"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Quatre filtres de transposabilité doivent être appliqués à ce corpus avant tout usage en Fédération Wallonie-Bruxelles.\n\n1) Filtre budgétaire. Les dispositifs dont l'effet est le mieux établi sont aussi les plus intensifs en ressource humaine rare : le coaching (0,49 écart-type sur la pratique, 0,18 sur les élèves) exige un vivier de coachs expérimentés déchargés, et Kraft, Blazar et Hogan documentent précisément que l'effet s'érode à une fraction de sa valeur lorsqu'on passe des petits essais aux déploiements de masse. Le mentorat universel anglais (ECF) a mobilisé plus de 25 000 mentors et son point de rupture déclaré est le temps de préparation non anticipé. Dans un système où l'enseignement pèse 54 % des dépenses d'une communauté en déficit, la conclusion opérationnelle n'est pas « faire du coaching pour tous » mais « cibler étroitement, doser la décharge, et accepter un effet moyen de l'ordre de 0,05 à 0,11 écart-type pour ce qui est réellement déployable à l'échelle du système » — l'ordre de grandeur de l'essai Embedding Formative Assessment (140 établissements, 0,09 écart-type), qui fonctionne parce qu'il repose sur des communautés d'enseignants internes à l'école et non sur des intervenants externes permanents.\n\n2) Filtre institutionnel : liberté d'enseignement et réseaux multiples. Tout ce corpus vient de systèmes à employeur unique ou à district employeur (États-Unis, Angleterre, Indonésie, Pays-Bas exclus). Les leviers qui supposent un employeur capable de différencier les rémunérations (Wisconsin), d'affecter les enseignants, de licencier ou de titulariser sélectivement, ne se transposent pas directement à une gouvernance partagée entre pouvoirs organisateurs. En revanche, trois leviers sont structurellement compatibles avec cette architecture parce qu'ils s'exercent au niveau de l'école ou du référentiel commun : l'environnement professionnel de l'établissement (Kraft & Papay : 38 % de progression supplémentaire sur dix ans entre le 75e et le 25e percentile), l'observation-feedback formative par des pairs formés (Taylor & Tyler : +0,11 écart-type), et le contenu disciplinaire de la formation continue (Harris & Sass : seule la formation continue centrée sur le contenu ressort). Ce sont ceux qu'une réforme doit privilégier ici, précisément parce qu'ils ne requièrent pas un pilotage centralisé.\n\n3) Filtre du marché du travail enseignant. La sélectivité à l'entrée — le levier que suggèrent les comparaisons internationales de Hanushek, Piopiunik et Wiederhold — n'est un instrument disponible que là où il y a plus de candidats que de postes. En situation de pénurie, durcir l'entrée réduit mécaniquement l'offre et aggrave le problème ; l'ordre logique est donc attractivité d'abord, sélectivité ensuite, et non l'inverse. Symétriquement, l'expérience indonésienne interdit de promettre des résultats élèves à court terme en contrepartie d'une revalorisation barémique générale : le seul canal crédible d'une hausse salariale est la composition du vivier à dix ou vingt ans. Si un effet de court terme est recherché sous contrainte budgétaire, la littérature oriente vers des différentiels ciblés, à somme faible mais permanents et clairement communiqués (Caroline du Nord : 1 800 USD par an, -12 % de rotation), et met en garde contre les primes élevées adossées à un critère que l'enseignant ne contrôle pas (Tennessee : 5 000 USD, effet global nul).\n\n4) Filtre de mesurabilité. Une part importante de ce corpus — l'effet enseignant lui-même, l'évaluation des voies alternatives, l'évaluation de l'ECF anglais — n'existe que parce que ces systèmes disposent de données longitudinales appariant élèves, enseignants, formation et parcours de carrière. La FWB ne dispose pas de cette infrastructure. Aucune des politiques recommandées ici ne pourra être évaluée dans dix ans si elle n'est pas construite dès le départ avec l'appariement de données correspondant — et l'expérience anglaise montre que c'est la plateforme numérique de suivi, appariée au recensement du personnel, qui a rendu l'évaluation possible. C'est probablement la recommandation la plus transposable et la moins coûteuse de tout ce dossier.\n\nEnfin, un avertissement de méthode : dans ce champ, la hiérarchie des preuves s'inverse souvent par rapport à la hiérarchie des discours. Les deux résultats les mieux identifiés du corpus sont négatifs — l'induction complète ne retient pas les enseignants débutants (essai randomisé, 1 009 enseignants, quatre ans de suivi) et le doublement du salaire n'améliore pas les apprentissages (essai randomisé national, effets estimés avec précision). Toute note de position qui ferait de l'accompagnement des débutants ou de la revalorisation barémique un levier de résultats scolaires irait contre le meilleur niveau de preuve disponible."
+}

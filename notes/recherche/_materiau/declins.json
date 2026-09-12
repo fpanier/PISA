@@ -1,0 +1,522 @@
+{
+ "topic": "Les systèmes qui ont décroché : Finlande, Suède, Pays-Bas, Danemark — ce que le déclin nordique et néerlandais enseigne à un système qui veut relancer sa réforme",
+ "headline": "Les quatre systèmes que l'Europe a le plus copiés depuis 2000 ont perdu entre un et deux ans d'apprentissage en dix ans, et la reconstitution rigoureuse des causes montre que les explications les plus séduisantes politiquement (marché scolaire, inflation des notes, immigration) sont les plus faibles empiriquement, tandis que les explications les mieux documentées — dilution des contenus curriculaires, dégradation du climat de classe et de la persévérance, perte de maîtrise du pilotage pédagogique — sont précisément celles que la FWB peut encore éviter.",
+ "headline_note": "n/a",
+ "searches_run": 38,
+ "transposability_fwb": "Six réserves de transposition. (1) Le niveau de départ n'est pas le même : la Finlande décroche depuis 563 en sciences (2006) et reste à 504 en 2025, soit 22 points AU-DESSUS de la moyenne OCDE ; la FWB décroche depuis un niveau déjà moyen (472). Un « décrochage finlandais » en FWB produirait des scores bien plus bas en valeur absolue — la marge de sécurité n'existe pas. (2) La quasi-totalité des explications documentées ici sont corrélationnelles ou descriptives : aucune n'autorise à dire « si la FWB fait X, elle évitera Y ». Elles servent à écarter des fausses pistes et à identifier des risques, pas à fonder un plan causal. (3) L'argument suédois sur le marché scolaire est inutilisable tel quel en FWB : le quasi-marché suédois (chèque scolaire de 1992, écoles à but lucratif, libre choix intégral) n'a aucun équivalent belge francophone, et l'étude quasi-expérimentale de référence (Böhlmark & Lindahl, Economica 2015) trouve un effet moyen POSITIF de l'expansion des friskolor. Invoquer « la Suède » pour critiquer les réseaux belges serait une faute d'analyse : la liberté d'enseignement constitutionnelle belge est une structure de réseaux subventionnés à financement égal, pas un marché à opérateurs lucratifs. (4) L'argument de composition migratoire ne se transpose pas : la Finlande compte 7 % d'élèves issus de l'immigration (3 % 2e génération, 4 % 1re) et aucune évolution significative de leurs scores entre 2022 et 2025 — la baisse finlandaise est donc majoritairement une baisse de la population non immigrée. En FWB, où la composition sociolinguistique bruxelloise est tout autre, l'argument doit être testé séparément, pas importé. (5) Les corrections engagées par ces quatre pays sont budgétairement lourdes (Finlande : 200 M€ + 3 périodes hebdomadaires supplémentaires ; Danemark : 540 M DKK de manuels sur 2025-2034 ; Pays-Bas : refonte complète des kerndoelen sur 2026-2031). Sous contrainte de 1,5 Md€ de déficit et 54 % de dépenses d'enseignement, la FWB ne peut répliquer le volume ; elle peut en revanche répliquer la logique la moins coûteuse — resserrer les référentiels plutôt qu'ajouter des heures. (6) Enfin, ces quatre systèmes ont un point commun qui joue POUR la FWB : ils ont réformé le curriculum sans capacité d'observation de la classe (la Finlande a supprimé son inspection en 1991 et ne dispose que d'évaluations par échantillon). La FWB, avec ses contrats d'objectifs généralisés aux 2 600 écoles depuis 2023 et son test CLÉ généralisé à partir de 2026-2027, dispose d'un instrument de détection précoce que les Nordiques n'avaient pas — à condition qu'il pilote la pédagogie et non l'administration.",
+ "items": [
+  {
+   "claim": "Les quatre systèmes ont perdu entre un et deux années d'apprentissage en dix ans, et 2025 est le plus bas niveau jamais mesuré pour la Suède, le Danemark et la lecture néerlandaise — ce n'est pas un accident conjoncturel lié au Covid mais une tendance engagée avant 2020.",
+   "what_it_is": "La série longue des scores PISA nationaux, reconstituée à partir des pages officielles des ministères plutôt que des synthèses de presse. Finlande (okm.fi) : mathématiques 548 en 2006, 511 en 2015, 484 en 2022, 469 en 2025 ; lecture 526 en 2015, 520 en 2018, 490 en 2022, 474 en 2025 ; sciences 563 en 2006, 531 en 2015, 522 en 2018, 511 en 2022, 504 en 2025. Suède (Skolverket) : 2025 = lecture 466, mathématiques 464, sciences 485. Danemark (uvm.dk) : 2025 = lecture 460, mathématiques 471, sciences 478. Pays-Bas (pisa-nederland.nl) : lecture en nouvelle baisse en 2025, mathématiques et sciences stables.",
+   "evidence_level": "comparaison internationale descriptive (séries chronologiques d'évaluation standardisée sur échantillons nationaux représentatifs) — aucune inférence causale",
+   "effect_size": "Finlande, population des élèves de 15 ans : -42 points PISA en mathématiques et -52 points en lecture entre 2015 et 2025 ; -79 points en mathématiques et -59 en sciences depuis le pic de 2006. Suède : -21 points en lecture et -18 en mathématiques sur le seul cycle 2022->2025. Danemark : le ministère danois chiffre la perte 2015->2025 à « près de deux années d'apprentissage » en lecture et en mathématiques et une année en sciences, en retenant la convention OCDE de ~20 points PISA = une année scolaire — soit un élève de 15 ans en 2025 au niveau d'un élève de 13 ans de 2015 en lecture et en mathématiques.",
+   "concrete_practice": "Aucune pratique : c'est le constat qui fonde la revue. Sa valeur opérationnelle est de fixer l'ordre de grandeur du risque. Un écart de 20 points PISA est l'unité de compte pertinente pour juger si une réforme « vaut le coup » : la baisse finlandaise en mathématiques depuis 2015 (-42 points) est du même ordre que l'écart social entre quartiles extrêmes dans beaucoup de systèmes.",
+   "concrete_example": "Le 8 septembre 2026, le ministère danois de l'Éducation (Undervisningsministeriet) publie un communiqué intitulé « Danske elevers faglige niveau er lavere end nogensinde målt før ». L'enquête a porté sur près de 6 300 élèves de 15 ans dans environ 300 établissements (folkeskoler et frie grundskoler), conduite par un consortium VIVE + Danmarks Statistik avec University College Lillebælt, VIA University College et Københavns Professionshøjskole. Le ministre Magnus Heunicke y qualifie la situation de « crise de l'apprentissage très grave » dont « l'ampleur est bien plus grande que ce dont nous étions conscients ». Côté finlandais, le même jour, le ministère (OKM) et l'Université de Jyväskylä publient un communiqué conjoint : la Finlande reste 22 points au-dessus de la moyenne OCDE en sciences (504 contre 482) tout en enregistrant un recul de 16 points en lecture et 15 en mathématiques par rapport à 2022.",
+   "conditions": "Lecture valide à trois conditions. (a) Comparer les mêmes domaines dans les mêmes rôles : un score de domaine mineur est mesuré avec moins d'items qu'un domaine majeur (en 2025 les mathématiques et la lecture sont mineures, les sciences majeures) — le ministère finlandais le signale explicitement. (b) Ne pas confondre non-significativité et absence de baisse : le recul finlandais en sciences 511->504 n'est PAS statistiquement significatif, mais s'inscrit dans une pente longue qui, elle, l'est. (c) Tenir compte des taux d'exclusion et de réponse (voir élément sur l'échantillonnage suédois).",
+   "contested": "Deux objections sérieuses. (1) L'effet Covid : la cohorte 2022 a traversé la pandémie pendant tout son secondaire inférieur, et la ministre finlandaise Anna-Maja Henriksson en faisait en 2023 l'explication principale. Mais cette explication résiste mal à 2025 : trois ans après, aucun rebond, et le ministère néerlandais de l'éducation comme PISA-Nederland titrent explicitement « Nog geen tekenen van herstel » (aucun signe de reprise). La chronologie finlandaise (déclin en sciences dès 2009, en lecture dès 2009-2015) précède largement la pandémie. (2) La comparabilité des cycles : Skolverket rappelle que l'OCDE elle-même estime qu'« aucun facteur isolé ne peut expliquer la baisse » et invite chaque pays à analyser sa propre trajectoire — ce qui est aussi un aveu d'absence de modèle causal partagé. Je n'ai pas trouvé de travail publié établissant quantitativement la part respective du Covid et de la tendance pré-Covid dans la baisse 2015-2025 ; l'affirmer serait une conjecture.",
+   "sources": [
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "Opetus- ja kulttuuriministeriö",
+     "title": "Results from PISA 2025 / Results from PISA 2022 / The Results of PISA 2015 / Results from PISA 2018",
+     "year": "2026",
+     "url": "https://okm.fi/en/pisa-2025-en"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "PISA 2025: Students in Finland still perform well above OECD average in science (communiqué de presse)",
+     "year": "2026",
+     "url": "https://okm.fi/en/-/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science"
+    },
+    {
+     "author": "Skolverket",
+     "org": "Skolverket (Agence nationale suédoise pour l'éducation)",
+     "title": "Pisa 2025: Fortsatt nedgång för 15-åringar i Sverige och andra länder",
+     "year": "2026",
+     "url": "https://www.skolverket.se/om-skolverket/nyheter-och-pressmeddelanden/pressmeddelanden/pressmeddelanden/2026-09-08-pisa-2025-fortsatt-nedgang-for-15-aringar-i-sverige-och-andra-lander"
+    },
+    {
+     "author": "Undervisningsministeriet",
+     "org": "Ministère danois de l'Éducation",
+     "title": "PISA-undersøgelse: Danske elevers faglige niveau er lavere end nogensinde målt før",
+     "year": "2026",
+     "url": "https://www.uvm.dk/aktuelt/nyheder/2026/september/260908-pisa-undersoegelse-danske-elevers-faglige-niveau-er-lavere-end-nogensinde-maalt-foer/"
+    },
+    {
+     "author": "PISA-Nederland (Universiteit Twente / RUG)",
+     "org": "PISA Nederland",
+     "title": "PISA-2025: Nog geen tekenen van herstel in prestaties Nederlandse 15-jarigen",
+     "year": "2026",
+     "url": "https://www.pisa-nederland.nl/pisa-2025/"
+    }
+   ]
+  },
+  {
+   "claim": "Le décrochage n'est pas seulement un problème de bas de distribution : en 2025, les meilleurs élèves reculent aussi, et en Suède c'est même le recul des élèves favorisés qui réduit mécaniquement l'écart social — un « progrès d'équité » qui est en réalité un appauvrissement général.",
+   "what_it_is": "La décomposition de la baisse par niveau de performance et par quartile socio-économique. Elle distingue trois scénarios très différents : un décrochage par le bas (les faibles décrochent), un décrochage par le haut (l'excellence s'érode), un décrochage général. En 2025 les quatre pays sont dans le troisième cas.",
+   "evidence_level": "descriptif — répartition par niveaux de compétence PISA et par quartile d'indice socio-économique, sans modèle explicatif",
+   "effect_size": "Suède, élèves de 15 ans : proportion sous le niveau 2 (seuil OCDE de compétence de base) passée de 24 % à 31 % en lecture et de 27 % à 34 % en mathématiques entre 2022 et 2025. Parmi les élèves du quartile socio-économique défavorisé, 49 % sont sous le seuil en mathématiques, 45 % en lecture, 38 % en sciences ; contre 19 %, 17 % et 13 % chez les favorisés. Finlande : en sciences, la seule baisse statistiquement significative 2022->2025 est celle du quartile socio-économique le PLUS élevé (-12 points) ; l'écart entre quartiles extrêmes est de 78 points et stable sur longue période ; la variance entre écoles reste faible mais la variance ENTRE ÉLÈVES d'une même école a augmenté et dépasse nettement la moyenne OCDE. Pays-Bas : 39 % des élèves sous le niveau 2 en lecture en 2025 (contre un tiers en 2022), 30 % en mathématiques, 27 % en sciences ; seulement 4 % de très bons lecteurs (niveau 5+) contre 13 % en mathématiques.",
+   "concrete_practice": "Concrètement, un système qui suit uniquement sa moyenne PISA et son écart entre quartiles peut afficher un « resserrement des inégalités » alors que ce resserrement provient d'une chute du haut. Le suivi opérationnel suppose donc trois indicateurs distincts et publiés ensemble : la moyenne, la proportion sous le niveau 2, et la proportion au niveau 5+.",
+   "concrete_example": "Le 8 septembre 2026, Anna Castberg, cheffe de l'analyse à Skolverket, formule publiquement le piège : « En PISA 2025 les différences de résultats selon le milieu social n'augmentent pas, elles diminuent. Mais cela tient à une perte si importante chez les élèves de milieu plus favorisé. C'est inquiétant. » Au Danemark, le ministère documente le même phénomène en sens inverse de la lecture habituelle : « la régression concerne tous les niveaux de compétence. Ce ne sont pas seulement les élèves déjà en difficulté qui font moins bien. Les élèves les plus forts reculent aussi. » En Finlande, le communiqué OKM/Jyväskylä précise que la part d'élèves faibles augmente et celle des très bons diminue en lecture comme en mathématiques, et que « ces évolutions ont été plus prononcées en Finlande que la moyenne de l'OCDE ».",
+   "conditions": "Ce diagnostic n'a de valeur que si les seuils sont stables d'un cycle à l'autre (c'est le cas : les niveaux PISA sont ancrés sur une échelle fixe) et si l'échantillon n'exclut pas différemment les élèves faibles d'un cycle à l'autre — précisément le problème documenté en Suède (voir l'élément sur les exclusions). Il suppose aussi de publier ces trois indicateurs sans les agréger, ce qu'aucune communication politique ne fait spontanément.",
+   "contested": "Contesté sur l'interprétation, pas sur les chiffres. Une lecture alternative veut que la baisse du haut de distribution reflète une baisse de la motivation à passer un test sans enjeu (low-stakes) plutôt qu'une baisse de compétence : Skolverket a publié en 2026 un rapport spécifiquement consacré à la motivation à l'épreuve PISA et à sa relation aux résultats (« Motivation i Pisa »). Je n'ai pas pu en lire le contenu détaillé et je ne peux donc pas dire dans quelle mesure il valide ou infirme cette lecture — ce point doit être présenté comme ouvert. Par ailleurs, Skolverket a montré (rapport « PISA 2022 och betygen ») que la baisse de la moyenne PISA suédoise en mathématiques et en lecture entre 2018 et 2022 provient particulièrement des élèves ayant de bonnes notes scolaires, ce qui est cohérent avec une érosion réelle du haut de distribution plutôt qu'avec un simple effet de motivation.",
+   "sources": [
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "Pisa 2025: Fortsatt nedgång för 15-åringar i Sverige och andra länder",
+     "year": "2026",
+     "url": "https://www.skolverket.se/om-skolverket/nyheter-och-pressmeddelanden/pressmeddelanden/pressmeddelanden/2026-09-08-pisa-2025-fortsatt-nedgang-for-15-aringar-i-sverige-och-andra-lander"
+    },
+    {
+     "author": "Undervisningsministeriet",
+     "org": "Ministère danois de l'Éducation",
+     "title": "PISA-undersøgelse: Danske elevers faglige niveau er lavere end nogensinde målt før",
+     "year": "2026",
+     "url": "https://www.uvm.dk/aktuelt/nyheder/2026/september/260908-pisa-undersoegelse-danske-elevers-faglige-niveau-er-lavere-end-nogensinde-maalt-foer/"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland) / University of Jyväskylä",
+     "org": "OKM / JYU",
+     "title": "PISA 2025: Students in Finland still perform well above OECD average in science",
+     "year": "2026",
+     "url": "https://www.jyu.fi/en/news/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science"
+    },
+    {
+     "author": "PISA-Nederland",
+     "org": "Universiteit Twente",
+     "title": "PISA-2025: Nog geen tekenen van herstel in prestaties Nederlandse 15-jarigen",
+     "year": "2026",
+     "url": "https://www.pisa-nederland.nl/pisa-2025/"
+    },
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "PISA 2022 och betygen",
+     "year": "2025",
+     "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/rapporter/2025/pisa-2022-och-betygen"
+    }
+   ]
+  },
+  {
+   "claim": "La réforme curriculaire finlandaise entrée en vigueur en août 2016 a explicitement réduit les contenus disciplinaires au profit de « compétences transversales » et d'un travail par projets « phénoménaux » — sa chronologie est compatible avec le décrochage mais aucune évaluation causale ne l'établit, et il faut le dire ainsi.",
+   "what_it_is": "Le nouveau socle national de l'enseignement fondamental (Perusopetuksen opetussuunnitelman perusteet), arrêté par le Conseil national finlandais de l'éducation en 2014 et appliqué dans les écoles à partir d'août 2016. Le communiqué officiel du ministère en décrit le contenu en trois points : le socle « met l'accent sur le plaisir d'apprendre et le rôle actif de l'élève » ; « le contenu de chaque discipline a été réduit » ; « l'accent est mis sur les compétences transversales (génériques) et le travail transdisciplinaire », avec « des pratiques de classe collaboratives, où les élèves peuvent travailler avec plusieurs enseignants simultanément pendant des périodes d'études par projet fondées sur les phénomènes ».",
+   "evidence_level": "descriptif (document de politique publique primaire) — aucune évaluation contrefactuelle de son effet sur les apprentissages n'a pu être identifiée",
+   "effect_size": "Non disponible. Aucune taille d'effet attribuable au socle de 2016 n'existe dans la littérature que j'ai pu consulter. Le seul repère chronologique exploitable : les élèves de 15 ans testés en PISA 2022 (première cohorte ayant passé l'essentiel du fondamental sous le nouveau socle) affichent -30 points en lecture par rapport à 2018 et -27 points en mathématiques par rapport à 2015 ; mais cette cohorte est aussi la cohorte Covid, ce qui rend l'attribution impossible.",
+   "concrete_practice": "Dans une école finlandaise après 2016 : chaque établissement doit organiser au moins un module d'apprentissage multidisciplinaire par année scolaire, coconstruit entre plusieurs enseignants autour d'un « phénomène » (par exemple l'eau, la migration, l'Union européenne) ; l'évaluation est repensée comme soutien à l'apprentissage plutôt que comme sanction ; les objectifs disciplinaires sont allégés pour dégager ce temps. L'organisation du contenu est déléguée aux communes et aux écoles, qui rédigent leur propre curriculum dans le cadre du socle national.",
+   "concrete_example": "Le 25 mars 2015, le ministère finlandais publie un communiqué au titre programmatique : « The new core curriculum for basic education emphasises the joy of learning ». Il précise que le socle antérieur datait de janvier 2004 (appliqué en août 2006) — c'est-à-dire exactement le socle sous lequel la Finlande a atteint ses sommets PISA de 2006 (563 en sciences, 548 en mathématiques). Le communiqué inclut par ailleurs un lien intitulé « Subject teaching in Finnish schools is not being abolished », preuve que dès 2015 l'agence nationale devait démentir publiquement une interprétation maximaliste de sa propre réforme. Onze ans plus tard, le gouvernement Orpo fait l'inverse : à partir du 1er août 2025, trois périodes hebdomadaires annuelles sont ajoutées (deux en langue maternelle et littérature en 1re-2e année, une en mathématiques en 3e-6e), « mais sans élargir le curriculum national », accompagnées de 200 M€ pour l'enseignement fondamental et de 50 M€ par an de financement de discrimination positive sur 2024-2026.",
+   "conditions": "Trois conditions rendent ce type de réforme risqué et conditionnent son éventuelle transposition. (a) Un socle qui allège les contenus sans renforcer simultanément la maîtrise pédagogique des enseignants transfère la charge de conception au terrain, dans 2 600 écoles qui ne disposent pas toutes de la même capacité. (b) La Finlande a conduit cette réforme sans inspection (supprimée en 1991) et sans évaluation externe généralisée : rien ne permettait de détecter précocement une mise en œuvre dégradée. (c) L'allègement disciplinaire est facile à décider et très difficile à annuler : il faut dix ans pour observer l'effet sur une cohorte et dix de plus pour le corriger.",
+   "contested": "Fortement contesté, et il faut le présenter comme tel. Trois objections. (1) La chronologie ne colle qu'en partie : le déclin finlandais est amorcé dès 2009 en sciences (563 en 2006 -> 531 en 2015, soit -32 points AVANT l'entrée en vigueur du socle) et dès 2000-2009 en lecture (-16 points entre 2009 et 2018 selon l'OKM). Une bonne partie de la chute précède la réforme. (2) La cohorte testée en 2022 est la cohorte Covid, ce qui interdit toute attribution propre. (3) Les défenseurs du modèle finlandais, au premier rang desquels Pasi Sahlberg (Finnish Lessons 3.0, Teachers College Press), soutiennent au contraire que le problème finlandais tient à l'austérité budgétaire et à l'affaiblissement du soutien aux élèves, non au curriculum. Je n'ai pas trouvé d'évaluation quasi-expérimentale départageant ces thèses ; quiconque affirme que « le curriculum de 2016 a causé la chute » avance une conjecture, pas un résultat.",
+   "sources": [
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM / Finnish National Board of Education",
+     "title": "The new core curriculum for basic education emphasises the joy of learning",
+     "year": "2015",
+     "url": "https://okm.fi/en/-/the-new-core-curriculum-for-basic-education-emphasises-the-joy-of-learning"
+    },
+    {
+     "author": "Anna-Maja Henriksson / Ministry of Education and Culture",
+     "org": "OKM",
+     "title": "Minister of Education Henriksson: Improving students' basic skills by introducing more lessons and restructuring support measures",
+     "year": "2023",
+     "url": "https://okm.fi/en/-/minister-of-education-henriksson-improving-students-basic-skills-by-introducing-more-lessons-and-restructuring-support-measures"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "Results from PISA 2022 / The Results of PISA 2015",
+     "year": "2023",
+     "url": "https://okm.fi/en/pisa-2022-en"
+    },
+    {
+     "author": "Pasi Sahlberg",
+     "org": "Teachers College Press",
+     "title": "Finnish Lessons 3.0",
+     "year": "2021",
+     "url": "https://doi.org/10.65528/9780807779293"
+    }
+   ]
+  },
+  {
+   "claim": "La thèse selon laquelle le déclin finlandais viendrait de l'abandon de l'enseignement explicite, dirigé par le maître, au profit de pédagogies centrées sur l'élève est formulée de façon argumentée depuis 2015 par Gabriel Heller Sahlgren — mais elle repose sur un raisonnement historique et corrélationnel, pas sur une identification causale.",
+   "what_it_is": "L'argument de Real Finnish Lessons: The true story of an education superpower (Centre for Policy Studies, 15 avril 2015). Il comporte deux volets. Volet négatif : les explications standard du succès finlandais (absence de marché scolaire et de redevabilité, statut et confiance envers les enseignants, qualité de la formation initiale, faible charge de travail) ne tiennent pas, parce que « les améliorations ont commencé AVANT que beaucoup des politiques mises en avant n'aient même été introduites » — et que ces politiques « coïncident plutôt avec le récent recul » finlandais. Volet positif : le succès finlandais tiendrait pour l'essentiel à des facteurs historiques, économiques et culturels extérieurs au système scolaire, plus à « une culture éducative hiérarchique, incluant des méthodes d'enseignement traditionnelles » — culture qui s'érode, ce qui expliquerait le déclin.",
+   "evidence_level": "essai de politique publique fondé sur une reconstitution historique et des corrélations chronologiques — pas d'essai randomisé, pas de quasi-expérience, pas de méta-analyse propre à la Finlande",
+   "effect_size": "Non disponible pour la Finlande. Heller Sahlgren ne produit pas de taille d'effet chiffrée du basculement pédagogique sur les scores finlandais ; il formule une inférence à partir de la chronologie. C'est la limite centrale de la thèse et elle doit être énoncée.",
+   "concrete_practice": "Ce que la thèse recommande, en pratique de classe : conserver un enseignement où l'enseignant expose, modélise, vérifie la compréhension et conduit la séquence, plutôt que de faire découvrir aux élèves des contenus qu'ils ne possèdent pas encore ; maintenir l'autorité pédagogique de l'adulte comme condition de l'apprentissage cognitif. La conclusion explicite du rapport est que « la leçon politique la plus forte à tirer de la performance finlandaise est le danger qu'il y a à évacuer l'autorité dans les écoles, et en particulier à se débarrasser d'un enseignement fondé sur les savoirs et conduit par l'enseignant ».",
+   "concrete_example": "Le rapport est publié par le Centre for Policy Studies le 15 avril 2015, débattu publiquement lors d'un événement du CPS où Heller Sahlgren dialogue avec Tim Oates (Cambridge Assessment), et repris dans la presse britannique (The Times, « The real reasons for Finland's schools success » ; BBC News, « Finns aren't what they used to be » ; The Telegraph ; Herald Scotland, qui documente l'usage de l'argument contre les réformes écossaises copiant le modèle finlandais). L'intérêt du cas est traçable : en 2015, un système européen (l'Écosse) était en train de calquer sa réforme curriculaire sur le modèle finlandais au moment même où ce modèle entrait dans sa phase de recul — exactement le risque d'importation à contretemps.",
+   "conditions": "La thèse n'est utilisable que si l'on sépare ses deux volets. Le volet négatif (« les explications standard du succès finlandais ne sont pas établies ») est solide et peu contesté sur le fond : personne n'a produit d'identification causale montrant que le statut enseignant finlandais ou l'absence d'inspection expliquaient les scores de 2006. Le volet positif (« c'est le basculement pédagogique qui explique le déclin ») est beaucoup plus faible et ne devrait jamais être cité comme un résultat établi.",
+   "contested": "Très contesté, et l'auteur est un chercheur ouvertement engagé (il publie par ailleurs sur l'effet positif de la concurrence scolaire — « Smart but unhappy », Economics of Education Review 2018 — et, avec Johan Wennström, une thèse historique sur la pédagogie progressiste suédoise dans le Journal of Controversial Ideas, 2022, dont le titre même — « The Fatal Conceit » — signale la charge polémique). Ses contradicteurs, au premier rang desquels Pasi Sahlberg, défendent la lecture inverse. Point décisif à ne pas lisser : je n'ai trouvé AUCUNE évaluation quasi-expérimentale ou randomisée mesurant l'effet d'un basculement pédagogique à l'échelle d'un système nordique. La littérature expérimentale sur l'enseignement explicite existe (elle est issue essentiellement de contextes anglophones) mais elle ne dit rien de la Finlande. Présenter cette thèse comme démontrée serait une faute ; l'ignorer serait un autre type de faute, car c'est l'hypothèse la plus articulée disponible.",
+   "sources": [
+    {
+     "author": "Gabriel Heller Sahlgren",
+     "org": "Centre for Policy Studies",
+     "title": "Real Finnish Lessons: The true story of an education superpower",
+     "year": "2015",
+     "url": "https://cps.org.uk/research/real-finnish-lessons/"
+    },
+    {
+     "author": "Gabriel Heller-Sahlgren",
+     "org": "Economics of Education Review",
+     "title": "Smart but unhappy: Independent-school competition and the wellbeing-efficiency trade-off in education",
+     "year": "2018",
+     "url": "https://doi.org/10.1016/j.econedurev.2017.10.005"
+    },
+    {
+     "author": "Gabriel Heller-Sahlgren, Johan Wennström",
+     "org": "Journal of Controversial Ideas",
+     "title": "The Fatal Conceit: Swedish Education after Nazism",
+     "year": "2022",
+     "url": "https://doi.org/10.35995/jci02010009"
+    },
+    {
+     "author": "Pasi Sahlberg",
+     "org": "Teachers College Press",
+     "title": "Finnish Lessons 3.0",
+     "year": "2021",
+     "url": "https://doi.org/10.65528/9780807779293"
+    }
+   ]
+  },
+  {
+   "claim": "La numérisation massive des classes est corrélée à de moins bons résultats en Finlande, mais la comparaison nordique détruit la version simple de cette thèse : c'est le Danemark qui utilise le plus les outils numériques et la Finlande le moins, or les deux décrochent.",
+   "what_it_is": "Deux corpus à distinguer. (1) L'usage pédagogique des outils numériques en classe. (2) La distraction par les appareils, qui est un fait de climat scolaire plus qu'un fait pédagogique. La littérature finlandaise (Saarinen et al.) porte sur le premier ; les données PISA 2022 et 2025 documentent surtout le second.",
+   "evidence_level": "corrélationnel, sur données transversales — l'étude finlandaise de référence le reconnaît explicitement ; aucune étude causale identifiée sur l'effet de l'équipement des classes nordiques",
+   "effect_size": "Saarinen, Lipsanen, Hintsanen, Huotilainen et Keltikangas-Järvinen (International Journal of Educational Psychology, 2021), sur les données finlandaises de PISA 2015 (N = 5 037 élèves de 15 ans) : « un usage fréquent des TIC à l'école prédit une performance plus faible dans TOUS les résultats cognitifs » (sciences, mathématiques, lecture, résolution collaborative de problèmes), après ajustement sur l'âge, le sexe, le statut socio-économique parental, la compétence numérique de l'élève et la disponibilité des TIC dans l'école ; l'effet est PLUS négatif chez les élèves ayant de meilleures compétences numériques. Les auteurs ne rapportent pas de taille d'effet standardisée dans le résumé. Distraction, données PISA 2025 : Finlande 26 % d'élèves distraits par les appareils numériques à chaque cours ou à la plupart des cours (moyenne OCDE 28 %) ; Danemark 36 % pour les cours de sciences, contre 32 % pour les mathématiques en 2022, avec seulement environ un élève danois sur quatre déclarant n'être jamais ou presque jamais distrait — le Danemark est au-dessus de la moyenne OCDE sur cet indicateur.",
+   "concrete_practice": "Trois leviers distincts en découlent, à ne pas confondre : (a) réguler la POSSESSION de l'appareil (interdiction du téléphone pendant les cours) ; (b) réguler l'USAGE pédagogique du numérique (choix de l'outil, de la durée, de la tâche) ; (c) restaurer le support papier comme vecteur de contenu (manuels). Les quatre pays ont agi sur (a) et (c) plus que sur (b).",
+   "concrete_example": "Deux dispositifs nommés et datés. Finlande : le 30 décembre 2024, le gouvernement dépose un projet de modification de la loi sur l'enseignement fondamental interdisant par principe l'usage du téléphone et des appareils mobiles pendant les cours, sauf autorisation de l'enseignant ou du directeur pour raison pédagogique ou de santé ; il donne au directeur et à l'enseignant le droit de confisquer l'appareil s'il perturbe l'enseignement, et oblige chaque école à édicter des règles d'usage et de rangement couvrant aussi les récréations et la pause déjeuner. Entrée en vigueur le 1er août 2025. Le ministre Anders Adlercreutz justifie : « je suis convaincu que cette modification améliorera la capacité des élèves à se concentrer pendant les cours ». Danemark : dans le cadre de l'« aftale om folkeskolens kvalitetsprogram », 540 millions de couronnes danoises sont affectées aux manuels scolaires sur la période 2025-2034, complétées par une enveloppe supplémentaire de 50 millions de DKK permettant l'achat de jusqu'à 200 000 livres physiques supplémentaires — une politique explicite de retour au livre papier dans les mains des élèves.",
+   "conditions": "L'effet dépend entièrement de ce à quoi le numérique se substitue. Skolverket, analysant les données PISA 2022 pour les cinq pays nordiques, trouve un profil non monotone : les élèves qui utilisent des outils numériques pour APPRENDRE quelques heures par jour ont de MEILLEURS résultats que ceux qui ne les utilisent pas du tout, très peu, ou énormément ; en revanche ceux qui passent beaucoup d'heures sur les médias numériques pour autre chose que l'apprentissage, à l'école comme à la maison, ont de moins bons résultats. Les élèves qui coupent les notifications pendant les cours ou avant de dormir réussissent mieux.",
+   "contested": "Très contesté, et c'est l'un des points où la note doit résister à la facilité. Trois éléments de réfutation. (1) Skolverket titre son analyse de juin 2024 : « Aucune relation univoque entre les outils numériques à l'école et les résultats PISA », et Pernilla Jonsson, cheffe de l'unité des études internationales, précise : « le lien de causalité ne peut pas être établi par cette étude ». (2) La géographie contredit la thèse simple : la même analyse Skolverket établit que « l'usage le plus important a lieu au Danemark, suivi de la Suède, tandis que les élèves de Finlande déclarent l'usage le plus faible » — or la Finlande est le pays qui a le plus décroché en valeur absolue depuis 2006. Si la numérisation était le moteur principal, le classement du déclin devrait suivre le classement de l'usage : il ne le suit pas. (3) Le recul de la distraction déclarée en Finlande entre 2022 (41 %) et 2025 (26 %) ne peut pas être attribué à l'interdiction du téléphone : le ministère finlandais signale lui-même que « la législation finlandaise restreignant l'usage des appareils mobiles en classe est entrée en vigueur seulement APRÈS l'achèvement de la collecte de données », et les deux chiffres ne portent pas sur le même périmètre (tous cours en 2025, cours de mathématiques en 2022). Toute citation de ce couple 41 %/26 % comme preuve d'efficacité d'une interdiction serait trompeuse.",
+   "sources": [
+    {
+     "author": "Aino I.L. Saarinen, Jari Lipsanen, Mirka Hintsanen, Minna Huotilainen, Liisa Keltikangas-Järvinen",
+     "org": "International Journal of Educational Psychology",
+     "title": "The Use of Digital Technologies at School and Cognitive Learning Outcomes: A Population-Based Study in Finland",
+     "year": "2021",
+     "url": "https://doi.org/10.17583/ijep.2021.4667"
+    },
+    {
+     "author": "Skolverket (Pernilla Jonsson)",
+     "org": "Skolverket",
+     "title": "Ingen entydig relation mellan digitala verktyg i skolan och PISA-resultat",
+     "year": "2024",
+     "url": "https://www.skolverket.se/om-skolverket/nyheter-och-pressmeddelanden/nyheter/nyheter/2024-06-19-ingen-entydig-relation-mellan-digitala-verktyg-i-skolan-och-pisa-resultat"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "Restrictions to be placed on the use of phones and mobile devices in schools",
+     "year": "2024",
+     "url": "https://okm.fi/en/-/restrictions-to-be-placed-on-the-use-of-phones-and-mobile-devices-in-schools"
+    },
+    {
+     "author": "Undervisningsministeriet",
+     "org": "Ministère danois de l'Éducation",
+     "title": "PISA-undersøgelse: Danske elevers faglige niveau er lavere end nogensinde målt før",
+     "year": "2026",
+     "url": "https://www.uvm.dk/aktuelt/nyheder/2026/september/260908-pisa-undersoegelse-danske-elevers-faglige-niveau-er-lavere-end-nogensinde-maalt-foer/"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland) / University of Jyväskylä",
+     "org": "OKM / JYU",
+     "title": "PISA 2025: Students in Finland still perform well above OECD average in science",
+     "year": "2026",
+     "url": "https://www.jyu.fi/en/news/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science"
+    }
+   ]
+  },
+  {
+   "claim": "Le climat de classe et la persévérance des élèves se sont dégradés dans ces systèmes, et la Finlande présente en 2025 le plus faible taux de persévérance déclarée de tous les pays participants — un indicateur d'effort, pas de moyens.",
+   "what_it_is": "Deux dimensions mesurées par les questionnaires PISA : le climat disciplinaire (ordre dans la classe, sentiment de sécurité dans l'établissement) et les dispositions de l'élève à l'effort. Ces indicateurs sont déclaratifs mais comparables entre pays et entre cycles.",
+   "evidence_level": "corrélationnel (association entre indices déclaratifs et scores, sans identification causale) ; les rapports nationaux le disent explicitement",
+   "effect_size": "Finlande, PISA 2025 : 41 % d'élèves se déclarent d'accord avec l'énoncé « je fournis un effort supplémentaire lorsque le travail devient difficile » — la part la plus faible de TOUS les pays et économies participants (91 au total). Suède, PISA 2022 : le calme de travail (studiero) dans les cours de mathématiques est moins bon dans les classes suédoises que dans le reste des pays nordiques et que la moyenne OCDE ; les élèves exposés à des risques de sécurité dans l'établissement et à des perturbations en classe ont en moyenne des résultats PISA plus faibles, et l'association est particulièrement nette dans les écoles où beaucoup d'élèves déclarent ces perturbations. Suède, PISA 2025 : à l'inverse, le sentiment de sécurité a AUGMENTÉ depuis 2022 et se situe au-dessus de la moyenne OCDE, avec une forte assiduité et un bon soutien enseignant déclarés — ce qui montre que climat et résultats ne varient pas mécaniquement ensemble.",
+   "concrete_practice": "Le climat se pilote par des règles simples, écrites, appliquées de façon homogène dans l'établissement (règles d'usage des appareils, gestion des entrées en classe, routines de début de cours) et par la mesure régulière de l'indice au niveau de l'école, pas seulement au niveau national. La persévérance, elle, ne se pilote pas directement : elle est un symptôme de la difficulté et du sens perçus des tâches proposées.",
+   "concrete_example": "Skolverket publie en 2024 un rapport dédié, « Elevers trygghet och studiero – en fördjupning av resultat i PISA 2022 », qui exploite les questionnaires PISA 2022 pour comparer la Suède aux autres pays nordiques et à la moyenne OCDE, établissement par établissement. Il produit un résultat opérationnel précis : l'association négative entre perturbations et résultats n'est pas linéaire au niveau individuel, elle est surtout concentrée dans les écoles où le phénomène est massif — autrement dit un problème d'établissement, pas d'élève. Côté finlandais, le communiqué OKM de 2026 place le pays au-dessus de la moyenne OCDE pour le sentiment d'appartenance à l'école et pour le caractère perçu comme signifiant de l'école, mais dernier de 91 pour l'effort face à la difficulté, et note que seuls trois quarts des élèves finlandais estiment avoir appris à l'école des choses utiles dans le monde du travail.",
+   "conditions": "Ces indicateurs sont déclaratifs et culturellement sensibles : la propension à se déclarer persévérant varie entre cultures, ce qui invalide les comparaisons de niveau brutes entre pays très éloignés. Ils restent en revanche exploitables en évolution intra-pays et entre pays culturellement proches. Leur usage principal devrait être le pilotage d'établissement, pas le palmarès international.",
+   "contested": "Contesté sur le sens de la causalité. Un mauvais climat peut dégrader les apprentissages, mais un niveau d'apprentissage en chute peut aussi dégrader le climat (élèves décrochés, tâches inaccessibles). Aucun des rapports consultés ne tranche : Skolverket parle de « samband » (association) et non d'effet. La Suède 2025 offre un contre-exemple direct à la thèse « climat -> résultats » : le sentiment de sécurité s'améliore entre 2022 et 2025 pendant que les résultats atteignent leur plus bas historique. Je n'ai pas trouvé d'étude quasi-expérimentale nordique estimant l'effet causal du climat disciplinaire sur les scores ; l'affirmation « restaurer la discipline fera remonter PISA » n'est pas soutenue par les sources examinées.",
+   "sources": [
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "Elevers trygghet och studiero – en fördjupning av resultat i PISA 2022",
+     "year": "2024",
+     "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/rapporter/2024/elevers-trygghet-och-studiero---en-fordjupning-av-resultat-i-pisa-2022"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland) / University of Jyväskylä",
+     "org": "OKM / JYU",
+     "title": "PISA 2025: Students in Finland still perform well above OECD average in science",
+     "year": "2026",
+     "url": "https://www.jyu.fi/en/news/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science"
+    },
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "Pisa 2025: Fortsatt nedgång för 15-åringar i Sverige och andra länder",
+     "year": "2026",
+     "url": "https://www.skolverket.se/om-skolverket/nyheter-och-pressmeddelanden/pressmeddelanden/pressmeddelanden/2026-09-08-pisa-2025-fortsatt-nedgang-for-15-aringar-i-sverige-och-andra-lander"
+    },
+    {
+     "author": "Bent Sortkær, David Reimer",
+     "org": "School Effectiveness and School Improvement",
+     "title": "Classroom disciplinary climate of schools and gender – evidence from the Nordic countries",
+     "year": "2018",
+     "url": "https://doi.org/10.1080/09243453.2018.1460382"
+    }
+   ]
+  },
+  {
+   "claim": "L'attribution du déclin suédois au marché scolaire et aux friskolor est la thèse la plus répandue et la moins solide : l'évaluation quasi-expérimentale de référence trouve un effet moyen POSITIF de l'expansion des écoles indépendantes sur les résultats, y compris à long terme.",
+   "what_it_is": "La réforme du chèque scolaire de 1992 en Suède a ouvert le financement public à des écoles indépendantes (friskolor), y compris à but lucratif, avec libre choix des familles. L'expansion du secteur est souvent présentée comme la cause du décrochage suédois. La question empirique est distincte : l'expansion des friskolor dans une commune a-t-elle amélioré ou dégradé les résultats moyens des élèves de cette commune ?",
+   "evidence_level": "quasi-expérimental — exploitation de la variation de l'expansion du secteur indépendant entre communes suédoises, avec résultats de court et long terme, publié dans une revue à comité de lecture (Economica)",
+   "effect_size": "Böhlmark et Lindahl (Economica, 2015) : « une augmentation de la part d'élèves scolarisés dans des écoles indépendantes AMÉLIORE les résultats moyens de court et de long terme », effet expliqué principalement par des effets externes (concurrence entre écoles) plutôt que par la qualité propre des friskolor ; pour la plupart des indicateurs, les effets ne deviennent significatifs qu'une décennie après la réforme. Les auteurs réconcilient explicitement ce résultat avec la tendance nationale négative des élèves suédois aux tests internationaux, en mobilisant les données régionales TIMSS. Les auteurs ne rapportent pas dans leur résumé la magnitude en écarts-types.",
+   "concrete_practice": "Ce que cela implique en pratique : l'effet mesuré passe par la CONCURRENCE (les écoles publiques voisines réagissent), pas par une supériorité intrinsèque des établissements indépendants — et il met dix ans à apparaître. Toute politique de structure doit donc être jugée sur un horizon d'une décennie, ce qui est un argument méthodologique majeur pour un système qui évalue une réforme à mi-parcours.",
+   "concrete_example": "L'expansion mesurée est massive et datée : la réforme suédoise de 1992 instaure un chèque scolaire, et l'étude exploite la montée en charge très inégale du secteur indépendant selon les communes sur les années 1990 et 2000 pour identifier l'effet. Le résultat contre-intuitif — un effet positif via la concurrence, apparaissant seulement après dix ans, dans un pays dont les scores PISA nationaux s'effondraient sur la même période — est exactement le type de configuration qui invalide les raisonnements par simple concomitance chronologique. Heller-Sahlgren (Economics of Education Review, 2018) ajoute une nuance importante mais opposée en termes de bien-être : il documente un arbitrage entre efficacité et bien-être des élèves associé à la concurrence des écoles indépendantes (« Smart but unhappy »).",
+   "conditions": "Transposabilité quasi nulle en l'état. L'effet identifié dépend d'un dispositif institutionnel précis — chèque scolaire, opérateurs à but lucratif, libre choix intégral, financement suivant l'élève — qui n'existe nulle part en Belgique francophone. La liberté d'enseignement belge organise des réseaux subventionnés à financement encadré, pas un marché d'opérateurs. Citer la Suède pour ou contre les réseaux belges est une erreur de catégorie.",
+   "contested": "Vivement contesté, dans les deux sens, et il faut le dire. (1) Contre la thèse « le marché a cassé l'école suédoise » : Böhlmark & Lindahl trouvent l'inverse. (2) Contre Böhlmark & Lindahl : leur identification repose sur la variation inter-communale, vulnérable au tri des familles entre communes ; et une réévaluation récente existe — Edmark, Hussain et Haelermans, « Unpacking the Impact of Voucher Schools: Evidence from Sweden » (2024) — dont je n'ai PAS pu consulter les résultats et que je ne peux donc pas résumer ; il serait malhonnête de lui prêter une conclusion. (3) La critique la plus fréquente porte moins sur le niveau moyen que sur la SÉGRÉGATION et la comparabilité des notes entre établissements, qui sont des questions distinctes de celle du niveau moyen et qui ne sont pas tranchées par cette étude.",
+   "sources": [
+    {
+     "author": "Anders Böhlmark, Mikael Lindahl",
+     "org": "Economica",
+     "title": "Independent Schools and Long-run Educational Outcomes: Evidence from Sweden's Large-scale Voucher Reform",
+     "year": "2015",
+     "url": "https://doi.org/10.1111/ecca.12130"
+    },
+    {
+     "author": "Gabriel Heller-Sahlgren",
+     "org": "Economics of Education Review",
+     "title": "Smart but unhappy: Independent-school competition and the wellbeing-efficiency trade-off in education",
+     "year": "2018",
+     "url": "https://doi.org/10.1016/j.econedurev.2017.10.005"
+    },
+    {
+     "author": "Karin Edmark, Iftikhar Hussain, Carla Haelermans",
+     "org": "SSRN",
+     "title": "Unpacking the Impact of Voucher Schools: Evidence from Sweden",
+     "year": "2024",
+     "url": "https://doi.org/10.2139/ssrn.4757408"
+    }
+   ]
+  },
+  {
+   "claim": "L'inflation des notes est un problème réel du système suédois, mais elle n'explique PAS la baisse PISA : l'agence nationale a vérifié en 2025 que les résultats PISA restent étroitement cohérents avec les notes scolaires et les épreuves nationales.",
+   "what_it_is": "Deux questions à ne pas confondre. (a) Les notes suédoises sont-elles devenues plus généreuses au fil du temps, notamment sous la pression concurrentielle entre établissements ? (b) Cette générosité pourrait-elle expliquer que PISA baisse ? La réponse à (b) est négative selon le test conduit par Skolverket, et c'est un résultat important pour éviter un argument commode mais faux.",
+   "evidence_level": "descriptif / corrélationnel — appariement au niveau des élèves entre résultats PISA, notes scolaires et épreuves nationales, réalisé par l'agence nationale sur deux cycles (2018 et 2022)",
+   "effect_size": "Non chiffrée en taille d'effet standardisée. Résultats rapportés par Skolverket : les résultats PISA 2022 concordent « dans une large mesure » avec les notes et les épreuves nationales en suédois, mathématiques et sciences ; les élèves mieux notés obtiennent de meilleurs résultats et atteignent des niveaux de compétence plus élevés. La comparaison 2018 vs 2022 montre que la répartition entre échelons de notes est restée « globalement stable » alors que la moyenne PISA en mathématiques et en lecture diminuait — et que cette diminution était particulièrement marquée chez les élèves ayant de BONNES notes. Skolverket conclut que « PISA comme les indicateurs nationaux de connaissances restent des indicateurs stables du niveau de connaissances des élèves ».",
+   "concrete_practice": "Le dispositif est réplicable à faible coût et devrait être une routine de tout système qui dispose d'une évaluation externe : apparier, au niveau de l'élève, les résultats à l'épreuve internationale, les notes délivrées par l'école et les résultats aux épreuves standardisées nationales, puis suivre la dérive de l'écart entre les trois d'un cycle à l'autre. C'est le seul moyen de détecter une inflation des notes sans accuser à l'aveugle.",
+   "concrete_example": "Skolverket publie en 2025 le rapport « PISA 2022 och betygen », qui appareille les résultats PISA 2022 aux notes et aux épreuves nationales suédoises et reproduit l'exercice sur PISA 2018 pour mesurer la dérive. Le rapport produit aussi une découverte plus dérangeante : à note égale, les performances PISA diffèrent selon le sexe, l'origine migratoire et les facteurs socio-économiques — ce qui signifie, écrit l'agence, que « le système de notation et PISA fonctionnent en partie différemment pour différents groupes d'élèves », qu'ils mesurent en partie des choses différentes ou sont affectés différemment par le format d'épreuve, la motivation ou les attentes de l'enseignant. C'est un résultat d'équité, pas seulement de mesure : la note scolaire n'est pas neutre selon l'origine de l'élève.",
+   "conditions": "Cette vérification n'est possible que si le système dispose (a) d'une épreuve externe standardisée nationale et (b) d'un identifiant permettant l'appariement au niveau élève, dans le respect de la protection des données. C'est exactement l'usage que devrait avoir une évaluation externe généralisée : servir d'étalon de la notation interne, pas de classement d'écoles.",
+   "contested": "Le point contesté est ailleurs : la littérature suédoise documente par ailleurs des biais de notation avérés. Hinnerich, Höglin et Johannesson montrent, par comparaison entre correction locale et correction anonyme de copies, une discrimination de notation contre les élèves d'origine étrangère dans les lycées publics suédois (Education Economics, 2014) et examinent la question symétrique pour les garçons (Economics of Education Review, 2011). Jonas Vlachos a par ailleurs développé une critique documentée de l'évaluation « fondée sur la confiance » dans un système scolaire orienté marché (chapitre dans Neoliberalism and Market Forces in Education, 2019). Autrement dit : l'inflation et le biais de notation sont réels et documentés ; ce qui n'est PAS documenté, c'est qu'ils expliquent le décrochage PISA — et les données de Skolverket suggèrent le contraire. Utiliser l'inflation des notes comme explication du déclin serait une conjecture contredite par la source primaire.",
+   "sources": [
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "PISA 2022 och betygen",
+     "year": "2025",
+     "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/rapporter/2025/pisa-2022-och-betygen"
+    },
+    {
+     "author": "Björn Tyrefors Hinnerich, Erik Höglin, Magnus Johannesson",
+     "org": "Education Economics",
+     "title": "Discrimination against students with foreign backgrounds: evidence from grading in Swedish public high schools",
+     "year": "2014",
+     "url": "https://doi.org/10.1080/09645292.2014.899562"
+    },
+    {
+     "author": "Björn Tyrefors Hinnerich, Erik Höglin, Magnus Johannesson",
+     "org": "Economics of Education Review",
+     "title": "Are boys discriminated in Swedish high schools?",
+     "year": "2011",
+     "url": "https://doi.org/10.1016/j.econedurev.2011.02.007"
+    },
+    {
+     "author": "Jonas Vlachos",
+     "org": "Routledge",
+     "title": "Trust-based evaluation in a market-oriented school system (in Neoliberalism and Market Forces in Education)",
+     "year": "2019",
+     "url": "https://doi.org/10.4324/9780429470530-15"
+    }
+   ]
+  },
+  {
+   "claim": "La Cour des comptes suédoise a établi en 2021 que l'explication migratoire avancée par l'agence nationale, l'OCDE et le gouvernement pour justifier la faible participation à PISA 2018 n'était PAS valide — un système qui décroche a une tentation documentée de piloter son échantillon plutôt que ses résultats.",
+   "what_it_is": "L'audit indépendant de la participation suédoise à PISA 2018, centré sur les exclusions d'élèves et la non-réponse. En PISA, une école peut exclure certains élèves (handicap, maîtrise insuffisante de la langue d'enseignement depuis moins d'un an) ; un taux d'exclusion élevé gonfle mécaniquement le score moyen national. Les résultats PISA étaient utilisés comme indicateur-cible dans le projet de loi de finances suédois, ce qui crée une incitation directe.",
+   "evidence_level": "audit institutionnel indépendant d'une autorité de contrôle (Riksrevisionen, rapport de contrôle RiR 2021:12), avec suites parlementaires — pas une étude académique, mais une constatation officielle contradictoire",
+   "effect_size": "Taux d'exclusion suédois en PISA 2025 : 7,4 %, contre une moyenne OCDE de 4,9 % — soit une exclusion environ une fois et demie plus fréquente que la moyenne. Taux de réponse suédois 2025 : 88,4 % pour une moyenne OCDE de 88 %. Pour PISA 2018, l'audit ne chiffre pas une correction de score mais conclut à des « manquements » dans le suivi des exclusions par Skolverket et dans le traitement, par le gouvernement comme par l'agence, des soupçons d'irrégularité soulevés par les médias et par la commission de l'éducation du Parlement.",
+   "concrete_practice": "La pratique de contrôle qui en découle : publier systématiquement, à côté de tout score, le taux d'exclusion, le taux de réponse et la ventilation des MOTIFS d'exclusion, et confier la vérification à un organe extérieur à l'agence qui produit les résultats. L'audit note précisément que « la décision de Skolverket de ne plus ventiler séparément les motifs d'exclusion a rendu plus difficile le suivi d'exclusions éventuellement incorrectes ».",
+   "concrete_example": "Le 29 avril 2021, la Riksrevisionen publie « Pisa-undersökningen 2018 – arbetet med att säkerställa ett tillförlitligt elevdeltagande » (RiR 2021:12). Le passage décisif : « Skolverket, l'OCDE et le gouvernement ont soutenu que la faible participation de la Suède à l'enquête PISA était due à l'afflux de migrants dans les années précédant les épreuves. L'examen montre que ce n'est pas une explication valide. » Le rapport juge « grave » que ni le gouvernement ni l'agence n'aient donné suite de manière convaincante aux soupçons soulevés publiquement. L'affaire a donné lieu à une réponse écrite du gouvernement, à un rapport de la commission parlementaire de l'éducation et à un débat au Riksdag — traçable sur la page du rapport. Cinq ans plus tard, en 2025, la Suède exclut encore 7,4 % de ses élèves de 15 ans contre 4,9 % en moyenne OCDE.",
+   "conditions": "Ce mécanisme de dérive suppose deux ingrédients : un indicateur international utilisé comme cible politique (ici, dans le budget de l'État) et une agence qui est à la fois opératrice de l'enquête et évaluée par ses résultats. Séparer ces deux rôles est la condition de crédibilité. Cela vaut pour toute évaluation externe généralisée servant simultanément de mesure de performance du système.",
+   "contested": "L'audit a été contesté par les institutions visées au moment de sa publication (le rapport lui-même mentionne la réponse du gouvernement et les suites parlementaires) ; je n'ai pas pu consulter le détail de ces réponses et je ne peux donc pas restituer contradictoirement la position de Skolverket et de l'OCDE. Il faut aussi éviter une surinterprétation : l'audit constate des manquements de suivi et invalide une explication avancée, il n'établit PAS que le score suédois de 2018 était frauduleux, ni ne chiffre de correction. Enfin, un taux d'exclusion élevé peut aussi refléter une réalité de composition scolaire, et non une manipulation — c'est précisément pour trancher entre les deux que la ventilation des motifs est indispensable.",
+   "sources": [
+    {
+     "author": "Riksrevisionen",
+     "org": "Cour des comptes suédoise",
+     "title": "Pisa-undersökningen 2018 – arbetet med att säkerställa ett tillförlitligt elevdeltagande (RiR 2021:12)",
+     "year": "2021",
+     "url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2021/pisa-undersokningen-2018---arbetet-med-att-sakerstalla-ett-tillforlitligt-elevdeltagande.html"
+    },
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "Pisa 2025: Fortsatt nedgång för 15-åringar i Sverige och andra länder (taux d'exclusion et de réponse 2025)",
+     "year": "2026",
+     "url": "https://www.skolverket.se/om-skolverket/nyheter-och-pressmeddelanden/pressmeddelanden/pressmeddelanden/2026-09-08-pisa-2025-fortsatt-nedgang-for-15-aringar-i-sverige-och-andra-lander"
+    }
+   ]
+  },
+  {
+   "claim": "L'explication par la composition migratoire de l'échantillon ne tient pas pour la Finlande : les élèves issus de l'immigration représentent 7 % de l'échantillon finlandais et leurs scores n'ont pas évolué significativement entre 2022 et 2025 — la chute finlandaise est donc principalement une chute de la population non immigrée.",
+   "what_it_is": "Le test arithmétique de l'hypothèse de composition. Si la baisse d'un score national venait d'un changement de composition de la population scolaire, il faudrait que le groupe dont la part augmente soit à la fois nombreux et nettement moins performant. La Finlande permet de tester cela directement parce que le ministère publie la ventilation.",
+   "evidence_level": "descriptif — décomposition de l'échantillon national publiée par le ministère, arithmétique élémentaire ; pas de décomposition formelle type Oaxaca-Blinder identifiée",
+   "effect_size": "Finlande, PISA 2025 : 93 % d'élèves non issus de l'immigration, 3 % de deuxième génération, 4 % de première génération. Scores moyens en sciences : 517 (non immigrés), 444 (2e génération), 417 (1re génération) — un écart de 73 à 100 points, très large. Mais, précise le ministère, « par rapport à PISA 2022, aucun changement statistiquement significatif n'a été observé dans la performance d'AUCUN groupe ». La moyenne nationale a pourtant reculé. Élément supplémentaire : l'écart entre quartiles socio-économiques extrêmes en sciences est de 78 points en Finlande et « est resté inchangé sur le long terme », tandis que la seule baisse significative 2022->2025 concerne le quartile le plus FAVORISÉ (-12 points). En résolution computationnelle de problèmes, les écarts migratoires sont plus faibles (515 / 481 / 479).",
+   "concrete_practice": "La vérification opérationnelle tient en trois chiffres à publier ensemble à chaque cycle : la part de chaque groupe dans l'échantillon, le score moyen de chaque groupe, et l'évolution de chacun depuis le cycle précédent. Si les scores de chaque groupe sont stables et que la moyenne baisse, la composition explique la baisse. Si les scores baissent dans le groupe majoritaire, elle ne l'explique pas.",
+   "concrete_example": "Le communiqué OKM/Université de Jyväskylä du 8 septembre 2026 fournit un second cas d'école encore plus net, interne à la Finlande et sans aucune dimension migratoire : la performance en sciences des élèves des écoles de langue suédoise de Finlande chute de 526 en 2022 à 495 en 2025, soit -31 points en un seul cycle, et passe sous le niveau des écoles finnophones. Il s'agit d'une population historiquement stable, non immigrée, scolarisée dans un réseau linguistique établi — une chute de cette ampleur sur trois ans dans ce groupe ne peut être imputée ni à l'immigration ni à la composition de l'échantillon. À l'inverse, les mêmes élèves des écoles suédophones obtiennent 520 points en résolution computationnelle de problèmes contre 506 pour les finnophones, ce qui exclut aussi une explication par un effondrement général des capacités.",
+   "conditions": "La conclusion vaut pour la Finlande, pas mécaniquement ailleurs. Un pays dont la part d'élèves issus de l'immigration est beaucoup plus élevée, ou a beaucoup augmenté entre deux cycles, peut connaître un véritable effet de composition. Le test doit donc être refait pays par pays, cycle par cycle — et il exige que l'agence publie la ventilation, ce que toutes ne font pas.",
+   "contested": "Contesté principalement en Suède, où l'explication migratoire a été mobilisée officiellement — et invalidée sur le point précis de la participation à PISA 2018 par la Cour des comptes (voir élément précédent). Limite importante à signaler : je n'ai pas pu consulter d'analyse publiée quantifiant la PART de la baisse suédoise 2006-2015 attribuable aux changements de composition ; je crois me souvenir de travaux de Skolverket sur ce point dans les années 2016-2018, mais je n'ai pas pu les retrouver ni en vérifier les chiffres, et je refuse donc de les citer. Deuxième limite : la catégorie « issu de l'immigration » de PISA agrège des situations très hétérogènes (durée de séjour, langue parlée à la maison, statut) et un effet nul sur la moyenne du groupe peut masquer des évolutions opposées en son sein.",
+   "sources": [
+    {
+     "author": "Ministry of Education and Culture (Finland) / University of Jyväskylä",
+     "org": "OKM / JYU",
+     "title": "PISA 2025: Students in Finland still perform well above OECD average in science",
+     "year": "2026",
+     "url": "https://www.jyu.fi/en/news/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "Results from PISA 2025",
+     "year": "2026",
+     "url": "https://okm.fi/en/pisa-2025-en"
+    },
+    {
+     "author": "Riksrevisionen",
+     "org": "Cour des comptes suédoise",
+     "title": "Pisa-undersökningen 2018 – arbetet med att säkerställa ett tillförlitligt elevdeltagande (RiR 2021:12)",
+     "year": "2021",
+     "url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2021/pisa-undersokningen-2018---arbetet-med-att-sakerstalla-ett-tillforlitligt-elevdeltagande.html"
+    }
+   ]
+  },
+  {
+   "claim": "La ressource humaine se dégrade en amont des résultats : en Suède, 27 % des enseignants en poste n'étaient pas qualifiés pour la matière ou le niveau qu'ils enseignaient en 2023, et le nombre d'entrants en formation initiale recule — une pénurie qui persiste malgré une baisse démographique importante.",
+   "what_it_is": "La projection officielle de l'offre et du besoin d'enseignants (lärarprognosen) produite par Skolverket sur la période 2024-2038, et la mesure du taux d'enseignants titulaires du titre requis (behöriga lärare). Cet indicateur mesure la capacité de mise en œuvre de toute réforme pédagogique : un curriculum exigeant appliqué par un corps enseignant non qualifié produit un curriculum non appliqué.",
+   "evidence_level": "projection statistique officielle fondée sur les flux démographiques, d'entrée en formation, de diplomation et de sortie du métier — descriptif et prospectif, pas causal",
+   "effect_size": "Suède, toutes formes scolaires hors préscolaire et périscolaire : 73 % d'enseignants qualifiés en 2023, soit environ 25 000 équivalents temps plein en poste nécessitant une formation complémentaire pour être qualifiés dans la matière ou le niveau qu'ils enseignent. Déficit projeté de ~10 600 enseignants et éducateurs préscolaires qualifiés à l'horizon 2038, malgré une forte baisse attendue du besoin liée à la démographie. Besoin de diplomation 2024-2038 : ~145 100 ; diplomation attendue : ~134 500. Pour combler l'écart il faudrait 1 000 entrants supplémentaires par an en formation initiale (+7 %), et surtout +80 % d'entrants en formation d'enseignant spécialisé et +70 % en formation d'enseignant professionnel. Besoin total de recrutement : 124 000 ETP, dont la moitié dans les trois régions métropolitaines (Stockholm, Västra Götaland, Skåne).",
+   "concrete_practice": "Trois leviers apparaissent dans la projection elle-même : augmenter les entrées en formation initiale (levier lent, 4 à 5 ans avant effet) ; requalifier les enseignants en poste non titrés (levier direct sur 25 000 ETP, mais coûteux en temps de décharge) ; retenir ceux qui partent — Skolverket identifie explicitement qu'« une proportion plus faible d'enseignants choisit de rester à l'école ou de revenir au métier », particulièrement chez les enseignants préscolaires.",
+   "concrete_example": "La lärarprognos 2024-2038 de Skolverket décompose le déficit par catégorie et par région et met en évidence une asymétrie décisive pour l'action publique : les catégories en déficit sont les enseignants préscolaires, les enseignants professionnels, les enseignants spécialisés et les enseignants du secondaire inférieur (années 7-9), tandis qu'il y aura un EXCÉDENT d'enseignants de périscolaire et de pédagogues spécialisés. Autrement dit la pénurie n'est pas globale, elle est structurellement concentrée sur les fonctions les plus difficiles. Côté danois, le ministère annonce en septembre 2026, parmi ses réponses à PISA 2025, « une action ciblée pour retenir et recruter davantage d'enseignants pour la folkeskole », signe que la même tension existe.",
+   "conditions": "L'indicateur de qualification n'a de sens que rapporté au contenu réel enseigné : un enseignant titré dans une discipline voisine n'est pas dans la même situation qu'un enseignant sans aucune formation pédagogique. Par ailleurs, la baisse des cohortes d'élèves — que la Suède anticipe comme forte — est une fenêtre d'opportunité budgétaire rare : elle permet en principe d'améliorer la qualification à effectif constant, ce que la projection montre précisément ne pas se produire spontanément.",
+   "contested": "Le lien entre qualification enseignante et résultats des élèves n'est PAS établi de façon univoque dans la littérature, et il ne faut pas le présumer. Un travail suédois, Myrberg (Educational Studies, 2007), examine spécifiquement l'effet de la formation initiale formelle des enseignants sur les résultats en lecture des élèves de 3e année dans les écoles publiques et indépendantes suédoises — je n'ai pas pu en lire les résultats détaillés et ne peux donc pas en résumer la conclusion. De façon générale, la littérature internationale sur les diplômes enseignants trouve des effets faibles ou nuls, tandis que les effets de la QUALITÉ enseignante mesurée sur la valeur ajoutée sont importants : diplôme et qualité ne sont pas la même chose. La projection suédoise mesure des titres, pas de la compétence — c'est sa limite intrinsèque.",
+   "sources": [
+    {
+     "author": "Skolverket",
+     "org": "Skolverket",
+     "title": "Lärarprognosen 2024–2038",
+     "year": "2024",
+     "url": "https://www.skolverket.se/statistik-och-utvarderingar/uppfoljning-och-utvardering/lararprognosen"
+    },
+    {
+     "author": "Undervisningsministeriet",
+     "org": "Ministère danois de l'Éducation",
+     "title": "PISA-undersøgelse: Danske elevers faglige niveau er lavere end nogensinde målt før (initiatives gouvernementales)",
+     "year": "2026",
+     "url": "https://www.uvm.dk/aktuelt/nyheder/2026/september/260908-pisa-undersoegelse-danske-elevers-faglige-niveau-er-lavere-end-nogensinde-maalt-foer/"
+    },
+    {
+     "author": "Eva Myrberg",
+     "org": "Educational Studies",
+     "title": "The effect of formal teacher education on reading achievement of 3rd-grade students in public and independent schools in Sweden",
+     "year": "2007",
+     "url": "https://doi.org/10.1080/03055690601068311"
+    }
+   ]
+  },
+  {
+   "claim": "Les quatre pays sont tous en train de corriger la même chose, dans le même sens et presque au même moment : resserrer le curriculum sur les savoirs fondamentaux, rendre le contenu explicite et concret, restaurer le support papier et l'attention en classe — c'est le signal le plus exploitable de toute l'étude de cas.",
+   "what_it_is": "La convergence des paquets correctifs adoptés entre 2023 et 2026 par la Finlande, le Danemark, les Pays-Bas et la Suède. Elle est intéressante non parce qu'elle prouve quoi que ce soit — aucune de ces mesures n'a encore d'évaluation — mais parce que quatre administrations disposant chacune de leurs propres données ont convergé indépendamment vers le même diagnostic implicite : le problème est le contenu et l'attention, pas les structures.",
+   "evidence_level": "descriptif — décisions de politique publique documentées, sans aucune évaluation d'impact disponible à ce jour",
+   "effect_size": "Aucune taille d'effet disponible : ces réformes sont trop récentes. Les volumes engagés sont en revanche chiffrés. Finlande : +3 périodes hebdomadaires annuelles dans le fondamental à partir du 1er août 2025 (2 en langue maternelle et littérature en années 1-2, 1 en mathématiques en années 3-6), « sans élargir le curriculum national » ; 200 M€ pour l'enseignement fondamental ; ~50 M€ par an de discrimination positive sur 2024-2026 ; interdiction des téléphones en classe au 1er août 2025. Danemark : 540 M DKK de manuels scolaires 2025-2034 plus 50 M DKK supplémentaires pour jusqu'à 200 000 livres physiques ; projet dédié à partir de la rentrée 2027 visant un redressement marqué dans les 100 écoles où les élèves réussissent le plus mal en danois et en mathématiques. Pays-Bas : nombre d'objectifs terminaux (kerndoelen) « fortement réduit » à 40 pour le primaire et 45 pour le secondaire inférieur.",
+   "concrete_practice": "Le mouvement commun, exprimé en termes de classe : moins d'objectifs mais plus précis, pour que l'enseignant sache ce qu'il doit faire acquérir ; du temps supplémentaire concentré sur lire-écrire-compter aux niveaux où ces apprentissages se jouent ; un support matériel stable (le manuel) au lieu d'un assemblage de ressources numériques hétérogènes ; un environnement de classe sans appareil concurrent de l'attention ; et un ciblage explicite des établissements les plus en difficulté plutôt qu'un saupoudrage.",
+   "concrete_example": "Pays-Bas, 21 novembre 2025 : lors du congrès du SLO (centre national d'expertise pour le curriculum), le secrétaire d'État Koen Becking reçoit les derniers objectifs terminaux révisés (Homme et Société, Homme et Nature, langues modernes, Arts et Culture, Mouvement et Sport), après ceux déjà publiés pour le néerlandais, le calcul et les mathématiques, la citoyenneté, la littératie numérique et la langue des signes. Le dispositif est daté et séquencé : les kerndoelen renforcés de néerlandais et de mathématiques entrent en vigueur le 1er août 2026, les autres domaines le 1er août 2027, et toutes les écoles doivent avoir adapté leur offre au plus tard en août 2031. Le nombre d'objectifs est passé à 40 pour le primaire et 45 pour le secondaire inférieur. Becking en donne la justification opérationnelle : les objectifs « sont plus contemporains et plus concrets et empêchent en même temps que le programme soit surchargé. Les objectifs sont fixes, mais l'enseignant et l'école déterminent eux-mêmes comment les appliquer. » Jindra Divis (SLO) souligne la méthode : objectifs coconstruits avec enseignants, directions, experts disciplinaires et experts curriculaires.",
+   "conditions": "Trois conditions ressortent de la manière même dont ces pays procèdent. (a) Le calendrier est long et explicite : les Pays-Bas donnent cinq ans (2026-2031) pour la mise en conformité, ce qui suppose une continuité politique sur au moins deux législatures. (b) Le resserrement du curriculum est distingué de son alourdissement : la Finlande ajoute des heures « sans élargir le curriculum national », les Pays-Bas réduisent le nombre d'objectifs — les deux vont dans le même sens, davantage de temps sur moins de contenus. (c) Le ciblage des écoles les plus faibles (Danemark, 100 écoles) est un choix de concentration des moyens, pas de répartition — politiquement coûteux mais budgétairement réaliste sous contrainte.",
+   "contested": "Aucune de ces mesures n'est évaluée, et il faut le dire nettement : présenter le paquet nordico-néerlandais comme une recette validée serait exactement l'erreur qui a conduit l'Europe à copier la Finlande en 2010. Trois réserves précises. (1) Le ministre finlandais Adlercreutz reconnaît lui-même que « l'impact de ces mesures sur les résultats d'apprentissage mettra du temps à devenir visible ». (2) Ajouter des heures est la mesure la plus coûteuse et la moins bien établie de toutes : je n'ai identifié aucune évaluation de l'effet des 3 périodes finlandaises. (3) Le retour au manuel papier danois est cohérent avec la littérature sur l'attention mais n'a fait l'objet d'aucun essai contrôlé à l'échelle d'un système ; c'est une décision de bon sens administratif, pas un résultat scientifique. Enfin, ces quatre pays corrigent dans un contexte où leur niveau absolu reste supérieur ou égal à la moyenne OCDE : rien ne garantit que le même paquet produise le même effet dans un système parti d'un niveau plus bas.",
+   "sources": [
+    {
+     "author": "Rijksoverheid (Koen Becking, SLO)",
+     "org": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+     "title": "Belangrijke mijlpaal in herziening curriculum met laatste kerndoelen",
+     "year": "2025",
+     "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/11/21/belangrijke-mijlpaal-in-herziening-curriculum-met-laatste-kerndoelen"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "Minister of Education Henriksson: Improving students' basic skills by introducing more lessons and restructuring support measures",
+     "year": "2023",
+     "url": "https://okm.fi/en/-/minister-of-education-henriksson-improving-students-basic-skills-by-introducing-more-lessons-and-restructuring-support-measures"
+    },
+    {
+     "author": "Ministry of Education and Culture (Finland)",
+     "org": "OKM",
+     "title": "Restrictions to be placed on the use of phones and mobile devices in schools",
+     "year": "2024",
+     "url": "https://okm.fi/en/-/restrictions-to-be-placed-on-the-use-of-phones-and-mobile-devices-in-schools"
+    },
+    {
+     "author": "Undervisningsministeriet",
+     "org": "Ministère danois de l'Éducation",
+     "title": "PISA-undersøgelse: Danske elevers faglige niveau er lavere end nogensinde målt før",
+     "year": "2026",
+     "url": "https://www.uvm.dk/aktuelt/nyheder/2026/september/260908-pisa-undersoegelse-danske-elevers-faglige-niveau-er-lavere-end-nogensinde-maalt-foer/"
+    },
+    {
+     "author": "Inspectie van het Onderwijs",
+     "org": "Inspectie van het Onderwijs",
+     "title": "De Staat van het Onderwijs 2026",
+     "year": "2026",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/04/15/rapport-de-staat-van-het-onderwijs-2026"
+    }
+   ]
+  },
+  {
+   "claim": "Les Pays-Bas illustrent le cas le plus spécifique et le plus utile pour la FWB : un système qui reste excellent en mathématiques tout en produisant 39 % de lecteurs sous le seuil de compétence — la démonstration qu'un effondrement disciplinaire ciblé peut coexister avec une performance générale honorable.",
+   "what_it_is": "La dissociation néerlandaise entre domaines. En 2025, seuls 9 pays sur 91 font mieux que les Pays-Bas en mathématiques, mais 34 font mieux en lecture. La compétence en lecture s'érode de façon continue tandis que les sciences et les mathématiques sont stables. C'est une configuration différente du déclin général nordique et elle change le diagnostic : le problème est disciplinaire, pas systémique.",
+   "evidence_level": "descriptif — résultats nationaux PISA 2025 publiés par le consortium universitaire néerlandais responsable de l'enquête (Universiteit Twente / RUG)",
+   "effect_size": "Pays-Bas, élèves de 15 ans, PISA 2025 : 39 % sous le niveau 2 en lecture, contre « un tiers » en 2022 — soit environ +6 points de pourcentage en un cycle. En mathématiques, 30 % sous le niveau 2 mais 13 % au niveau 5 ou plus (les Pays-Bas figurent parmi les 13 pays dépassant 10 % de très bons élèves en mathématiques). En sciences, 27 % sous le niveau 2 et 7 % de très bons. En lecture, seulement 4 % de très bons lecteurs. Satisfaction de vie déclarée : 7,6 en 2025 contre 7,3 en 2022 — en hausse, et au-dessus de la moyenne des 14 pays de l'UE participants depuis 2006 (« EU14 »).",
+   "concrete_practice": "Ce diagnostic impose un traitement disciplinaire et non structurel : enseignement structuré de la lecture, temps de lecture protégé, vocabulaire et savoirs disciplinaires, et un pilotage par objectifs explicites. C'est précisément ce que l'Inspection néerlandaise reproche au terrain de ne pas faire : elle constate que « les conseils d'administration, écoles et formations ont encore peu d'objectifs CONCRETS en matière de compétences de base, alors que ce sont justement des objectifs concrets qui permettent de vérifier si l'approche produit l'effet souhaité ».",
+   "concrete_example": "Aux Pays-Bas, l'Inspection de l'enseignement a créé, à compter du 1er août 2023, une norme d'inspection dédiée aux compétences de base (standard « Basisvaardigheden », OP0) dans ses cadres d'inspection : elle examine le curriculum de néerlandais, de calcul-mathématiques et de citoyenneté, vérifie que l'école fait des choix conscients dans la planification et l'exécution de ce curriculum, puis contrôle si cela se retrouve effectivement DANS LA CLASSE. C'est un dispositif d'observation à deux niveaux — document puis pratique observée — déployé sur l'ensemble du primaire, du secondaire et de l'enseignement spécialisé. Trois ans plus tard, le rapport « De Staat van het Onderwijs 2026 » (15 avril 2026, 148 pages) conclut que « la qualité de l'enseignement est sous pression », avec de grandes différences entre secteurs et entre régions, et que « trop souvent une bonne assurance qualité fait défaut » ; l'Inspection y insiste sur le rôle central des directions d'établissement et des conseils d'administration.",
+   "conditions": "Ce mode de pilotage suppose une inspection dotée d'un cadre normatif explicite et du droit d'observer la classe — condition que la Finlande ne remplit pas depuis la suppression de son inspection en 1991. Il suppose aussi que l'objectif soit formulé de manière vérifiable au niveau de l'établissement : l'Inspection néerlandaise identifie l'absence d'objectifs concrets comme le principal obstacle, ce qui est un avertissement direct pour tout système fonctionnant par contrats d'objectifs.",
+   "contested": "Deux réserves. (1) La norme Basisvaardigheden n'a fait l'objet d'aucune évaluation d'impact : elle est en place depuis août 2023 et la lecture néerlandaise a CONTINUÉ de baisser en 2025 — soit le délai est trop court, soit le dispositif est insuffisant, et rien ne permet de trancher. (2) L'amélioration simultanée du bien-être déclaré (7,3 -> 7,6) pendant que la lecture s'effondre contredit frontalement l'hypothèse d'un lien mécanique entre bien-être scolaire et performance : les élèves néerlandais déclarent aussi un sentiment d'appartenance plus fort et moins de harcèlement que la moyenne EU14. Toute note qui invoquerait « le mal-être des élèves » comme cause du décrochage devrait expliquer ce cas. (3) Je n'ai pas pu accéder au rapport « Resultaten PISA-2025 in vogelvlucht » lui-même (accès bloqué) : les chiffres ci-dessus proviennent de la page de présentation officielle du consortium, pas du rapport complet.",
+   "sources": [
+    {
+     "author": "PISA-Nederland (Universiteit Twente / Rijksuniversiteit Groningen)",
+     "org": "PISA Nederland",
+     "title": "PISA-2025: Nog geen tekenen van herstel in prestaties Nederlandse 15-jarigen",
+     "year": "2026",
+     "url": "https://www.pisa-nederland.nl/pisa-2025/"
+    },
+    {
+     "author": "Inspectie van het Onderwijs",
+     "org": "Inspectie van het Onderwijs",
+     "title": "Basisvaardigheden – standaard Basisvaardigheden (OP0) in de onderzoekskaders",
+     "year": "2023",
+     "url": "https://www.onderwijsinspectie.nl/onderwerpen/basisvaardigheden"
+    },
+    {
+     "author": "Inspectie van het Onderwijs",
+     "org": "Inspectie van het Onderwijs",
+     "title": "Rapport De Staat van het Onderwijs 2026",
+     "year": "2026",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/04/15/rapport-de-staat-van-het-onderwijs-2026"
+    },
+    {
+     "author": "PISA-Nederland",
+     "org": "Universiteit Twente",
+     "title": "Resultaten (aperçu des rapports PISA néerlandais 2003-2025)",
+     "year": "2026",
+     "url": "https://www.pisa-nederland.nl/resultaten/"
+    }
+   ]
+  }
+ ]
+}

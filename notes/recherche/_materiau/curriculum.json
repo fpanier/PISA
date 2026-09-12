@@ -1,0 +1,421 @@
+{
+ "topic": "Curriculum, programmes et manuels : ce que la preuve établit, ce qu'elle ne soutient pas",
+ "headline": "Le curriculum est un levier réel mais mal calibré par le discours dominant : changer le manuel seul produit des effets faibles ou nuls et mal répliqués, alors que le « paquet » complet — référentiel resserré, matériel pédagogique séquencé pour l'enseignant, formation adossée à ce matériel et évaluation formative rapide — est l'un des rares dispositifs à afficher des effets robustes à grande échelle et à coût marginal quasi nul.",
+ "searches_run": 16,
+ "transposability_fwb": "Ce qui se transpose le mieux : (1) le principe du « paquet structuré » (référentiel resserré + matériel séquencé pour l'enseignant + formation adossée à ce matériel + évaluation formative à cycle court), qui ne suppose aucun pilotage centralisé des méthodes et respecte donc la liberté d'enseignement : la FWB fixe déjà les référentiels du tronc commun (approuvés le 22/06/2022, déploiement M1 2020-21 → S3 2028-29) et laisse les programmes aux pouvoirs organisateurs ; le levier consiste à professionnaliser la chaîne référentiel → programmes de réseau → ressources → formation, non à imposer un manuel unique. (2) Le resserrement et la cohérence verticale (Schmidt), qui sont des choix d'écriture de référentiel, sans coût budgétaire. (3) La collecte de données sur ce qui est réellement utilisé en classe : la FWB dispose déjà d'un dispositif d'agrément des manuels et outils pédagogiques et de la plateforme e-classe (1 205 ressources, 8 consortiums scientifiques, 36 chercheurs) — l'infrastructure existe, mais rien n'indique qu'on sache quels supports sont employés ni avec quels résultats, ce qui est exactement le diagnostic de Chingos & Whitehurst.\nCe qui ne se transpose pas tel quel : (a) les tailles d'effet de la « structured pedagogy » (0,44 ET médian en pays à revenu faible ou intermédiaire contre 0,22 ET aux États-Unis, Piper & Dubeck 2024) sont obtenues à partir de niveaux de départ très bas et avec des enseignants souvent peu formés ; dans un système où les enseignants sont diplômés du supérieur, l'effet attendu est au mieux de l'ordre de 0,1–0,2 ET, et le scriptage détaillé serait perçu comme une dépossession professionnelle — le rapport du GEEAP lui-même recommande « une version moins structurée lorsque les enseignants ont de fortes connaissances disciplinaires ». (b) Tusome (Kenya) et Sobral (Brésil) supposent une autorité unique capable d'imposer matériel, formation et coaching à l'ensemble des écoles : Sobral est une commune de 85 écoles et 34 000 élèves pilotée par un maire et une secrétaire à l'éducation ; la FWB compte 2 600 écoles réparties entre réseaux concurrents. Le mécanisme transposable y est l'alignement (matériel–formation–évaluation), pas le commandement. (c) Les résultats des écoles Core Knowledge (Grissmer et al. 2023) viennent d'écoles sous contrat (charters) choisies par les familles, dans des districts majoritairement aisés — un contexte de quasi-marché scolaire que la FWB connaît partiellement, mais avec un biais de sélection que l'étude ne dissipe pas entièrement. (d) L'argument « allonger le temps scolaire » est le plus faible du dossier et le plus coûteux : dans un système à déficit de 1,5 Md EUR, la marge est dans la qualité d'usage du temps existant (cf. Chicago : doubler le temps d'algèbre n'a relevé les scores que de 0,09 ET mais la diplomation de 9,8 points), pas dans son volume. (e) Enfin, l'expérience américaine du relèvement des attentes (Common Core) doit servir d'avertissement direct au Pacte : sept ans après l'adoption, les effets estimés sur les acquis sont nuls à négatifs (−0,10 à −0,06 ET en lecture 4e année) — un nouveau référentiel non accompagné de ressources et de formation ne produit pas d'apprentissages.",
+ "items": [
+  {
+   "claim": "La thèse fondatrice selon laquelle le choix des supports pédagogiques aurait un effet « rivalisant » avec celui de la qualité de l'enseignant repose sur un seul essai randomisé et sur un seul contraste de 0,17 écart-type — le seul qui survive à la correction pour comparaisons multiples. La thèse est plausible mais bien plus fragile que sa notoriété.",
+   "what_it_is": "Le rapport Choosing Blindly (Brookings, 2012) soutient que les manuels et matériels d'enseignement ont des effets importants sur les acquis, qu'aucun système ne sait lesquels sont efficaces, et qu'améliorer ce choix serait « facile, peu coûteux et rapide » par rapport à l'amélioration de la qualité enseignante.",
+   "evidence_level": "Rapport de plaidoyer s'appuyant sur un essai randomisé en grappes (Agodini et al. 2010, financé par l'Institute of Education Sciences)",
+   "effect_size": "0,17 écart-type (élèves de 2e année, Saxon Math vs Scott Foresman-Addison Wesley) ; les auteurs comparent ce chiffre aux 0,08–0,11 ET attribués à un enseignant du 75e percentile et aux 0,15 ET en mathématiques de l'effet Teach For America. Dans l'essai lui-même : 0,11 ET en 1re année (Math Expressions vs Investigations et vs SFAW), 0,12 et 0,17 ET en 2e année (Math Expressions et Saxon vs SFAW).",
+   "concrete_practice": "Les autorités éducatives sont invitées à collecter auprès des écoles la liste des manuels réellement utilisés, à croiser ces données avec les résultats d'évaluations et à publier des estimations d'efficacité comparée, pour que le choix du manuel devienne une décision informée et non « à l'aveugle ».",
+   "concrete_example": "L'essai d'Agodini et al. : 110 écoles primaires réparties dans 12 districts américains, majoritairement des écoles Title I à public défavorisé, recrutées parmi 473 districts contactés. Les écoles ont été assignées aléatoirement, à l'intérieur de chaque district, à l'un de quatre curricula complets de mathématiques (Investigations in Number, Data and Space ; Math Expressions ; Saxon Math ; Scott Foresman-Addison Wesley) — chacun comprenant manuel, matériel annexe et formation des enseignants par l'éditeur. Cohorte 1 (39 écoles, 2006-2007) en 1re année ; cohorte 2 (71 écoles, 2007-2008) en 1re et 2e années. Environ 27 écoles, 116 classes et 1 180 élèves par curriculum en 1re année. 99 % des enseignants déclarent utiliser le curriculum assigné comme curriculum principal et 88 % ont couvert au moins 80 % des leçons. Coût de l'essai : environ 21 millions de dollars.",
+   "conditions": "Le résultat suppose des curricula complets (manuel + matériel + formation éditeur), une mise en œuvre effective mesurée, et un contraste entre supports réellement différents. Il ne dit rien de l'écart entre « avoir un bon manuel » et « ne rien avoir » : l'essai ne comportait aucun groupe témoin restant à ses pratiques habituelles, ce que les auteurs reconnaissent explicitement.",
+   "contested": "Très contesté, y compris par les données mêmes de l'essai. (1) L'effet s'est effondré à la réplication interne : dans le premier rapport (39 écoles) l'écart Math Expressions/Saxon vs Investigations était de 0,30 ET et de 0,24 ET vs SFAW ; sur l'échantillon complet il tombe à 0,11 ET. (2) Après ajustement pour les six comparaisons deux à deux possibles, un seul contraste reste significatif : Saxon vs SFAW, 0,17 ET en 2e année — c'est précisément le chiffre que Chingos et Whitehurst mettent en avant. (3) Les auteurs de l'essai précisent que « les effets relatifs des curricula reflètent toutes les différences entre curricula, y compris la formation des enseignants » : ce n'est donc pas un effet du manuel seul. (4) L'échantillon est composé d'écoles défavorisées volontaires (12 districts sur 473 contactés), ce qui limite fortement la généralisation.",
+   "sources": [
+    {
+     "author": "Matthew M. Chingos, Grover J. Whitehurst",
+     "title": "Choosing Blindly: Instructional Materials, Teacher Effectiveness, and the Common Core",
+     "org": "Brookings Institution",
+     "year": "2012",
+     "url": "https://www.brookings.edu/wp-content/uploads/2016/06/0410_curriculum_chingos_whitehurst.pdf"
+    },
+    {
+     "author": "Roberto Agodini, Barbara Harris, Sally Atkins-Burnett, Sheila Heaviside, Timothy Novak",
+     "title": "Achievement Effects of Four Early Elementary School Math Curricula: Findings for First and Second Graders (NCEE 2011-4001)",
+     "org": "National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education",
+     "year": "2010",
+     "url": "https://files.eric.ed.gov/fulltext/ED512551.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "À l'échelle d'un État entier et hors expérimentation, l'écart d'efficacité entre manuels de mathématiques existe mais est modeste : 0,05 à 0,08 écart-type entre le meilleur et les trois autres manuels les plus diffusés — un gain réel parce qu'il est obtenu à coût marginal nul, mais dix fois inférieur à ce que le discours sur le curriculum laisse entendre.",
+   "what_it_is": "Étude quasi-expérimentale d'appariement comparant les résultats des écoles californiennes selon le manuel de mathématiques adopté, sur la période post-adoption d'une liste d'État.",
+   "evidence_level": "Quasi-expérimental (appariement sur caractéristiques d'école et de district, tests de falsification sur les cohortes antérieures à l'adoption)",
+   "effect_size": "0,05 à 0,08 écart-type au niveau élève, au test d'État de mathématiques de 3e année, en faveur de California Math (Houghton Mifflin) par rapport aux trois autres manuels ; effets positifs également retrouvés en 5e année.",
+   "concrete_practice": "Un État publie une liste de manuels approuvés ; les districts choisissent dans cette liste (ou hors liste) au moment des cycles d'adoption. L'étude exploite le fait que des districts par ailleurs comparables ont retenu des manuels différents.",
+   "concrete_example": "Koedel, Li, Polikoff, Hardaway et Wrabel ont constitué un échantillon final de 1 878 écoles élémentaires californiennes ayant utilisé l'un des quatre manuels les plus répandus entre 2008-09 et 2012-13. Les auteurs soulignent que l'écart est « éducativement significatif, d'autant qu'il s'agit d'un effet à l'échelle de l'école et qu'il s'obtient à un coût marginal effectivement nul » : remplacer un manuel par un autre coûte le même prix.",
+   "conditions": "Suppose (a) qu'il existe une liste d'État et donc une information centralisée sur les adoptions, (b) que les manuels comparés soient suffisamment différents, (c) que le choix du manuel ne soit pas corrélé à des caractéristiques non observées des écoles. Le gain est conditionnel à ce que les enseignants utilisent effectivement le manuel adopté.",
+   "contested": "Sérieusement contesté. (1) Le What Works Clearinghouse classe cette étude « Does Not Meet Evidence Standards ». (2) Morgan Polikoff, coauteur, a lui-même écrit en 2018 que dans des analyses non publiées portant sur d'autres disciplines (sciences), d'autres niveaux (mathématiques au collège) et d'autres périodes (post-Common Core), « il semble y avoir davantage de traces de biais de sélection », avec parfois de « grandes différences » de niveau antérieur entre écoles adoptant tel ou tel manuel — il en conclut que « la science de l'estimation des effets de manuels à partir de données d'observation est loin d'être stabilisée ». (3) La réplication multi-États de 2020 (voir élément suivant) ne retrouve pas ces différences.",
+   "sources": [
+    {
+     "author": "Cory Koedel, Diyi Li, Morgan S. Polikoff, Tenice Hardaway, Stephani L. Wrabel",
+     "title": "Mathematics Curriculum Effects on Student Achievement in California",
+     "org": "AERA Open, 3(1), 1-22",
+     "year": "2017",
+     "url": "https://journals.sagepub.com/doi/full/10.1177/2332858417690511"
+    },
+    {
+     "author": "ERIC / Institute of Education Sciences",
+     "title": "Notice EJ1194198 — Mathematics Curriculum Effects on Student Achievement in California (mention du statut WWC)",
+     "org": "ERIC",
+     "year": "2017",
+     "url": "https://eric.ed.gov/?id=EJ1194198"
+    },
+    {
+     "author": "Morgan Polikoff",
+     "title": "The Challenges of Curriculum Materials as a Reform Lever (Evidence Speaks Reports, Vol 2, #58)",
+     "org": "Brookings Institution",
+     "year": "2018",
+     "url": "https://www.brookings.edu/wp-content/uploads/2018/06/Report5.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La plus grande tentative de réplication jamais menée — six États, trois années, période post-Common Core — ne retrouve aucune différence moyenne d'acquis entre manuels de mathématiques. C'est l'échec de réplication central du domaine et il doit être dit tel quel.",
+   "what_it_is": "Étude multi-États (projet « Learning by the Book », Center for Education Policy Research, Harvard) appariant adoptions de manuels et résultats aux tests d'État, après la généralisation du Common Core.",
+   "evidence_level": "Quasi-expérimental à grande échelle (comparaisons entre écoles au sein d'États, données administratives)",
+   "effect_size": "Aucune différence moyenne détectée : les auteurs rapportent « peu de preuves de différences de progression moyenne des acquis entre écoles utilisant des manuels de mathématiques différents ». Quelques variations marginales apparaissent selon l'ancienneté de l'édition et le degré d'exposition, mais restent minimes.",
+   "concrete_practice": "Des districts choisissent parmi les manuels de mathématiques alignés sur les nouveaux standards ; les chercheurs comparent ensuite les trajectoires de résultats des écoles selon le manuel retenu.",
+   "concrete_example": "Thomas J. Kane (Harvard) et David Blazar (University of Maryland), avec Blake Heller, Morgan Polikoff, Douglas Staiger, Dan Goldhaber, Douglas Harris, Michal Kurlaender et d'autres, ont réuni les données d'adoption de manuels et les scores des classes de 4e et 5e années dans six États géographiquement et démographiquement variés — Californie, Louisiane, Maryland, New Jersey, Nouveau-Mexique et Washington — sur les années scolaires 2014-15 à 2016-17. Conclusion publiée dans le Journal of Policy Analysis and Management : « l'adoption d'un nouveau manuel ou d'un nouvel ensemble de ressources curriculaires, à elle seule, a peu de chances d'atteindre cet objectif » d'amélioration des acquis.",
+   "conditions": "Le résultat vaut « aux niveaux actuels d'usage du curriculum et de formation continue » : les auteurs n'excluent pas qu'un manuel accompagné d'une formation adossée à ce manuel produise des effets. C'est précisément l'hypothèse de la « curriculum-based professional learning ».",
+   "contested": "La lecture optimiste consiste à dire que la convergence des manuels vers un standard commun (Common Core) a réduit la variance entre eux, donc l'espace pour un effet différentiel — ce qui n'invalide pas l'idée de curriculum mais déplace l'enjeu vers la qualité intrinsèque et l'accompagnement. À l'inverse, l'échec peut refléter un simple problème de puissance statistique ou de mesure de l'usage réel. La divergence avec Koedel et al. 2017 n'est à ce jour pas arbitrée ; il est intellectuellement malhonnête de citer l'étude californienne sans citer celle-ci.",
+   "sources": [
+    {
+     "author": "David Blazar, Blake Heller, Thomas J. Kane, Morgan Polikoff, Douglas O. Staiger, Scott Carrell, Dan Goldhaber, Douglas N. Harris, Rachel Hitch, Kristian L. Holden, Michal Kurlaender",
+     "title": "Curriculum Reform in the Common Core Era: Evaluating Elementary Math Textbooks Across Six U.S. States",
+     "org": "Journal of Policy Analysis and Management, 39(4), 966-1019",
+     "year": "2020",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1002/pam.22257"
+    },
+    {
+     "author": "Center for Education Policy Research, Harvard University",
+     "title": "Learning by the Book / Study finds that curriculum alone does not improve student outcomes",
+     "org": "Harvard University",
+     "year": "2020",
+     "url": "https://cepr.harvard.edu/curriculum"
+    }
+   ]
+  },
+  {
+   "claim": "Même si un manuel supérieur existait et était identifié, la chaîne qui va de cette information à un changement de pratique en classe comporte au moins trois ruptures documentées — adoption, achat effectif, usage réel — et c'est là que le levier se perd.",
+   "what_it_is": "Analyse par Morgan Polikoff des obstacles pratiques au « curriculum comme levier de réforme », fondée sur sa collecte de données d'adoption dans les cinq plus grands États américains et sur des entretiens avec des responsables de districts californiens.",
+   "evidence_level": "Descriptif et qualitatif (entretiens, collecte de données administratives), sans évaluation d'impact",
+   "effect_size": "Non applicable (analyse de mise en œuvre). Deux chiffres de cadrage : moins de 20 % des districts interrogés déclarent utiliser les évaluations d'EdReports dans leurs décisions d'adoption ; environ un quart des écoles californiennes utilisent des manuels hors de la liste approuvée par l'État.",
+   "concrete_practice": "Dans les districts étudiés, l'adoption d'un manuel passe par un ou plusieurs comités d'enseignants, une évaluation contre des grilles complexes (y compris lorsque le manuel figure déjà sur la liste d'État et a donc déjà été évalué), des pilotes de plusieurs semaines et un ou plusieurs votes formels. Polikoff qualifie ces processus de « hautement cérémoniels ».",
+   "concrete_example": "En Californie, État qui publie pourtant une liste officielle de manuels approuvés — mais purement indicative, les districts n'étant pas tenus d'y recourir — les entretiens menés par l'équipe de Polikoff montrent que même les districts adoptant sur la liste doutent de la qualité du processus de revue de l'État, et que les petits districts délèguent de fait leur choix aux County Offices of Education, parfois en adoptant à l'échelle du comté. Polikoff relève en outre qu'un nombre croissant de districts n'achètent plus de manuels du tout : ils utilisent des ressources gratuites en ligne comme EngageNY, ou assemblent leurs propres matériaux — ce qui rend la collecte de données d'adoption largement inopérante.",
+   "conditions": "Le levier ne fonctionne que si : (1) l'autorité dispose d'une information fiable sur ce qui est utilisé, (2) elle a un moyen d'influencer le choix (liste prescriptive, financement fléché, accompagnement), (3) les enseignants utilisent effectivement le support choisi plutôt que des ressources glanées ailleurs.",
+   "contested": "Polikoff est ici juge et partie : il a lui-même contribué à populariser l'idée du curriculum comme levier avant d'en documenter les limites. Certains soutiennent à l'inverse que ces obstacles sont contingents à la gouvernance ultra-décentralisée américaine et disparaîtraient dans un système à autorité curriculaire plus forte. Aucune évaluation d'impact ne tranche : le texte est une analyse d'expérience, pas une étude causale, et il faut le présenter comme tel.",
+   "sources": [
+    {
+     "author": "Morgan Polikoff",
+     "title": "The Challenges of Curriculum Materials as a Reform Lever (Evidence Speaks Reports, Vol 2, #58)",
+     "org": "Brookings Institution",
+     "year": "2018",
+     "url": "https://www.brookings.edu/wp-content/uploads/2018/06/Report5.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Un curriculum riche en savoirs, suivi de la maternelle à la 6e année, est associé à un gain de lecture de 0,24 écart-type en intention de traiter et 0,47 en traitement effectif — le résultat le plus favorable jamais obtenu pour l'approche « savoirs d'abord », mais obtenu dans des écoles sous contrat sélectionnées par tirage au sort et dans des districts majoritairement aisés.",
+   "what_it_is": "Évaluation par loterie d'inscription (design expérimental naturel) d'écoles sous contrat utilisant le curriculum Core Knowledge d'E. D. Hirsch, centré sur la construction cumulative de connaissances générales (histoire, sciences, arts, géographie) comme socle de la compréhension en lecture.",
+   "evidence_level": "Expérimental par loterie (14 loteries d'entrée en maternelle), publié comme EdWorkingPaper de l'Annenberg Institute, Brown University",
+   "effect_size": "Lecture / English Language Arts, 3e à 6e année : ITT = 0,241 ET ; TOT = 0,473 ET, statistiquement significatifs à chaque niveau. Gain cumulé estimé de la maternelle à la 6e année : environ 16 points de percentile. Dans l'unique école implantée en district à bas revenus : ITT = 0,944 et TOT = 1,299 en ELA ; ITT = 0,735 et TOT = 0,997 en mathématiques.",
+   "concrete_practice": "Le curriculum prescrit une séquence de contenus année par année (l'Égypte ancienne en 1re année, le système solaire en 2e, etc.), avec lectures à voix haute par l'enseignant, vocabulaire explicite et retour répété sur les mêmes domaines de connaissance à un niveau croissant de complexité. La compréhension en lecture n'est pas enseignée comme une « compétence » transférable mais comme le sous-produit d'un savoir accumulé.",
+   "concrete_example": "Grissmer, White, Buddin, Berends, Willingham, DeCoster, Duran, Hulleman, Murrah et Evans ont suivi pendant six ans 2 310 élèves ayant postulé à l'entrée en maternelle dans neuf écoles sous contrat Core Knowledge du Colorado ; 688 ont été admis par tirage au sort, les autres formant le groupe de comparaison et scolarisés ailleurs. Les auteurs ont développé une méthodologie corrigeant deux sources de biais propres aux loteries de maternelle incluant des familles de revenu moyen ou élevé.",
+   "conditions": "L'effet apparaît après plusieurs années (les résultats sont mesurés à partir de la 3e année) : c'est un effet d'accumulation, incompatible avec un pilotage à horizon d'une législature. Il suppose la stabilité de la séquence de contenus sur toute la scolarité primaire, donc une continuité entre enseignants et entre niveaux.",
+   "contested": "Fortement contesté et il faut le dire. (1) Le design ne permet pas de séparer l'effet du curriculum de celui des autres pratiques de ces écoles sous contrat — formation des enseignants, éducation du caractère, lectures à voix haute intensives. (2) Une seule des neuf écoles se situe en district défavorisé, et le revenu médian des familles y dépassait 50 000 dollars ; l'analyse sur cette école repose, selon Jill Barshay (Hechinger Report), sur seize élèves seulement. (3) Environ la moitié des familles admises ont renoncé à l'inscription, ce qui peut biaiser l'échantillon vers des élèves plus susceptibles de réussir. (4) Les gains en lecture cessent de croître après la 3e année, ce qui contredit la théorie cumulative sous-jacente. (5) Le groupe de comparaison n'est pas homogène : certains élèves non admis ont rejoint d'autres écoles sous contrat. (6) Le texte reste à ce jour un working paper. Natalie Wexler, qui défend l'approche, reconnaît elle-même que ces réserves « méritent d'être mises en avant » et présente l'étude comme une corroboration, non comme une preuve définitive.",
+   "sources": [
+    {
+     "author": "David Grissmer, Thomas White, Richard Buddin, Mark Berends, Daniel Willingham, Jamie DeCoster, Chelsea Duran, Chris Hulleman, William Murrah, Tanya Evans",
+     "title": "A Kindergarten Lottery Evaluation of Core Knowledge Charter Schools (EdWorkingPaper No. 23-755)",
+     "org": "Annenberg Institute for School Reform, Brown University",
+     "year": "2023",
+     "url": "https://edworkingpapers.com/ai23-755"
+    },
+    {
+     "author": "Thomas B. Fordham Institute",
+     "title": "Putting the Core Knowledge study into perspective",
+     "org": "Thomas B. Fordham Institute",
+     "year": "2023",
+     "url": "https://fordhaminstitute.org/national/commentary/putting-core-knowledge-study-perspective"
+    },
+    {
+     "author": "Natalie Wexler",
+     "title": "Putting A New Study On Building Knowledge Into Perspective",
+     "org": "Forbes",
+     "year": "2023",
+     "url": "https://www.forbes.com/sites/nataliewexler/2023/04/30/putting-a-new-study-on-building-knowledge-into-perspective/"
+    }
+   ]
+  },
+  {
+   "claim": "Le mécanisme cognitif qui justifie un curriculum riche en connaissances est solide — la connaissance préalable libère la mémoire de travail et permet l'inférence — mais l'expérience la plus citée à son appui, l'« étude du baseball », n'a jamais été répliquée en plus de trente ans et son résultat clé n'était probablement pas statistiquement significatif.",
+   "what_it_is": "Le corpus de psychologie cognitive mobilisé par Daniel Willingham pour établir que la compréhension et le raisonnement dépendent de connaissances stockées en mémoire à long terme, et non de « compétences » générales de compréhension ou de résolution de problèmes.",
+   "evidence_level": "Expérimental en laboratoire (petits échantillons) et méta-analytique pour certains volets ; corrélationnel pour d'autres",
+   "effect_size": "Non disponible sous forme d'écart-type pour l'essentiel du corpus. Repères cités par Willingham : la mémoire de travail retient environ 7 éléments ou « chunks » ; les meilleurs joueurs d'échecs disposeraient de 10 000 à 300 000 configurations mémorisées (Burns, 2004) ; une méta-analyse de 40 expériences en résolution de problèmes scientifiques (Taconis et al., 2001) conclut que les interventions construisant des connaissances réussissent là où les interventions centrées sur les stratégies échouent largement.",
+   "concrete_practice": "En classe, cela se traduit par : séquencer les contenus pour que le vocabulaire et les référents nécessaires à un texte soient enseignés avant la lecture ; consacrer du temps disciplinaire (histoire, sciences, arts) dès le primaire plutôt que de le sacrifier à des heures supplémentaires de « stratégies de lecture » ; assumer la mémorisation comme condition de l'analyse.",
+   "concrete_example": "L'expérience de Recht et Leslie (1988) : des élèves de 7e et 8e année lisent un texte décrivant une action de baseball, puis rejouent la scène sur une maquette de terrain de 18 sur 20 pouces avec des figurines de bois de quatre pouces. Les élèves faibles lecteurs mais connaisseurs du baseball comprennent mieux le texte que les bons lecteurs ignorant le baseball. Willingham y ajoute l'étude de Hambrick (2003) : des étudiants exposés au même volume d'information nouvelle sur le basket-ball en retiennent davantage, deux mois et demi plus tard, lorsqu'ils disposaient déjà de connaissances préalables sur ce sport ; et Chi et al. (1981), où les experts en physique classent les problèmes selon la loi physique en jeu tandis que les novices les classent selon leurs traits de surface.",
+   "conditions": "Le mécanisme suppose que les connaissances enseignées soient celles que les textes et les tâches ultérieures mobilisent — d'où l'importance du choix des contenus et de leur séquence. Il ne dit pas quels savoirs enseigner ; ce choix reste politique et culturel.",
+   "contested": "Deux critiques sérieuses. (1) Timothy Shanahan souligne que l'étude du baseball « n'a pas été répliquée en plus de trente ans », qu'elle repose sur un texte unique conçu pour l'expérience, et rapporte que Mark Seidenberg a montré que l'échantillon était petit et que la différence entre effet de la lecture et effet de la connaissance n'était pas statistiquement significative. Un réexamen critique a été publié dans Reading Research Quarterly en 2025 (Reynolds et al., « Fair or Foul? Interrogating the Role of Baseball Knowledge in Studies of Knowledge and Comprehension ») ; je n'ai pas pu accéder à son texte intégral et je n'en rapporte donc aucun chiffre. (2) Shanahan rappelle aussi que la centralité de la connaissance ne justifie pas d'abandonner l'enseignement explicite des stratégies de compréhension, contrairement à ce qu'en déduisent certains promoteurs du curriculum riche en savoirs. Le socle expérimental large (depuis Bartlett, 1932) sur l'usage des connaissances en lecture n'est en revanche pas contesté.",
+   "sources": [
+    {
+     "author": "Daniel T. Willingham",
+     "title": "How Knowledge Helps: It Speeds and Strengthens Reading Comprehension, Learning—and Thinking",
+     "org": "American Educator, American Federation of Teachers",
+     "year": "2006",
+     "url": "https://www.aft.org/ae/spring2006/willingham"
+    },
+    {
+     "author": "Timothy Shanahan",
+     "title": "Prior Knowledge (or He Isn't Going to Pick on the Baseball Study)",
+     "org": "Shanahan on Literacy",
+     "year": "2023",
+     "url": "https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study"
+    },
+    {
+     "author": "Donna Recht, Lauren Leslie",
+     "title": "Effect of Prior Knowledge on Good and Poor Readers' Memory of Text",
+     "org": "Journal of Educational Psychology",
+     "year": "1988",
+     "url": "https://www.researchgate.net/publication/232584848_Effect_of_Prior_Knowledge_on_Good_and_Poor_Readers'_Memory_of_Text"
+    }
+   ]
+  },
+  {
+   "claim": "Les systèmes les plus performants enseignent nettement moins de sujets par année, dans un ordre logique et sans répétition : les manuels japonais de 8e année couvrent une dizaine de sujets, les manuels américains plus de trente. C'est le constat « a mile wide and an inch deep » et c'est un choix d'écriture de référentiel, donc gratuit.",
+   "what_it_is": "L'analyse comparative des curricula intentionnels (référentiels et manuels) menée par William Schmidt et son équipe à partir des données TIMSS, aboutissant à un « composite A+ » : l'ensemble des sujets mathématiques retenus, à chaque année, par au moins deux tiers des pays les plus performants.",
+   "evidence_level": "Comparaison internationale descriptive et corrélationnelle (analyse de contenu des référentiels et manuels de tous les pays TIMSS, mise en relation avec les performances)",
+   "effect_size": "Non exprimée en écart-type. Le contraste est quantitatif et structurel : « il n'existe aucun manuel au monde qui comporte autant de sujets que nos manuels de mathématiques » ; les manuels japonais de 8e année comptent « environ 10 sujets », les manuels américains de même niveau « plus de 30 ». Le composite A+ produit une structure triangulaire supérieure — chaque sujet est introduit une fois puis approfondi — alors que le composite des 21 États américains étudiés « ne produit aucune structure visible ». Pour représenter un curriculum complet dans un pays A+ typique, il faudrait ajouter en moyenne environ trois sujets par année au composite, de un (4e et 5e années) à six (2e et 7e années).",
+   "concrete_practice": "Un référentiel « A+ » introduit un sujet à une année donnée, lui consacre le temps nécessaire à la maîtrise, puis ne le réintroduit plus comme objet d'enseignement mais comme prérequis. Schmidt cite le contraste des durées : « dans d'autres pays, ils passent un mois sur un sujet, nous y passons des jours ».",
+   "concrete_example": "Schmidt et son équipe ont identifié les pays TIMSS les plus performants (« pays A+ »), construit le composite des sujets communs à au moins deux tiers d'entre eux, puis comparé ce composite aux référentiels de 21 États américains et de 50 districts. Ils ont aussi mesuré, pays par pays, la durée réelle consacrée à chaque sujet dans les manuels, ce qui leur permet d'affirmer « avec confiance statistique » que ce que prescrivent référentiels et manuels est effectivement enseigné dans la plupart des pays TIMSS, et de relier les forces et faiblesses des élèves d'un pays aux forces et faiblesses de son contenu prescrit — y compris après contrôle du statut socio-économique des élèves.",
+   "conditions": "Le résultat suppose que les enseignants suivent effectivement le référentiel et le manuel, ce que Schmidt documente pour la plupart des pays TIMSS. Il suppose aussi que le resserrement s'accompagne d'une progression logique : retirer des sujets sans reconstruire la séquence ne produit pas de cohérence.",
+   "contested": "Trois réserves. (1) Il s'agit d'une analyse corrélationnelle entre caractéristiques de curricula nationaux et performances nationales : le nombre de pays est faible et les curricula resserrés des pays asiatiques coexistent avec des facteurs culturels puissants (temps d'étude hors école, cours particuliers, attentes familiales) que l'analyse ne neutralise pas. (2) L'argument a nourri la conception du Common Core, dont l'évaluation ultérieure (Song et al., 2022) n'a pas trouvé d'effet positif sur les acquis — le resserrement prescrit ne garantit pas le resserrement enseigné. (3) Schmidt et Houang ont eux-mêmes construit un indice de « congruence » des standards d'État au Common Core, et Tom Loveless n'a trouvé « aucune relation systématique » entre cet indice et l'évolution des scores NAEP des États.",
+   "sources": [
+    {
+     "author": "William H. Schmidt",
+     "title": "A Coherent Curriculum: The Case of Mathematics",
+     "org": "American Educator, American Federation of Teachers",
+     "year": "2002",
+     "url": "https://www.aft.org/sites/default/files/media/2014/curriculum.pdf"
+    },
+    {
+     "author": "William H. Schmidt, Curtis C. McKnight, Senta A. Raizen",
+     "title": "A Splintered Vision: An Investigation of U.S. Science and Mathematics Education (origine du constat « a mile wide and an inch deep »)",
+     "org": "TIMSS / Kluwer",
+     "year": "1997",
+     "url": "https://www.nationalacademies.org/read/9658/chapter/2"
+    }
+   ]
+  },
+  {
+   "claim": "Environ un tiers de la relation entre origine sociale et performance en mathématiques passe par ce que l'école a effectivement donné à apprendre à l'élève : le contenu enseigné est un canal mesurable de l'inégalité, pas seulement un reflet.",
+   "what_it_is": "Analyse des indices d'« opportunity to learn » (OTL) de PISA 2012 — exposition déclarée des élèves aux problèmes verbaux, aux mathématiques formelles et aux mathématiques appliquées — et de leur rôle médiateur entre statut socio-économique et littératie mathématique.",
+   "evidence_level": "Corrélationnel / modèle de médiation sur données internationales (PISA 2012, 62 pays et économies)",
+   "effect_size": "« Environ un tiers de la relation entre statut socio-économique et littératie mathématique est due à son association avec l'opportunity to learn. » Dans chaque pays, au moins un des trois indices OTL — et souvent les trois — entretient une relation significative avec le score global de mathématiques ainsi qu'avec les quatre sous-domaines (changements et relations, espace et formes, quantité, incertitude et données).",
+   "concrete_practice": "Dans les faits, les élèves ne sont pas exposés au même contenu selon l'école et la filière : certains rencontrent l'algèbre formelle, les fonctions, les équations ; d'autres restent sur l'arithmétique appliquée. L'orientation précoce, les filières et le regroupement par niveau produisent ces écarts d'exposition à l'intérieur d'un même système et d'un même référentiel.",
+   "concrete_example": "Schmidt, Burroughs, Zoido et Houang exploitent le questionnaire élève de PISA 2012, où chaque élève de 15 ans indique la fréquence à laquelle il a rencontré des tâches mathématiques de types précis (par exemple : résoudre une équation linéaire, calculer combien de mètres carrés de carrelage sont nécessaires pour couvrir un sol). Ils montrent que le statut socio-économique prédit positivement l'OTL — les élèves favorisés fréquentent des écoles qui offrent davantage d'occasions d'apprendre — et que cette exposition différenciée creuse l'écart de performance. Ils concluent que « l'organisation et les politiques qui définissent l'exposition au contenu peuvent, dans la plupart des pays, aggraver les inégalités éducatives ».",
+   "conditions": "La mesure repose sur des déclarations d'élèves de 15 ans, donc sur leur mémoire et leur compréhension des items. Le mécanisme suppose que l'exposition au contenu soit modifiable par la politique curriculaire — ce qui est plus vrai dans les systèmes à tronc commun long qu'à orientation précoce.",
+   "contested": "La validité même des indices OTL de PISA 2012 a été contestée : un article de ZDM Mathematics Education (2018) interroge explicitement la validité de ces mesures et donc la conclusion selon laquelle la scolarisation perpétuerait l'inégalité. La direction de causalité est également ambiguë : les élèves plus faibles peuvent recevoir moins de contenu parce qu'ils sont faibles, et non l'inverse ; le modèle de médiation ne tranche pas. Enfin, l'ampleur « un tiers » est une moyenne internationale masquant de fortes variations entre pays.",
+   "sources": [
+    {
+     "author": "William H. Schmidt, Nathan A. Burroughs, Pablo Zoido, Richard T. Houang",
+     "title": "The Role of Schooling in Perpetuating Educational Inequality: An International Perspective",
+     "org": "Educational Researcher",
+     "year": "2015",
+     "url": "https://journals.sagepub.com/stoken/rbtfl/PEGAhOM56p9qg/full"
+    },
+    {
+     "author": "ZDM Mathematics Education",
+     "title": "Does schooling actually perpetuate educational inequality in mathematics performance? A validity question on the measures of opportunity to learn in PISA",
+     "org": "Springer",
+     "year": "2018",
+     "url": "https://link.springer.com/article/10.1007/s11858-018-0935-3"
+    }
+   ]
+  },
+  {
+   "claim": "Relever les attentes d'un référentiel, seul, ne produit pas d'apprentissages : sept ans après l'adoption de standards plus exigeants dans la quasi-totalité des États américains, les effets estimés sont nuls à négatifs, et significativement négatifs en lecture au primaire.",
+   "what_it_is": "Évaluation par séries temporelles interrompues comparatives (CITS) de l'effet de l'adoption par les États américains de standards « college- and career-ready » (essentiellement le Common Core, adopté à partir de 2010) sur les résultats NAEP.",
+   "evidence_level": "Quasi-expérimental (comparative interrupted time series, NAEP 1990-2017, publication à comité de lecture dans l'American Educational Research Journal)",
+   "effect_size": "Lecture 4e année : effets négatifs et significatifs, de −0,10 à −0,06 écart-type selon l'horizon (1, 3, 5 et 7 ans après adoption), significatifs à 5 % ou marginalement à 10 %. Lecture 8e année, mathématiques 4e et 8e années : effets également négatifs mais non significatifs, sauf l'effet à 7 ans en mathématiques 8e année (−0,10 ET, p < 0,05). Ensemble des estimations sur l'échantillon total : −0,10 à +0,05 ET. Pour certains sous-groupes, la dispersion est bien plus large (−0,38 à +0,13 ET), quatre des vingt-quatre estimations dépassant 0,20 ET en valeur absolue.",
+   "concrete_practice": "Un État adopte un nouveau jeu de standards définissant ce que les élèves doivent savoir à chaque niveau, puis laisse les districts, éditeurs et enseignants en tirer les conséquences en matière de programmes, de manuels et de formation. C'est le schéma exact d'une réforme par référentiels.",
+   "concrete_example": "Mengli Song, Michael Garet, Rui Yang et Drew Atchison (American Institutes for Research), pour le Center on Standards, Alignment, Instruction and Learning financé par l'Institute of Education Sciences, ont classé les États selon la rigueur de leurs standards antérieurs à 2010 (indice de rigueur préalable et indice de similarité préalable au Common Core), puis comparé la trajectoire NAEP des États dont les standards se sont le plus relevés à celle des États dont ils se sont peu relevés, de 1990 à 2017. La figure centrale montre que, en lecture de 4e année, les États traités auraient significativement plus progressé s'ils n'avaient pas adopté les nouveaux standards.",
+   "conditions": "Le résultat n'établit pas que des attentes élevées nuisent : il établit qu'un changement de référentiel non accompagné de ressources, de manuels alignés et de formation ne produit pas d'effet — et peut en produire un négatif transitoire, par désorganisation. La période couvre les premières années de mise en œuvre, marquées par un déficit reconnu de matériels alignés.",
+   "contested": "Discuté. (1) Le « groupe témoin » est constitué d'États dont les standards antérieurs étaient déjà proches des nouveaux : leur traitement n'est pas nul, ce qui atténue mécaniquement les estimations et peut en inverser le signe. (2) Les travaux antérieurs de Tom Loveless, fondés sur de simples comparaisons de moyennes entre États « forts » et « non-adoptants » (parfois quatre États seulement dans le groupe de comparaison), trouvaient des écarts très faibles et de signe variable : +0,04 ET en mathématiques 8e année 2009-2013, +0,03 à +0,04 ET en lecture 4e année, puis −0,01 à −0,02 ET sur 2009-2015 ; Song et al. eux-mêmes jugent ces analyses non causales et sensibles à un ou deux États. (3) Des contrôles de robustesse rendent les estimations « moins négatives » et non significatives pour la lecture.",
+   "sources": [
+    {
+     "author": "Mengli Song, Michael S. Garet, Rui Yang, Drew Atchison",
+     "title": "Did States' Adoption of More Rigorous Standards Lead to Improved Student Achievement? Evidence From a Comparative Interrupted Time Series Study of Standards-Based Reform",
+     "org": "American Educational Research Journal, 59(3), 610-647",
+     "year": "2022",
+     "url": "https://files.eric.ed.gov/fulltext/ED620442.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Transposer un curriculum de mathématiques resserré et « de maîtrise » d'inspiration singapourienne dans un système occidental fonctionne, mais l'effet est petit : environ un mois de progrès supplémentaire sur près de 13 000 élèves, deux mois pour les plus jeunes.",
+   "what_it_is": "Deux essais randomisés en grappes de l'Education Endowment Foundation évaluant Mathematics Mastery (programme d'Ark), qui importe en Angleterre l'approche singapourienne : moins d'objets d'étude, plus de temps sur chacun, progression collective avec maîtrise avant passage, appui sur les représentations concrètes puis imagées puis abstraites.",
+   "evidence_level": "Deux essais contrôlés randomisés indépendants (évaluateurs externes mandatés par l'EEF), plus une méta-analyse des deux",
+   "effect_size": "Environ +1 mois de progrès supplémentaire, effet statistiquement significatif, pour la méta-analyse des deux essais. Année 1 du primaire : environ +2 mois. Année 7 (début du secondaire) : environ +1 mois. La taille d'effet exprimée en écart-type n'a pas pu être vérifiée sur la source primaire dans le cadre de cette revue et n'est donc pas rapportée ici.",
+   "concrete_practice": "Les enseignants reçoivent une progression annuelle resserrée, des plans de séquence détaillés, du matériel de manipulation et une formation continue adossée à ce matériel ; la classe avance ensemble, un objectif n'étant abandonné que lorsque la quasi-totalité des élèves le maîtrise, au lieu de différencier par groupes de niveau.",
+   "concrete_example": "Essai primaire : 5 108 élèves dans 90 écoles anglaises. Essai secondaire : 7 712 élèves dans 40 écoles. Mise en œuvre entre 2011 et 2014, avec assignation aléatoire des écoles au programme ou au maintien de leurs pratiques. Les deux essais ont été évalués et publiés séparément par l'EEF, puis synthétisés dans un rapport de vue d'ensemble.",
+   "conditions": "Le programme fournit simultanément le curriculum, le matériel et la formation : c'est un paquet, pas un manuel. Il exige un engagement pluriannuel de l'école et un changement de pratique d'évaluation (abandon des groupes de niveau). L'effet est plus fort là où les élèves sont les plus jeunes, ce qui plaide pour une entrée par le primaire.",
+   "contested": "Le principal enseignement critique est la modestie du résultat : un mois de progrès pour une réforme curriculaire complète, importée du système le plus performant au monde en mathématiques, dans un contexte de forte adhésion des écoles volontaires. Cela invite à la prudence sur les promesses attachées à l'importation de curricula asiatiques. Par ailleurs, l'écart entre l'effet en Année 1 (+2 mois) et en Année 7 (+1 mois) n'est pas expliqué, et les essais portent sur des écoles volontaires, donc non représentatives.",
+   "sources": [
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Ark Mathematics Mastery — projet et rapports d'évaluation (primaire et secondaire)",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "title": "Mathematics Mastery: Overarching Summary Report",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581180.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La « structured pedagogy » — plans de séquence pour l'enseignant, matériel élève intégré, formation centrée sur ces séquences et accompagnement en classe — est classée « Great Buy » par le panel d'experts conjoint Banque mondiale / FCDO / UNICEF / USAID, sur la base de plus de 400 études : c'est le seul levier curriculaire à afficher à la fois des effets robustes et une faible variance.",
+   "what_it_is": "Recommandation du Global Education Evidence Advisory Panel (GEEAP) dans son rapport 2023 « Cost-Effective Approaches to Improve Global Learning », issue d'une recherche systématique portant sur plus de 13 000 documents et de l'examen de plus de 400 études rigoureuses, dont plus de 100 comportant des données de coût.",
+   "evidence_level": "Synthèse de panel fondée sur essais randomisés et quasi-expériences, avec analyse coût-efficacité (méta-analyse de coût-efficacité d'Angrist et al. 2020 comme intrant)",
+   "effect_size": "Le rapport ne publie les valeurs LAYS par 100 dollars que sous forme graphique ; la synthèse dont il dérive établit que « certains des programmes les plus coût-efficaces délivrent l'équivalent de trois années supplémentaires de scolarité de haute qualité pour 100 dollars par enfant, contre zéro année pour d'autres classes d'interventions ». Une revue citée dans la littérature situe l'effet moyen de la structured pedagogy à 0,44 ET en pays à revenu faible ou intermédiaire, contre 0,22 ET aux États-Unis. Le GEEAP note que, contrairement à d'autres leviers, la structured pedagogy « peut aussi être très coût-efficace, mais avec moins de variance ».",
+   "concrete_practice": "Les enseignants reçoivent un guide comportant, pour chaque leçon, l'ordre des activités, les routines, les concepts, les erreurs fréquentes des élèves et les remédiations, ainsi que des manuels et cahiers élèves conçus en cohérence avec ce guide. S'y ajoutent une formation pratique — répétition des gestes plutôt que discours abstrait — et des visites régulières de coachs qui observent la classe et donnent un retour. Le GEEAP insiste : la plupart des programmes efficaces ne sont pas entièrement scriptés, et « c'est l'interaction entre les composantes du paquet qui est essentielle à l'impact ».",
+   "concrete_example": "Kenya : le programme PRIMR (2011-2014), évalué par essai randomisé, a porté la fluidité de reconnaissance des sons-lettres de 25,7 à 47,0 lettres correctes par minute (effet causal de 21,3, soit 0,73 ET), et l'effet moyen en anglais atteint 0,46 à 0,49 ET selon les niveaux ; la proportion d'élèves atteignant le seuil national de lecture passe de 12,6 % à 28,3 %. PRIMR a ensuite été porté à l'échelle nationale sous le nom de Tusome (« Lisons »), financé par l'USAID, couvrant environ sept millions d'élèves des trois premières années dans plus de 23 000 écoles publiques et 1 500 institutions non formelles entre 2014 et 2019, avec distribution de manuels élève, guides enseignants, et suivi par les Curriculum Support Officers équipés de tablettes. L'évaluation externe nationale rapporte des impacts de 0,6 à 1,0 écart-type sur les acquis en anglais et en kiswahili, et une hausse de la part d'élèves de 2e année classés « émergents ou fluides » en anglais de 34 % à 53 %. PRIMR s'est avéré deux à trois fois plus coût-efficace que le système ministériel ordinaire.",
+   "conditions": "Le GEEAP précise que le matériel doit être conçu pour le contexte, calibré sur le niveau réel des élèves, et que le degré de scriptage doit diminuer à mesure que la maîtrise des enseignants augmente — « une version moins structurée peut être utilisée lorsque les enseignants ont de fortes connaissances disciplinaires et une pratique pédagogique de qualité ». Il exige aussi l'adhésion des enseignants obtenue en amont, leur association à la conception, et l'absence de conflit entre le programme et le reste du système (référentiel, examens, temps d'enseignement).",
+   "contested": "Contesté sur quatre fronts, y compris par ses promoteurs. Piper et Dubeck (2024), qui ont conçu PRIMR et Tusome, recensent eux-mêmes les critiques : (1) de grandes tailles d'effet peuvent correspondre à des gains d'apprentissage modestes en valeur absolue lorsque le niveau de départ est très bas ; (2) l'accusation de « déprofessionnalisation », les programmes étant perçus comme « à l'épreuve de l'enseignant » ; (3) l'accusation de néocolonialisme, certains responsables de pays du Sud y voyant une imposition occidentale ignorante des contextes ; (4) la rareté des analyses coût-efficacité rigoureuses et l'absence de réponse à la question de la durée optimale du dispositif. Il faut ajouter que l'évaluation nationale de Tusome n'est pas un essai randomisé — seul PRIMR l'était — et que les chiffres de 0,6 à 1,0 ET reposent sur une comparaison pré/post à l'échelle nationale, un design nettement plus faible. Enfin, le GEEAP avertit que « le placement d'une intervention dans une catégorie ne signifie pas qu'une nouvelle intervention dans un nouveau pays aura les mêmes impacts ».",
+   "sources": [
+    {
+     "author": "Global Education Evidence Advisory Panel",
+     "title": "2023 Cost-Effective Approaches to Improve Global Learning: What Does Recent Evidence Tell Us Are \"Smart Buys\" for Improving Learning in Low and Middle Income Countries?",
+     "org": "World Bank / FCDO / UNICEF / USAID / BMGF",
+     "year": "2023",
+     "url": "https://thedocs.worldbank.org/en/doc/231d98251cf326922518be0cbe306fdc-0200022023/related/GEEAP-Report-Smart-Buys-2023-final.pdf"
+    },
+    {
+     "author": "Noam Angrist, David K. Evans, Deon Filmer, Rachel Glennerster, F. Halsey Rogers, Shwetlena Sabarwal",
+     "title": "How to Improve Education Outcomes Most Efficiently? A Comparison of 150 Interventions Using the New Learning-Adjusted Years of Schooling Metric (Policy Research Working Paper 9450)",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "https://documents1.worldbank.org/curated/en/801901603314530125/pdf/How-to-Improve-Education-Outcomes-Most-Efficiently-A-Comparison-of-150-Interventions-Using-the-New-Learning-Adjusted-Years-of-Schooling-Metric.pdf"
+    },
+    {
+     "author": "Benjamin Piper, Margaret M. Dubeck",
+     "title": "Responding to the learning crisis: Structured pedagogy in sub-Saharan Africa",
+     "org": "International Journal of Educational Development, vol. 109, DOI 10.1016/j.ijedudev.2024.103095",
+     "year": "2024",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11422479/"
+    },
+    {
+     "author": "USAID / RTI International",
+     "title": "Tusome and PRIMR: A Desk Review of Early Grade Reading Programs in Kenya from 2011-2019",
+     "org": "World Bank / USAID",
+     "year": "2020",
+     "url": "https://thedocs.worldbank.org/en/doc/364011589472853972-0090022020/render/TusomeDeskReviewFinal2.pdf"
+    },
+    {
+     "author": "Benjamin Piper, Joseph DeStefano, Esther M. Kinyanjui, Salome Ong'ele",
+     "title": "Scaling up successfully: Lessons from Kenya's Tusome national literacy program",
+     "org": "Journal of Educational Change",
+     "year": "2018",
+     "url": "https://www.rti.org/publication/scaling-successfully-lessons-kenya-tusome-national-literacy-program"
+    }
+   ]
+  },
+  {
+   "claim": "Sobral, commune pauvre du Nordeste brésilien, a fait passer la part d'élèves sachant lire en fin de 2e année de 48 % à 92 % en quatre ans, puis s'est hissée au premier rang des 5 570 communes brésiliennes — en construisant un ensemble cohérent matériel + formation + évaluation formative tous les quinze jours, et non en dépensant davantage.",
+   "what_it_is": "Réforme curriculaire et pédagogique d'un système scolaire municipal brésilien engagée en 2000-2001, documentée par la Banque mondiale, le programme RISE et le Center on Reinventing Public Education, et étendue ensuite à l'État du Ceará.",
+   "evidence_level": "Étude de cas descriptive et quasi-expérimentale (séries de résultats aux évaluations nationales SAEB / indice IDEB, comparaisons intercommunales) ; pas d'essai randomisé",
+   "effect_size": "Part des élèves de 2e année sachant lire : 48 % en 2000 → 92 % en 2004, puis une moyenne de 95 % jusqu'aux fermetures d'écoles de 2020. Classement IDEB en primaire : 1 366e en 2005 → 1re sur 5 570 communes en 2017. IDEB du secondaire inférieur : de 5,8 à 7,2 entre 2013 et 2017. Depuis 2014, l'élève moyen de 5e année de Sobral n'est pas seulement « proficient » mais « avancé » au SAEB. La Banque mondiale estime la progression des résultats de Sobral supérieure de 80 % à ce que sa dépense éducative laisserait attendre.",
+   "concrete_practice": "La secrétaire à l'éducation Izolda Cela a fait construire par des experts externes un ensemble aligné de ressources pour la maternelle à la 2e année — manuels, cahiers d'exercices élèves, plans de leçon, formation et évaluations formatives — séquencé pour construire la lecture pas à pas : conscience phonologique et phonémique, puis lettres et sons, syllabes, mots, phrases, textes, puis fluidité, vocabulaire, connaissances et compréhension. Les enseignants reçoivent une journée entière de formation adossée aux leçons du mois à venir, plus une journée de planification collective par semaine pendant laquelle des remplaçants tiennent les classes en s'appuyant sur les plans fournis. Des évaluations formatives orales sont passées tous les quinze jours, administrées et validées par les coordinateurs pédagogiques et les directeurs, et exploitées en réunion d'équipe pour regrouper les élèves et ajuster les leçons.",
+   "concrete_example": "Sobral, 85 écoles primaires et près de 34 000 élèves, dans le Ceará — l'État au cinquième PIB par habitant le plus faible du Brésil. Point de départ : une évaluation diagnostique en 2000 révélant que plus de la moitié des élèves ayant terminé la 2e année ne savaient pas lire ; le maire Cid Gomes rend le résultat public et fixe l'objectif de 100 % d'élèves lecteurs en fin de 2e année. Les enseignants étaient explicitement encouragés à adapter les leçons aux besoins de leurs élèves et leurs retours mensuels servaient à réviser le dispositif l'année suivante. Élu gouverneur du Ceará en 2006, Gomes a étendu le dispositif sous le nom de PAIC (« Alfabetização na Idade Certa ») à 184 communes et 5 100 écoles ; en 2019, plus de 70 % des communes du Ceará atteignaient 6 sur 10 à l'IDEB. Sur les 100 meilleures écoles primaires du Brésil, 86 se situent au Ceará.",
+   "conditions": "Quatre conditions de réussite documentées : un diagnostic public et chiffré qui crée l'obligation politique ; une autorité unique capable d'aligner matériel, formation, évaluation et direction d'école ; le transfert des directeurs d'un rôle administratif à un rôle de leader pédagogique ; et une continuité politique sur plus de quinze ans, avec ajustement annuel du dispositif à partir des retours des enseignants. Le passage à la journée complète (sept heures au lieu de quatre) n'intervient qu'en 2014, soit quatorze ans après le début de la réforme et une fois les acquis de base sécurisés.",
+   "contested": "Trois limites majeures. (1) Aucune évaluation contrefactuelle rigoureuse : les résultats reposent sur des séries temporelles et des comparaisons intercommunales, sans groupe témoin ; on ne peut isoler la part du curriculum de celle de la gouvernance, des incitations professionnelles, du licenciement d'enseignants non qualifiés et de l'augmentation des salaires, tous mis en œuvre simultanément. (2) L'échelle — une commune de 200 000 habitants, 85 écoles, une autorité unique — n'est pas celle d'un système à réseaux multiples ; l'extension au Ceará a réussi, mais dans le même cadre institutionnel et avec le même leader devenu gouverneur. (3) Le récit est porté par des organisations qui en font la promotion (Banque mondiale, CRPE, RISE), ce qui crée un risque de sélection sur le succès : on ne dispose pas d'un recensement des communes brésiliennes ayant tenté une approche comparable sans résultat.",
+   "sources": [
+    {
+     "author": "Center on Reinventing Public Education",
+     "title": "Literacy for All: The Story of Sobral",
+     "org": "CRPE / Arizona State University",
+     "year": "2024",
+     "url": "https://crpe.org/wp-content/uploads/storyofsobral_final.pdf"
+    },
+    {
+     "author": "World Bank",
+     "title": "Achieving World-Class Education in Adverse Socioeconomic Conditions: The Case of Sobral in Brazil",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "https://documents1.worldbank.org/curated/en/143291593675433703/pdf/Achieving-World-Class-Education-in-Adverse-Socioeconomic-Conditions-The-Case-of-Sobral-in-Brazil.pdf"
+    },
+    {
+     "author": "RISE Programme",
+     "title": "A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil",
+     "org": "RISE Programme / Harvard Kennedy School Building State Capability",
+     "year": "2021",
+     "url": "https://riseprogramme.org/publications/problem-driven-approach-education-reform-story-sobral-brazil.html"
+    },
+    {
+     "author": "World Bank",
+     "title": "The State of Ceará in Brazil is a Role Model for Reducing Learning Poverty",
+     "org": "World Bank",
+     "year": "2020",
+     "url": "https://documents1.worldbank.org/curated/en/281071593675958517/pdf/The-State-of-Ceara-in-Brazil-is-a-Role-Model-for-Reducing-Learning-Poverty.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet d'une heure hebdomadaire d'enseignement supplémentaire, longtemps estimé à 0,058 écart-type, est ramené à 0,014-0,037 ET par une réplication systématique sur onze vagues d'enquêtes internationales : le volume horaire explique beaucoup moins des écarts entre pays qu'on ne le croyait.",
+   "what_it_is": "Réplication et extension de l'étude de référence de Victor Lavy sur l'effet du temps d'enseignement, exploitant la variation du nombre d'heures par discipline à l'intérieur d'un même élève (effets fixes élève) dans PISA et TIMSS.",
+   "evidence_level": "Quasi-expérimental (effets fixes élève sur données internationales), avec réplication explicite d'une étude publiée dans l'Economic Journal",
+   "effect_size": "Lavy (2015), PISA 2006, plus de 50 pays : +0,058 ET par heure hebdomadaire supplémentaire (erreur-type 0,004). Bietenbeck et Collins répliquent exactement ce coefficient (0,058) sur les mêmes données, mais obtiennent 0,014 à 0,031 ET sur cinq autres vagues de PISA, et 0,015 à 0,037 ET sur six vagues de TIMSS. Les auteurs concluent que « les différences de temps d'enseignement sont moins importantes qu'on ne le pensait pour expliquer les écarts internationaux de performance ».",
+   "concrete_practice": "Concrètement : augmenter la grille horaire d'une discipline, allonger la journée ou l'année scolaire. C'est l'une des mesures les plus coûteuses qu'un système puisse prendre, puisqu'elle se traduit directement en masse salariale.",
+   "concrete_example": "Bietenbeck (Lund University) et Collins comparent, pour chaque élève, ses résultats et son temps d'enseignement dans les différentes disciplines évaluées, ce qui neutralise toutes les caractéristiques propres à l'élève et à son école. Ils montrent que la divergence tient en partie à la façon dont le temps était mesuré dans PISA 2006 : les élèves y répondaient à des catégories fermées (« moins de 2 heures », « 2 à moins de 4 heures », « 4 à moins de 6 heures », « 6 heures ou plus »), recodées ensuite en heures continues, alors que les vagues suivantes posaient des questions ouvertes. Lavy établissait par ailleurs que la productivité du temps est plus élevée dans les pays qui ont mis en place des dispositifs de reddition de comptes ou qui donnent aux écoles l'autonomie budgétaire et de recrutement, et que l'effet est plus fort pour les filles, les élèves immigrés et les élèves de milieu défavorisé.",
+   "conditions": "L'effet du temps dépend de ce qu'on en fait : Rivkin et Schiman établissent que « la performance augmente avec le temps d'enseignement et que cette augmentation varie à la fois selon la quantité de temps et selon l'environnement de classe », concluant que « les circonstances de l'école sont des déterminants importants des bénéfices et de l'opportunité d'augmenter le temps d'enseignement ». Autrement dit : ajouter des heures dans des classes mal tenues ou sans matériel adapté ne produit rien.",
+   "contested": "Le débat est ouvert et il faut le présenter ainsi. La réplication de Bietenbeck et Collins est « étroite » au sens où elle reproduit exactement le résultat original avec la même spécification et les mêmes données : ce n'est pas un échec de réplication mais une démonstration de fragilité externe. Les auteurs eux-mêmes n'excluent pas que l'écart tienne à des effets hétérogènes entre vagues plutôt qu'à un artefact de mesure. Par ailleurs, Cortes, Goodman et Nomi rappellent qu'à côté des travaux favorables au temps (perte d'apprentissage estivale, jours de neige, écoles sous contrat à journée longue), d'autres travaux — Fryer et Levitt sur la perte estivale, Goodman sur les jours de neige, Checkoway et al. sur une intervention allongeant substantiellement le temps scolaire — trouvent peu ou pas d'effet.",
+   "sources": [
+    {
+     "author": "Jan Bietenbeck, Matthew Collins",
+     "title": "New Evidence on the Importance of Instruction Time for Student Achievement on International Assessments",
+     "org": "Lund University / CESifo / IZA (working paper)",
+     "year": "2021",
+     "url": "https://janbietenbeck.com/BC_instruction_time.pdf"
+    },
+    {
+     "author": "Victor Lavy",
+     "title": "Do Differences in Schools' Instruction Time Explain International Achievement Gaps? Evidence from Developed and Developing Countries",
+     "org": "The Economic Journal, 125(588), F397-F424",
+     "year": "2015",
+     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12233"
+    },
+    {
+     "author": "Steven G. Rivkin, Jeffrey C. Schiman",
+     "title": "Instruction Time, Classroom Quality, and Academic Achievement",
+     "org": "The Economic Journal, 125(588), F425-F448",
+     "year": "2015",
+     "url": "https://ideas.repec.org/a/wly/econjl/v125y2015i588pf425-f448.html"
+    }
+   ]
+  },
+  {
+   "claim": "Doubler le temps d'enseignement d'une discipline ne vaut que si l'on en change le contenu et l'organisation : à Chicago, doubler l'heure d'algèbre des élèves les plus faibles n'a relevé les scores que de 0,09 écart-type (non significatif) mais a augmenté la diplomation de 9,8 points et l'accès à l'enseignement supérieur de 10,8 points.",
+   "what_it_is": "Évaluation par régression sur discontinuité de la politique « double-dose algebra » des Chicago Public Schools : les élèves entrant en 9e année avec un score inférieur à la médiane nationale au test de mathématiques de 8e année étaient inscrits à un second cours d'algèbre, en plus du cours ordinaire.",
+   "evidence_level": "Quasi-expérimental fort (régression sur discontinuité sur seuil de score, données longitudinales appariées aux inscriptions universitaires du National Student Clearinghouse)",
+   "effect_size": "Scores : +0,09 ET au test de mathématiques d'automne de 10e année, non significatif, mais +0,18 ET pour les faibles lecteurs (marginalement significatif) ; +0,18 ET hautement significatif sur une autre mesure ; +0,27 ET à l'examen ACT mathématiques, dont +0,45 ET pour les bons lecteurs. Parcours : +8,5 points de pourcentage de probabilité d'obtenir les 24 crédits minimaux (+12,9 points pour les faibles lecteurs) ; +9,8 points de taux de diplomation en quatre ans (+13,7 points pour les faibles lecteurs), effet encore plus fort à cinq ans. Poursuite d'études : +10,8 points de probabilité de s'inscrire dans un établissement supérieur dans les cinq ans suivant l'entrée au lycée ; +15,3 points pour les élèves noirs ; +0,63 semestre d'inscription dans les huit ans.",
+   "concrete_practice": "Le second cours ne répétait pas le premier : il doublait le temps d'exposition à l'algèbre de 9e année, remplaçait largement des cours optionnels (musique, arts) sans augmenter la charge totale, homogénéisait les classes d'algèbre par niveau et mettait l'accent sur l'exposition verbale des concepts mathématiques et la résolution de problèmes plutôt que sur la procédure.",
+   "concrete_example": "Politique mise en œuvre par les Chicago Public Schools pour les élèves entrant au lycée à l'automne 2003 ; l'analyse de Kalena Cortes, Joshua Goodman et Takako Nomi porte sur les cohortes 2003 et 2004. Pour la cohorte 2003, 80 % des élèves sous le seuil ont été affectés conformément aux recommandations, les deux cours étant le plus souvent consécutifs, avec plus de 90 % de recouvrement des listes d'élèves. Le dispositif a relevé d'environ 20 percentiles le niveau moyen des pairs des élèves concernés dans leur cours d'algèbre ordinaire, tout en les exposant à des pairs plus faibles dans le cours doublé.",
+   "conditions": "L'effet dépend du ciblage : il est le plus fort pour les élèves à faibles compétences en lecture, précisément parce que l'intervention passait par l'exposition verbale des concepts. Les auteurs insistent sur « la nécessité de cibler les interventions vers les élèves au niveau approprié ». Il dépend aussi du fait que le temps supplémentaire ait été pris sur des enseignements optionnels, sans allongement de la journée — donc à coût organisationnel, non à coût horaire net pour l'élève.",
+   "contested": "Trois réserves importantes. (1) L'écart entre effets sur les scores (faibles et souvent non significatifs) et effets sur les parcours (substantiels) n'est pas expliqué : les auteurs reconnaissent que « les effets sur les scores sous-prédisent les effets sur les parcours » et y voient un argument pour évaluer sur le long terme — mais cela signifie aussi que le mécanisme causal reste incertain, une partie de l'effet pouvant venir du changement de composition des classes ou du signal envoyé aux élèves plutôt que du contenu. (2) Le dispositif mélange quatre changements simultanés — temps, contenu, pédagogie, composition des pairs — qu'aucune analyse ne sépare. (3) Il s'agit d'une évaluation sur un seul district urbain très défavorisé, avec des effets sur l'enseignement supérieur concentrés sur les community colleges à temps partiel, dont le rendement réel est discuté. Une littérature antérieure sur les politiques de curriculum préparatoire obligatoire à Chicago (Allensworth, Nomi et al.) avait trouvé des résultats bien moins favorables, ce qui doit tempérer toute généralisation du « plus d'exigence pour tous ».",
+   "sources": [
+    {
+     "author": "Kalena E. Cortes, Joshua S. Goodman, Takako Nomi",
+     "title": "Intensive Math Instruction and Educational Attainment: Long-Run Impacts of Double-Dose Algebra (NBER Working Paper 20211)",
+     "org": "National Bureau of Economic Research",
+     "year": "2014",
+     "url": "https://www.nber.org/system/files/working_papers/w20211/w20211.pdf"
+    },
+    {
+     "author": "Kalena E. Cortes, Joshua S. Goodman, Takako Nomi",
+     "title": "Intensive Math Instruction and Educational Attainment: Long-Run Impacts of Double-Dose Algebra",
+     "org": "Journal of Human Resources, 50(1), 108-158",
+     "year": "2015",
+     "url": "https://ideas.repec.org/a/uwp/jhriss/v50y2015i1p108-158.html"
+    }
+   ]
+  }
+ ]
+}

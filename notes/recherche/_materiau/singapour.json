@@ -1,0 +1,553 @@
+{
+ "topic": "Singapour : étude de cas d'un système scolaire à haute performance — ce qui est mesuré, ce que la recherche attribue à quoi, et ce qui se transpose (ou non) à la Fédération Wallonie-Bruxelles",
+ "headline": "Singapour domine toutes les enquêtes internationales (TIMSS 2023, PIRLS 2021, PISA 2022) et fait quasiment disparaître le redoublement (4 % contre 9 % en moyenne OCDE et ~35 % en FWB), mais la recherche n'attribue causalement presque rien à ses dispositifs phares : les seuls leviers évalués expérimentalement — les mathématiques de maîtrise exportées — produisent des effets faibles (d ≈ +0,06 à +0,15), tandis que l'écart social singapourien (112 points PISA) est plus large que la moyenne OCDE (93) et que la performance repose partiellement sur un marché privé de tutorat de 1,8 milliard S$ par an.",
+ "searches_run": 19,
+ "transposability_fwb": "Quatre lignes de partage. (1) Ce qui se transpose conceptuellement mais pas mécaniquement : le refus du redoublement. Singapour affiche 4 % d'élèves de 15 ans ayant redoublé au moins une fois (OCDE 9 %), contre ~35 % en FWB ; mais ce n'est pas une politique isolée, c'est le corollaire d'un système qui différencie par le niveau de matière (banding) plutôt que par la répétition de l'année, et qui accepte que des élèves sortent avec des certifications différentes. Importer l'interdiction du redoublement sans le dispositif de différenciation qui l'accompagne reviendrait à déplacer le problème. (2) Ce qui se transpose sous forte contrainte budgétaire : rien de la chaîne enseignante singapourienne. La dépense cumulée par élève de 6 à 15 ans est de 166 100 USD PPA (PISA 2022) ; les 100 heures annuelles de développement professionnel, le monopole de formation du NIE, la bourse + solde pendant la formation, le triple parcours de carrière et le dispositif de rétention CONNECT (jusqu'à ~199 000 S$ sur 30 ans) supposent un employeur unique de 33 000 enseignants avec un budget d'accompagnement dédié. La FWB, à gouvernance partagée entre réseaux, sans employeur unique et avec un déficit de 1,5 Md EUR, ne peut ni recruter par bourse d'État, ni imposer un institut de formation unique, ni piloter une échelle de carrière commune. Ce qui reste imitable à coût quasi nul est plus modeste : la décharge horaire des débutants et le mentorat structuré (97 % des nouveaux entrants singapouriens passent par une induction formelle ou informelle contre 72 % en moyenne OCDE) — mais même là, Singapour recule (−12 points de pourcentage de mentors assignés entre 2018 et 2024). (3) Ce qui se transpose techniquement : la pédagogie de maîtrise en mathématiques (concret–imagé–abstrait, modèle en barres). C'est le seul élément du « modèle singapourien » réellement testé hors de Singapour par essais randomisés — en Angleterre (EEF) et aux États-Unis (Math in Focus) — et il donne des effets réels mais faibles (+0,073 écart-type pooled, ~1 mois de progrès ; +0,15 pour Math in Focus). Ces effets valent pour un dispositif curriculaire + manuels + formation, achetable et déployable par un réseau ou par la FWB dans le cadre des référentiels du tronc commun, sans réforme institutionnelle. C'est le levier le plus directement actionnable, mais il faut annoncer honnêtement l'ordre de grandeur : ce n'est pas ce qui explique les 22 points d'écart avec la Communauté flamande. (4) Ce qui ne se transpose pas du tout : la condition sociétale. Singapour est une cité-État de 6 millions d'habitants, sans ruralité, avec une immigration sélectionnée (les élèves immigrés y sont plus favorisés que les natifs et surperforment de 30 points), une population scolaire dont 50 % appartient au quintile international le plus favorisé, et une culture d'investissement familial massif dans le tutorat privé. Attribuer les résultats singapouriens à la seule politique publique est une erreur d'inférence : une part non quantifiée mais non nulle provient d'un marché privé de 1,8 Md S$ (2023) qui joue exactement le rôle inverse de l'objectif d'équité de la FWB — le quintile supérieur y dépense 4,5 fois plus que le quintile inférieur. Enfin, la gouvernance : Singapour est un système à employeur unique, sans liberté d'enseignement constitutionnelle, où 20 % seulement des élèves fréquentent une école dont le directeur recrute ses enseignants (OCDE 60 %) — soit l'inverse exact de la structure FWB. Le message utile pour une note de position n'est donc pas « faire comme Singapour », mais : la constance du cap sur vingt ans, l'entretien systématique de la profession, la substitution de la différenciation au redoublement, et l'acceptation que les gains pédagogiques mesurables sont modestes et cumulatifs — avec un avertissement explicite sur les coûts sociaux (pression, tutorat, stress enseignant) que Singapour lui-même cherche aujourd'hui à réduire.",
+ "items": [
+  {
+   "claim": "Singapour occupe la première place mondiale simultanément en mathématiques et sciences (TIMSS 2023, 4e et 8e années), en lecture (PIRLS 2021) et en mathématiques (PISA 2022) — mais ses scores TIMSS reculent au secondaire et en mathématiques primaires entre 2019 et 2023.",
+   "what_it_is": "Position de Singapour dans les trois grandes enquêtes internationales comparatives, avec leurs tendances temporelles. TIMSS mesure les acquis curriculaires en 4e et 8e année (P4 et Sec 2 à Singapour) ; PIRLS la compréhension de l'écrit en 4e année ; PISA les compétences des élèves de 15 ans.",
+   "evidence_level": "comparaison internationale corrélationnelle (enquêtes sur échantillons représentatifs, sans design causal)",
+   "effect_size": "TIMSS 2023, P4 : mathématiques 615 points (−10 points vs 2019), sciences 607 points (+12 vs 595 en 2019). TIMSS 2023, Sec 2 : mathématiques 605 (−11 vs 616 en 2019), sciences 606 (vs 608). PIRLS 2021 : 587 points, 1er rang, en hausse de 11 points vs 2016 (576) ; 35 % des élèves atteignent le benchmark avancé. PISA 2022 : 92 % des élèves atteignent au moins le niveau 2 en mathématiques (moyenne OCDE 69 %) et 41 % sont très performants, niveaux 5-6 (moyenne OCDE 9 %). Échelle TIMSS : centrée sur 500, écart-type 100.",
+   "concrete_practice": "Le Ministry of Education publie systématiquement les résultats avec une lecture publique des points faibles, et non seulement du rang. Le communiqué TIMSS 2023 du MOE insiste sur le fait que les élèves les plus faibles de Singapour performent au-dessus de la moyenne internationale, ce qui est l'indicateur réellement suivi en interne (le plancher, pas le plafond).",
+   "concrete_example": "TIMSS 2023 (publié le 4 décembre 2024) : sur 44 pays et 3 entités participantes en 8e année, Singapour est 1er en mathématiques avec 605 points, devant le Taipei chinois (602), la Corée (596), le Japon (595) et Hong Kong (575). En sciences 8e année, l'écart au 2e est massif : 606 contre 572 pour le Taipei chinois, soit 34 points. En 4e année mathématiques, Singapour obtient 615 contre 607 pour le Taipei chinois. C'est la quatrième fois depuis 1995 que Singapour réalise le grand chelem sur les quatre catégories (les précédentes : 2003, 2015, 2019). Mais le score de mathématiques 8e année recule de 11 points par rapport à 2019, et celui de mathématiques 4e année de 10 points — dans un cycle affecté par la pandémie, ce qui ne permet pas de trancher entre effet COVID et inflexion de tendance.",
+   "conditions": "Ces classements dépendent de la comparabilité des échantillons. Singapour scolarise l'intégralité de sa cohorte dans un système public quasi unique, ce qui réduit les biais d'exclusion ; à l'inverse, 50 % des élèves singapouriens appartiennent au quintile international le plus favorisé de l'indice socio-économique PISA, ce qui gonfle mécaniquement la moyenne dans toute comparaison brute entre pays.",
+   "contested": "Trois limites sérieuses. (1) Aucune de ces enquêtes n'établit de causalité : elles ne permettent pas d'attribuer la performance à un dispositif précis du système singapourien. (2) La composition socio-économique de la population scolaire singapourienne est atypique (50 % dans le quintile international supérieur, selon PISA 2022) : une part des écarts observés reflète la structure de la population, pas la politique scolaire. (3) Le recul TIMSS 2023 au secondaire (−11 points) est passé sous silence dans la plupart des reprises médiatiques ; la lecture « Singapour continue de progresser » ne tient pas pour les mathématiques. Enfin, je n'ai pas pu ouvrir directement la page du communiqué MOE (blocage serveur) et me fonde sur deux reprises indépendantes de ce communiqué et du Straits Times, ce qui doit être signalé.",
+   "sources": [
+    {
+     "title": "TIMSS 2023: Singapore Students Demonstrate Strong Foundations and Consistent Good Performance in Mathematics and Science (communiqué)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2024",
+     "url": "https://www.moe.gov.sg/news/press-releases/20241204-timss-2023-singapore-students-demonstrate-strong-foundations-and-consistent-good-performance-in-mathematics-and-science"
+    },
+    {
+     "title": "TIMSS 2023 International Results in Mathematics and Science — Average Achievement (Grade 8)",
+     "org": "TIMSS & PIRLS International Study Center, Boston College / IEA",
+     "year": "2024",
+     "url": "https://timss2023.org/results/grade-8-math-achievement/"
+    },
+    {
+     "title": "Global TIMSS 2023 results reveal Singapore leading, France ranks last among EU countries",
+     "org": "Anadolu Agency",
+     "year": "2024",
+     "url": "https://www.aa.com.tr/en/europe/global-timss-2023-results-reveal-singapore-leading-france-ranks-last-among-eu-countries/3413774"
+    },
+    {
+     "title": "PIRLS 2021 International Results in Reading — Countries' Reading Achievement",
+     "org": "TIMSS & PIRLS International Study Center, Boston College / IEA",
+     "year": "2023",
+     "url": "https://pirls2021.org/results/achievement/overall/"
+    },
+    {
+     "title": "Strong Performance by Singapore Students in Reading Literacy Despite COVID-19 Pandemic: International Study",
+     "org": "Ministry of Education, Singapore",
+     "year": "2023",
+     "url": "https://www.moe.gov.sg/news/press-releases/20230516-strong-performance-by-singapore-students-in-reading-literacy-despite-covid-19-pandemic-international-study"
+    },
+    {
+     "title": "PISA 2022 Results — Factsheets: Singapore",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/singapore_604d4933/2f72624e-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le redoublement est quasi inexistant à Singapour — 4 % des élèves de 15 ans contre 9 % en moyenne OCDE — alors que le système est fortement différencié : la différenciation y remplace la répétition de l'année.",
+   "what_it_is": "Singapour ne traite pas la difficulté scolaire par le redoublement mais par l'orientation vers des niveaux de matière différents (autrefois filières Express / Normal Academic / Normal Technical, désormais G1/G2/G3) et par des programmes de rattrapage ciblés en primaire. Un élève en difficulté change de niveau d'exigence dans la matière concernée, il ne refait pas son année.",
+   "evidence_level": "descriptif comparatif (données déclaratives élèves, PISA 2022) ; le lien redoublement–performance au niveau système est corrélationnel",
+   "effect_size": "4 % des élèves singapouriens de 15 ans déclarent avoir redoublé au moins une fois après l'entrée au primaire, contre 9 % en moyenne OCDE (PISA 2022). 93 % des élèves de 15 ans singapouriens sont en 10e année, soit la quasi-absence de dispersion d'âge-classe.",
+   "concrete_practice": "Concrètement : un élève de Sec 1 faible en mathématiques suit les mathématiques au niveau G1 ou G2 tout en suivant l'anglais et les sciences au niveau G3 s'il y réussit, dans la même école et la même classe de référence. Le coût marginal est un dédoublement horaire sur les matières concernées, pas une année scolaire entière refinancée.",
+   "concrete_example": "Sous le Full Subject-Based Banding, généralisé à l'ensemble de la cohorte de Secondary 1 en 2024 après un pilote démarré dans 28 écoles secondaires en 2020 puis étendu à 120 écoles en 2024, les élèves suivent chaque matière à l'un des trois niveaux G1, G2, G3 (correspondant approximativement aux anciennes filières Normal Technical, Normal Academic, Express). Pour la cohorte de Primary 6 de 2024, environ 65 % des élèves éligibles aux groupes d'affectation 1 et 2 (les groupes les moins académiques) pouvaient suivre au moins une matière à un niveau plus exigeant. La première cohorte entièrement scolarisée sous FSBB passera l'examen Singapore-Cambridge SEC en 2027.",
+   "conditions": "Ce modèle exige : un pilotage horaire fin au niveau de l'école (constitution de groupes-matières mobiles), des enseignants formés à l'enseignement en classe hétérogène, et des certifications de sortie différenciées socialement acceptées. Sans certifications différenciées valorisées (à Singapour, environ 30 % des diplômés de l'ITE poursuivent en polytechnique, et le taux d'emploi ITE est de 91,8 %), la différenciation redevient une hiérarchie.",
+   "contested": "Fortement contesté sur deux plans. (1) Le FSBB n'a fait l'objet d'aucune évaluation d'impact publiée à ce jour : les bénéfices rapportés (moindre stigmatisation, meilleure prise en charge des besoins) proviennent de déclarations ministérielles et de témoignages d'enseignants, pas d'un dispositif quasi-expérimental. (2) Cameron Kheng (HKS Student Policy Review, 1er juillet 2022) documente que sur 27 des 59 écoles pilotes disposant d'une page explicative, 24 (88 %) continuaient d'utiliser le vocabulaire ou les catégories du streaming pour expliquer le FSBB, et que des plafonds subsistent (un élève ex-N(T) ne peut relever qu'une matière de sciences humaines par an, et seulement jusqu'au niveau G2, pas G3). Les écoles du Integrated Programme, les plus sélectives, restent hors du dispositif. (3) La littérature sur les effets du streaming à Singapour est elle-même ambivalente : Liu, Wang et Parkins (British Journal of Educational Psychology, 2005) trouvent que les élèves de filière basse ont un concept de soi académique plus négatif immédiatement après l'orientation, mais plus positif trois ans après — un effet « gros poisson dans un petit bassin » qui complique tout raisonnement simple sur la stigmatisation.",
+   "sources": [
+    {
+     "title": "PISA 2022 Results — Factsheets: Singapore (section « How students progress through schooling »)",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/singapore_604d4933/2f72624e-en.pdf"
+    },
+    {
+     "author": "Cameron Kheng",
+     "title": "Reasons to Doubt the \"End of Streaming\" in Singapore",
+     "org": "Harvard Kennedy School Student Policy Review",
+     "year": "2022",
+     "url": "https://studentreview.hks.harvard.edu/reasons-to-doubt-the-end-of-streaming-in-singapore/"
+    },
+    {
+     "author": "Woon Chia Liu, C. K. John Wang, Elizabeth J. Parkins",
+     "title": "A longitudinal study of students' academic self-concept in a streamed setting: The Singapore context",
+     "org": "British Journal of Educational Psychology",
+     "year": "2005",
+     "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/000709905X42239"
+    },
+    {
+     "title": "MOE Committee of Supply Debate 2026 — Response by Minister for Education Desmond Lee (calendrier SEC 2027, nouvelle Post-Secondary Admissions Exercise 2028)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2026",
+     "url": "https://www.moe.gov.sg/news/speeches/20260303-moe-committee-of-supply-debate-2026-response-by-minister-for-education-desmond-lee"
+    },
+    {
+     "title": "Data on Enrolment, Graduation, Non-completion and Employment of Students under ITE Work-Study Diploma Programme",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/news/parliamentary-replies/20250922-data-on-enrolment-graduation-non-completion-and-employment-of-students-under-ite-work-study-diploma-programme"
+    }
+   ]
+  },
+  {
+   "claim": "Contrairement à une idée répandue, Singapour n'est pas un système équitable au sens européen : l'écart de performance entre élèves favorisés et défavorisés y est de 112 points PISA en mathématiques, nettement plus large que la moyenne OCDE (93 points) et que l'écart de la FWB (92 points).",
+   "what_it_is": "Mesure de l'inégalité interne : écart de score entre le quartile socio-économique supérieur et le quartile inférieur, part de variance de performance expliquée par l'indice ESCS, et proportion d'élèves « résilients » (défavorisés atteignant le quartile supérieur de performance nationale).",
+   "evidence_level": "comparaison internationale corrélationnelle (PISA 2022, échantillon représentatif)",
+   "effect_size": "Écart avantagés/défavorisés : 112 points PISA en mathématiques à Singapour, contre 93 points en moyenne OCDE. Le statut socio-économique explique 17 % de la variance de performance en mathématiques (OCDE : 15 %), 12,5 % en sciences (OCDE : 11,6 %) et 14 % en pensée créative (OCDE : 12 %). Élèves résilients : 10 % — exactement la moyenne OCDE. Un point supplémentaire d'indice ESCS est associé à 51 points de mathématiques.",
+   "concrete_practice": "Le MOE cible les moyens sur les écoles à forte concentration de besoins plutôt que sur une politique universelle : financement et personnel supplémentaires alloués à un sous-ensemble d'écoles identifiées, avec extension progressive.",
+   "concrete_example": "Annoncé au Committee of Supply 2026 : à partir de 2026, le MOE étend le dispositif de moyens et de personnel supplémentaires de 100 à 157 écoles, au bénéfice d'environ 20 000 élèves par an. Côté résultats, le point de comparaison le plus parlant pour la FWB est le suivant : les élèves singapouriens du quartile socio-économique inférieur obtiennent des résultats supérieurs non seulement à leurs homologues défavorisés de l'OCDE, mais aussi à la moyenne OCDE tous élèves confondus, dans les trois domaines. Autrement dit, le plancher singapourien est très haut, mais le plafond l'est encore davantage, et l'écart entre les deux n'a pas bougé entre 2012 et 2022.",
+   "conditions": "Le « plancher haut » singapourien est indissociable de la structure de la population : 50 % des élèves singapouriens appartiennent au quintile international ESCS le plus favorisé, et leur score moyen en mathématiques est de 613 points. Le quartile « défavorisé » singapourien est, en termes absolus, souvent plus favorisé que le quartile défavorisé européen. La comparaison d'écarts relatifs entre pays à composition sociale aussi différente est fragile.",
+   "contested": "C'est un point où le récit officiel et les données divergent. Le MOE et l'OCDE soulignent l'un et l'autre la performance des élèves défavorisés singapouriens en comparaison internationale ; mais l'inégalité interne (112 points, 17 % de variance expliquée) est supérieure à la moyenne OCDE et n'a pas diminué en dix ans. La sociologue Teo You Yenn (NTU) et plusieurs travaux (Chua, Swee & Wellman, Sociology of Education, 2019, sur l'accès aux écoles d'élite selon le quartier, le genre et l'ethnicité) soutiennent que la méritocratie singapourienne rationalise l'inégalité plus qu'elle ne la réduit. Je signale que je n'ai pas pu vérifier sur la source primaire les résultats chiffrés de Chua, Swee & Wellman (article sous paywall) : il est cité ici pour l'existence du débat, pas pour une taille d'effet.",
+   "sources": [
+    {
+     "title": "PISA 2022 Results — Factsheets: Singapore (section « Performance gaps within Singapore »)",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/singapore_604d4933/2f72624e-en.pdf"
+    },
+    {
+     "title": "PISA 2022 Results (Volume I and II) — Country Notes: Singapore",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/singapore_2f72624e-en.html"
+    },
+    {
+     "author": "Vincent Chua, Eik Leong Swee, Barry Wellman",
+     "title": "Getting Ahead in Singapore: How Neighborhoods, Gender, and Ethnicity Affect Enrollment into Elite Schools",
+     "org": "Sociology of Education",
+     "year": "2019",
+     "url": "https://journals.sagepub.com/doi/10.1177/0038040719835489"
+    },
+    {
+     "title": "MOE Committee of Supply Debate 2026 — Announcements (extension de 100 à 157 écoles)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2026",
+     "url": "https://cos.moe.gov.sg/2026-announcements/"
+    }
+   ]
+  },
+  {
+   "claim": "Les mathématiques de maîtrise singapouriennes (approche concret–imagé–abstrait, modèle en barres) sont le seul élément du modèle réellement testé par essais randomisés hors de Singapour — et l'effet mesuré est réel mais faible : +0,073 écart-type en moyenne, soit environ un mois de progrès supplémentaire.",
+   "what_it_is": "Approche curriculaire née du Primary Mathematics Project singapourien des années 1980 (Curriculum Development Institute of Singapore, premiers manuels Primary Mathematics en 1982 ; modèle en barres développé par Kho Tek Hong, introduit dans le curriculum en 1983). Elle couvre moins de notions, plus en profondeur, avec une progression enactive → iconique → symbolique dérivée de Bruner (1966), et une progression collective de la classe plutôt qu'une différenciation par accélération.",
+   "evidence_level": "méta-analyse de deux essais contrôlés randomisés (EEF/Jerrim & Vignoles) ; essais randomisés en grappes complémentaires aux États-Unis (Math in Focus) ; évaluation quasi-expérimentale avec groupe témoin apparié en Angleterre (Mathematics Teacher Exchange)",
+   "effect_size": "EEF, méta-analyse des deux ECR : +0,073 écart-type (IC 95 % : 0,00 à +0,14), soit +1 mois de progrès, sur 10 114 élèves de 127 écoles. Essai primaire (Year 1) : +0,10 (IC 95 % : −0,01 à +0,21), 4 176 élèves, 83 écoles, ≈ +2 mois. Essai secondaire (Year 7) : +0,06 (IC 95 % : −0,04 à +0,15), 5 938 élèves, 44 écoles, ≈ +1 mois. Aucun des deux essais n'atteint individuellement la significativité à 5 % ; le résultat n'est significatif qu'après mise en commun. Math in Focus (États-Unis) : effet moyen +0,15 écart-type sur 4 études qualifiantes, 3 444 élèves, années 2 à 5 ; l'ECR de Jaciw & Hegseth (22 grappes d'enseignants dans 12 écoles du Clark County School District, Las Vegas, 2011-2012) trouve des impacts de +0,11 à +0,15 écart-type. Coût EEF : ≈ 131 £ par élève et par an au primaire, ≈ 50 £ au secondaire la première année.",
+   "concrete_practice": "Un paquet complet : manuels structurés, séquences de leçons, formation initiale des enseignants et accompagnement en cours d'année par une organisation tierce (l'association Ark pour Mathematics Mastery en Angleterre, Houghton Mifflin Harcourt pour Math in Focus aux États-Unis). En classe : manipulation d'objets concrets (jetons, blocs), puis représentation en barres du problème, puis écriture symbolique — la classe entière progressant sur la même notion.",
+   "concrete_example": "Essai EEF Mathematics Mastery primaire : 83 écoles de Londres et du Sud-Est de l'Angleterre, 4 176 élèves de Year 1 (5-6 ans), randomisation au niveau école, deux années scolaires (septembre 2012 – août 2014), évaluation indépendante par John Jerrim (Institute of Education) et Anna Vignoles (Cambridge), test de mathématiques administré en fin de Year 1. Résultat : +0,10 écart-type, non significatif à 5 % pris isolément, sécurité de preuve jugée « modérée » par l'EEF. Aux États-Unis, l'essai randomisé de Jaciw et Hegseth (Empirical Education) sur les degrés 3 à 5 du district de Clark County (Las Vegas), année 2011-2012, obtient +0,11 à +0,15 écart-type, sans différence d'impact selon le niveau initial, l'appartenance à une minorité ou le degré.",
+   "conditions": "Les évaluateurs EEF notent explicitement que les effets mesurés sont très inférieurs à ceux de la littérature antérieure sur la « mastery learning » — et proposent deux explications : ces études antérieures étaient américaines et dataient des années 1970-1980, et surtout le programme Mathematics Mastery ne retardait PAS le passage à la notion suivante jusqu'à maîtrise par tous les élèves, alors que c'était la caractéristique décisive des programmes jugés efficaces. Autrement dit, l'étiquette « maîtrise » recouvre des dispositifs différents. Par ailleurs, les deux essais EEF n'ont évalué que la première année d'adoption.",
+   "contested": "Sévèrement contesté, et c'est important à dire. (1) La What Works Clearinghouse (Institute of Education Sciences, décembre 2015) conclut qu'aucune étude de « Singapore Mathematics » (Primary Mathematics) ne satisfaisait ses standards de preuve et qu'elle est donc « incapable de tirer la moindre conclusion fondée sur la recherche » quant à son efficacité. (2) L'évaluation longitudinale du Mathematics Teacher Exchange Chine-Angleterre (Sheffield Hallam University pour le DfE, janvier 2019) — le plus gros dispositif de transfert pédagogique est-asiatique jamais financé en Europe — conclut que la participation à l'échange seule n'a AUCUN effet sur les résultats, ni en KS1 ni en KS2 ; un effet n'apparaît que dans un sous-échantillon exploratoire de 16 écoles ayant réellement implémenté la pédagogie pendant deux ans avec la cohorte de Year 2 (d = +0,23 à +0,31 sur le dépassement du niveau attendu, p < 0,05), tandis qu'en KS2 aucune différence significative n'est trouvée (d descriptif = +0,13 seulement, non significatif en analyse multiniveau). Les auteurs avertissent eux-mêmes que « cela n'établit pas de relation causale » et que les résultats de KS1 reposent sur une évaluation par l'enseignant à catégories larges. (3) Le chef de l'évaluation, Mark Boylan, a déclaré publiquement qu'au vu des preuves disponibles il ne semblait pas que le dispositif produirait le changement d'échelle espéré par le gouvernement. (4) L'analyse corrélationnelle antérieure de Jerrim & Vignoles sur le lien entre méthodes est-asiatiques et compétences des enfants anglais ne permet pas non plus d'inférence causale.",
+   "sources": [
+    {
+     "author": "John Jerrim, Anna Vignoles",
+     "title": "Mathematics Mastery: Overarching Summary Report",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581180.pdf"
+    },
+    {
+     "author": "Mark Boylan et al.",
+     "title": "Longitudinal Evaluation of the Mathematics Teacher Exchange: China-England — Final Report",
+     "org": "Sheffield Hallam University / Department for Education (Royaume-Uni)",
+     "year": "2019",
+     "url": "https://assets.publishing.service.gov.uk/media/5c49b38340f0b61717193d2d/MTE_main_report.pdf"
+    },
+    {
+     "title": "Singapore Math — WWC Intervention Report",
+     "org": "What Works Clearinghouse, Institute of Education Sciences (US Department of Education)",
+     "year": "2015",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_singaporemath_122215.pdf"
+    },
+    {
+     "author": "Andrew P. Jaciw, Whitney Hegseth, Boya Ma, Grace Lai",
+     "title": "Assessing Impacts of Math in Focus, a \"Singapore Math\" Program for American Schools",
+     "org": "Empirical Education Inc. / Society for Research on Educational Effectiveness",
+     "year": "2015",
+     "url": "https://eric.ed.gov/?id=ED562089"
+    },
+    {
+     "title": "Math in Focus — Program rating",
+     "org": "Evidence for ESSA, Center for Research and Reform in Education, Johns Hopkins University",
+     "year": "2024",
+     "url": "https://www.evidenceforessa.org/program/math-in-focus/"
+    },
+    {
+     "title": "Evolution of Singapore's School Mathematics Curriculum",
+     "org": "Mathematics Education Research Group of Australasia (ERIC ED572633)",
+     "year": "2016",
+     "url": "https://files.eric.ed.gov/fulltext/ED572633.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le recrutement enseignant singapourien est sélectif par construction institutionnelle — un employeur unique, un institut de formation unique (NIE), un recrutement dans le tiers supérieur de la cohorte, formation payée et rémunérée contre engagement de service — et non par le seul prestige social.",
+   "what_it_is": "Chaîne de recrutement : candidature auprès du MOE (et non d'une école), entretien par un panel de directeurs expérimentés, sélection dans le tiers supérieur de la cohorte académique, formation exclusivement au National Institute of Education (hébergé par la Nanyang Technological University), coûts de formation pris en charge par le MOE avec versement d'un salaire pendant la formation, en contrepartie d'un engagement de service (bond) de trois ans minimum.",
+   "evidence_level": "descriptif institutionnel, corroboré par des données d'enquête (TALIS 2024) sur les attitudes des entrants ; aucune évaluation causale de l'effet de la sélectivité sur les résultats élèves",
+   "effect_size": "Aucune taille d'effet causale disponible : le lien entre sélectivité du recrutement et performance des élèves n'a pas été testé expérimentalement. Indicateurs indirects TALIS 2024 : 79 % des enseignants débutants singapouriens déclarent que l'enseignement était leur premier choix de carrière (moyenne OCDE 58 %, en hausse de 8 points depuis 2018) ; 88 % des diplômés récents jugent élevée la qualité globale de leur formation initiale (moyenne OCDE 75 %) ; 71 % estiment que les enseignants sont valorisés dans la société (moyenne OCDE 22 %).",
+   "concrete_practice": "Le candidat n'est pas embauché par une école mais par le ministère, qui le paie pendant qu'il se forme. Le NIE forme environ 11 000 éducateurs par an (formation initiale et continue confondues). Les enseignants de mathématiques et de sciences du secondaire et des junior colleges doivent détenir un diplôme universitaire dans leur discipline ; le stage pratique minimal est de 10 semaines. Un titulaire de diplôme suit un Postgraduate Diploma in Education d'un an au NIE, assorti d'un engagement de service de 3 ans.",
+   "concrete_example": "Parcours type documenté : un diplômé universitaire candidate au MOE, passe devant un panel de directeurs en exercice, est recruté s'il se situe dans le tiers supérieur de sa cohorte, effectue une période d'enseignement non qualifié rémunérée en école, puis le PGDE d'un an au NIE — frais payés par le MOE et salaire versé pendant la formation — puis rejoint une école avec un engagement de 3 ans ; en cas de démission avant terme, il rembourse. Les boursiers MOE (MOE Teaching Scholarships) reçoivent en outre le financement des frais universitaires et une allocation d'entretien dès la licence. Salaires d'entrée déclarés pour un diplômé universitaire : environ 3 800 à 4 600 S$ par mois.",
+   "conditions": "Ce dispositif suppose trois conditions inexistantes en FWB : un employeur unique capable de garantir un emploi à vie et de payer la formation, un monopole institutionnel de formation permettant d'aligner contenu de formation et politique curriculaire, et un marché du travail où l'État peut se positionner comme employeur compétitif face au secteur privé. Le MOE ajuste explicitement les salaires enseignants par référence aux autres professions.",
+   "contested": "Trois réserves. (1) Le chiffre souvent cité de « 16 000 candidatures pour 2 000 places » au NIE provient de sources secondaires de plaidoyer (NCEE, Asia Society) et je n'ai pas pu le vérifier sur une source primaire du MOE ou du NIE : il ne devrait pas être utilisé tel quel. (2) La sélectivité à l'entrée n'a jamais été isolée comme cause de la performance : aucune étude ne compare des cohortes d'enseignants sélectionnés différemment à Singapour. (3) Le tableau se dégrade : en PISA 2022, 26 % des élèves singapouriens fréquentaient une école dont le directeur signalait que la capacité d'enseignement était entravée par un manque de personnel enseignant, contre 5 % en 2018 — une multiplication par cinq en quatre ans. (4) L'engagement de service contraint (bond) et le mécanisme de rétention financière relèvent d'un modèle d'emploi qui serait juridiquement et syndicalement très difficile à transposer en Belgique francophone.",
+   "sources": [
+    {
+     "title": "Teachers, Teacher Education, and Professional Development — Singapore",
+     "org": "TIMSS 2015 Encyclopedia, TIMSS & PIRLS International Study Center, Boston College",
+     "year": "2016",
+     "url": "https://timssandpirls.bc.edu/timss2015/encyclopedia/countries/singapore/teachers-teacher-education-and-professional-development/"
+    },
+    {
+     "title": "Results from TALIS 2024 — Country Note: Singapore",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/results-from-talis-2024-country-notes_eafd703e/singapore_f09da5a5/8e88e29a-en.pdf"
+    },
+    {
+     "title": "Singapore — Country profile (top third recruitment, NIE monopoly, three-year bond)",
+     "org": "National Center on Education and the Economy (NCEE)",
+     "year": "2024",
+     "url": "https://ncee.org/singapore/"
+    },
+    {
+     "title": "MOE Teaching Scholarships/Award (Full-Term) — Scholarship and Award Details",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/careers/teaching-scholarships-sponsorships/moe-teaching-scholarships-full-term/scholarship-and-award-details"
+    },
+    {
+     "title": "PISA 2022 Results — Factsheets: Singapore (pénurie d'enseignants signalée par les directeurs)",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/singapore_604d4933/2f72624e-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les 100 heures annuelles de développement professionnel existent bien comme droit institutionnel, mais TALIS 2024 montre que leur impact perçu est strictement dans la moyenne OCDE (56 % contre 55 %) et que les formes collaboratives profondes reculent nettement — le volume n'est pas la qualité.",
+   "what_it_is": "Chaque enseignant singapourien dispose d'un droit à 100 heures de développement professionnel par an, articulé par le Teacher Growth Model porté par l'Academy of Singapore Teachers, qui structure le développement autour de cinq « Teacher Outcomes » (Ethical Educator, Competent Professional, Collaborative Learner, Transformational Leader, Community Builder). Le soutien est assuré par le NIE, l'Academy of Singapore Teachers et six Centres of Excellence.",
+   "evidence_level": "descriptif institutionnel pour le dispositif ; données d'enquête représentatives (TALIS 2024, environ 3 500 enseignants et directeurs singapouriens interrogés d'avril à août 2024) pour les effets perçus ; aucune évaluation causale",
+   "effect_size": "TALIS 2024, Singapour : 56 % des enseignants déclarent que les activités de développement professionnel suivies dans les 12 derniers mois ont eu un impact positif sur leur enseignement — moyenne OCDE 55 %. Entre 2018 et 2024, l'enseignement en binôme a reculé de 12 points de pourcentage, le retour d'information fondé sur l'observation en classe de 5 points, et la participation à de l'apprentissage professionnel collaboratif de 12 points. Obstacles cités : manque de temps dû à d'autres obligations (75 %), conflit avec l'horaire de travail (72 %), absence d'incitations (37 %).",
+   "concrete_practice": "Les 100 heures sont cumulables sous des formes variées : cours formels et programmes structurés, mais aussi recherche-action, lesson study, observation entre pairs. Le Teacher Growth Model sert de cadre d'auto-planification, sans caractère prescriptif : c'est un droit, pas une obligation d'assiduité à un catalogue.",
+   "concrete_example": "Architecture institutionnelle réelle : environ 30 000 enseignants dans les quelque 350 écoles primaires et secondaires du MOE sont soutenus par le NIE (formation qualifiante et diplômante, ~11 000 éducateurs par an), par l'Academy of Singapore Teachers (qui héberge le Teacher Growth Model et les programmes d'instructional mentoring) et par six Centres of Excellence disciplinaires, plus les dispositifs internes à chaque école pilotés par un School Staff Developer — une fonction dédiée dans l'organigramme de chaque école. Le résultat mesuré en 2024 : un impact perçu identique à la moyenne OCDE, et un recul des pratiques collaboratives les plus exigeantes.",
+   "conditions": "L'existence d'un droit horaire ne produit pas d'effet si le temps n'est pas effectivement dégagé : la contrainte binding à Singapour est le temps (75 % citent le manque de temps comme obstacle principal), dans un contexte de 47,3 heures de travail hebdomadaire déclarées. Le dispositif suppose aussi une fonction dédiée en école (School Staff Developer) et des institutions nationales de soutien — soit un coût de structure permanent.",
+   "contested": "Le point le plus dérangeant pour tout plaidoyer « importons les 100 heures ». Malgré un droit à 100 heures, un institut national, une académie et six centres d'excellence, l'impact perçu du développement professionnel à Singapour (56 %) est indistinguable de la moyenne OCDE (55 %) — et les formes de collaboration profonde reculent de 12 points en six ans. Cela suggère soit que l'indicateur TALIS d'impact perçu est peu discriminant, soit que le volume institutionnel de formation ne se traduit pas mécaniquement en qualité. Je n'ai identifié aucune évaluation causale de l'effet des 100 heures sur les acquis des élèves, ni à Singapour ni ailleurs. Par ailleurs, la page officielle de l'Academy of Singapore Teachers consacrée au Teacher Growth Model ne mentionne pas le seuil de 100 heures : celui-ci est documenté par l'encyclopédie TIMSS 2015 (source IEA renseignée par le pays) et par la littérature secondaire.",
+   "sources": [
+    {
+     "title": "Results from TALIS 2024 — Country Note: Singapore (Continuous professional learning ; Between teachers)",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/results-from-talis-2024-country-notes_eafd703e/singapore_f09da5a5/8e88e29a-en.pdf"
+    },
+    {
+     "title": "Teachers, Teacher Education, and Professional Development — Singapore (« All teachers are entitled to 100 hours of PD activities per year »)",
+     "org": "TIMSS 2015 Encyclopedia, TIMSS & PIRLS International Study Center, Boston College",
+     "year": "2016",
+     "url": "https://timssandpirls.bc.edu/timss2015/encyclopedia/countries/singapore/teachers-teacher-education-and-professional-development/"
+    },
+    {
+     "title": "Teacher Growth Model",
+     "org": "Academy of Singapore Teachers, Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/teacher-growth-model/"
+    },
+    {
+     "title": "Singapore Teachers Embrace Digital Technologies and Benefit from Strong Professional Development — OECD TALIS 2024 Study",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/news/press-releases/20251007-singapore-teachers-embrace-digital-technologies-and-benefit-from-strong-professional-development-oecd-talis-2024-study"
+    }
+   ]
+  },
+  {
+   "claim": "L'induction et le mentorat des enseignants débutants sont le dispositif singapourien le mieux documenté quantitativement — 97 % des nouveaux entrants passent par une induction (OCDE 72 %), 42 % des novices ont un mentor assigné (OCDE 26 %) — mais le mentorat assigné a reculé de 12 points entre 2018 et 2024.",
+   "what_it_is": "Chaîne d'entrée dans le métier : décharge horaire des débutants, mentorat structuré piloté en école par le School Staff Developer, et programmes nationaux successifs — Structured Mentoring Programme introduit en 2006, remplacé en 2011 par le Skillful Teaching and Enhanced Mentoring (STEM) programme, qui introduit la notion d'« instructional mentoring » centrée sur les questions d'enseignement plutôt que d'accueil administratif.",
+   "evidence_level": "descriptif institutionnel + données d'enquête représentatives (TALIS 2024) ; aucun essai randomisé du dispositif singapourien",
+   "effect_size": "TALIS 2024 : 97 % des enseignants ayant rejoint leur école dans les cinq dernières années déclarent avoir participé à une induction formelle ou informelle (moyenne OCDE 72 %) ; 42 % des enseignants novices (≤ 5 ans d'expérience) ont un mentor assigné (moyenne OCDE 26 %) ; 100 % travaillent dans une école offrant un programme de mentorat (moyenne OCDE 81 %). Décharge : les enseignants débutants bénéficient de 20 % d'heures d'enseignement en moins.",
+   "concrete_practice": "Le débutant arrive avec un horaire d'enseignement réduit d'un cinquième, un mentor désigné et un School Staff Developer responsable de la cohérence du dispositif dans l'école. Le mentorat porte sur l'acte d'enseigner : observation de leçons, retour d'information, co-planification — et non sur l'intégration administrative.",
+   "concrete_example": "Séquence documentée pour un enseignant débutant singapourien : à la sortie du NIE et à l'affectation en école, il reçoit un mentorat continu et un horaire allégé de 20 % d'heures d'enseignement, ce qui dégage matériellement le temps des séances de mentorat. Le programme est piloté au niveau école par le School Staff Developer et/ou la direction, sous un cadre national (SMP 2006, puis STEM depuis 2011) destiné précisément à réduire la variabilité des pratiques d'induction entre écoles, qui était le problème identifié avant 2006.",
+   "conditions": "Le facteur limitant identifié par la recherche sur le mentorat structuré est le temps inscrit à l'horaire : sans créneaux protégés pour les rencontres régulières, le dispositif se vide. La décharge de 20 % est donc la condition matérielle, pas un supplément. C'est aussi la partie du modèle singapourien la moins coûteuse à transposer : elle ne suppose ni monopole de formation, ni employeur unique, seulement une règle horaire et une fonction dédiée en école.",
+   "contested": "Le dispositif s'érode. Entre 2018 et 2024, la part de novices singapouriens avec un mentor assigné a baissé de 12 points de pourcentage, et la participation à l'apprentissage professionnel collaboratif de 12 points également. Surtout, 40 % des enseignants singapouriens de moins de 30 ans déclarent avoir l'intention de quitter l'enseignement dans les cinq ans (moyenne OCDE 20 %) — un chiffre qui, bien qu'en baisse de 9 points depuis 2018, reste le double de la moyenne OCDE et interroge l'efficacité réelle de l'induction sur la rétention. Aucune évaluation causale du mentorat singapourien sur les acquis des élèves ou sur la rétention n'a été identifiée ; l'étude exploratoire NIE sur les pratiques de mentorat des débutants (2016-2019) est descriptive.",
+   "sources": [
+    {
+     "title": "Results from TALIS 2024 — Country Note: Singapore (Induction and mentoring ; Satisfaction and retention)",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/results-from-talis-2024-country-notes_eafd703e/singapore_f09da5a5/8e88e29a-en.pdf"
+    },
+    {
+     "title": "Teachers, Teacher Education, and Professional Development — Singapore (« a lighter schedule, 20 percent fewer teaching hours »)",
+     "org": "TIMSS 2015 Encyclopedia, TIMSS & PIRLS International Study Center, Boston College",
+     "year": "2016",
+     "url": "https://timssandpirls.bc.edu/timss2015/encyclopedia/countries/singapore/teachers-teacher-education-and-professional-development/"
+    },
+    {
+     "title": "An Exploratory Study of Beginning Teacher Mentoring Practices in Singapore (2016–2019)",
+     "org": "BEST Research Programme, National Institute of Education, NTU Singapore",
+     "year": "2019",
+     "url": "https://teachergrowth.nie.edu.sg/an-exploratory-study-of-beginning-teacher-mentoring-practices-in-singapore-2016-2019/"
+    },
+    {
+     "title": "Instructional Mentoring",
+     "org": "Academy of Singapore Teachers, Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://academyofsingaporeteachers.moe.edu.sg/professional-learning/for-education-officers/instructional-mentoring/"
+    }
+   ]
+  },
+  {
+   "claim": "Le triple parcours de carrière (teaching / leadership / senior specialist) offre une progression sans quitter la classe, mais il ne concerne qu'environ 35 % des enseignants et repose sur un système d'évaluation par compétences (EPMS) explicitement performatif, critiqué dans la littérature académique singapourienne elle-même.",
+   "what_it_is": "Trois échelles de carrière parallèles. Teaching Track : Senior Teacher → Lead Teacher → Master Teacher → Principal Master Teacher, en restant enseignant. Leadership Track : postes de direction en école puis au ministère. Specialist Track : expertise approfondie au sein du MOE. La progression n'est pas automatique : elle est conditionnée à l'évaluation par l'Enhanced Performance Management System (EPMS), introduit en 2001 pour remplacer un système fondé sur des caractéristiques observables par un système fondé sur des compétences sous-jacentes.",
+   "evidence_level": "descriptif institutionnel ; critique académique qualitative (analyse de politique publique) ; aucune évaluation d'impact",
+   "effect_size": "Environ 35 % des enseignants singapouriens progressent sur l'un des trois parcours (donnée NCEE). Aucune taille d'effet sur les acquis des élèves n'est disponible. Indicateur indirect de satisfaction salariale (TALIS 2024) : 55 % des enseignants singapouriens sont satisfaits de leur salaire (moyenne OCDE 39 %), mais cette part a chuté de 17 points de pourcentage depuis 2018.",
+   "concrete_practice": "L'enseignant est évalué annuellement selon des grilles de compétences ; la promotion sur l'échelle d'enseignement donne accès aux fonctions de Master Teacher, qui exercent des responsabilités de formation et de mentorat au sein de l'Academy of Singapore Teachers et des Centres of Excellence, tout en restant rattachés à la pratique de classe. S'y ajoute un mécanisme de rétention financière différée (CONNECT), payable en versements échelonnés selon l'ancienneté.",
+   "concrete_example": "Le dispositif CONNECT illustre concrètement la logique de rétention : un enseignant titulaire du PGDE accumulerait environ 199 000 S$ de versements CONNECT sur 30 ans de service, en sus de son salaire et de ses primes annuelles ; un enseignant qui démissionne à l'issue de son engagement de 3 ans renonce à environ 27 000 S$ de dépôts déjà constitués. Côté carrière, la montée sur le Teaching Track (Senior Teacher, Lead Teacher, Master Teacher, Principal Master Teacher) permet d'atteindre un niveau de rémunération et d'influence sans passer par la direction d'établissement — le problème que la FWB, comme la plupart des systèmes européens, ne résout pas.",
+   "conditions": "Ce modèle suppose un employeur unique capable de gérer une grille nationale, un système d'évaluation individuelle des enseignants accepté socialement et syndicalement, et une capacité budgétaire à financer des primes de rétention différées sur trente ans. Il suppose aussi une acceptation de la différenciation salariale entre enseignants — ce qui, en FWB, se heurte au barème unique et à la structure des relations collectives.",
+   "contested": "Critiqué de l'intérieur. Des chercheurs du NIE analysent l'EPMS comme un dispositif de « performative enhancement of teacher professionalism » (Asia Pacific Journal of Education), c'est-à-dire un renforcement de la professionnalité par la performance mesurée, avec les effets classiques de conformation aux indicateurs. Aucune évaluation ne relie le triple parcours à des gains d'apprentissage. Le signal le plus inquiétant est la chute de 17 points de la satisfaction salariale entre 2018 et 2024, alors même que le niveau reste supérieur à la moyenne OCDE, et la baisse de 7 points de la satisfaction quant aux conditions d'emploi hors salaire. Les données chiffrées sur les salaires d'entrée (3 800–4 600 S$/mois) et sur CONNECT proviennent de sites financiers grand public singapouriens, pas d'une source primaire MOE : elles doivent être traitées comme des ordres de grandeur.",
+   "sources": [
+    {
+     "title": "Singapore's Teacher Career Ladder (note de synthèse)",
+     "org": "National Center on Education and the Economy / National Conference of State Legislatures",
+     "year": "2019",
+     "url": "https://documents.ncsl.org/wwwncsl/Education/Study-Group/7.SingaporeCareerLadderSummaryNCEE.pdf"
+    },
+    {
+     "title": "Perform or else: The performative enhancement of teacher professionalism",
+     "org": "Asia Pacific Journal of Education / NIE Digital Repository",
+     "year": "2012",
+     "url": "https://repository.nie.edu.sg/bitstream/10497/15234/1/APJE-32-3-285.pdf"
+    },
+    {
+     "title": "Using Competency-Based Evaluation to Drive Teacher Excellence: Lessons from Singapore",
+     "org": "Public Impact / OpportunityCulture.org",
+     "year": "2010",
+     "url": "https://opportunityculture.org/images/stories/singapore_lessons_2010.pdf"
+    },
+    {
+     "title": "Results from TALIS 2024 — Country Note: Singapore (Salary ; Contracts and hours)",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/results-from-talis-2024-country-notes_eafd703e/singapore_f09da5a5/8e88e29a-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "« Teach Less, Learn More » est une orientation philosophique proclamée depuis 2004, jamais évaluée par un dispositif d'impact : la seule recherche empirique identifiée porte sur les perceptions de 13 directeurs et conclut à des obstacles de préparation des enseignants et des élèves.",
+   "what_it_is": "Initiative lancée par le Premier ministre Lee Hsien Loong en 2004 et déployée par le MOE : réduire la quantité de contenu enseigné pour libérer du temps d'apprentissage en profondeur, avec l'idée que « davantage du même enseignement n'est pas la voie vers un meilleur apprentissage ». Elle a servi de cadre à des réductions de contenu curriculaire et à l'octroi de marge d'initiative aux écoles.",
+   "evidence_level": "descriptif sans évaluation ; une étude qualitative sur petit échantillon (13 directeurs) pour l'implémentation",
+   "effect_size": "Non disponible. Aucune taille d'effet publiée. Je n'ai identifié aucune évaluation quasi-expérimentale ou expérimentale de TLLM sur les acquis des élèves, et il serait malhonnête d'en citer une.",
+   "concrete_practice": "En pratique, TLLM a pris la forme de réductions du contenu prescrit, d'un espace laissé aux écoles pour concevoir leurs propres programmes (« white space » curriculaire), et d'un discours ministériel constant sur la qualité plutôt que la quantité d'enseignement.",
+   "concrete_example": "L'étude empirique la plus précise identifiée est celle de Kala S. Retna et Pak Tee Ng (Journal of Educational Change / Education and Urban Society, 2016) : entretiens avec 13 directeurs d'école singapouriens sur leur compréhension et leur perception des difficultés de TLLM. Résultat : tous jugent la politique bonne en principe, mais identifient comme obstacle principal la préparation des élèves et des enseignants à ce nouveau paradigme d'enseignement et d'apprentissage. Autrement dit, le dispositif le plus cité du « modèle singapourien » à l'étranger repose, sur le plan probant, sur une étude de perception à 13 répondants.",
+   "conditions": "TLLM suppose que les enseignants disposent de la capacité didactique à exploiter le temps libéré — sinon la réduction de contenu est une perte nette. C'est exactement le constat des directeurs interrogés. Il suppose aussi que les examens de sortie soient ajustés en cohérence, faute de quoi la réduction du contenu enseigné pousse les familles vers le tutorat privé.",
+   "contested": "Très contesté, y compris par son principal analyste. Pak Tee Ng (NIE), qui a le plus écrit sur TLLM, le décrit lui-même comme un « paradoxe » : Singapour cherche à enseigner moins tout en restant un système à très fort enjeu d'examen, et ces deux logiques s'affrontent. Dans « The Paradoxes of Student Well-being in Singapore » (ECNU Review of Education, 2020), il soutient que le virage vers une éducation holistique résout certains problèmes de bien-être tout en en créant de plus subtils. Sur le plan de la preuve : il n'existe à ma connaissance aucune évaluation d'impact de TLLM, et toute affirmation reliant TLLM aux résultats PISA/TIMSS de Singapour serait une inférence non soutenue. Ce point doit être dit explicitement dans une note de position, car TLLM est fréquemment invoqué comme preuve qu'« alléger les programmes améliore les résultats ».",
+   "sources": [
+    {
+     "author": "Kala S. Retna, Pak Tee Ng",
+     "title": "Singapore Principals' Understanding and Perceptions of the Challenges of \"Teach Less, Learn More\" Policy",
+     "org": "Education and Urban Society (SAGE)",
+     "year": "2016",
+     "url": "https://journals.sagepub.com/doi/abs/10.1177/105678791602500405"
+    },
+    {
+     "author": "Pak Tee Ng",
+     "title": "The Paradoxes of Student Well-being in Singapore",
+     "org": "ECNU Review of Education (SAGE)",
+     "year": "2020",
+     "url": "https://journals.sagepub.com/doi/10.1177/2096531120935127"
+    },
+    {
+     "author": "Pak Tee Ng",
+     "title": "Learning from Singapore: The Power of Paradoxes",
+     "org": "Routledge",
+     "year": "2017",
+     "url": "https://www.routledge.com/Learning-from-Singapore-The-Power-of-Paradoxes/Ng/p/book/9781138926912"
+    }
+   ]
+  },
+  {
+   "claim": "Singapour a déconstruit son propre appareil d'évaluation à haut enjeu — suppression de toutes les épreuves de mi-année d'ici 2023, passage du PSLE à un système de bandes (Achievement Levels) en 2021 — mais ces réformes n'ont fait l'objet d'aucune évaluation causale publiée et le marché du tutorat privé n'a pas reculé.",
+   "what_it_is": "Deux réformes de réduction de la pression évaluative. (1) Suppression progressive des examens de mi-année : d'abord en Primary 3 et 5 et en Secondary 1 et 3, puis annonce en mars 2022 de leur suppression à tous les niveaux primaires et secondaires d'ici 2023. (2) Remplacement en 2021 du score T du Primary School Leaving Examination (qui classait chaque élève par rapport à sa cohorte) par un système d'Achievement Levels de 1 à 8 par matière, le score total allant de 4 à 32 — donc une banding à granularité volontairement grossière, destinée à supprimer la course au point marginal.",
+   "evidence_level": "descriptif ; justifications ministérielles ; aucune évaluation quasi-expérimentale ou expérimentale identifiée",
+   "effect_size": "Non disponible sur les acquis ou le bien-être. La seule quantité mesurable rapportée est un effet d'organisation : la suppression des examens de mi-année libère environ trois semaines de temps de programme par niveau. Aucune évaluation chiffrée de l'effet sur le stress, le bien-être ou les apprentissages n'a été publiée à ma connaissance.",
+   "concrete_practice": "Le temps libéré est réaffecté à des méthodes d'enseignement plus variées et à de l'évaluation formative continue, utilisée pour identifier ce que chaque élève maîtrise. Le PSLE AL supprime la comparaison entre élèves : un élève est classé par rapport à un standard, pas à ses pairs.",
+   "concrete_example": "Calendrier documenté : annonce en 2016 du remplacement du score T du PSLE, mise en œuvre pour la cohorte de 2021 ; annonce par le ministre Chan Chun Sing en mars 2022 de la suppression des examens de mi-année à tous les niveaux d'ici 2023, après une suppression partielle amorcée quelques années plus tôt. Effet organisationnel chiffré par le MOE : environ trois semaines de temps curriculaire libérées par niveau, redéployées vers de l'évaluation en continu et des méthodes plus engageantes. À l'horizon 2028, le MOE remplacera par ailleurs les mécanismes d'admission post-secondaire actuels par une Post-Secondary Admissions Exercise unique, pour les junior colleges, le Millennia Institute, les polytechniques et l'ITE.",
+   "conditions": "Réduire la granularité d'un examen ne réduit la pression que si les seuils d'accès aux filières valorisées sont eux-mêmes élargis. Tant qu'un petit nombre d'écoles restent nettement plus sélectives et prestigieuses, la compétition se reporte sur les seuils restants. C'est précisément le mécanisme que les critiques du FSBB et du PSLE AL identifient.",
+   "contested": "Contesté sur deux fronts. (1) Absence de preuve : le MOE affirme que les élèves se concentrent davantage sur leur apprentissage et moins sur les notes, et que les enseignants peuvent mieux doser la progression — mais ces affirmations reposent sur des retours d'écoles, pas sur un dispositif d'évaluation. Je n'ai pas pu accéder directement à la réponse parlementaire du MOE du 3 octobre 2023 sur l'effet de la suppression des examens de mi-année (blocage serveur), et je ne peux donc pas citer de données chiffrées qu'elle contiendrait. (2) Contre-preuve indirecte : les dépenses des ménages singapouriens en tutorat privé ont augmenté de 29 % entre 2018 et 2023, période qui recouvre exactement ces réformes. Si l'objectif était de réduire la pression scolaire, l'indicateur de marché va en sens inverse. Pak Tee Ng soutient qu'un système peut alléger l'évaluation formelle tout en déplaçant la pression ailleurs.",
+   "sources": [
+    {
+     "title": "Effect of removing mid-year examinations (réponse parlementaire)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2023",
+     "url": "https://www.moe.gov.sg/news/parliamentary-replies/20231003-effect-of-removing-mid-year-examinations"
+    },
+    {
+     "title": "Removal of mid-year exams will help nurture joy for learning (réponse au courrier des lecteurs)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2022",
+     "url": "https://www.moe.gov.sg/news/forum-letter-replies/20220317-removal-of-mid-year-exams-will-help-nurture-joy-for-learning"
+    },
+    {
+     "title": "No more mid-year exams for all Singapore primary and secondary schools from 2023",
+     "org": "AACRAO (American Association of Collegiate Registrars and Admissions Officers)",
+     "year": "2022",
+     "url": "https://www.aacrao.org/edge/emergent-news/no-more-mid-year-exams-for-all-singapore-primary-and-secondary-schools-from-2023/"
+    },
+    {
+     "title": "MOE Committee of Supply Debate 2026 — Response by Minister for Education Desmond Lee",
+     "org": "Ministry of Education, Singapore",
+     "year": "2026",
+     "url": "https://www.moe.gov.sg/news/speeches/20260303-moe-committee-of-supply-debate-2026-response-by-minister-for-education-desmond-lee"
+    }
+   ]
+  },
+  {
+   "claim": "Une part non quantifiée de la performance singapourienne est produite hors de l'école : les ménages ont dépensé 1,8 milliard S$ en tutorat privé en 2023, en hausse de 29 % en cinq ans et de 64 % depuis 2013, avec un ratio de 4,5 entre le quintile de revenu supérieur et le quintile inférieur.",
+   "what_it_is": "« Shadow education » : cours particuliers et centres de tutorat privés, achetés par les familles en complément de l'école publique. C'est le coût caché du modèle singapourien, et le principal facteur de confusion dans toute attribution causale des résultats PISA/TIMSS à la politique scolaire.",
+   "evidence_level": "enquête statistique officielle représentative (Household Expenditure Survey, Department of Statistics Singapore) ; littérature académique descriptive sur la shadow education",
+   "effect_size": "1,8 milliard S$ dépensés par les ménages en tutorat privé en 2023, contre 1,4 milliard en 2018 (+29 %) et 1,1 milliard en 2013 (+64 % sur dix ans). Dépense mensuelle moyenne par ménage : 104,80 S$ en 2023 contre 88,40 S$ en 2018. Gradient social : 162,60 S$ par mois pour les ménages du quintile supérieur de revenu contre 36,30 S$ pour le quintile inférieur, soit un ratio de 4,5. Échantillon : 13 100 ménages enquêtés sur les 12 mois s'achevant en décembre 2023.",
+   "concrete_practice": "Le marché est structuré et régulé au sens de l'enregistrement : 881 centres de tutorat privés étaient enregistrés à Singapour en avril 2023. Les tarifs vont de 75 à 400 S$ par mois pour un tutorat courant, à plus de 200 S$ de l'heure pour les tuteurs les plus demandés.",
+   "concrete_example": "Le Household Expenditure Survey du Department of Statistics, mené tous les cinq ans sur 13 100 ménages (période de 12 mois s'achevant en décembre 2023), établit la mesure la plus fiable disponible : 1,8 Md S$ de dépenses annuelles de tutorat privé, 104,80 S$ par mois et par ménage en moyenne. Un ménage du quintile supérieur dépense 162,60 S$ par mois, un ménage du quintile inférieur 36,30 S$. Rebecca Chan (National Institute of Education) relève que les élèves cumulant plusieurs cours particuliers présentent couramment un stress chronique et un sommeil insuffisant, et l'UNESCO projette un marché mondial de la shadow education à 171 milliards USD en 2028 contre 111 milliards en 2023.",
+   "conditions": "Ce marché existe parce que les enjeux des examens d'orientation restent élevés et que les familles disposent des moyens de s'assurer contre le risque scolaire. Il croît malgré — et peut-être à cause de — les réformes de dé-escalade évaluative : moins d'examens formels à l'école signifie moins de signaux publics sur la position de l'enfant, ce qui peut accroître la demande de diagnostic privé.",
+   "contested": "Le point le plus dommageable pour l'argument « le modèle singapourien est efficient ». Trois réserves supplémentaires. (1) Aucune étude ne quantifie la contribution causale du tutorat privé aux scores PISA/TIMSS singapouriens : l'ampleur du biais est inconnue, pas nulle. (2) L'UNESCO et la littérature sur la shadow education soutiennent que le tutorat privé aggrave les inégalités sociales, ce qui est cohérent avec l'écart de 112 points PISA observé à Singapour. (3) Le chiffre souvent cité de « 7 parents sur 10 » recourant au tutorat provient d'une enquête du Straits Times de 2015 et est trop ancien pour être utilisé : les données récentes portent sur les dépenses, pas sur la prévalence par élève, et je n'ai pas trouvé de statistique officielle récente de prévalence.",
+   "sources": [
+    {
+     "title": "Household Expenditure Survey 2023 — dépenses des ménages en tutorat privé",
+     "org": "Department of Statistics Singapore (SingStat)",
+     "year": "2025",
+     "url": "https://www.singstat.gov.sg/news/parents-seem-persuaded-that-tuition-is-necessary-and-not-optional"
+    },
+    {
+     "title": "Singapore families spent S$1.8 billion on private tuition in 2023, with the richest spending over S$162 per month",
+     "org": "Malay Mail (reprise des données SingStat)",
+     "year": "2025",
+     "url": "https://www.malaymail.com/news/singapore/2025/01/20/singapore-families-spent-s18-billion-on-private-tuition-in-2023-with-the-richest-spending-over-s162-per-month/163937"
+    },
+    {
+     "author": "Rebecca Chan",
+     "title": "Singapore's Private Tutoring Boom Reveals the Hidden Cost of Success",
+     "org": "National Institute of Education, NTU Singapore",
+     "year": "2024",
+     "url": "https://www.ntu.edu.sg/nie/news-events/news/detail/singapore-s-private-tutoring-boom-reveals-the-hidden-cost-of-success"
+    },
+    {
+     "title": "Private Tuition (réponse parlementaire)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/news/parliamentary-replies/20250205-private-tuition"
+    },
+    {
+     "author": "Christensen",
+     "title": "Shadow Education Beyond Tutoring? New Forms of Private Supplementary Classes in Singapore",
+     "org": "European Journal of Education (Wiley)",
+     "year": "2025",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejed.70274"
+    }
+   ]
+  },
+  {
+   "claim": "Le coût humain du système est mesuré et documenté des deux côtés : élèves à forte peur de l'échec et taux de harcèlement supérieurs à la moyenne OCDE chez les garçons ; enseignants à 47,3 heures hebdomadaires, 27 % en stress élevé, et 40 % des moins de 30 ans envisageant de quitter le métier.",
+   "what_it_is": "Indicateurs de bien-être des élèves (PISA 2022) et des enseignants (TALIS 2024) dans un système à haute performance. C'est le contrepoint indispensable à tout plaidoyer fondé sur les rangs internationaux.",
+   "evidence_level": "données d'enquête représentatives (PISA 2022 ; TALIS 2024, ~3 500 enseignants et directeurs singapouriens, avril-août 2024) ; corrélationnel",
+   "effect_size": "Élèves (PISA 2022) : 73 % se sentent à leur place à l'école (OCDE 75 %) ; 19 % se sentent seuls (OCDE 16 %) ; 20 % se sentent exclus (OCDE 17 %) ; 26 % des garçons et 15 % des filles déclarent être victimes de harcèlement au moins quelques fois par mois (OCDE : 21 % des garçons, 20 % des filles). Anxiété en mathématiques : 35 % en 2022 contre 37 % en 2012 — en baisse mais élevée. Enseignants (TALIS 2024) : 47,3 heures de travail hebdomadaires (OCDE 41), dont seulement 17,7 h d'enseignement (OCDE 22,7), 8,2 h de préparation (OCDE 7,4), 6,4 h de correction (OCDE 4,6) et 4 h de travail administratif (OCDE 3) ; 27 % en stress élevé (OCDE 19 %, en hausse de 4 points depuis 2018) ; 40 % des moins de 30 ans envisagent de partir sous cinq ans (OCDE 20 %).",
+   "concrete_practice": "Les trois sources de stress les plus citées par les enseignants singapouriens sont la charge administrative excessive, le fait d'être tenu responsable des résultats des élèves, et la charge de correction. Le MOE y répond par de la réduction de tâches : dispositif de dépôt électronique des justificatifs d'absence par les parents, fonctions de correction automatisée et outils d'évaluation assistés par IA dans la plateforme Student Learning Space, lignes directrices explicites sur les limites des communications avec les parents en dehors des heures de service.",
+   "concrete_example": "La structure horaire singapourienne est instructive et directement comparable pour la FWB : un enseignant singapourien à temps plein enseigne 17,7 heures par semaine — soit 5 heures de moins que la moyenne OCDE — mais travaille 47,3 heures au total, 6 heures de plus que la moyenne OCDE. L'écart se loge dans la préparation (+0,8 h), la correction (+1,8 h) et l'administration (+1 h). C'est le prix horaire réel du modèle : moins de temps devant élèves, beaucoup plus de temps de travail professionnel adjacent. Et le résultat en 2024 est que 40 % des enseignants de moins de 30 ans déclarent vouloir partir dans les cinq ans, contre 20 % en moyenne OCDE.",
+   "conditions": "Le modèle tient tant que le statut social compense la charge : 71 % des enseignants singapouriens estiment que les enseignants sont valorisés dans la société (OCDE 22 %) et 57 % que leurs vues sont prises en compte par les décideurs (OCDE 16 %). Sans ce capital de reconnaissance, la charge de 47 heures ne serait pas soutenable. C'est précisément la variable qu'aucune réforme budgétaire ne peut créer par décret.",
+   "contested": "Trois nuances contre le récit facile. (1) Le prétendu effondrement du bien-être élève à Singapour n'est pas confirmé sur tous les indicateurs : le sentiment d'appartenance (73 %) est proche de la moyenne OCDE (75 %), le sentiment de sécurité y est meilleur (3 % ne se sentent pas en sécurité sur le trajet contre 8 % en moyenne OCDE), et le climat de discipline en classe est nettement plus favorable (11 % déclarent ne pas pouvoir bien travailler contre 23 % en moyenne OCDE). Le tableau est donc contrasté, pas uniformément noir. (2) Le harcèlement des garçons (26 %) est en revanche supérieur à la moyenne OCDE, ce qui n'est pas cohérent avec l'image d'un système apaisé. (3) La satisfaction professionnelle des enseignants singapouriens (87 %) est légèrement INFÉRIEURE à la moyenne OCDE (89 %) et a baissé de 2 points depuis 2018 — un résultat rarement mentionné dans les comparaisons internationales élogieuses.",
+   "sources": [
+    {
+     "title": "Results from TALIS 2024 — Country Note: Singapore (Working hours ; Well-being ; Satisfaction and retention ; Status of the teaching profession)",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/results-from-talis-2024-country-notes_eafd703e/singapore_f09da5a5/8e88e29a-en.pdf"
+    },
+    {
+     "title": "PISA 2022 Results — Factsheets: Singapore (Students' sense of belonging ; Feeling safe at and around school ; Support and discipline)",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/singapore_604d4933/2f72624e-en.pdf"
+    },
+    {
+     "title": "Improving Work-life Balance and Mental Well-being of Educators in View of OECD TALIS 2024 Findings (réponse parlementaire)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/news/parliamentary-replies/20251104-improving-work-life-balance-and-mental-well-being-of-educators-in-view-of-oecd-teaching-and-learning-international-survey-2024-findings"
+    },
+    {
+     "title": "PISA 2022 insights: Student questions, mathematics anxiety and homework",
+     "org": "Teacher Magazine, Australian Council for Educational Research (ACER)",
+     "year": "2023",
+     "url": "https://www.teachermagazine.com/au_en/articles/pisa-2022-insights-student-questions-mathematics-anxiety-and-homework"
+    }
+   ]
+  },
+  {
+   "claim": "L'accusation classique selon laquelle le système singapourien produirait des exécutants sans créativité est démentie par les données : Singapour arrive premier des 64 systèmes évalués en pensée créative (PISA 2022) avec 41 points sur 60 contre 33 en moyenne OCDE.",
+   "what_it_is": "La pensée créative a été évaluée pour la première fois par PISA en 2022, dans 64 pays et économies, comme domaine innovant : capacité des élèves à produire des idées originales et diverses. Le résultat permet de tester empiriquement l'objection la plus fréquente au modèle singapourien.",
+   "evidence_level": "comparaison internationale corrélationnelle (PISA 2022, domaine innovant, première mesure — donc sans point de comparaison temporel)",
+   "effect_size": "Singapour : 41 points sur 60 possibles, moyenne OCDE 33 points, 1er rang sur 64 systèmes. 94 % des élèves singapouriens atteignent au moins le niveau de compétence de base (niveau 3), contre 78 % en moyenne OCDE. Environ 6 élèves singapouriens sur 10 sont très performants (niveaux 5 ou 6), contre 27 % en moyenne OCDE — la proportion la plus élevée de tous les systèmes participants. Le statut socio-économique explique 14 % de la variance en pensée créative à Singapour (OCDE 12 %).",
+   "concrete_practice": "L'épreuve demande aux élèves de générer des idées originales et variées sur des tâches d'expression écrite, d'expression visuelle, de résolution de problèmes sociaux et de résolution de problèmes scientifiques — et non de restituer des connaissances.",
+   "concrete_example": "PISA 2022, résultats de pensée créative publiés le 18 juin 2024 : sur 64 pays et économies participants, Singapour obtient 41/60. Le contraste avec la moyenne OCDE (33) est de 8 points sur une échelle de 60. La statistique la plus parlante est la distribution : 6 élèves singapouriens sur 10 atteignent les deux niveaux de compétence les plus élevés, plus du double de la proportion moyenne OCDE (27 %), et 94 % atteignent au moins le seuil de base contre 78 %. Autrement dit, le système ne produit pas seulement un sommet créatif, il élève le plancher.",
+   "conditions": "La mesure PISA de la pensée créative est nouvelle et son instrument est contesté dans sa validité de construit : elle mesure une capacité à générer des idées dans des tâches standardisées, pas la créativité au sens artistique ou entrepreneurial. Un résultat élevé peut aussi refléter une familiarité avec le format d'évaluation, très développée à Singapour.",
+   "contested": "À manipuler avec précaution. (1) C'est une première mesure : il n'existe aucune tendance, donc rien ne permet de dire que la pensée créative singapourienne s'améliore ou se dégrade. (2) La validité de construit du domaine « pensée créative » de PISA fait débat dans la communauté de recherche, et le corréler à la performance en mathématiques (élevée dans les mêmes pays) laisse ouverte l'hypothèse d'un facteur commun de compétence académique générale plutôt que de créativité distincte. (3) Le résultat n'invalide pas les critiques sur la pression scolaire et le tutorat : il invalide seulement l'objection spécifique « bachotage donc absence de créativité ». (4) L'écart social reste présent dans ce domaine aussi (14 % de variance expliquée, au-dessus de la moyenne OCDE).",
+   "sources": [
+    {
+     "title": "PISA 2022 Results (Volume III) — Factsheets: Singapore (Creative Minds, Creative Schools)",
+     "org": "OCDE",
+     "year": "2024",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/pisa-2022-results-volume-iii-country-notes_72b418f8/singapore_4da8e299/3e8ab415-en.pdf"
+    },
+    {
+     "title": "Singapore Students Show High Levels of Creative Thinking Skills — OECD PISA 2022",
+     "org": "Ministry of Education, Singapore",
+     "year": "2024",
+     "url": "https://www.moe.gov.sg/news/press-releases/20240618-singapore-students-show-high-levels-of-creative-thinking-skills-oecd-pisa-2022"
+    },
+    {
+     "title": "PISA 2022: Students' creative thinking",
+     "org": "Teacher Magazine, Australian Council for Educational Research (ACER)",
+     "year": "2024",
+     "url": "https://www.teachermagazine.com/au_en/articles/pisa-2022-students-creative-thinking"
+    }
+   ]
+  },
+  {
+   "claim": "SkillsFuture, le volet formation continue du modèle, affiche une montée en charge rapide et des primes salariales de 5,8 % à 11 % pour les diplômés de ses filières — mais toutes les évaluations disponibles sont non expérimentales et produites par les administrations qui pilotent le dispositif.",
+   "what_it_is": "Système national de formation tout au long de la vie lancé en 2015 : crédit individuel de formation (SkillsFuture Credit) utilisable par tout Singapourien, complété depuis mai 2024 par un SkillsFuture Credit (Mid-Career) et un Level-Up Programme avec allocation de formation à mi-carrière, et par des filières en alternance (Work-Study Certificate, Work-Study Post-Diploma).",
+   "evidence_level": "évaluations quasi-expérimentales et longitudinales administratives (MTI, SkillsFuture Singapore) ; aucun essai randomisé ; évaluateur non indépendant du dispositif",
+   "effect_size": "Montée en charge : 260 000 Singapouriens ont utilisé leur SkillsFuture Credit en 2024, contre 192 000 en 2023 (+35 %). Pour la première année du Level-Up Programme (1er mai 2024 – 30 avril 2025), plus de 36 000 citoyens ont mobilisé le SkillsFuture Credit (Mid-Career), pour plus de 24 millions S$ de réclamations. Effets salariaux : étude MTI de 2018, prime salariale réelle de 5,8 % l'année suivant une formation Workforce Skills Qualification ; diplômés Work-Study Post-Diploma, prime d'environ 9 % un à deux ans après la fin du programme puis environ 6 % les deux années suivantes ; diplômés Work-Study Certificate, prime d'environ 11 % un à deux ans après, maintenue les deux années suivantes.",
+   "concrete_practice": "Chaque citoyen reçoit un crédit de formation utilisable auprès de prestataires agréés ; les filières Work-Study associent emploi et certification. Le suivi est assuré par des études longitudinales périodiques et par l'initiative Training Quality and Outcomes Measurement (TRAQOM) de SkillsFuture Singapore.",
+   "concrete_example": "Filière Work-Study Certificate : formation en alternance certifiante pour des actifs en emploi, suivie par appariement sur données administratives de revenus. Résultat mesuré : prime salariale d'environ 11 % un à deux ans après l'obtention du certificat, maintenue sur les deux années suivantes. Côté volume, le Level-Up Programme lancé le 1er mai 2024 a mobilisé plus de 36 000 citoyens et 24 millions S$ en douze mois. Sur la même logique, le Work-Study Diploma de l'ITE affiche plus de 95 % de diplômés en emploi dans les six mois.",
+   "conditions": "Ces primes salariales supposent un marché du travail tendu qui valorise la certification, et un système de certification reconnu par les employeurs. Dans un marché du travail moins tendu, l'effet d'une formation courte sur le salaire est généralement plus faible. Le dispositif suppose aussi une administration capable d'apparier données de formation et données de revenus individuels.",
+   "contested": "Le point faible méthodologique du dossier. (1) Aucune des évaluations citées n'est un essai randomisé : les primes salariales sont estimées par comparaison entre formés et non formés, avec un risque de biais de sélection majeur — ceux qui se forment sont probablement ceux dont la trajectoire salariale s'améliorait déjà. (2) Les évaluations sont produites par le Ministry of Trade and Industry et par SkillsFuture Singapore, soit par les administrations qui pilotent et financent le dispositif : il n'existe pas d'évaluation indépendante de référence identifiée. (3) Une étude de cas académique sur le SkillsFuture Credit (2021) présente des « insights préliminaires » sur la façon de rendre la politique d'apprentissage tout au long de la vie plus efficace, ce qui signale que l'efficacité n'est pas établie. (4) La littérature internationale sur les comptes individuels de formation montre généralement une utilisation concentrée sur les actifs déjà les plus qualifiés — un effet Matthieu qui, s'il se vérifie à Singapour, contredirait l'objectif d'inclusion ; je n'ai pas trouvé de donnée singapourienne publiée sur la distribution sociale de l'utilisation du crédit, et il ne faut donc rien affirmer sur ce point.",
+   "sources": [
+    {
+     "title": "Career Impact of SkillsFuture Credits, Mid-Career Training Allowance and Level-Up Programme (réponse parlementaire)",
+     "org": "Ministry of Education, Singapore",
+     "year": "2025",
+     "url": "https://www.moe.gov.sg/news/parliamentary-replies/20250925-career-impact-of-skillsfuture-credits-mid-career-training-allowance-and-level-up-programme"
+    },
+    {
+     "title": "Impact of SkillsFuture Work-Study Programme on Wage Outcomes of Participants",
+     "org": "Ministry of Trade and Industry, Singapore (Economic Survey of Singapore, feature article)",
+     "year": "2023",
+     "url": "https://www.mti.gov.sg/resources/economic-survey-of-singapore/economic-survey-of-singapore-and-feature-articles/impact-of-skillsfuture-work-study-programme-on-wage-outcomes-of-participants"
+    },
+    {
+     "title": "SkillsFuture Year-In-Review 2024: Learners Shift to More Career-Relevant Training with the SkillsFuture Level-Up Programme",
+     "org": "SkillsFuture Singapore",
+     "year": "2025",
+     "url": "https://www.ssg.gov.sg/newsroom/skillsfuture-year-in-review-2024/"
+    },
+    {
+     "title": "A case study of the Singapore SkillsFuture Credit scheme: preliminary insights for making lifelong learning policy more effective",
+     "org": "International Review of Education / ResearchGate",
+     "year": "2021",
+     "url": "https://www.researchgate.net/publication/351105724_A_case_study_of_the_Singapore_SkillsFuture_Credit_scheme_preliminary_insights_for_making_lifelong_learning_policy_more_effective"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "topic": "Teacher mastery : la maîtrise du geste professionnel (enseignement explicite, codification du geste, pratique délibérée, coaching, observation entre pairs, lesson study, gestion de classe, sciences cognitives appliquées)",
+ "headline": "Il existe une science du geste d'enseignement — instruction explicite, techniques codifiées, pratique délibérée, coaching individualisé — dont les effets sur la pratique observée sont robustes (0,49 écart-type) mais dont les effets sur les apprentissages des élèves sont plus faibles (0,18 écart-type), s'effondrent à grande échelle (un tiers à la moitié dès 100 enseignants), et reposent sur une littérature dont plusieurs méta-analyses phares ne survivent pas à une réanalyse rigoureuse : le levier est réel mais il se joue entièrement sur la qualité d'exécution, pas sur le décret.",
+ "searches_run": 47,
+ "items": [
+  {
+   "claim": "L'instruction directe (Direct Instruction, DI) est l'approche pédagogique la plus massivement évaluée de l'histoire, mais la lecture triomphaliste de Project Follow Through et des méta-analyses DI ne résiste pas à un examen méthodologique serré : l'effet moyen passe de +0,52 à -0,02 écart-type selon les critères d'inclusion retenus.",
+   "what_it_is": "Direct Instruction (Engelmann-Becker) est un ensemble de programmes scriptés : progression de micro-étapes, modelage par l'enseignant, pratique guidée à réponses collectives fréquentes, correction immédiate des erreurs, taux de réussite élevé avant passage à l'étape suivante. Project Follow Through (1967-1977, États-Unis) a comparé une vingtaine de modèles pédagogiques déployés dans des écoles défavorisées ; le modèle DI de l'Université de l'Oregon y a été présenté par ses promoteurs comme le seul à produire des gains simultanés en compétences de base, en compétences cognitives et en résultats affectifs.",
+   "evidence_level": "Méta-analyse (Stockard et al. 2018 ; réanalyse Neitzel, Zhang & Slavin 2021) et quasi-expérimental de grande échelle avec controverse méthodologique majeure (Follow Through)",
+   "effect_size": "Stockard et al. (2018, Review of Educational Research) : 328 études, 413 designs, près de 4 000 effets, tous positifs et significatifs, qualifiés de « modérés à larges ». La réanalyse de Neitzel, Zhang & Slavin (2021) sur le sous-ensemble lecture donne +0,52 écart-type sur les 275 études retenues par Stockard, mais -0,02 écart-type (non significatif) sur les 6 études survivant aux critères les plus stricts (pondération par variance inverse, taille d'échantillon minimale, durée minimale, mesures non alignées sur le programme). Population : élèves du primaire, majoritairement issus de milieux défavorisés, États-Unis.",
+   "concrete_practice": "Concrètement : l'enseignant suit un script de leçon, présente une règle ou une procédure en petites unités, fait répéter en chœur (« unison response ») pour obtenir un taux de réponse élevé de tous les élèves, corrige immédiatement toute erreur avant de poursuivre, et ne passe à l'étape suivante que si environ 80 % des réponses sont correctes. Les manuels (Reading Mastery, Corrective Reading, DISTAR) fixent le vocabulaire employé par l'enseignant pour limiter l'ambiguïté.",
+   "concrete_example": "Project Follow Through : évaluation nationale conduite par Abt Associates et synthétisée par Richard B. Anderson (1977, « The Effectiveness of Follow Through: What Have We Learned? », ED139854) sur 139 groupes Follow Through distincts représentant 17 modèles pédagogiques. Résultat global : 12,8 % d'effets positifs, 19,6 % d'effets négatifs, 67,6 % d'effets nuls sur l'ensemble des mesures ; 27 groupes sur 139 (19 %) atteignaient la norme nationale au Metropolitan Achievement Test. La conclusion officielle de l'évaluation n'est pas « DI gagne » mais que « l'efficacité de chaque modèle dépendait davantage des circonstances locales que de la nature du modèle ». Le suivi longitudinal de Meyer (1984, Elementary School Journal) sur le site new-yorkais de Ocean Hill-Brownsville a en revanche documenté des effets académiques à long terme du modèle DI.",
+   "conditions": "L'instruction directe fonctionne quand le contenu est procédural et hiérarchisé (décodage, calcul, orthographe), quand les élèves sont novices dans le domaine, et quand la fidélité d'exécution est contrôlée (scripts, formation initiale au programme, supervision). Elle échoue quand elle est diluée en « inspiration » sans matériel ni contrôle de fidélité, et son avantage s'érode à mesure que l'expertise des élèves augmente (effet d'inversion de l'expertise, Kalyuga, Ayres, Chandler & Sweller 2003).",
+   "contested": "Très contesté, et sur trois fronts. (1) Méthodologique : House, Glass, McLean & Walker (1978, Harvard Educational Review, « No Simple Answer: Critique of the Follow Through Evaluation ») ont attaqué l'analyse d'Abt Associates (unité d'analyse, choix des sites de comparaison, agrégation) ; une réponse défendant l'évaluation a été publiée dans le même numéro (« Follow Through Redux », HER 48(2)). (2) Conflit d'intérêts : les auteurs de la méta-analyse Stockard et al. (2018) sont liés au National Institute for Direct Instruction, promoteur commercial des programmes DI. (3) Réplication : Neitzel, Zhang & Slavin (2021) montrent que le résultat s'annule sous critères d'inclusion stricts — ce qui ne prouve pas que DI ne marche pas, mais que la taille d'effet publiée n'est pas exploitable telle quelle pour une décision de politique publique.",
+   "sources": [
+    {
+     "author": "Jean Stockard, Timothy W. Wood, Cristy Coughlin, Caitlin Rasplica Khoury",
+     "title": "The Effectiveness of Direct Instruction Curricula: A Meta-Analysis of a Half Century of Research",
+     "org": "Review of Educational Research, 88(4)",
+     "year": "2018",
+     "url": "https://doi.org/10.3102/0034654317751919"
+    },
+    {
+     "author": "Amanda J. Neitzel, Qiyang Zhang, Robert E. Slavin",
+     "title": "Effects of Varying Inclusion Criteria in Published Meta-Analyses: Two Case Studies",
+     "org": "Society for Research on Educational Effectiveness (ERIC ED656901)",
+     "year": "2021",
+     "url": "https://eric.ed.gov/?id=ED656901"
+    },
+    {
+     "author": "Richard B. Anderson",
+     "title": "The Effectiveness of Follow Through: What Have We Learned?",
+     "org": "ERIC ED139854",
+     "year": "1977",
+     "url": "https://eric.ed.gov/?id=ED139854"
+    },
+    {
+     "author": "Ernest R. House, Gene V. Glass, Leslie D. McLean, Decker F. Walker",
+     "title": "No Simple Answer: Critique of the Follow Through Evaluation",
+     "org": "Harvard Educational Review, 48(2)",
+     "year": "1978",
+     "url": "https://doi.org/10.17763/haer.48.2.j2167r4594027x87"
+    },
+    {
+     "author": "Linda A. Meyer",
+     "title": "Long-Term Academic Effects of the Direct Instruction Project Follow Through",
+     "org": "The Elementary School Journal",
+     "year": "1984",
+     "url": "https://doi.org/10.1086/461371"
+    }
+   ]
+  },
+  {
+   "claim": "Le débat « enseignement explicite contre découverte » est mal posé : ce qui échoue, c'est la découverte non assistée ; la découverte guidée, avec rétroaction, exemples résolus et étayage, fait mieux que l'exposé explicite pur (d = 0,30).",
+   "what_it_is": "Kirschner, Sweller & Clark (2006) soutiennent que les pédagogies à guidage minimal (constructivisme, apprentissage par problèmes, par découverte, par enquête) ignorent l'architecture cognitive humaine — mémoire de travail très limitée, mémoire à long terme structurée en schémas — et surchargent les novices. La réplique empirique la plus solide n'est pas idéologique : c'est la double méta-analyse d'Alfieri, Brooks, Aldrich & Tenenbaum (2011), qui distingue découverte « non assistée » et découverte « enrichie/assistée ».",
+   "evidence_level": "Article théorique de référence (Kirschner, Sweller & Clark 2006) ; méta-analyse (Alfieri et al. 2011) ; méta-analyse théorique (Kalyuga et al. 2003)",
+   "effect_size": "Alfieri et al. (2011, Journal of Educational Psychology) : 164 études. Comparaison 1, sur 580 comparaisons : d = 0,38 en faveur de l'instruction explicite contre la découverte non assistée (IC 95 % [0,31 ; 0,44]). Comparaison 2, sur 360 comparaisons : d = 0,30 en faveur de la découverte enrichie/assistée contre les autres formes d'instruction, y compris explicite (IC 95 % [0,23 ; 0,36]). Populations mêlées (scolaires et étudiants, plusieurs disciplines).",
+   "concrete_practice": "Ce que cela signifie en classe : ne pas lancer les élèves sur un problème ouvert sans connaissances préalables ; commencer par des exemples résolus intégralement (worked examples), puis des problèmes à trous (completion problems), puis des problèmes complets ; retirer progressivement l'étayage à mesure que l'expertise croît, parce qu'un étayage maintenu trop longtemps devient nuisible (effet d'inversion de l'expertise).",
+   "concrete_example": "Le mécanisme est opérationnalisé dans la recommandation 2 du guide du What Works Clearinghouse « Organizing Instruction and Study to Improve Student Learning » (IES, 2007) : « Interleave worked example solutions with problem-solving exercises » — alterner lecture de solutions résolues et résolution autonome — classée « preuve modérée ». Le même guide classe « Use quizzes to re-expose students to key content » et « Ask deep explanatory questions » en « preuve forte », et les pré-questions en « preuve minimale ». C'est le niveau de granularité auquel une prescription pédagogique devient vérifiable : pas « enseignez explicitement », mais « alternez exemples résolus et exercices ».",
+   "conditions": "L'avantage de l'explicite est maximal pour des novices sur des contenus procéduraux nouveaux. Il se réduit, voire s'inverse, chez des élèves déjà experts du domaine (Kalyuga et al. 2003). La découverte fonctionne quand elle est assistée — c'est-à-dire quand le professeur fournit rétroaction, exemples, étayage et sollicite des explications des élèves.",
+   "contested": "Kirschner, Sweller & Clark (2006) est un article de position, non une méta-analyse : il synthétise des arguments et des études, il ne produit pas d'estimation d'effet. Sa réception a été polémique et il a suscité un volume de réponses en 2007 dans Educational Psychologist — que je n'ai pas pu vérifier ici et que je ne cite donc pas. Surtout, l'usage militant qui en est fait en francophonie (« la découverte ne marche pas ») est contredit par Alfieri et al. : la seule chose réfutée est la découverte sans guidage. Sur le versant francophone, la littérature de plaidoyer pour l'enseignement explicite (Gauthier, Bissonnette, Richard) existe mais je n'ai pas pu vérifier ici de taille d'effet propre à des essais francophones ; je n'en avance donc aucune.",
+   "sources": [
+    {
+     "author": "Paul A. Kirschner, John Sweller, Richard E. Clark",
+     "title": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching",
+     "org": "Educational Psychologist, 41(2), 75-86",
+     "year": "2006",
+     "url": "https://doi.org/10.1207/s15326985ep4102_1"
+    },
+    {
+     "author": "Louis Alfieri, Patricia J. Brooks, Naomi J. Aldrich, Harriet R. Tenenbaum",
+     "title": "Does Discovery-Based Instruction Enhance Learning?",
+     "org": "Journal of Educational Psychology, 103(1)",
+     "year": "2011",
+     "url": "https://doi.org/10.1037/a0021017"
+    },
+    {
+     "author": "Slava Kalyuga, Paul Ayres, Paul Chandler, John Sweller",
+     "title": "The Expertise Reversal Effect",
+     "org": "Educational Psychologist, 38(1)",
+     "year": "2003",
+     "url": "https://doi.org/10.1207/s15326985ep3801_4"
+    },
+    {
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "title": "Organizing Instruction and Study to Improve Student Learning (Practice Guide)",
+     "year": "2007",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+    }
+   ]
+  },
+  {
+   "claim": "Le geste d'enseignement peut être décrit à un niveau de granularité opérationnel : les dix principes de Rosenshine constituent la codification la plus citée et la plus transposable, mais ils sont une synthèse narrative, pas une méta-analyse.",
+   "what_it_is": "Barak Rosenshine (2012) a synthétisé trois littératures distinctes — psychologie cognitive de la mémoire, observation des « master teachers » (les enseignants dont les classes progressaient le plus aux tests), et recherche sur les étayages cognitifs — en dix principes d'instruction, assortis de dix-sept pratiques concrètes. C'est le document qui fait aujourd'hui office de référentiel commun dans les systèmes anglophones (il est repris dans l'Early Career Framework anglais).",
+   "evidence_level": "Synthèse narrative de trois corpus (dont des études corrélationnelles d'observation et des expérimentations de laboratoire) ; pas de méta-analyse, pas d'estimation d'effet globale",
+   "effect_size": "Rosenshine ne fournit pas de taille d'effet globale. Un seul chiffre quantitatif est donné, sur le taux de réussite en pratique guidée : dans une étude de mathématiques en 4e année, 82 % de réponses correctes dans les classes des enseignants les plus efficaces contre 73 % chez les moins efficaces ; le taux de réussite optimal pour l'apprentissage est estimé à environ 80 %. Population : élèves du primaire, États-Unis.",
+   "concrete_practice": "Les dix principes : commencer par une courte révision des acquis ; présenter la matière en petites étapes avec pratique après chaque étape ; poser un grand nombre de questions et vérifier les réponses de tous les élèves ; fournir des modèles ; guider la pratique ; vérifier la compréhension ; obtenir un taux de réussite élevé ; fournir des étayages pour les tâches difficiles ; exiger et surveiller la pratique autonome ; engager les élèves dans des révisions hebdomadaires et mensuelles. Les dix-sept pratiques associées incluent « penser à voix haute et modeler les étapes », « fournir des modèles de problèmes résolus », « vérifier les réponses de tous les élèves », « réenseigner quand c'est nécessaire ».",
+   "concrete_example": "Le contre-exemple que Rosenshine donne est le plus instructif pour une direction d'école : l'enseignant qui, après son exposé, demande « des questions ? », n'obtient aucune main levée, en conclut que la classe a compris et distribue la feuille d'exercices. Rosenshine oppose à cela des procédures de vérification qui obligent chaque élève à produire une trace : faire penser à voix haute pendant la résolution, faire expliquer ou défendre une position à un pair, exiger une réponse écrite simultanée de tous. Le critère de passage à l'étape suivante n'est pas l'absence de question mais un taux de réponse correcte d'environ 80 %.",
+   "conditions": "Ces principes supposent des séquences d'enseignement structurées et un enseignant qui a le temps de vérifier la compréhension de tous — donc des classes où la gestion du comportement n'absorbe pas le temps d'instruction. Ils ne disent rien du contenu à enseigner ni de la progression curriculaire : ils sont un « comment », pas un « quoi ».",
+   "contested": "Le statut de preuve est faible relativement à son influence : Rosenshine agrège des études d'observation corrélationnelles des années 1970-1980 (identification d'enseignants efficaces par les gains aux tests, puis codage de leurs pratiques) avec de la psychologie expérimentale de laboratoire. Aucun essai randomisé ne teste « les dix principes » comme paquet. Le risque de sur-lecture est réel : la corrélation entre une pratique observée et les gains d'élèves ne dit pas que l'installer chez un autre enseignant produira les mêmes gains — c'est exactement le saut que les essais de développement professionnel échouent souvent à franchir (voir élément sur Sims et Fullard).",
+   "sources": [
+    {
+     "author": "Barak Rosenshine",
+     "title": "Principles of Instruction: Research-Based Strategies That All Teachers Should Know",
+     "org": "American Educator (American Federation of Teachers), Spring 2012",
+     "year": "2012",
+     "url": "https://www.aft.org/sites/default/files/Rosenshine.pdf"
+    },
+    {
+     "author": "Barak Rosenshine",
+     "title": "Principles of Instruction (Educational Practices Series 21)",
+     "org": "International Academy of Education / IBE-UNESCO",
+     "year": "2010",
+     "url": "https://www.aft.org/sites/default/files/Rosenshine.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Teach Like a Champion de Doug Lemov est la codification la plus fine et la plus diffusée du geste d'enseignement — et elle n'a fait l'objet d'aucun essai randomisé ni quasi-expérimental publié sur les résultats des élèves. C'est un outil de formation, pas une intervention prouvée.",
+   "what_it_is": "Doug Lemov a filmé et décomposé les pratiques d'enseignants dont les élèves, en milieu défavorisé américain, obtenaient des résultats atypiquement élevés, puis a nommé chaque micro-geste. Teach Like a Champion 3.0 (2021) codifie 63 techniques nommées. Les plus connues : Cold Call (interroger un élève sans qu'il lève la main, sans sanction), No Opt Out (une réponse « je ne sais pas » n'est pas un point final : la séquence revient à l'élève pour qu'il redonne la réponse correcte), Do Now (tâche écrite courte disponible à l'entrée, avant toute consigne orale), Wait Time (allonger délibérément le silence après la question), Check for Understanding (recueillir une trace de tous les élèves, pas de ceux qui lèvent la main), Least Invasive Intervention (corriger un comportement au coût d'attention le plus faible possible : regard, geste, nom murmuré, plutôt qu'une interruption publique).",
+   "evidence_level": "Descriptif, sans évaluation causale. Aucune étude randomisée ni quasi-expérimentale de TLaC sur les résultats des élèves n'apparaît dans ERIC. Preuves indirectes : quasi-expérimental et expérimental sur le paquet de pratiques « no-excuses » dont TLaC est issu (Dobbie & Fryer 2013 ; Fryer 2014).",
+   "effect_size": "Aucune taille d'effet propre à TLaC n'existe. Preuves indirectes : Dobbie & Fryer — un indice combinant cinq pratiques, dont la rétroaction fréquente aux enseignants (observation + coaching), explique environ 50 % de la variation d'efficacité entre écoles à charte de New York (corrélationnel). Fryer (expérience de terrain d'Houston, 20 écoles parmi les moins performantes) : +0,206 écart-type par an en mathématiques, +0,043 écart-type en lecture.",
+   "concrete_practice": "Ce que la codification change dans une école : elle rend le geste observable et donc entraînable. Un directeur peut observer une leçon avec une grille nommant « Cold Call », « Check for Understanding », « Least Invasive Intervention », et donner une consigne unique et exécutable (« la semaine prochaine, tes trois premières questions seront des Cold Calls, pas des mains levées ») plutôt qu'un commentaire global (« il faudrait faire participer davantage »). C'est la condition technique du coaching à haute fréquence.",
+   "concrete_example": "L'expérience Apollo 20 (Roland Fryer, Houston, Texas) est la tentative documentée la plus proche d'un transfert de ce paquet de pratiques vers l'enseignement public ordinaire : cinq pratiques injectées dans 20 des écoles les plus faibles de Houston — temps d'instruction augmenté, approche exigeante de la gestion du capital humain enseignant et directeur, tutorat à haute dose, usage fréquent des données pour piloter l'instruction, culture d'attentes élevées. Résultat mesuré : +0,206 écart-type par an en mathématiques, +0,043 écart-type en lecture. Le tutorat à haute dose y est le composant le plus coûteux et probablement le plus actif : le paquet ne se réduit pas au geste d'enseignement.",
+   "conditions": "La codification présuppose des référents partagés et des observateurs formés à les repérer. Elle suppose aussi une autorité pédagogique légitime dans l'établissement : là où l'observation est vécue comme évaluative ou inspectorale, le mécanisme se bloque (l'EEF insiste sur la distinction entre « observations formatives avec feedback » et « observations à enjeux liées à l'appréciation »).",
+   "contested": "Fortement contesté, et il faut le dire sans détour. (1) Absence de preuve causale : une recherche ERIC sur « Teach Like a Champion » ne renvoie que les ouvrages de Lemov, une thèse à méthodes mixtes sur le sentiment d'efficacité des enseignants (Partin-Dunn 2020, ED642468) et des travaux qualitatifs — aucun essai contrôlé. (2) Critique sociolinguistique et politique : Ian Cushing (British Educational Research Journal, 2020) analyse, à partir d'une ethnographie dans un établissement secondaire londonien, comment ces dispositifs — dont explicitement « l'industrie Teach Like a Champion » — articulent discipline du langage et discipline des corps, au détriment des variétés linguistiques des élèves minorisés. (3) Confusion de niveau : les effets de Fryer et de Dobbie & Fryer portent sur un paquet incluant du tutorat intensif et du temps scolaire supplémentaire, pas sur les techniques de classe isolées ; les attribuer à TLaC serait une faute d'attribution.",
+   "sources": [
+    {
+     "author": "Doug Lemov",
+     "title": "Teach Like a Champion 3.0: 63 Techniques that Put Students on the Path to College",
+     "org": "Jossey-Bass (référencé ERIC ED620470)",
+     "year": "2021",
+     "url": "https://eric.ed.gov/?id=ED620470"
+    },
+    {
+     "org": "ERIC (Institute of Education Sciences)",
+     "title": "Résultats de recherche pour « Teach Like a Champion » : aucun essai randomisé ni quasi-expérimental sur les résultats d'élèves",
+     "year": "2026",
+     "url": "https://eric.ed.gov/?q=%22Teach+Like+a+Champion%22"
+    },
+    {
+     "author": "Ian Cushing",
+     "title": "Language, discipline and 'teaching like a champion'",
+     "org": "British Educational Research Journal",
+     "year": "2020",
+     "url": "https://doi.org/10.1002/berj.3696"
+    },
+    {
+     "author": "Will Dobbie, Roland G. Fryer Jr.",
+     "title": "Getting Beneath the Veil of Effective Schools: Evidence from New York City",
+     "org": "NBER Working Paper 17632 / American Economic Journal: Applied Economics, 5(4)",
+     "year": "2013",
+     "url": "https://www.nber.org/papers/w17632"
+    },
+    {
+     "author": "Roland G. Fryer Jr.",
+     "title": "Injecting Charter School Best Practices into Traditional Public Schools: Evidence from Field Experiments",
+     "org": "NBER Working Paper 17494 / Quarterly Journal of Economics",
+     "year": "2014",
+     "url": "https://www.nber.org/papers/w17494"
+    }
+   ]
+  },
+  {
+   "claim": "Une technique isolée de la codification, le Cold Call, dispose d'une évaluation empirique propre, et elle contredit l'objection intuitive : interroger sans main levée augmente la participation volontaire et ne dégrade pas le confort des élèves.",
+   "what_it_is": "Cold Call : l'enseignant pose une question à la cantonade, marque un temps, puis désigne un élève qui n'a pas levé la main. La crainte usuelle est que l'élève désigné se sente humilié et que le climat de classe se dégrade, réduisant à terme la participation spontanée.",
+   "evidence_level": "Quasi-expérimental (comparaison de sections de cours à forte et faible intensité de cold-calling, avec observation systématique en classe et questionnaires étudiants) — pas de randomisation des enseignants",
+   "effect_size": "Dallimore, Hertenstein & Platt (2012, Journal of Management Education) : dans les classes à forte intensité de cold-calling, significativement plus d'étudiants répondent volontairement, et ce nombre augmente au fil du temps ; les étudiants de ces classes répondent à davantage de questions volontaires que ceux des classes à faible intensité. Aucune taille d'effet standardisée n'est publiée dans le résumé. Population : 16 sections d'un même cours de comptabilité de premier cycle universitaire, États-Unis — pas des élèves du secondaire.",
+   "concrete_practice": "En classe : l'enseignant annonce publiquement la règle (« ici, je désigne, tout le monde doit être prêt ») pour que la désignation soit prévisible et non punitive ; il pose la question avant de nommer, pour que toute la classe traite la question ; il combine avec No Opt Out (l'élève qui ne sait pas entend la réponse d'un pair puis doit la redire lui-même) pour que la séquence se termine sur une réussite et non sur un échec public.",
+   "concrete_example": "Dispositif de Dallimore, Hertenstein & Platt : 16 sections d'un même cours de comptabilité de premier cycle, dans une même université américaine. Les chercheurs ont mesuré l'intensité réelle de cold-calling par observation systématique des comportements de l'enseignant et des étudiants en classe (et non par déclaration), puis croisé avec des questionnaires étudiants sur la participation et le confort. Les sections à forte intensité présentent à la fois plus de questions posées et plus de questions répondues volontairement, avec un effet croissant au fil du semestre.",
+   "conditions": "Le résultat suppose que le cold call est routinisé, annoncé, et couplé à un dispositif qui permet à l'élève interrogé de finir sur une réponse correcte. Sans cela, la technique redevient ce que les enseignants craignent. Il suppose aussi un temps d'attente suffisant après la question — d'où l'association avec Wait Time.",
+   "contested": "La généralisation est fragile sur trois points. (1) Population : des étudiants adultes en comptabilité, pas des adolescents de 15 ans en difficulté scolaire — la transposition au secondaire n'est pas démontrée par cette étude. (2) Design : pas de randomisation des enseignants ni des sections ; l'intensité de cold-calling est une pratique choisie par l'enseignant, donc potentiellement corrélée à d'autres qualités de ce même enseignant. (3) Résultat mesuré : participation et confort déclarés, pas apprentissage. Aucune donnée ici sur les résultats aux évaluations.",
+   "sources": [
+    {
+     "author": "Elise J. Dallimore, Julie H. Hertenstein, Marjorie B. Platt",
+     "title": "Impact of Cold-Calling on Student Voluntary Participation",
+     "org": "Journal of Management Education",
+     "year": "2012",
+     "url": "https://doi.org/10.1177/1052562912446067"
+    },
+    {
+     "author": "Elise J. Dallimore, Julie H. Hertenstein, Marjorie B. Platt",
+     "title": "Cold Calling in Accounting Courses: Impact on Participation, Volunteering and Comfort",
+     "org": "SSRN",
+     "year": "2009",
+     "url": "https://doi.org/10.2139/ssrn.1437080"
+    }
+   ]
+  },
+  {
+   "claim": "La pratique délibérée et les « rehearsals » — répétitions de gestes d'enseignement hors de la classe réelle — améliorent significativement les compétences des enseignants débutants, et un essai randomisé le démontre en environnement simulé.",
+   "what_it_is": "Deans for Impact (2016) a traduit la science de l'expertise (Ericsson) en cinq principes pour la formation des enseignants : pousser au-delà de la zone de confort ; travailler vers des objectifs spécifiques et bien définis ; se concentrer intensément sur l'activité d'entraînement ; recevoir une rétroaction de haute qualité et y répondre ; développer un modèle mental de l'expertise. Le mécanisme central emprunte à Grossman : la « décomposition » (isoler un élément de la pratique, par exemple les transitions entre activités) et l'« approximation » (reproduire une situation de classe à enjeux réduits pour s'entraîner).",
+   "evidence_level": "Essai randomisé contrôlé (Cohen, Wong, Krishnamachari & Berlin 2020) ; cadre conceptuel appuyé sur la littérature d'expertise et des travaux qualitatifs sur les rehearsals (Grossman et al. 2009 ; Lampert et al. 2013 ; Kazemi et al. 2016)",
+   "effect_size": "Cohen, Wong, Krishnamachari & Berlin (2020, Educational Evaluation and Policy Analysis) : 105 futurs enseignants randomisés entre conditions de coaching ; les candidats coachés entre deux sessions de simulation présentent des améliorations « significatives et larges » de leurs compétences par rapport à ceux qui se contentent de réfléchir sur leur enseignement, ainsi que des effets significatifs sur leur perception du comportement des élèves et sur les actions qu'ils envisagent. La publication ne fournit pas de valeur standardisée dans le résumé. Population : futurs enseignants en formation initiale, États-Unis.",
+   "concrete_practice": "En formation initiale : le formateur isole un geste (introduire un texte, gérer une transition, reformuler une réponse partielle), le modélise, puis fait répéter publiquement chaque candidat devant le groupe ; il interrompt la répétition dès qu'un écart apparaît, fait discuter l'alternative par le groupe, et fait reprendre immédiatement. La boucle essai-interruption-rétroaction-reprise dure quelques minutes et se répète.",
+   "concrete_example": "L'illustration donnée par Deans for Impact décrit un cours de méthodologie d'enseignement primaire où tous les candidats préparent la même lecture à voix haute de l'album Freedom Summer de Deborah Wiles, destinée à des élèves de 2e année. Les candidats répètent d'abord en petits groupes, puis l'un d'eux, Vivienne, répète publiquement son introduction du texte. Quand elle mentionne « l'été 1964 », le formateur, Roi, arrête la répétition : cette information ne fera pas sens pour des élèves de 7-8 ans. Le groupe discute des manières de relier le livre au contexte historique de façon adaptée à l'âge, et Vivienne modifie son introduction avant d'aller enseigner. Échelle : un cours de formation initiale ; le dispositif randomisé équivalent (Cohen et al. 2020) porte sur 105 candidats en simulation en réalité mixte.",
+   "conditions": "Il faut des formateurs eux-mêmes capables d'identifier l'écart en temps réel et de le nommer, un référentiel de gestes décomposés, et un temps de formation dédié hors stage. Deans for Impact insiste sur un point budgétairement décisif : la qualité de l'expérience clinique compte plus que sa quantité — allonger les stages sans structurer la pratique ne produit pas d'expertise, car « l'expérience seule n'améliore pas la performance ».",
+   "contested": "Trois limites honnêtes. (1) Les résultats de Cohen et al. portent sur des compétences mesurées en simulation, pas sur des apprentissages d'élèves : le transfert au terrain n'est pas démontré. (2) Deans for Impact est une organisation de plaidoyer (association de doyens de facultés d'éducation américaines), pas une agence d'évaluation ; le document est explicitement présenté comme portant sur « un domaine de recherche encore en développement, récemment appliqué à l'enseignement ». (3) L'applicabilité du modèle d'Ericsson à l'enseignement est discutée : l'enseignement est une activité faiblement structurée, à rétroaction lente et ambiguë, contrairement aux échecs ou au violon dont la théorie est issue — Deans for Impact reconnaît que développer une véritable expertise demande plus d'heures qu'aucun programme de formation initiale ne peut fournir.",
+   "sources": [
+    {
+     "org": "Deans for Impact",
+     "title": "Practice with Purpose: The Emerging Science of Teacher Expertise",
+     "year": "2016",
+     "url": "https://deansforimpact.org/files/assets/practice-with-purpose.pdf"
+    },
+    {
+     "author": "Julie Cohen, Vivian Wong, Anandita Krishnamachari, Rebekah Berlin",
+     "title": "Teacher Coaching in a Simulated Environment",
+     "org": "Educational Evaluation and Policy Analysis",
+     "year": "2020",
+     "url": "https://doi.org/10.3102/0162373720906217"
+    },
+    {
+     "author": "Pam Grossman, Christa Compton, Danielle Igra, Matthew Ronfeldt, Emily Shahan, Peter Williamson",
+     "title": "Teaching Practice: A Cross-Professional Perspective",
+     "org": "Teachers College Record, 111(9), 2055-2100",
+     "year": "2009",
+     "url": "https://deansforimpact.org/files/assets/practice-with-purpose.pdf"
+    },
+    {
+     "author": "Magdalene Lampert, Megan Franke, Elham Kazemi, Hala Ghousseini, Angela C. Turrou, Heather Beasley, Adrian Cunard, Kathleen Crowe",
+     "title": "Keeping It Complex: Using Rehearsals to Support Novice Teacher Learning of Ambitious Teaching",
+     "org": "Journal of Teacher Education, 64(3), 226-243",
+     "year": "2013",
+     "url": "https://deansforimpact.org/files/assets/practice-with-purpose.pdf"
+    },
+    {
+     "author": "Elham Kazemi, Hala Ghousseini, Adrian Cunard, Angela C. Turrou",
+     "title": "Getting Inside Rehearsals: Insights from Teacher Educators to Support Work on Complex Practice",
+     "org": "Journal of Teacher Education",
+     "year": "2016",
+     "url": "https://doi.org/10.1177/0022487115615191"
+    }
+   ]
+  },
+  {
+   "claim": "Le coaching pédagogique individualisé est le dispositif de développement professionnel le mieux prouvé qui existe — 0,49 écart-type sur la pratique observée, 0,18 sur les résultats des élèves — mais son effet s'effondre au-delà de 100 enseignants, à un tiers ou la moitié de sa valeur. C'est le fait central de ce dossier.",
+   "what_it_is": "Un coach — enseignant expert, conseiller pédagogique, parfois membre de la direction — observe régulièrement un enseignant, cible un petit nombre de gestes, donne une rétroaction actionnable, et revient vérifier. Le format varie : en présentiel, par vidéo, en cycles hebdomadaires ou bimensuels, généralement sur une année scolaire.",
+   "evidence_level": "Méta-analyse d'évaluations causales (Kraft, Blazar & Hogan 2018, Review of Educational Research) : 60 études retenues pour leur design causal",
+   "effect_size": "+0,49 écart-type sur la pratique instructionnelle des enseignants et +0,18 écart-type sur les résultats scolaires des élèves, sur 60 évaluations rigoureuses. Effet dans les programmes de plus de 100 enseignants : seulement « un tiers à la moitié » de ces valeurs. Populations : enseignants et élèves, essentiellement États-Unis, de la maternelle au secondaire.",
+   "concrete_practice": "Un cycle de coaching type : le coach observe 20 à 30 minutes, choisit un seul levier (« tes questions de vérification ne touchent que les volontaires »), propose un geste de remplacement nommé et le modélise, fait répéter le geste hors classe, fixe une date de réobservation sur ce seul point. La fréquence (toutes les une à deux semaines) et l'étroitesse de la cible sont les paramètres actifs — pas la durée cumulée des heures de formation.",
+   "concrete_example": "Kraft & Blazar, MATCH Teacher Coaching : essai randomisé par blocs sur une cohorte initiale de 59 enseignants d'écoles à charte de La Nouvelle-Orléans, coaching individualisé centré sur la gestion de classe et les pratiques d'instruction, tous niveaux et toutes disciplines. Résultat : les enseignants coachés obtiennent +0,59 écart-type sur un indice composite de pratiques efficaces construit à partir des scores d'observation, des évaluations du directeur et des enquêtes élèves. À noter : l'étude mesure la pratique enseignante, pas les résultats des élèves — l'écart entre 0,59 sur la pratique et 0,18 en moyenne sur les élèves est précisément le problème.",
+   "conditions": "Les quatre obstacles à l'échelle sont identifiés par les auteurs eux-mêmes : trouver assez de coachs réellement experts ; absence quasi totale d'économies d'échelle puisque l'intervention est du face-à-face (le coaching est « une forme de développement professionnel relativement coûteuse en raison des coûts de personnel ») ; perte de fidélité quand on standardise pour massifier, ce qui détruit la réactivité individualisée qui fait l'effet ; résistance culturelle des enseignants, qui exige de construire la confiance avant de déployer.",
+   "contested": "Trois réserves. (1) Le biais de publication et la sélection des sites sont probables : les petits programmes évalués le sont souvent par leurs concepteurs, sur des enseignants volontaires. (2) L'écart entre effet sur la pratique (0,49) et effet sur les élèves (0,18) suggère qu'une partie substantielle du changement de pratique observé ne se traduit pas en apprentissage — ou que les instruments d'observation mesurent partiellement la conformité à l'instrument. (3) La chute à l'échelle n'est pas une nuance mais le résultat opérationnel décisif : un système qui décide de généraliser le coaching doit budgéter un effet moyen de l'ordre de 0,06 à 0,09 écart-type sur les élèves, pas 0,18.",
+   "sources": [
+    {
+     "author": "Matthew A. Kraft, David Blazar, Dylan Hogan",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "org": "Review of Educational Research, 88(4)",
+     "year": "2018",
+     "url": "https://doi.org/10.3102/0034654318759268"
+    },
+    {
+     "author": "Matthew A. Kraft, David Blazar",
+     "title": "Taking Teacher Coaching to Scale: Can Personalized Training Become Standard Practice?",
+     "org": "Education Next, 18(4)",
+     "year": "2018",
+     "url": "https://www.educationnext.org/taking-teacher-coaching-to-scale-can-personalized-training-become-standard-practice/"
+    },
+    {
+     "author": "Matthew A. Kraft, David Blazar",
+     "title": "Individualized Coaching to Improve Teacher Practice Across Grades and Subjects: New Experimental Evidence",
+     "org": "Educational Policy",
+     "year": "2016",
+     "url": "https://doi.org/10.1177/0895904816631099"
+    }
+   ]
+  },
+  {
+   "claim": "Le coaching vidéo produit des effets mesurés sur les résultats des élèves — mais seulement l'année suivant l'intervention, pas pendant : changer un geste professionnel prend plus d'un an avant de se voir dans les notes.",
+   "what_it_is": "MyTeachingPartner-Secondary (MTP-S) : un dispositif combinant un atelier de formation initial, une bibliothèque vidéo annotée, une année de coaching personnalisé par cycles vidéo, et un atelier de rappel. Le cadre d'observation utilisé est le Classroom Assessment Scoring System–Secondary (CLASS-S), centré sur la qualité des interactions enseignant-élèves.",
+   "evidence_level": "Essai randomisé contrôlé publié dans Science (Allen, Pianta, Gregory, Mikami & Lun, 2011), randomisation au niveau de l'enseignant",
+   "effect_size": "+0,22 écart-type de gain net des élèves par rapport au groupe contrôle l'année suivant l'intervention, soit un passage du 50e au 59e percentile. Pendant l'année d'intervention elle-même : effet non significatif sur les résultats de fin d'année. Population : 78 enseignants du secondaire (28 hommes, 50 femmes) dans 12 établissements, 1 267 élèves l'année d'intervention et 970 élèves supplémentaires l'année suivante, élèves de 11 à 18 ans, États-Unis.",
+   "concrete_practice": "Cycle concret : l'enseignant filme sa classe environ deux fois par mois et envoie l'enregistrement ; un consultant formé sélectionne des extraits illustrant soit une interaction réussie soit un axe de progrès, les dépose sur un site sécurisé avec annotations, puis conduit un entretien téléphonique de 20 à 30 minutes pour définir la stratégie. Coût et charge mesurés : environ 20 heures de temps enseignant sur 13 mois, pour 3 700 dollars par enseignant.",
+   "concrete_example": "Le dispositif MTP-S lui-même, dans 12 établissements secondaires américains sur 13 mois, avec le protocole ci-dessus. L'analyse de médiation montre que ce sont bien les changements observés dans la qualité des interactions enseignant-élèves qui médiatisent l'effet sur les résultats de la deuxième année. Le détail décisif pour un décideur : le coût complet est de 3 700 dollars par enseignant pour environ 20 heures, et le retour sur les résultats d'élèves n'apparaît qu'au terme de la deuxième année.",
+   "conditions": "Il faut des consultants formés au référentiel d'observation, une infrastructure vidéo et de dépôt sécurisé, l'accord des enseignants et des familles pour filmer, et surtout un horizon d'évaluation à deux ans. Un programme évalué au bout d'un an conclura à l'échec.",
+   "contested": "Les auteurs eux-mêmes posent trois limites. (1) L'absence d'effet la première année indique qu'il est difficile de modifier rapidement une classe — ce qui fragilise toute promesse politique de résultats rapides. (2) La deuxième année, les enseignants choisissaient eux-mêmes le cours servant de mesure, ce qui peut introduire un biais non mesuré. (3) Les auteurs jugent la réplication dans d'autres systèmes scolaires nécessaire — elle n'était pas acquise en 2011. À quoi s'ajoute le problème générique du coaching : 78 enseignants, c'est un programme « petit » au sens de Kraft, Blazar & Hogan, donc en zone de forte surestimation par rapport à un déploiement système.",
+   "sources": [
+    {
+     "author": "Joseph P. Allen, Robert C. Pianta, Anne Gregory, Amori Yee Mikami, Janetta Lun",
+     "title": "An Interaction-Based Approach to Enhancing Secondary School Instruction and Student Achievement",
+     "org": "Science, 333(6045)",
+     "year": "2011",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3387786/"
+    }
+   ]
+  },
+  {
+   "claim": "L'observation entre pairs institutionnalisée, prise isolément, ne produit aucun effet : un essai randomisé anglais sur 82 écoles et 7 366 élèves donne -0,01 écart-type. En revanche, l'appariement de pairs ciblé sur une compétence précise identifiée par les données produit +0,12 écart-type.",
+   "what_it_is": "Deux dispositifs opposés. Le premier : généraliser l'observation croisée entre enseignants, avec un outil de saisie et une grille commune. Le second : apparier, dans la même école, un enseignant faible sur une compétence donnée avec un collègue fort sur cette même compétence, l'appariement étant déterminé par les scores d'évaluation antérieurs, décomposés par compétence.",
+   "evidence_level": "Deux essais randomisés contrôlés : EEF Teacher Observation (2017, Angleterre, sécurité « très élevée » selon l'EEF) ; Papay, Taylor, Tyler & Laski (expérience de terrain, Tennessee, publiée dans American Economic Journal: Economic Policy 2020)",
+   "effect_size": "EEF Teacher Observation : -0,01 écart-type (IC 95 % [-0,08 ; 0,06], p = 0,80) sur les résultats combinés GCSE anglais-mathématiques, 7 366 élèves ; -0,01 également, soit 0 mois de progrès, et 0,01 (IC [-0,08 ; 0,10]) pour les élèves éligibles aux repas scolaires gratuits (2 992 élèves). Papay et al. : +0,12 écart-type pour les élèves des enseignants faibles ayant reçu l'intervention, effets persistants et peut-être croissants l'année suivante. Populations : Angleterre (secondaire) et Tennessee (Jackson-Madison County Schools).",
+   "concrete_practice": "Ce qui distingue les deux : dans l'essai anglais, l'observation est une routine sans cible — les enseignants observent, saisissent, et rien n'oblige à convertir l'observation en objectif. Dans l'expérience du Tennessee, l'appariement est prescrit par une donnée : le système d'évaluation du Tennessee décompose la performance enseignante en compétences, et la paire reçoit l'instruction de travailler sur la compétence précise où le collègue faible est en retard et où le collègue fort est en avance.",
+   "concrete_example": "EEF Teacher Observation (novembre 2017, évaluateurs NFER : Worth, Sizmur, Walker, Bradshaw, Styles) : 82 écoles secondaires randomisées en Angleterre, logiciel d'observation RANDA TOWER sur iPad, coût d'environ 4 000 livres par école et par an (3 livres par élève et par an sur trois ans). Constats du volet processus : les enseignants réalisaient le minimum d'observations autorisé plutôt que le nombre recommandé, à cause des horaires et des remplacements ; les écoles ayant fait plus d'observations n'obtenaient pas de meilleurs résultats ; l'analyse « on-treatment » ne trouve aucune relation entre le nombre d'observations réalisées par un enseignant et les résultats de ses élèves. Et surtout : près des trois quarts des écoles du groupe contrôle pratiquaient déjà de l'observation entre pairs.",
+   "conditions": "Ce que ces deux essais enseignent conjointement : l'observation entre pairs n'est un levier que si elle est (a) ciblée sur une compétence identifiée par une donnée, (b) appariée à un collègue réellement meilleur sur cette compétence précise, (c) protégée dans l'horaire. Sinon elle consomme du temps d'enseignant sans rien produire. Le dispositif du Tennessee est en outre quasiment gratuit : il ne mobilise ni coach externe, ni formation, seulement du temps interne et une donnée d'évaluation par compétence.",
+   "contested": "Le résultat nul anglais doit être lu avec sa réserve : l'EEF note explicitement que, trois quarts des écoles du contrôle pratiquant déjà l'observation entre pairs, l'essai teste « le programme structuré contre l'observation informelle existante », pas « l'observation contre rien ». Côté Tennessee, la transposition suppose l'existence d'un système d'évaluation enseignante fin par compétences, ce qui est politiquement chargé dans un système à liberté d'enseignement ; l'étude porte en outre sur un district, pas un système national, et le mécanisme exact (imitation, obligation de verbaliser, effet Hawthorne) n'est pas isolé.",
+   "sources": [
+    {
+     "author": "Jack Worth, Juliet Sizmur, Matthew Walker, Sally Bradshaw, Ben Styles",
+     "title": "Teacher Observation: Evaluation Report and Executive Summary",
+     "org": "Education Endowment Foundation",
+     "year": "2017",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Teacher_Observation.pdf"
+    },
+    {
+     "author": "John P. Papay, Eric S. Taylor, John H. Tyler, Mary Laski",
+     "title": "Learning Job Skills from Colleagues at Work: Evidence from a Field Experiment Using Teacher Performance Data",
+     "org": "NBER Working Paper 21986 / American Economic Journal: Economic Policy",
+     "year": "2020",
+     "url": "https://www.nber.org/papers/w21986"
+    }
+   ]
+  },
+  {
+   "claim": "Le lesson study, importé du Japon, échoue quand on le transplante nu (0,02 écart-type sur 6 437 élèves), et réussit quand il transporte avec lui une ressource disciplinaire issue de la recherche. Ce n'est pas le rituel collaboratif qui agit, c'est le contenu qu'il véhicule.",
+   "what_it_is": "Le lesson study : une petite équipe d'enseignants co-planifie une leçon autour d'un objectif d'apprentissage partagé, l'un d'eux l'enseigne, les autres observent non pas l'enseignant mais l'apprentissage des élèves, puis l'équipe révise la leçon. Cycle répété plusieurs fois par an.",
+   "evidence_level": "Deux essais randomisés contrôlés : EEF Lesson Study (2017, Angleterre, sécurité « très élevée ») ; Lewis & Perry (2017, Journal for Research in Mathematics Education, essai randomisé sur 39 équipes)",
+   "effect_size": "EEF : 0,02 écart-type (IC 95 % [-0,06 ; 0,09], p = 0,65) après un an sur les résultats Key Stage 2, 6 437 élèves ; 0,03 (IC [-0,06 ; 0,12], p = 0,5) après deux ans, 6 304 élèves ; 0 mois de progrès estimés dans les deux cas. Lewis & Perry : amélioration significativement plus forte des connaissances sur les fractions, chez les enseignants et chez leurs élèves, pour les équipes assignées au lesson study avec kit de ressources. Populations : primaire anglais (EEF) ; 39 équipes d'éducateurs aux États-Unis dont 87 % d'enseignants du primaire, sur 3 mois (Lewis & Perry).",
+   "concrete_practice": "Version EEF (programme Edge Hill University, couplé à un contenu « Talk for Learning ») : trois enseignants collaborent pour planifier, enseigner, observer informellement et analyser l'impact de l'enseignement sur la réponse des élèves ; chacun identifie deux « élèves-cas » de sa classe qui semblent sous-performer, et l'observation se concentre sur eux. Cinq sessions de formation, un cycle de lesson study par trimestre, de septembre 2013 à juillet 2015.",
+   "concrete_example": "L'essai EEF Lesson Study (novembre 2017, évaluateurs LSE : Richard Murphy, Felix Weinhardt, Gill Wyness, et NIESR pour le volet processus) est l'exemple le plus instructif parce qu'il est bien exécuté et négatif : mise en œuvre conforme aux intentions des concepteurs, assiduité élevée aux formations, la plupart des écoles réalisant un cycle par trimestre, enseignants satisfaits et déclarant des changements de pratique — et aucun effet, ni sur la lecture, ni sur les mathématiques, ni sur l'orthographe-ponctuation-grammaire, ni sur les sciences, ni pour les élèves issus de minorités ethniques, ni pour les élèves éligibles aux repas gratuits, ni pour les élèves à faibles acquis antérieurs, ni selon le nombre de cycles réalisés. Coût : 2 300 livres par école et par an, soit 54 livres par élève et par an sur trois ans. À l'inverse, Lewis & Perry ont randomisé 39 équipes américaines entre lesson study autogéré avec kit de ressources sur les fractions (intégrant notamment l'utilité de la représentation linéaire) et deux conditions de contrôle, sur trois mois en autogestion : l'effet sur les connaissances des enseignants et des élèves n'apparaît qu'avec le kit.",
+   "conditions": "La condition qui sépare les deux essais est le contenu : Lewis & Perry concluent que l'intégration de ressources fondées sur la recherche dans le lesson study « offre une nouvelle approche du problème du passage à l'échelle, en combinant les forces du leadership enseignant et des connaissances issues de la recherche ». Un lesson study sans contenu disciplinaire validé n'est qu'une réunion mieux organisée. Il faut aussi un horaire protégé : le volet processus de l'EEF montre que les enseignants valorisaient surtout la collaboration structurée et inscrite dans l'horaire.",
+   "contested": "L'essai EEF comporte une limite reconnue par l'EEF elle-même : certaines écoles du groupe contrôle pratiquaient déjà des formes d'observation ou des versions moins structurées de lesson study achetées ailleurs, ce qui a pu diluer l'effet mesuré. La conclusion prudente est donc : « cette version du lesson study n'apporte rien au-delà des pratiques moins formelles déjà répandues » — ce qui reste un verdict sévère pour un investissement. Côté Lewis & Perry, les limites sont l'autogestion (donc autosélection des équipes motivées), la durée courte (3 mois) et le domaine unique (fractions) ; rien ne garantit la généralisation à d'autres contenus.",
+   "sources": [
+    {
+     "author": "Richard Murphy, Felix Weinhardt, Gill Wyness, Heather Rolfe",
+     "title": "Lesson Study: Evaluation Report and Executive Summary",
+     "org": "Education Endowment Foundation",
+     "year": "2017",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Lesson_Study.pdf"
+    },
+    {
+     "author": "Catherine C. Lewis, Rebecca R. Perry",
+     "title": "Lesson Study to Scale Up Research-Based Knowledge: A Randomized, Controlled Trial of Fractions Learning",
+     "org": "Journal for Research in Mathematics Education, 48(3)",
+     "year": "2017",
+     "url": "https://doi.org/10.5951/jresematheduc.48.3.0261"
+    }
+   ]
+  },
+  {
+   "claim": "Ce qui fait l'efficacité du développement professionnel n'est ni son format ni sa durée mais un petit nombre de mécanismes identifiables et cumulables : quatorze ont été isolés, dont la répétition (rehearsal), le modelage, le suivi avec rétroaction, et la répétition contextualisée.",
+   "what_it_is": "L'EEF a financé une revue systématique (Sims, Fletcher-Wood, O'Mara-Eves, Cottingham, Stansfield, Van Herwegen & Anders, 2021) qui abandonne la question « quelle forme de formation ? » (atelier, réseau, coaching) pour la question « quels mécanismes actifs ? ». Quatorze mécanismes sont identifiés, regroupés en quatre familles : construire les savoirs, motiver le personnel, développer les techniques d'enseignement, ancrer la pratique.",
+   "evidence_level": "Revue systématique et méta-analyse commanditée par une agence d'évaluation indépendante (EEF), traduite en guide de recommandations (EEF, Effective Professional Development, 2021)",
+   "effect_size": "La revue conclut à un effet moyen positif du développement professionnel sur les résultats des élèves en maternelle, primaire et secondaire, mais l'effet moyen publié par la revue apparentée de l'Education Policy Institute (Fletcher-Wood & Zuccollo 2020) est de 0,09 écart-type — chiffre contesté (voir élément suivant). Le guide EEF insiste lui-même sur le fait que la moyenne est peu informative : « les effets varient d'impacts très positifs à des impacts négatifs ».",
+   "concrete_practice": "Les quatorze mécanismes : (A) construire les savoirs — gérer la charge cognitive des participants, revisiter les apprentissages antérieurs ; (B) motiver — fixer et faire accepter des objectifs, présenter l'information depuis une source crédible, fournir affirmation et renforcement après un progrès ; (C) développer les techniques — instruction, soutien social, modelage, suivi et rétroaction, répétition (rehearsal) ; (D) ancrer la pratique — fournir des rappels et des indices, faire planifier l'action, encourager l'auto-observation, susciter la répétition en contexte spécifique. Le principe opérationnel : plus une formation intègre de mécanismes, plus elle a de chances de changer la pratique.",
+   "concrete_example": "L'étude de cas de la Pickering Community Infant and Nursery School (rapportée dans le guide EEF) montre le niveau de granularité requis : le développement professionnel visait la qualité des interactions adulte-enfant en maternelle. Modelage — une praticienne experte de l'école a modélisé deux techniques nommées, « OWLing » (Observe, Wait, Listen) et « Comment more, question less ». Soutien social pratique — les praticiennes travaillaient en petits groupes, avec l'appui d'une experte de l'équipe, pour observer les interactions adulte-enfant dans l'environnement de la classe ; l'experte jouait le rôle de coach pour faire le lien entre la formation, son application concrète et son effet, puis le travail s'est déplacé vers la qualité des commentaires eux-mêmes. Ce qui est opérationnel ici : les techniques sont nommées, modélisées par une collègue en poste, répétées, puis observées.",
+   "conditions": "Le guide EEF ajoute trois conditions de mise en œuvre : les concepteurs de programmes doivent indiquer où les adaptations locales sont possibles pour que les mécanismes soient protégés et priorisés ; le programme doit correspondre aux besoins de l'école et être soutenu par la direction ; la contrainte de temps des enseignants doit être prise au sérieux dans la conception. Une remarque d'un cadre de direction citée dans le guide résume le point culturel : le modelage « est plus authentique s'il vient de quelqu'un qui a un horaire complet d'enseignement ».",
+   "contested": "Le cadre des mécanismes est séduisant mais repose sur une inférence : les mécanismes sont identifiés par codage des programmes évalués, puis corrélés à leur effet — ce n'est pas un test expérimental de chaque mécanisme pris isolément. Aucun essai n'a randomisé « formation avec rehearsal » contre « formation sans rehearsal ». Et l'estimation d'effet moyen qui fonde la promesse économique associée est directement attaquée (voir élément suivant). À ce stade, le cadre des quatorze mécanismes est le meilleur guide de conception disponible, pas une preuve d'efficacité.",
+   "sources": [
+    {
+     "org": "Education Endowment Foundation",
+     "title": "Effective Professional Development: Guidance Report",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/effective-professional-development/EEF-Effective-Professional-Development-Guidance-Report.pdf"
+    },
+    {
+     "author": "Sam Sims, Harry Fletcher-Wood, Alison O'Mara-Eves, Sarah Cottingham, Claire Stansfield, Jo Van Herwegen, Jake Anders",
+     "title": "What are the characteristics of effective teacher professional development? A systematic review and meta-analysis",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/effective-professional-development/EEF-Effective-Professional-Development-Guidance-Report.pdf"
+    },
+    {
+     "author": "Sam Sims, Harry Fletcher-Wood",
+     "title": "Identifying the characteristics of effective teacher professional development: a critical review",
+     "org": "School Effectiveness and School Improvement, vol. 32",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/effective-professional-development/EEF-Effective-Professional-Development-Guidance-Report.pdf"
+    },
+    {
+     "author": "Mary M. Kennedy",
+     "title": "How Does Professional Development Improve Teaching?",
+     "org": "Review of Educational Research, 86(4), 945-980",
+     "year": "2016",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/effective-professional-development/EEF-Effective-Professional-Development-Guidance-Report.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La base de preuves qui justifie les politiques de formation continue est plus fragile qu'annoncé : une réplication publiée montre que l'effet moyen de 0,09 écart-type tombe à -0,008 quand on retire les études qui ne testent pas l'hypothèse, et le plus grand audit de terrain jamais conduit ne trouve aucun type ni aucune quantité de formation qui fasse progresser les enseignants.",
+   "what_it_is": "Deux contre-enquêtes indépendantes. La première est une réplication méthodologique de la méta-analyse anglaise qui sert de fondement chiffré aux politiques de développement professionnel. La seconde est une étude descriptive à grande échelle des systèmes de formation de districts scolaires américains.",
+   "evidence_level": "Réplication publiée d'une méta-analyse (Fullard 2023, Social Sciences & Humanities Open, article de revue en accès libre) ; étude descriptive à grande échelle sans design causal (TNTP 2015)",
+   "effect_size": "Fullard : l'effet moyen original est de 0,092 (erreur-type 0,017) calculé sur 49 estimations issues de 42 études. Sur les 10 études seulement qui constituent des tests valides de l'hypothèse (14 estimations, dont 12 statistiquement indistinguables de zéro, une positive et une négative), l'effet tombe à 0,004 ; en incluant une étude valide exclue sans justification (Rimm-Kaufman et al. 2014), il tombe à -0,008. En relâchant la définition de la formation pour y inclure la fourniture de ressources pédagogiques, il remonte à 0,016. Population : études de développement professionnel enseignant, principalement anglo-saxonnes.",
+   "concrete_practice": "Les deux erreurs identifiées par Fullard sont reproductibles ailleurs et devraient servir de test de fiabilité à tout décideur lisant une méta-analyse. (1) Inclusion d'études où le groupe traité reçoit plusieurs interventions simultanées — formation plus changement de programme, par exemple — ce qui rend impossible d'attribuer l'effet à la formation. (2) Règle de sélection biaisée : quand une étude fournit plusieurs mesures de résultats, les auteurs retenaient « la première listée », or les effets positifs et significatifs sont plus souvent listés en premier.",
+   "concrete_example": "Fullard (Warwick Business School / ISER Essex, 2023) reprend la méta-analyse de Fletcher-Wood & Zuccollo (Education Policy Institute, 2020) qui sous-tend la doctrine anglaise et un chiffrage public spectaculaire : une hausse de la formation continue augmenterait le revenu de carrière de chaque élève de plus de 6 000 livres, pour un bénéfice social net de plus de 61 milliards de livres sur dix ans. Fullard rappelle que les écoles anglaises dépensent environ 1,5 milliard de livres par an en formation continue, soit environ 2 950 livres par enseignant, et conclut que « le chiffrage est peu susceptible d'être vrai ». Il relève également que près d'une étude sur quatre présentait des différences statistiquement significatives sur des covariables clés entre groupes traité et contrôle, signe de conception expérimentale défaillante.",
+   "conditions": "La leçon opérationnelle n'est pas « ne rien financer » mais « n'acheter que ce qui a été évalué contre un contre-factuel propre, et exiger que l'évaluation isole la formation des autres composants du dispositif ». C'est aussi un argument pour évaluer localement plutôt que d'importer des tailles d'effet publiées.",
+   "contested": "Il faut être équitable envers les deux camps. Fullard est une réanalyse unique, publiée dans une revue généraliste de moindre prestige que la méta-analyse qu'elle attaque, et son choix d'exclure les études combinant formation et ressources est discutable — l'auteur le reconnaît lui-même, puisque la formation opère souvent en tandem avec des ressources, ce qui fait remonter l'effet à 0,016. Symétriquement, TNTP est une organisation de plaidoyer et son étude est descriptive, sans contrefactuel : « nous n'avons trouvé aucune preuve qu'un type ou une quantité particulière de développement professionnel aide systématiquement les enseignants à progresser » n'est pas une preuve d'inefficacité, mais une absence de signal dans trois grands districts et un réseau d'écoles à charte sur deux ans. TNTP conclut d'ailleurs qu'il ne faut pas réduire la dépense mais changer les questions posées.",
+   "sources": [
+    {
+     "author": "Joshua Fullard",
+     "title": "Invalid estimates and biased means. A replication of a recent meta-analysis investigating the effect of teacher professional development on pupil outcomes",
+     "org": "Social Sciences & Humanities Open, 8, 100605",
+     "year": "2023",
+     "url": "https://doi.org/10.1016/j.ssaho.2023.100605"
+    },
+    {
+     "author": "Harry Fletcher-Wood, James Zuccollo",
+     "title": "The effects of high-quality professional development on teachers and students: A rapid review and meta-analysis",
+     "org": "Education Policy Institute",
+     "year": "2020",
+     "url": "https://doi.org/10.1016/j.ssaho.2023.100605"
+    },
+    {
+     "org": "TNTP",
+     "title": "The Mirage: Confronting the Hard Truth About Our Quest for Teacher Development",
+     "year": "2015",
+     "url": "https://tntp.org/publication/the-mirage/"
+    }
+   ]
+  },
+  {
+   "claim": "La gestion de classe et le climat d'apprentissage ont un effet mesuré positif mais modeste (g = 0,22) ; les pratiques précises qui l'obtiennent sont désormais classées par niveau de preuve, et quatre d'entre elles atteignent le niveau « preuve forte ».",
+   "what_it_is": "L'ensemble des gestes par lesquels un enseignant établit et maintient les conditions d'apprentissage : attentes explicites, rappels, reconnaissance des comportements attendus, routines, interventions graduées. C'est le préalable physique du geste d'instruction : sans lui, le temps d'enseignement est consommé.",
+   "evidence_level": "Méta-analyse de 54 études d'intervention contrôlées, randomisées et non randomisées (Korpershoek, Harms, de Boer, van Kuijk & Doolaard, 2016, Review of Educational Research) ; guide de recommandations du What Works Clearinghouse avec classement explicite du niveau de preuve (IES, 2024)",
+   "effect_size": "g = 0,22 en moyenne sur l'ensemble des résultats (académiques, comportementaux, socio-émotionnels), significatif sauf sur les résultats motivationnels. 54 études d'intervention contrôlées publiées entre 2003 et 2013. Population : enseignement primaire. Les programmes centrés sur le développement socio-émotionnel des élèves contribuent le plus à l'efficacité globale, en particulier sur les résultats socio-émotionnels ; un résultat qualifié de « provisoire » suggère que les résultats académiques bénéficient davantage des programmes centrés sur l'enseignant.",
+   "concrete_practice": "Les sept recommandations du WWC (2024), avec leur niveau de preuve : établir conjointement, modéliser et enseigner des attentes claires de comportement, cohérentes avec celles de l'école (preuve forte) ; rappeler aux élèves d'adopter les comportements attendus (preuve forte) ; reconnaître les élèves qui démontrent les comportements attendus par de l'attention positive, des éloges et des récompenses (preuve forte) ; utiliser des évaluations du comportement pour donner un retour aux élèves (preuve forte) ; offrir des choix d'activités pour augmenter l'engagement (preuve modérée) ; offrir des occasions fréquentes et variées de répondre et de participer (preuve modérée) ; apprendre aux élèves à observer et réfléchir sur leur propre comportement (preuve modérée).",
+   "concrete_example": "Le guide EEF « Improving Behaviour in Schools » structure la même matière en six recommandations opérationnelles, dont la sixième — « la cohérence est la clé » — et propose des dispositifs nommés et chronométrés, par exemple la méthode « 2x10 » (deux minutes de conversation individuelle par jour avec un élève ciblé, dix jours de suite) comme outil de connaissance de l'élève, à articuler avec l'enseignement explicite des comportements d'apprentissage et non avec la seule gestion de l'indiscipline. Le guide du WWC de 2008 fournit le versant diagnostique : identifier les spécificités du comportement problématique et les conditions qui le déclenchent et le renforcent (preuve modérée), avant de modifier l'environnement d'apprentissage (preuve forte).",
+   "conditions": "La cohérence à l'échelle de l'établissement est la condition répétée par les deux agences : des attentes propres à chaque enseignant produisent des routines instables. Le WWC 2008 souligne aussi qu'il faut évaluer si les problèmes relèvent du niveau de l'établissement avant d'adopter des programmes d'école entière. L'effet est modeste : g = 0,22 ne transforme pas un système, il crée les conditions pour que le reste opère.",
+   "contested": "Trois limites. (1) La méta-analyse de Korpershoek porte sur le primaire uniquement et sur des études d'intervention hétérogènes, randomisées et non randomisées mélangées. (2) L'effet sur la motivation des élèves n'est pas significatif — ce qui contredit l'argument fréquent selon lequel un meilleur climat mobilise les élèves. (3) Le résultat le plus fort de la méta-analyse porte sur le développement socio-émotionnel, c'est-à-dire sur une famille d'interventions que la lecture « discipline et routines » de la gestion de classe néglige habituellement ; le niveau de preuve sur le versant académique y est qualifié de « provisoire » par les auteurs eux-mêmes. (4) Les guides WWC et EEF portent sur des systèmes anglo-saxons où la discipline scolaire est culturellement plus prescriptive.",
+   "sources": [
+    {
+     "author": "Hanke Korpershoek, Truus Harms, Hester de Boer, Mechteld van Kuijk, Simone Doolaard",
+     "title": "A Meta-Analysis of the Effects of Classroom Management Strategies and Classroom Management Programs on Students' Academic, Behavioral, Emotional, and Motivational Outcomes",
+     "org": "Review of Educational Research, 86(3)",
+     "year": "2016",
+     "url": "https://doi.org/10.3102/0034654315626799"
+    },
+    {
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "title": "Teacher-Delivered Behavioral Interventions in Grades K-5 (Practice Guide)",
+     "year": "2024",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/31"
+    },
+    {
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "title": "Reducing Behavior Problems in the Elementary School Classroom (Practice Guide)",
+     "year": "2008",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/4"
+    },
+    {
+     "org": "Education Endowment Foundation",
+     "title": "Improving Behaviour in Schools: Guidance Report",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/behaviour/EEF_Improving_behaviour_in_schools_Report.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les principes des sciences cognitives — pratique de récupération, pratique espacée, exemples résolus, gestion de la charge cognitive, interleaving — sont solides en laboratoire mais leur transposition en classe réelle est beaucoup moins établie qu'on ne le croit, et certains, comme le double codage, produisent des résultats nuls ou négatifs quand ils sont mal exécutés.",
+   "what_it_is": "Un ensemble de principes dérivés de la psychologie cognitive : distribuer les apprentissages dans le temps plutôt que les masser ; faire rappeler l'information de mémoire plutôt que la re-présenter ; alterner les types de problèmes ; fournir des exemples intégralement résolus et des étayages pour éviter la surcharge de la mémoire de travail ; combiner information verbale et non verbale.",
+   "evidence_level": "Revue de preuves d'une agence indépendante combinant revue théorique, revue de pratique et revue systématique d'études testées en classe (EEF, 2021) ; guide WWC avec niveaux de preuve (2007) ; essais en classe sur le quiz (McDaniel, Thomas, Agarwal, McDermott & Roediger, 2013 ; Roediger, Agarwal, McDaniel & McDermott, 2011)",
+   "effect_size": "Le WWC (2007) classe « utiliser des quiz pour réexposer les élèves au contenu clé » en preuve forte, « espacer l'apprentissage dans le temps » et « alterner exemples résolus et exercices » en preuve modérée, les pré-questions en preuve minimale. McDaniel et al. (2013, Applied Cognitive Psychology) rapportent, en cours de sciences au collège, des bénéfices d'apprentissage significatifs « avec de larges tailles d'effet », et des tailles d'effet similaires sur les questions de transfert et sur les questions identiques à celles du quiz. Population : collèges américains.",
+   "concrete_practice": "Formes concrètes recensées par l'EEF pour la pratique de récupération : questions à choix multiple, questions factuelles courtes, résolution de problèmes courts, vrai/faux, étiquetage de schémas, reconnaissance d'images, récitation de citations ou définitions, création de listes, grilles de récupération, organisateurs de connaissances, textes à trous. Le critère qui distingue la récupération du simple rappel par l'enseignant : c'est l'élève qui doit extraire l'information de sa mémoire, pas l'enseignant qui la lui redonne.",
+   "concrete_example": "La série d'études de McDaniel, Thomas, Agarwal, McDermott et Roediger en classes de sciences de collège : trois quiz à choix multiple espacés sur le contenu d'une même unité, intégrés au déroulement ordinaire du cours. L'examen de classe comportait ensuite trois catégories d'items — les questions déjà posées en quiz, des questions de transfert portant sur le même contenu mais formulées autrement, et du contenu non quizzé servant de contrôle interne. Résultat décisif pour l'objection habituelle (« le quiz ne fait que mémoriser la réponse ») : les gains sont de taille comparable sur les items de transfert et sur les items identiques. Dans une seconde expérience, les quiz portant sur l'application d'un principe amélioraient aussi la performance sur les questions de définition, alors que l'inverse n'était pas vrai — l'orientation des questions de quiz vers l'application est donc supérieure.",
+   "conditions": "L'EEF identifie les conditions et les modes d'échec. Il faut calibrer la difficulté : si les élèves ne parviennent pas à récupérer l'information, la force du souvenir n'augmente pas, et la littérature ne sait pas encore fixer le niveau optimal de défi. Il faut prévoir un soutien additionnel pour les élèves en difficulté, puisque tout test produit à la fois des récupérations réussies, des échecs de récupération et des récupérations erronées (les conceptions fausses). Surtout, il faut éviter les « mutations létales », où la pratique se déconnecte de la théorie qui la fonde.",
+   "contested": "L'EEF est explicitement sévère, et c'est la partie qu'il faut retenir. « Les preuves de l'application des principes des sciences cognitives dans les conditions ordinaires de classe sont limitées, avec des incertitudes et des lacunes. » Même les approches les plus prometteuses — pratique de récupération, pratique espacée, exemples résolus — ne sont soutenues que par un petit nombre d'études conduites dans des conditions ordinaires, avec des enseignants et sur de longues périodes ; beaucoup de dispositifs sont conçus et administrés par des chercheurs, pas par les enseignants. L'interleaving n'a été testé presque exclusivement qu'en mathématiques. Le double codage est explicitement signalé comme « possible à mal implémenter », avec de multiples études aux résultats nuls ou négatifs — l'exemple donné par des enseignants étant l'ajout d'illustrations non pertinentes aux diaporamas. Et l'incertitude demeure sur la capacité de la pratique de récupération à soutenir des apprentissages d'ordre supérieur au-delà du rappel factuel. Le décalage est massif entre cette prudence et le fait que plus de 85 % des enseignants interrogés par l'EEF déclarent que les stratégies issues des sciences cognitives sont centrales dans leur approche.",
+   "sources": [
+    {
+     "org": "Education Endowment Foundation",
+     "title": "Cognitive Science Approaches in the Classroom: A Review of the Evidence",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf"
+    },
+    {
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "title": "Organizing Instruction and Study to Improve Student Learning (Practice Guide)",
+     "year": "2007",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+    },
+    {
+     "author": "Mark A. McDaniel, Ruthann C. Thomas, Pooja K. Agarwal, Kathleen B. McDermott, Henry L. Roediger III",
+     "title": "Quizzing in Middle-School Science: Successful Transfer Performance on Classroom Exams",
+     "org": "Applied Cognitive Psychology",
+     "year": "2013",
+     "url": "https://doi.org/10.1002/acp.2914"
+    },
+    {
+     "author": "Henry L. Roediger III, Pooja K. Agarwal, Mark A. McDaniel, Kathleen B. McDermott",
+     "title": "Test-enhanced learning in the classroom: Long-term improvements from quizzing",
+     "org": "Journal of Experimental Psychology: Applied",
+     "year": "2011",
+     "url": "https://doi.org/10.1037/a0026252"
+    },
+    {
+     "author": "Nicholas J. Cepeda, Harold Pashler, Edward Vul, John T. Wixted, Doug Rohrer",
+     "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+     "org": "Psychological Bulletin, 132(3)",
+     "year": "2006",
+     "url": "https://doi.org/10.1037/0033-2909.132.3.354"
+    }
+   ]
+  },
+  {
+   "claim": "La rétroaction sur le geste professionnel n'agit que si elle est formative et explicitement découplée de l'évaluation à enjeux ; l'EEF en fait une condition de conception, pas une précaution diplomatique.",
+   "what_it_is": "Le mécanisme 9 du cadre EEF (« providing feedback ») : observer la performance du participant et lui fournir une rétroaction destinée à soutenir son amélioration. L'EEF y ajoute une condition inhabituelle pour un document de recommandations : ces observations formatives doivent être « clairement distinguées des observations de leçons à enjeux liées aux objectifs d'appréciation ».",
+   "evidence_level": "Recommandation d'agence indépendante fondée sur une revue systématique (EEF 2021), elle-même appuyée sur des revues de la rétroaction ; niveau de preuve « mécanisme » et non « programme évalué »",
+   "effect_size": "Aucune taille d'effet propre au mécanisme « rétroaction aux enseignants » n'est publiée par l'EEF, qui note seulement que « de nombreuses revues ont démontré l'impact variable que peut avoir la rétroaction mais qu'en moyenne elle est associée à un effet positif sur la performance ». Les preuves d'effet sur les élèves proviennent des programmes de coaching qui l'incorporent : +0,49 écart-type sur la pratique et +0,18 sur les élèves (Kraft, Blazar & Hogan 2018).",
+   "concrete_practice": "Traduction opérationnelle donnée par l'EEF : mobiliser des coachs ou des pairs pour observer la performance, fournir une rétroaction écrite ou orale, et attendre du participant qu'il agisse sur cette rétroaction pour s'améliorer. Le point structurant est le troisième : sans obligation d'agir et sans réobservation, le mécanisme ne se referme pas. C'est aussi ce qui manquait à l'essai EEF Teacher Observation, où l'observation existait mais où rien n'obligeait à la convertir en action.",
+   "concrete_example": "Le guide EEF « Teacher Feedback to Improve Pupil Learning » (2021) fournit le pendant côté élèves et un chiffre de terrain utile : 81 % des enseignants du primaire et 74 % de ceux du secondaire déclaraient que leur rétroaction correspondait à la recommandation 3 du guide (planifier la manière dont les élèves recevront et utiliseront la rétroaction). Le guide est structuré en six recommandations, dont la sixième — « concevoir une politique d'école de rétroaction qui priorise » — reconnaît explicitement que le volume de rétroaction produit dans les écoles anglaises excède ce que la preuve justifie, et qu'il faut donc arbitrer plutôt qu'ajouter.",
+   "conditions": "Trois conditions : la rétroaction doit être formative et séparée de l'appréciation à enjeux, elle doit être suivie d'une action puis d'une réobservation, et elle doit être arbitrée dans le temps disponible plutôt qu'ajoutée à la charge existante. Le témoignage cité par l'EEF sur la crédibilité de la source est également opérationnel : dans une école secondaire, le modelage était confié à un chef de département enseignant à horaire complet plutôt qu'à un formateur externe, parce que « c'est plus authentique quand cela vient de quelqu'un qui enseigne à temps plein ».",
+   "contested": "Le statut de preuve est faible : il s'agit d'un mécanisme inféré, non d'une intervention testée. L'EEF reconnaît elle-même « l'impact variable » de la rétroaction. Et l'essai EEF Teacher Observation montre qu'un dispositif de rétroaction entre pairs déployé sur 82 écoles, avec logiciel et formation, peut produire exactement zéro. La distinction entre observation formative et observation évaluative est par ailleurs une prescription culturelle anglo-saxonne : dans un système où l'inspection et l'évaluation des enseignants sont réglementées, la séparation des deux registres est une question juridique et syndicale autant que pédagogique.",
+   "sources": [
+    {
+     "org": "Education Endowment Foundation",
+     "title": "Effective Professional Development: Guidance Report (Mechanism 9: Providing feedback)",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/effective-professional-development/EEF-Effective-Professional-Development-Guidance-Report.pdf"
+    },
+    {
+     "org": "Education Endowment Foundation",
+     "title": "Teacher Feedback to Improve Pupil Learning: Guidance Report",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/feedback/Teacher_Feedback_to_Improve_Pupil_Learning.pdf"
+    },
+    {
+     "author": "Matthew A. Kraft, David Blazar, Dylan Hogan",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "org": "Review of Educational Research, 88(4)",
+     "year": "2018",
+     "url": "https://doi.org/10.3102/0034654318759268"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose, ce qui ne se transpose pas, et à quelles conditions — pour un système d'Europe continentale francophone, à liberté d'enseignement constitutionnelle, gouvernance partagée entre réseaux, et contrainte budgétaire forte.\n\n1. CE QUI EST STRUCTURELLEMENT TRANSPOSABLE, PARCE QUE LE LEVIER EST INTERNE À L'ÉTABLISSEMENT. Le coaching pédagogique, l'observation ciblée entre pairs, les répétitions de gestes en formation initiale, la codification des techniques et les principes de sciences cognitives sont des leviers d'établissement et de formateur, pas des leviers de ministère. Ils ne requièrent ni pilotage centralisé, ni harmonisation entre réseaux, ni modification du cadre constitutionnel — ce qui en fait, dans un système à gouvernance partagée, la famille de leviers la plus compatible avec la contrainte institutionnelle. Un réseau peut déployer un référentiel de gestes et un dispositif de coaching sans rien demander aux autres. C'est l'inverse d'une réforme curriculaire ou d'une réforme du redoublement.\n\n2. LE VERROU BUDGÉTAIRE EST FRONTAL ET DOIT ÊTRE DIT. Le coaching individualisé est le dispositif le mieux prouvé et c'est aussi celui qui n'a quasiment aucune économie d'échelle : Kraft, Blazar et Hogan sont explicites sur ce point — l'intervention est du face-à-face, et les coûts sont des coûts de personnel. MyTeachingPartner-Secondary coûtait 3 700 dollars par enseignant pour 20 heures sur 13 mois. Rapporté à 130 000 membres du personnel, un tel dispositif est inenvisageable en généralisation. Deux conséquences opérationnelles : (a) tout déploiement doit être ciblé — enseignants débutants, établissements à indice socio-économique faible, disciplines où l'écart est documenté — et non universel ; (b) l'effet à budgéter n'est pas 0,18 écart-type mais un tiers à la moitié de cette valeur dès que le programme dépasse la centaine d'enseignants.\n\n3. L'ALTERNATIVE À FAIBLE COÛT EXISTE ET EST LA PLUS TRANSPOSABLE. Le dispositif de Papay, Taylor, Tyler et Laski — apparier, dans la même école, un enseignant faible sur une compétence avec un collègue fort sur cette même compétence, et faire travailler la paire sur ce seul point — a produit +0,12 écart-type avec des ressources internes. C'est le meilleur rapport effet/coût du dossier et il est compatible avec une contrainte budgétaire sévère. Mais il a un prérequis politiquement lourd : il suppose une information par compétence sur la performance des enseignants. Dans un système où l'évaluation individuelle des enseignants est un sujet syndicalement sensible et où l'inspection a un statut particulier, ce prérequis ne se transpose pas tel quel. Une version dégradée mais plausible consisterait à construire l'appariement sur une auto-évaluation et une évaluation par la direction adossées à un référentiel de gestes commun, en garantissant explicitement la séparation d'avec l'appréciation à enjeux — séparation que l'EEF pose comme condition de fonctionnement du mécanisme, non comme précaution diplomatique.\n\n4. CE QUI NE SE TRANSPOSE PAS. (a) Le paquet « no-excuses » américain (Fryer, Dobbie & Fryer) est indissociable d'un contexte de charter schools, de tutorat à haute dose et de temps scolaire allongé ; ses effets ne peuvent pas être revendiqués pour une politique de techniques de classe seules, et sa dimension disciplinaire fait l'objet de critiques documentées (Cushing, BERJ 2020) qui seraient encore plus vives dans un contexte francophone continental. (b) Les tailles d'effet en écarts-types anglo-saxonnes ne se convertissent pas mécaniquement en points PISA ni en « mois d'apprentissage » : les conversions de l'EEF sont calibrées sur des tests nationaux anglais. (c) Les guides du What Works Clearinghouse portent sur des systèmes où la prescription pédagogique de l'État est admise ; dans un système à liberté d'enseignement, un guide équivalent ne peut être qu'un outil offert aux réseaux, pas une norme.\n\n5. LE PIÈGE PRINCIPAL, DOCUMENTÉ DEUX FOIS. Les deux essais randomisés anglais les plus pertinents pour un système qui pratique déjà quelque chose — Teacher Observation et Lesson Study — ont tous deux produit zéro, et pour la même raison : la majorité des écoles du groupe contrôle faisait déjà une version informelle du dispositif. Un système qui institutionnalise formellement ce que ses enseignants font déjà de manière informelle n'obtient rien, et paie 2 300 à 4 000 livres par école et par an pour ce rien. La leçon transposable est qu'il faut, avant tout déploiement, établir ce qui se pratique déjà réellement dans les établissements — faute de quoi le dispositif nouveau ne fait que formaliser l'existant. C'est particulièrement vrai dans un système où les réseaux et les établissements ont déjà des pratiques de concertation.\n\n6. CE QUI SE TRANSPOSE LE PLUS FACILEMENT ET LE PLUS VITE : LA FORMATION INITIALE. Les répétitions de gestes (rehearsals) et les approximations de pratique s'installent dans des cours de didactique existants, sans coût marginal significatif, et l'essai randomisé de Cohen et al. montre des gains de compétences larges chez 105 futurs enseignants. Deans for Impact pose ici le point budgétairement décisif : c'est la qualité de l'expérience clinique qui compte, pas sa quantité — allonger les stages sans structurer la pratique ne produit pas d'expertise. Dans un système qui vient d'allonger la formation initiale, c'est l'arbitrage central.\n\n7. EXIGENCE DE PROBITÉ POUR LA NOTE ELLE-MÊME. Ce dossier contient deux réplications qui détruisent les chiffres mobilisés par les plaidoyers sur le développement professionnel (Fullard 2023 : de 0,09 à -0,008 ; Neitzel, Zhang & Slavin 2021 : de +0,52 à -0,02 sur l'instruction directe). Une note patronale qui citerait 0,09 écart-type ou le chiffrage de 61 milliards de livres de bénéfice social s'exposerait à être réfutée en une citation. La position défendable est plus étroite et plus solide : le coaching individualisé et la structuration de la pratique enseignante sont les seuls dispositifs de développement professionnel dont l'effet causal sur la pratique observée soit solidement établi ; leur effet sur les élèves est réel mais modeste et décroît fortement avec l'échelle ; ils doivent donc être ciblés, évalués localement contre un contrefactuel propre, et jugés sur un horizon d'au moins deux ans, puisque même l'essai le plus favorable (Allen et al., Science 2011) ne trouve aucun effet la première année.\n\nNOTE DE MÉTHODE : le quota de recherche par moteur de recherche de cette session était épuisé ; toutes les vérifications ont été faites par récupération directe des sources primaires (WebFetch/curl sur les PDF d'agences, PubMed Central, NBER, IES/WWC, ERIC) et par interrogation des API bibliographiques Crossref, Unpaywall et Semantic Scholar. Chaque taille d'effet citée ci-dessus a été lue sur le document d'origine ou sur le résumé officiel de l'éditeur. Les études dont je n'ai pas pu vérifier le contenu chiffré (notamment Dunlosky et al. 2013 et Cepeda et al. 2006, dont seules les métadonnées ont été confirmées) ne portent aucune affirmation quantitative dans ce rendu."
+}

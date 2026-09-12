@@ -1,0 +1,662 @@
+{
+ "topic": "Angleterre 2010-2025 : anatomie d'une réforme systémique — ce qui a produit des résultats, ce qui n'en a pas produit, et à quel coût social",
+ "headline": "Sur quinze ans, l'Angleterre a obtenu des gains réels et mesurables là où la réforme a porté sur le contenu enseigné et sur la pédagogie du primaire (phonics, curriculum de 2014, mathématiques de maîtrise, infrastructure de preuve) — PIRLS 2021 4e mondial, TIMSS année 9 en maths passée de 498 à 525 entre 2003 et 2023 — mais quasiment aucun gain attribuable aux réformes de structure (academies converties après 2010, multi-academy trusts), un écart social qui ne s'est pas refermé et qui s'est même élargi depuis 2019, et un coût social visible : exclusions et suspensions à des niveaux record, sorties d'élèves « inexpliquées » massives, jugements Ofsted en un mot abandonnés en 2024 après le suicide d'une directrice.",
+ "searches_run": 22,
+ "transposability_fwb": "Ce qui se transpose bien à la FWB. (1) Le bloc « contenu + pédagogie du primaire » est le plus transposable et le moins coûteux : un référentiel de lecture explicitement fondé sur le décodage systématique, un test-diagnostic léger en 1re année, et une infrastructure de développement professionnel par les pairs coûtent peu. L'ordre de grandeur anglais est frappant : les Maths Hubs ont coûté 220,8 M£ sur dix ans pour un système de ~22 000 écoles, soit environ 1 £ par élève et par an — un montant absorbable même sous la contrainte des 1,5 Md EUR de déficit FWB. (2) Le modèle Maths Hubs est structurellement compatible avec la liberté d'enseignement et des réseaux multiples : c'est une adhésion volontaire d'écoles à des groupes de travail animés par des enseignants détachés, sans aucun pouvoir hiérarchique sur les écoles ; 69,5 % des écoles primaires anglaises y ont participé sans obligation. C'est exactement la forme de pilotage qui reste possible quand le pilotage centralisé est exclu constitutionnellement. (3) Le modèle EEF — une agence indépendante qui finance des essais et traduit les résultats en guides pour les directions — est réplicable à faible coût, y compris à l'échelle FWB en mutualisant avec d'autres systèmes francophones ; mais il faut l'installer avec la lucidité que 40 % des essais éducatifs sont non informatifs et que le format « mois de progrès » est méthodologiquement contesté. (4) Le test-diagnostic universel de 1re année est un instrument de pilotage sans redoublement : il identifie précocement les élèves en difficulté de lecture sans les retenir une année — une piste directe face aux 35 % de redoublants à 15 ans en FWB.  Ce qui ne se transpose pas. (1) Tout le volet structurel (academies, multi-academy trusts, academisation forcée) est à la fois juridiquement impossible en FWB — la liberté d'enseignement et les réseaux préexistants font déjà ce que l'autonomie anglaise a créé artificiellement — et empiriquement décevant : les seuls effets solides concernent la première vague de reprises d'écoles en échec sous tutelle d'un sponsor entre 2002 et 2010, dans un contexte de forte injection de moyens et de changement de direction ; les conversions post-2010 n'ont produit aucun effet détectable. La leçon transposable n'est pas « changer les statuts » mais « intervenir fort sur les écoles en échec, avec changement de direction et accompagnement ». (2) Le régime d'accountability à haute pression (Ofsted, league tables, Progress 8, EBacc) est indissociable d'un marché scolaire, d'un choix d'école quasi-illimité et d'une tradition managériale britannique. Il a produit des effets pervers documentés — 69 000 sorties inexpliquées sur une seule cohorte, 955 000 suspensions en 2023/24, rétrécissement du curriculum artistique — que l'Angleterre elle-même est en train de défaire (fin des jugements en un mot en 2024, recommandation de supprimer l'EBacc en 2025). Importer ce régime en FWB serait importer la génération d'après-coup. (3) Les réformes de formation initiale par mise en concurrence des opérateurs (School Direct, ITT market review) reposent sur un marché de la formation qui n'existe pas en FWB, et leur bilan anglais est faible : l'Early Career Framework, déployé nationalement, n'a pas produit d'effet significatif sur la rétention des enseignants débutants. (4) Enfin, prudence sur la lecture des résultats : PISA 2025 pour le Royaume-Uni est affecté d'un taux d'exclusion de 7,6 % contre un seuil de 5 %, avec une non-réponse fortement concentrée sur les élèves défavorisés (39,6 % d'élèves bénéficiaires de repas gratuits parmi les non-répondants contre 23,8 % parmi les répondants) et sur les élèves à besoins spécifiques (25,0 % contre 10,7 %). Toute comparaison FWB-Angleterre sur PISA 2025 surestime mécaniquement l'Angleterre ; il faut argumenter sur PIRLS, TIMSS et les évaluations nationales anglaises.",
+ "items": [
+  {
+   "claim": "Le passage national à l'enseignement systématique du décodage (synthetic phonics) est le levier anglais dont l'identification causale est la plus solide : effets forts à court terme, qui s'estompent en moyenne mais persistent durablement pour les élèves défavorisés et allophones — donc un levier d'équité plus que de moyenne.",
+   "what_it_is": "À partir de 2005-2006, l'Angleterre a réorienté l'enseignement de la lecture autour du décodage systématique (synthetic phonics), d'abord via un pilote financé dans un sous-ensemble d'autorités locales, puis par un déploiement national appuyé sur la formation des enseignants en poste, sans recrutement ni matériel massif. Le dispositif a été complété en 2012 par un test-diagnostic universel en 1re année (phonics screening check) : 40 mots, dont des pseudo-mots, passés par chaque élève de Year 1, avec un seuil attendu de 32/40 et un repassage en Year 2 pour ceux qui échouent.",
+   "evidence_level": "quasi-expérimental (différences-de-différences sur le déploiement échelonné du pilote puis du rollout national, données administratives élèves appariées) + descriptif pour les taux de réussite au test",
+   "effect_size": "Machin, McNally & Viarengo (2018) : gains significatifs sur la lecture à 5 et 7 ans, qui s'annulent en moyenne à 11 ans mais persistent pour les élèves à faible statut socio-économique et pour ceux dont l'anglais n'est pas la langue première ; les auteurs concluent explicitement que le programme a resserré l'écart entre élèves défavorisés et les autres. Sur les taux de réussite au test : 58 % des élèves atteignaient le standard attendu en Year 1 en 2012, 82 % en 2018 et 2019, 75 % en 2022 (choc Covid), 80 % en 2024 et en 2025 ; par la fin de la Year 2, 91 % en 2019 et 89 % en 2024.",
+   "concrete_practice": "Chaque enseignant de 1re et 2e année primaire enseigne une progression ordonnée de correspondances graphème-phonème, avec lecture de pseudo-mots pour forcer le décodage plutôt que la reconnaissance globale. En juin, chaque élève de Year 1 passe individuellement le test de 40 mots avec son enseignant (environ 5 minutes). Les élèves sous le seuil sont repérés nommément, bénéficient d'un soutien ciblé en Year 2 et repassent le test. Les résultats sont publiés par école et remontent au niveau national.",
+   "concrete_example": "Le phonics screening check est passé chaque année depuis 2012 par l'intégralité d'une cohorte de Year 1 en Angleterre — environ 600 000 élèves par an. Son pouvoir prédictif a été mesuré de façon inattendue : dans PIRLS 2021, les 4 150 élèves anglais de Year 5 ont été appariés à leurs résultats au test de phonics passé quatre ans plus tôt. La corrélation est de 0,43. Dans une régression multiple sur huit caractéristiques d'élèves, le score au test de phonics de Year 1 ressort comme le prédicteur le plus puissant du score PIRLS : chaque point supplémentaire sur 40 est associé à près de 4 points PIRLS. Les élèves ayant obtenu 40/40 ont un score PIRLS médian de 606, contre 558 de moyenne nationale ; ceux qui franchissaient tout juste le seuil de 32/40 plafonnent à un score médian d'au moins 521, soit en dessous de la moyenne anglaise.",
+   "conditions": "Le dispositif fonctionne parce qu'il combine trois éléments indissociables : un contenu pédagogique précis et prescrit, un instrument de mesure universel et léger en 1re année, et une boucle de remédiation immédiate (repassage en Year 2) qui ne passe pas par le redoublement. Il échoue si le test devient une fin en soi : la recherche qualitative documente un effet « l'évaluation est devenue le curriculum », avec des semaines de bachotage sur des pseudo-mots. Il échoue aussi si le décodage n'est pas articulé à la compréhension et au vocabulaire — les gains à 7 ans ne se convertissent pas automatiquement en compréhension à 11 ans.",
+   "contested": "Fortement contesté sur trois fronts. (1) L'Education Policy Institute, analysant les données de recensement élève 2009-2018, ne trouve aucune preuve que les résultats de lecture en fin de Key Stage 1 se soient améliorés du fait de l'introduction du test en 2012 : les progrès antérieurs ont ralenti puis stagné après sa mise en œuvre, et aucun resserrement d'écart entre élèves forts et faibles n'est détecté ; l'EPI relève aussi que les élèves échouant au test sont ensuite plus souvent nouvellement enregistrés comme ayant des besoins éducatifs particuliers en Year 2, ce qui suggère un effet d'étiquetage. Il faut distinguer clairement les deux objets : la preuve causale de Machin-McNally-Viarengo porte sur le changement pédagogique des années 2000, pas sur le test de 2012, dont l'effet propre n'est pas établi. (2) Jeffrey Bowers (Université de Bristol) conteste depuis plusieurs années la solidité de la base de preuves du phonics systématique en tant que telle, en soutenant que les effets se concentrent sur le décodage et non sur la compréhension ; sa position a fait l'objet de réponses publiées par d'autres chercheurs. (3) Carter (2020, British Educational Research Journal) documente le rétrécissement de l'enseignement de la lecture autour du format du test. Enfin, l'objectif gouvernemental de 90 % de réussite en Year 1 est jugé hors d'atteinte par FFT Education Datalab au rythme actuel.",
+   "sources": [
+    {
+     "author": "Stephen Machin, Sandra McNally, Martina Viarengo",
+     "title": "Changing How Literacy Is Taught: Evidence on Synthetic Phonics",
+     "org": "American Economic Journal: Economic Policy, vol. 10, n° 2, p. 217-241",
+     "year": "2018",
+     "url": "https://www.aeaweb.org/articles?id=10.1257%2Fpol.20160514"
+    },
+    {
+     "author": "Department for Education",
+     "title": "PIRLS 2021: National Report for England",
+     "org": "Department for Education / NFER",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/661667a756df202ca4ac0538/PIRLS_2021_national_report_for_england.pdf"
+    },
+    {
+     "author": "Education Policy Institute",
+     "title": "What can quantitative analyses tell us about the national impact of the phonics screening check?",
+     "org": "Education Policy Institute",
+     "year": "2022",
+     "url": "https://epi.org.uk/publications-and-research/what-can-quantitative-analyses-tell-us-about-the-national-impact-of-the-phonics-screening-check/"
+    },
+    {
+     "author": "Andrew Carter",
+     "title": "The assessment has become the curriculum: Teachers' views on the Phonics Screening Check in England",
+     "org": "British Educational Research Journal",
+     "year": "2020",
+     "url": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.3598"
+    },
+    {
+     "author": "FFT Education Datalab",
+     "title": "What will it take to meet the government's ambition for 90% of pupils to achieve the expected standard in Year 1 phonics?",
+     "org": "FFT Education Datalab",
+     "year": "2025",
+     "url": "https://ffteducationdatalab.org.uk/2025/11/what-will-it-take-to-meet-the-governments-ambition-for-90-of-pupils-to-achieve-the-expected-standard-in-year-1-phonics/"
+    }
+   ]
+  },
+  {
+   "claim": "Le résultat le plus solide de la réforme anglaise est en lecture au primaire : dans PIRLS 2021, l'Angleterre est 4e sur 43 systèmes, stable pendant que la médiane internationale chutait de 19 points — et ce sont les élèves les plus faibles qui ont tiré la distribution vers le haut.",
+   "what_it_is": "PIRLS mesure la compréhension en lecture des élèves de 4e année (Year 5 en Angleterre), tous les cinq ans depuis 2001. C'est l'indicateur international le plus pertinent pour juger l'effet cumulé des politiques anglaises de lecture au primaire, et il n'est pas affecté par le problème d'exclusion qui entache PISA 2025 au Royaume-Uni.",
+   "evidence_level": "comparaison internationale corrélationnelle (aucune identification causale possible entre politique et résultat) ; descriptif rigoureux sur la distribution",
+   "effect_size": "Score moyen Angleterre 2021 : 558, contre une médiane internationale de 520. 4e rang sur 43, derrière Singapour (587), Hong Kong (573) et la Russie (567) ; 8e ex aequo en 2016. Entre 2016 et 2021, l'Angleterre est restée stable alors que la médiane internationale perdait 19 points. Le 10e percentile anglais est à 458, significativement plus élevé que lors de tous les autres cycles PIRLS à l'exception de 2016, tandis que la médiane internationale au 10e percentile perdait 21 points. L'écart filles-garçons s'est resserré de 23 points en 2011 à 15 points en 2016 puis 10 points en 2021. Écart net associé à l'éligibilité aux repas gratuits, une fois les autres caractéristiques contrôlées : -23 points.",
+   "concrete_practice": "Il ne s'agit pas d'un dispositif mais du résultat agrégé d'une politique de lecture au primaire : progression de décodage prescrite, test universel en Year 1, remédiation en Year 2, publication des résultats par école, et inspection Ofsted qui vérifie depuis 2019 la qualité de l'enseignement de la lecture précoce dans chaque école primaire visitée.",
+   "concrete_example": "4 150 élèves anglais de Year 5, dans un échantillon représentatif d'écoles, ont passé PIRLS 2021 (collecte décalée d'un an pour cause de Covid, comme dans six autres systèmes). Le rapport national du DfE documente précisément d'où vient le gain : la réduction de l'écart entre élèves les plus faibles et les plus forts « est due à une hausse des scores des élèves faibles plutôt qu'à une baisse des scores des élèves forts ». Autrement dit, la distribution s'est resserrée par le haut du bas, ce qui est exactement l'inverse du scénario de nivellement par le bas régulièrement redouté.",
+   "conditions": "Le résultat dépend d'une continuité politique de quinze ans sur un objet étroit (la lecture à 5-7 ans), maintenue à travers quatre gouvernements et sept ministres de l'Éducation. Il dépend aussi d'un instrument de mesure universel qui rend le problème visible école par école. Sans cette continuité et sans cette visibilité, l'effet cumulé ne se serait pas constitué.",
+   "contested": "Trois réserves sérieuses. (1) La progression anglaise est en partie relative : PIRLS 2021 a été passé en pleine perturbation pandémique, et l'Angleterre a bénéficié de son report d'un an et de la chute des autres. Le rapport du DfE lui-même signale que cela complique à la fois les comparaisons internationales et les tendances. (2) Aucune inférence causale n'est possible : attribuer 558 points au phonics est un raisonnement post hoc ; le rapport national reconnaît « la complexité de l'établissement de relations entre politique éducative et évaluations internationales à grande échelle ». (3) Le National Education Union conteste publiquement la lecture officielle qui attribue le résultat PIRLS au phonics. Enfin, la performance en lecture au primaire ne se traduit pas mécaniquement dans le secondaire : le score PISA 2025 de lecture en Angleterre (497) n'est pas significativement différent de celui de 2022.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "title": "PIRLS 2021: National Report for England",
+     "org": "Department for Education / NFER",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/661667a756df202ca4ac0538/PIRLS_2021_national_report_for_england.pdf"
+    },
+    {
+     "author": "IEA / TIMSS & PIRLS International Study Center",
+     "title": "PIRLS 2021 International Results in Reading — Countries' Reading Achievement",
+     "org": "Boston College",
+     "year": "2023",
+     "url": "https://pirls2021.org/results/achievement/overall/"
+    },
+    {
+     "author": "National Literacy Trust",
+     "title": "England's 10-year-olds reach highest ever place in PIRLS international reading rankings",
+     "org": "National Literacy Trust",
+     "year": "2023",
+     "url": "https://literacytrust.org.uk/blog/englands-10-year-olds-reach-highest-ever-place-in-pirls-international-reading-rankings/"
+    },
+    {
+     "author": "National Education Union",
+     "title": "Teaching phonics and reading: PIRLS of wisdom?",
+     "org": "National Education Union",
+     "year": "2023",
+     "url": "https://neu.org.uk/latest/blogs/teaching-phonics-and-reading-pirls-wisdom"
+    }
+   ]
+  },
+  {
+   "claim": "Les Maths Hubs et le Teaching for Mastery inspiré de Shanghai constituent le modèle de développement professionnel le plus intéressant pour un système à réseaux multiples — adhésion volontaire, animation par des enseignants, coût dérisoire — mais l'évaluation causale du dispositif d'origine n'a trouvé aucun effet significatif sur les résultats en fin de primaire.",
+   "what_it_is": "Créé en 2014 avec 32 pôles (40 aujourd'hui), le réseau des Maths Hubs est coordonné par le NCETM et financé par le DfE. Chaque pôle est un partenariat d'écoles autour d'une institution-pilote. Des enseignants détachés (Mastery Specialists) animent des groupes de travail volontaires d'écoles voisines autour d'une pédagogie de maîtrise : progression lente, un objectif par leçon, variation conceptuelle, représentations concrètes-imagées-abstraites, classe entière qui avance ensemble sans groupes de niveau. Le volet fondateur fut le Mathematics Teacher Exchange avec Shanghai (2014-2019) : échanges croisés d'enseignants.",
+   "evidence_level": "quasi-expérimental (appariement de 48 écoles participantes à 940 écoles témoins, analyse longitudinale des données nationales KS1/KS2) pour l'échange Shanghai ; essai randomisé contrôlé pour le programme apparenté Mathematics Mastery ; descriptif pour l'ampleur du déploiement actuel",
+   "effect_size": "Évaluation du Mathematics Teacher Exchange (Boylan et al., DfE 2019) : en Key Stage 2, l'écart passe de d = -0,07 en 2014 à d = +0,13 en 2017 en statistiques descriptives, mais les régressions multiniveaux ne détectent aucune différence statistiquement significative entre écoles participantes et écoles témoins, ni en 2014 ni en 2017. Une différence petite mais significative est trouvée en Key Stage 1 dans le sous-échantillon d'écoles ayant réellement implanté la pédagogie deux ans de suite. Le programme apparenté Mathematics Mastery, évalué par essai randomisé (Jerrim & Vignoles pour l'EEF, 2015), donne 0,10 écart-type au primaire (83 écoles, 4 176 élèves ; p = 0,07 ; IC 95 % de -0,01 à +0,21, soit environ 2 mois de progrès) et environ 1 mois au secondaire (44 écoles, 5 938 élèves), non significatif.",
+   "concrete_practice": "Une école volontaire envoie deux enseignants dans un groupe de travail animé par un Mastery Specialist d'une école voisine. Sur une année, ils participent à des cycles d'observation croisée, de conception collective de leçons et de retour en école, puis diffusent la pédagogie en interne. L'année suivante, l'école peut devenir elle-même école-relais. Aucun pouvoir hiérarchique n'est exercé sur l'école : l'adhésion est volontaire et le pôle n'inspecte rien.",
+   "concrete_example": "Entre novembre 2014 et mars 2015, 59 enseignants de mathématiques chinois sont venus dans 48 écoles primaires anglaises pour y modéliser la pédagogie de maîtrise, tandis que des enseignants anglais partaient observer des classes de Shanghai. L'évaluation indépendante (Sheffield Hallam pour le DfE) a suivi ces 48 écoles jusqu'en 2017, appariées à 940 écoles témoins sur données nationales : 34 des 48 écoles avaient effectivement implanté des pratiques de maîtrise, dont 24 à haut niveau de fidélité, et 72 % des classes des écoles répondantes en bénéficiaient. Le dispositif s'est ensuite institutionnalisé : en août 2024, les Maths Hubs avaient travaillé avec 85,5 % des écoles primaires ouvertes (14 321) et 88,3 % des écoles secondaires (3 015) ; 69,5 % des primaires (11 653) et 57,5 % des secondaires (1 964) avaient participé à au moins une année du programme Teaching for Mastery. Coût total sur dix ans (2014/15 à 2023/24) : 220,8 M£, dont 36,3 M£ pour la seule année 2023/24.",
+   "conditions": "Trois conditions apparaissent clairement dans l'évaluation. (1) La participation à l'échange ne suffit pas : seule l'implantation effective et soutenue de la pédagogie est associée à un gain, et uniquement en KS1. (2) Il faut du temps : les évaluateurs concluent explicitement que deux ans n'ont pas suffi pour que le changement de pratique se traduise en résultats. (3) L'implantation est plus difficile en fin de primaire qu'en début — elle était systématiquement moins établie en upper Key Stage 2, parce que les élèves plus âgés n'ont pas bénéficié des fondations.",
+   "contested": "Très contesté et il faut le dire sans complaisance. Les évaluateurs eux-mêmes énumèrent cinq interprétations concurrentes de l'absence d'effet, dont deux inconfortables : (a) l'évaluation KS1 repose sur une évaluation par l'enseignant, donc un biais inconscient favorable de la part d'enseignants investis dans le programme n'est pas exclu ; (b) les écoles témoins peuvent avoir mis en œuvre des pratiques tout aussi efficaces, auquel cas l'absence de différence ne signifie pas absence d'efficacité. Par ailleurs, le résultat de 0,10 écart-type du programme Mathematics Mastery, que les évaluateurs invoquent comme réplication convergente, n'était lui-même pas significatif au seuil conventionnel de 95 % — c'est une convergence entre deux résultats faibles, pas une preuve. Enfin, la presse a résumé le bilan en constatant l'absence de changement des résultats à 11 ans. Il n'existe, à ma connaissance et malgré mes recherches, aucune évaluation causale publiée du programme Maths Hubs / Teaching for Mastery dans sa forme actuelle et à son échelle actuelle : la publication du DfE de novembre 2024 est explicitement une « management information » descriptive sur l'engagement, sans analyse d'impact sur les résultats. Attribuer aux Maths Hubs la hausse TIMSS anglaise relève donc de la plausibilité, non de la preuve.",
+   "sources": [
+    {
+     "author": "Mark Boylan et al.",
+     "title": "Longitudinal Evaluation of the Mathematics Teacher Exchange: China-England — Final Report",
+     "org": "Sheffield Hallam University pour le Department for Education",
+     "year": "2019",
+     "url": "https://assets.publishing.service.gov.uk/media/5c49b38340f0b61717193d2d/MTE_main_report.pdf"
+    },
+    {
+     "author": "Department for Education",
+     "title": "Engagement with the Maths Hubs Programme — Management Information",
+     "org": "Department for Education",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/67460515cdd295aea880995e/Engagement_with_the_maths_hubs_programme.pdf"
+    },
+    {
+     "author": "John Jerrim, Anna Vignoles",
+     "title": "Mathematics Mastery: Primary Evaluation Report",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581183.pdf"
+    },
+    {
+     "author": "John Jerrim, Anna Vignoles",
+     "title": "Mathematics Mastery: Secondary Evaluation Report",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581187.pdf"
+    },
+    {
+     "author": "NCETM",
+     "title": "Background to the Maths Hubs Programme",
+     "org": "National Centre for Excellence in the Teaching of Mathematics",
+     "year": "2025",
+     "url": "https://www.ncetm.org.uk/maths-hubs/about-maths-hubs/background-to-the-maths-hubs-programme/"
+    }
+   ]
+  },
+  {
+   "claim": "En mathématiques et en sciences, l'Angleterre affiche une progression de long terme réelle mais concentrée sur le haut de la distribution : TIMSS année 9 en maths est passée de 498 en 2003 à 525 en 2023, mais l'étalement des performances est le plus élevé jamais enregistré, tiré par les meilleurs élèves, et la stagnation du bas est portée de façon disproportionnée par les élèves défavorisés.",
+   "what_it_is": "TIMSS mesure tous les quatre ans les acquis en mathématiques et en sciences des élèves de 4e année (Year 5) et de 8e année (Year 9). L'Angleterre y participe depuis 1995/2003 et les cohortes de 2023 ont été scolarisées sous le curriculum national de 2013-2014, dont le DfE souligne la bonne correspondance avec le cadre TIMSS de mathématiques.",
+   "evidence_level": "comparaison internationale corrélationnelle, avec séries longues nationales ; aucune identification causale des politiques",
+   "effect_size": "Mathématiques Year 5 : 531 (2003) → 541 (2007, hausse significative) → 542 (2011) → 546 (2015) → 556 (2019, hausse significative) → 552 (2023, baisse non significative). Mathématiques Year 9 : 498 (2003) → 513 (2007, hausse significative) → 507 (2011) → 518 (2015) → 515 (2019) → 525 (2023, hausse non significative). Soit +27 points en Year 9 sur vingt ans. Sciences Year 5 : 537 (2019) → 556 (2023, hausse significative). Sciences Year 9 : 517 (2019) → 531 (2023, hausse significative), mais toujours le deuxième score le plus bas de toutes les éditions. En Year 5 maths, seuls 7 pays devancent significativement l'Angleterre, 4 sont à niveau comparable et 46 sont significativement en dessous.",
+   "concrete_practice": "Le curriculum national de 2013-2014 a, en mathématiques primaires, réduit le nombre d'objectifs et relevé les exigences de fluence en calcul (tables de multiplication jusqu'à 12 en Year 4, fractions plus tôt), en alignement délibéré sur les systèmes d'Asie de l'Est. Les Maths Hubs ont ensuite diffusé la pédagogie correspondante. Le DfE reconnaît explicitement, dans ses conclusions TIMSS 2023, « le travail extensif et soutenu mené par le NCETM avec ses Maths Hubs ».",
+   "concrete_example": "Le rapport national TIMSS 2023 pour l'Angleterre est explicite sur la distribution : en Year 9, « l'accroissement de l'étalement des performances, le plus élevé jamais enregistré en Angleterre dans TIMSS, a été tiré par les scores des élèves les plus performants », et les auteurs ajoutent que « la stagnation au bas de la distribution est vraisemblablement supportée de façon disproportionnée par les élèves défavorisés », en renvoyant au rapport annuel de l'Education Policy Institute. En sciences Year 9, 10 % des élèves n'atteignent toujours pas le benchmark bas. Le profil d'échantillon montre que 27,4 % des élèves anglais de TIMSS étaient éligibles aux repas gratuits en 2022-2023.",
+   "conditions": "La progression en mathématiques s'inscrit dans une continuité de vingt ans de curriculum et de développement professionnel, pas dans un choc réformateur. Elle s'appuie aussi sur un alignement explicite entre le curriculum national et les cadres d'évaluation internationaux — ce qui est à la fois une condition de la performance mesurée et une limite de son interprétation.",
+   "contested": "Les auteurs du rapport national anglais sont eux-mêmes prudents et soulèvent deux doutes méthodologiques. (1) Sur la hausse spectaculaire en sciences Year 5 entre 2019 et 2023, ils écrivent qu'« il est possible qu'il y ait aussi une contribution méthodologique telle qu'un effet de mode [de passation], ou que l'échantillon obtenu en 2023 ait des caractéristiques de fond très différentes de celui de 2019 », et recommandent une comparaison des échantillons sur données administratives avant toute conclusion. (2) Ils recommandent la même vérification pour comprendre la chute inexpliquée de 2019 en sciences Year 9. Les taux de réponse anglais en 2003 sont par ailleurs signalés comme relativement bas dans chaque tableau de tendance, ce qui affaiblit le point de départ de la série. Enfin, la baisse de 4 points en Year 5 maths entre 2019 et 2023 est la première non-progression de la série : la dynamique du primaire pourrait avoir atteint un plateau.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "title": "Trends in International Mathematics and Science Study (TIMSS) 2023: national report for England, Volume 1",
+     "org": "Department for Education",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/67a4a36381828dd65c16a81d/TIMMS_2023_national_report_for_england_volume_1.pdf"
+    },
+    {
+     "author": "Schools Week",
+     "title": "TIMSS 2023: Maths holds steady while science improves",
+     "org": "Schools Week",
+     "year": "2024",
+     "url": "https://schoolsweek.co.uk/timss-2023-maths-holds-steady-while-science-improves/"
+    },
+    {
+     "author": "IEA / TIMSS & PIRLS International Study Center",
+     "title": "TIMSS 2023 International Results in Mathematics and Science",
+     "org": "Boston College",
+     "year": "2024",
+     "url": "https://timss2023.org/results/"
+    }
+   ]
+  },
+  {
+   "claim": "La première vague d'academies (reprises d'écoles en échec par un sponsor, 2002-2010) a produit des gains substantiels et bien identifiés ; la seconde vague (conversions volontaires d'écoles déjà performantes après 2010) n'a produit aucun effet détectable sur les écoles qui n'étaient pas déjà excellentes. C'est la distinction décisive pour tout raisonnement sur l'autonomie.",
+   "what_it_is": "Les academies sont des écoles financées par l'État mais gérées hors du contrôle des autorités locales, avec autonomie sur le budget, le recrutement, les salaires, le temps scolaire et partiellement le curriculum. Deux vagues très différentes : de 2002 à 2010, reprise autoritaire d'écoles en échec par un sponsor externe avec changement de direction et de gouvernance ; après l'Academies Act de 2010, conversion volontaire ouverte à toute école, à commencer par les mieux notées par Ofsted. En janvier 2025, 83,0 % des écoles secondaires anglaises (82,7 % des élèves du secondaire) et 46,1 % des écoles primaires (47,3 % des élèves du primaire) étaient des academies ou des free schools.",
+   "evidence_level": "quasi-expérimental de haute qualité : études d'événement sur données élèves appariées, avec groupe témoin composé d'écoles qui convertiront après la fenêtre d'observation, et stratégie de « grandfathering » (restriction aux élèves déjà inscrits avant la conversion) pour neutraliser les changements de recrutement",
+   "effect_size": "Eyles & Machin (Journal of the European Economic Association, 2019) : pour les élèves d'academies converties depuis une community school — celles gagnant le plus d'autonomie — la conversion a relevé les résultats de fin de secondaire de 0,139 écart-type en moyenne, montant à 0,351 écart-type trois ans après la conversion ; l'estimation en intention de traiter toutes écoles confondues est de 0,106 écart-type. Les mêmes auteurs mesurent aussi un changement de recrutement : les élèves entrant en Year 7 après conversion ont un score de fin de primaire supérieur de 0,109 écart-type, effet montant à 0,198 écart-type trois ans après. Analyses EPI/LSE (2017) : pour les academies sponsorisées d'avant 2010, l'amélioration atteint 0,311 écart-type la quatrième année, soit environ une note de plus dans chacune de cinq matières du GCSE ; la dispersion va d'un gain d'une note dans sept matières à une perte d'une note dans quatre matières. Pour les academies sponsorisées d'après 2010, l'amélioration culmine l'année de conversion puis retombe à zéro en quatre ans. Pour les converter academies : effet d'environ une note dans deux matières pour celles déjà classées « outstanding », et aucune preuve d'effet positif pour celles classées « good », « satisfactory » ou « requires improvement ».",
+   "concrete_practice": "Une école secondaire en échec est reprise par un sponsor (fondation caritative, entreprise, université, autre groupe scolaire). Le sponsor remplace la direction, reconstitue le conseil de gouvernance, redéfinit le règlement de comportement, réorganise les départements, souvent avec investissement dans les bâtiments. Les élèves déjà inscrits restent. C'est ce paquet, et non le statut juridique, que les évaluations mesurent.",
+   "concrete_example": "Eyles et Machin exploitent les 106 écoles anglaises devenues academies avant 2010 et suivent, élève par élève sur données du National Pupil Database, les cohortes déjà inscrites au moment de la reprise, en les comparant à celles d'écoles qui ne convertiront qu'après la fenêtre d'observation. Les écoles traitées partaient bas : leurs résultats de fin de primaire étaient environ 20 % d'écart-type sous la moyenne nationale et leurs résultats de GCSE environ 30 % d'écart-type sous la moyenne, soit une note de moins dans cinq matières. Les auteurs identifient, à partir de l'enquête du DfE « Do Academies Make Use of Their Autonomy? », les changements de structure de management et de curriculum comme les mécanismes principaux. L'EPI ajoute qu'une fois une academy sponsorisée d'avant 2010 ouverte depuis quatre ans, ses élèves avaient environ 30 % de chances supplémentaires d'accéder à une université hors Russell Group — sans effet sur l'accès aux universités du Russell Group.",
+   "conditions": "Trois conditions apparaissent décisives : le point de départ (écoles en échec profond, pas écoles moyennes), la profondeur du changement (direction, gouvernance, curriculum — pas seulement le statut), et la durée (l'effet croît avec le nombre d'années d'exposition, il est nul ou non significatif l'année de la conversion). Symétriquement, donner plus d'autonomie à une école qui fonctionne déjà bien ne produit rien de mesurable.",
+   "contested": "Vivement contesté, et les auteurs eux-mêmes documentent le point le plus gênant : les academies ont modifié leur recrutement après conversion, attirant des élèves au niveau d'entrée plus élevé (+0,109 écart-type, croissant dans le temps). Une partie de l'amélioration apparente des écoles est donc un effet de composition, que la restriction aux élèves « legacy » permet de neutraliser dans l'étude mais pas dans les palmarès publics. L'EPI souligne également que les academies sponsorisées d'après 2010 s'amélioraient déjà l'année précédant la conversion, ce qui rend impossible d'attribuer l'amélioration à l'academisation elle-même : retour à la moyenne, action intensive de l'école pour éviter la reprise, ou intervention anticipée du sponsor sont des explications concurrentes que les données ne permettent pas de départager. Enfin, l'EPI relève que le creux observé deux ans après pourrait n'être qu'un artefact du groupe témoin qui s'améliore en anticipation de sa propre conversion. Conclusion de l'EPI, littéralement : « les academies ne constituent pas une solution automatique à l'amélioration des écoles ».",
+   "sources": [
+    {
+     "author": "Andrew Eyles, Stephen Machin",
+     "title": "The Introduction of Academy Schools to England's Education",
+     "org": "Journal of the European Economic Association, vol. 17, n° 4, p. 1107-1146",
+     "year": "2019",
+     "url": "https://academic.oup.com/jeea/article/17/4/1107/5049125"
+    },
+    {
+     "author": "Andrew Eyles, Stephen Machin",
+     "title": "The Introduction of Academy Schools to England's Education (version de travail)",
+     "org": "Centre for Economic Performance, LSE",
+     "year": "2016",
+     "url": "https://personal.lse.ac.uk/machin/pdf/ae%20sm%20may%202016.pdf"
+    },
+    {
+     "author": "Education Policy Institute et LSE",
+     "title": "The Impact of Academies on Educational Outcomes",
+     "org": "Education Policy Institute",
+     "year": "2017",
+     "url": "https://epi.org.uk/wp-content/uploads/2017/07/EPI_-Impact_of_Academies_Consolidated_Report-.pdf"
+    },
+    {
+     "author": "Department for Education",
+     "title": "Schools, pupils and their characteristics, Academic year 2024/25",
+     "org": "Explore Education Statistics, GOV.UK",
+     "year": "2025",
+     "url": "https://explore-education-statistics.service.gov.uk/find-statistics/school-pupils-and-their-characteristics/2024-25"
+    }
+   ]
+  },
+  {
+   "claim": "Regrouper les écoles en multi-academy trusts n'améliore rien en soi : la variation de performance à l'intérieur des groupes scolaires est plus grande qu'entre les types de groupes, et les MATs sont surreprésentés à la fois parmi les meilleurs et parmi les pires.",
+   "what_it_is": "Un multi-academy trust est une entité juridique unique qui gère plusieurs academies, avec un conseil d'administration central, souvent une direction exécutive, des fonctions support mutualisées et parfois un curriculum commun imposé à toutes ses écoles. C'est le modèle dominant de gouvernance scolaire anglaise depuis 2015.",
+   "evidence_level": "quasi-expérimental faible / descriptif comparatif : comparaison de la valeur ajoutée moyenne des groupes scolaires (MATs et autorités locales) sur données nationales, avec intervalles de confiance",
+   "effect_size": "Analyse de Jon Andrews pour l'EPI : l'écart entre l'autorité locale la plus performante et le plus grand MAT le moins performant équivaut à un peu plus de 7 notes de GCSE. En tête du classement au Key Stage 4, l'Inspiration Trust (3 écoles) affiche +26,8 (± 9,7), soit une note de plus dans 4 matières, et l'Outwood Grange Academies Trust (9 écoles) +15,6 (± 4,9), soit une note de plus dans 3 matières — mais les autorités locales de Barnet (+18,9), Merton (+16,4), Southwark (+15,9) et Hackney (+15,1) figurent dans le même peloton de tête. L'EPI a par ailleurs établi que la Harris Federation était le groupe scolaire le plus performant d'Angleterre, avec une amélioration équivalant à environ un trimestre et demi de progrès supplémentaire.",
+   "concrete_practice": "Dans les MATs les plus performants, le siège impose un curriculum commun matière par matière, avec séquences de leçons et évaluations communes, mutualise le développement professionnel, déplace des cadres entre écoles et intervient rapidement dans une école en difficulté. Dans les MATs les moins performants, la centralisation produit surtout des coûts de siège et une perte d'ancrage local.",
+   "concrete_example": "Le classement EPI des groupes scolaires au Key Stage 4 illustre directement la thèse : sur les quelques dizaines de groupes en tête, MATs et autorités locales sont mélangés, quatre des huit premiers étant des autorités locales londoniennes. Autrement dit, une école déplacée d'une autorité locale très performante vers un MAT peu performant risquerait une dégradation significative — ce qui conduit l'EPI à conclure que « l'academisation complète pourrait de ce fait dégrader les résultats scolaires ». Ofsted a par ailleurs mis en place à partir de 2022-2023 des « summary evaluations » des MATs, qui n'inspectent pas le trust au sens légal mais examinent les résultats d'inspection de ses academies et rencontrent ses dirigeants.",
+   "conditions": "Ce qui distingue les bons des mauvais MATs n'est pas la structure mais la capacité effective d'amélioration scolaire : qualité du curriculum imposé, qualité du développement professionnel, vitesse d'intervention. Aucun de ces éléments n'est produit par le regroupement juridique lui-même. Le corollaire pour un système à réseaux : la question pertinente n'est pas « faut-il regrouper les écoles » mais « qui, dans le réseau, dispose d'une capacité d'amélioration pédagogique et peut l'exercer chez ses membres ».",
+   "contested": "Les analyses de groupes scolaires souffrent de limites reconnues : petits effectifs d'écoles par groupe (l'Inspiration Trust en tête du classement n'a que 3 écoles, d'où un intervalle de confiance de ± 9,7), composition sociale différente des intakes, et impossibilité de distinguer l'effet du trust de l'effet de sélection des écoles qu'il a acceptées ou qu'on lui a confiées. Les mesures de valeur ajoutée type Progress 8 sont elles-mêmes contestées dans la littérature quant à l'opportunité d'ajuster pour l'origine sociale des élèves. Enfin, le débat public sur les MATs comme « empires corporatifs » porte aussi sur la rémunération des dirigeants et la reddition de comptes démocratique, questions sur lesquelles la preuve quantitative est inexistante.",
+   "sources": [
+    {
+     "author": "Jon Andrews",
+     "title": "School performance in multi-academy trusts and local authorities",
+     "org": "Education Policy Institute",
+     "year": "2018",
+     "url": "https://epi.org.uk/wp-content/uploads/2018/01/school-performance-in-multi-academy-trusts.pdf"
+    },
+    {
+     "author": "Education Policy Institute et LSE",
+     "title": "The Impact of Academies on Educational Outcomes",
+     "org": "Education Policy Institute",
+     "year": "2017",
+     "url": "https://epi.org.uk/wp-content/uploads/2017/07/EPI_-Impact_of_Academies_Consolidated_Report-.pdf"
+    },
+    {
+     "author": "Ofsted",
+     "title": "Summary evaluations of multi-academy trusts",
+     "org": "Ofsted / GOV.UK",
+     "year": "2023",
+     "url": "https://www.gov.uk/government/publications/multi-academy-trusts-summary-evaluations/summary-evaluations-of-multi-academy-trusts-for-1-april-2023"
+    }
+   ]
+  },
+  {
+   "claim": "L'Education Endowment Foundation a réussi une chose rare — installer durablement la preuve expérimentale dans les décisions des directions d'école — mais la moitié environ de ses essais ne permettent de conclure ni à un effet ni à son absence, et son produit phare, le Toolkit, est méthodologiquement contesté.",
+   "what_it_is": "Créée en 2011 avec une dotation initiale de 125 M£ du gouvernement, l'EEF est une fondation indépendante qui finance des essais contrôlés randomisés en conditions réelles dans les écoles anglaises, publie chaque rapport d'évaluation y compris négatif, et traduit l'ensemble en un Teaching and Learning Toolkit classant les approches par coût, solidité de la preuve et « mois de progrès » supplémentaires.",
+   "evidence_level": "méta-évaluation d'essais randomisés (Lortie-Forgues & Inglis 2019 : 141 ECR portant sur 1 222 024 élèves, EEF et National Center for Educational Evaluation américain confondus) ; essais randomisés individuels ; descriptif pour la pénétration",
+   "effect_size": "Lortie-Forgues & Inglis (Educational Researcher, 2019) : taille d'effet moyenne des essais de 0,06 écart-type, avec des intervalles de confiance larges (largeur moyenne 0,30 écart-type) et un facteur de Bayes médian de 0,56, d'où la conclusion qu'environ 40 % des essais éducatifs à grande échelle sont non informatifs. L'analyse de Loughborough portant sur 82 ECR commandités par l'EEF a trouvé 55 % de résultats non concluants. Côté EEF : 439 projets financés dont 218 essais randomisés ; quatre cinquièmes des écoles publiques anglaises ont participé à un projet EEF ; 85 % des directeurs déclarent utiliser les guides EEF pour décider de l'usage des fonds destinés aux élèves défavorisés ; les Toolkits synthétisent 2 950 études ; environ 200 000 enseignants ont suivi un programme de développement professionnel construit sur des preuves soutenues par l'EEF.",
+   "concrete_practice": "Une direction d'école consulte le Toolkit, constate par exemple que le tutorat en petits groupes est classé à faible coût et preuve solide, décide d'y affecter une partie de son Pupil Premium, et suit un guide EEF détaillant la mise en œuvre. Parallèlement, l'EEF recrute des centaines d'écoles volontaires pour un essai randomisé sur un programme donné, avec évaluation confiée à un tiers indépendant (NFER, universités), pré-enregistrement du protocole et publication du rapport quel que soit le résultat.",
+   "concrete_example": "Le cas emblématique est l'essai de l'Early Career Framework : l'EEF a financé une évaluation par le NFER du déploiement anticipé du dispositif d'accompagnement des enseignants débutants, avec mesure de la rétention à deux ans, de la qualité perçue de l'enseignement, de la satisfaction et du sentiment d'efficacité. Résultat publié : le dispositif a aidé les écoles à créer un environnement de soutien pour les nouveaux enseignants, mais n'a pas produit d'effet significatif sur la rétention à court terme. Un résultat négatif sur la politique phare du gouvernement en matière de formation des enseignants a donc été publié par une fondation financée par ce même gouvernement — c'est la valeur institutionnelle du dispositif, autant que ses résultats.",
+   "conditions": "Le modèle tient à trois conditions institutionnelles : une dotation en capital qui rend l'agence indépendante du cycle politique, l'obligation de publier les résultats négatifs, et l'existence d'une masse critique d'écoles volontaires. Il suppose aussi une puissance statistique suffisante — c'est précisément là que le bât blesse.",
+   "contested": "Sévèrement contesté sur deux plans. (1) Puissance statistique : Lortie-Forgues et Inglis montrent que beaucoup de résultats sont « compatibles à la fois avec l'hypothèse nulle d'absence d'effet et avec un effet comparable à celui d'une année de maturation et d'enseignement » — l'essai ne tranche donc rien. L'EEF répond par la voix de son directeur général adjoint que la moitié environ des projets publiés montre un impact positif et que les interventions dont l'inefficacité est démontrée évitent aux directions de gaspiller temps et argent. (2) Méthodologie du Toolkit : Adrian Simpson conteste mathématiquement la comparabilité des tailles d'effet issues d'études de conceptions différentes (problème dit des « pommes et des oranges »), et la conversion en « mois de progrès » est critiquée comme donnant aux écoles une illusion de garantie, en faisant oublier que la qualité de mise en œuvre conditionne tout. Un biais des « essais prometteurs » (promising trials bias) a également été quantifié dans la littérature. La BERA a publié une critique frontale intitulée « preuve fiable ou outil grossier ? ». L'EEF a reconnu publiquement ces risques et publié des garde-fous.",
+   "sources": [
+    {
+     "author": "Hugues Lortie-Forgues, Matthew Inglis",
+     "title": "Rigorous Large-Scale Educational RCTs Are Often Uninformative: Should We Be Concerned?",
+     "org": "Educational Researcher",
+     "year": "2019",
+     "url": "https://doi.org/10.3102/0013189x19832850"
+    },
+    {
+     "author": "Schools Week",
+     "title": "Most EEF trials 'don't tell us anything', say researchers",
+     "org": "Schools Week",
+     "year": "2019",
+     "url": "https://schoolsweek.co.uk/most-eef-trials-dont-tell-us-anything-say-researchers/"
+    },
+    {
+     "author": "Education Endowment Foundation",
+     "title": "2025 Impact Report",
+     "org": "Education Endowment Foundation",
+     "year": "2025",
+     "url": "https://educationendowmentfoundation.org.uk/impact-report"
+    },
+    {
+     "author": "NFER / Education Endowment Foundation",
+     "title": "Early Career Framework Early Roll-out — evaluation",
+     "org": "Education Endowment Foundation",
+     "year": "2023",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/early-career-framework-early-roll-out"
+    },
+    {
+     "author": "BERA",
+     "title": "'Evidence' and the EEF toolkit: Reliable science or a blunt set of tools?",
+     "org": "British Educational Research Association",
+     "year": "2018",
+     "url": "https://www.bera.ac.uk/blog/evidence-and-the-eef-toolkit-reliable-science-or-a-blunt-set-of-tools"
+    }
+   ]
+  },
+  {
+   "claim": "Le Pupil Premium — financement supplémentaire fléché vers les élèves défavorisés, avec obligation de justifier son usage par des preuves — a des effets défendables au primaire mais pas au secondaire, et il est aujourd'hui massivement détourné pour boucher les trous budgétaires des écoles.",
+   "what_it_is": "Instauré en 2011, le Pupil Premium verse à l'école une somme supplémentaire par élève éligible aux repas gratuits (ou l'ayant été dans les six dernières années), à charge pour elle de publier une stratégie justifiant l'usage des fonds. Depuis 2021-2022, les écoles doivent publier une déclaration de stratégie Pupil Premium et l'aligner sur les données probantes.",
+   "evidence_level": "quasi-expérimental contesté (séries temporelles interrompues et analyses de ségrégation sur données administratives nationales, sans groupe témoin crédible) ; descriptif pour l'usage des fonds",
+   "effect_size": "Gorard et al. : après 2010, la ségrégation entre élèves durablement défavorisés et leurs pairs a diminué en Year 1 et Year 6, et leurs résultats se sont améliorés relativement à 7 et 11 ans ; le tableau est en revanche « mitigé » pour l'écart à 16 ans. Sur l'usage des fonds : 47 % des cadres de direction déclaraient en 2024 utiliser le Pupil Premium pour combler des déficits budgétaires, contre 23 % en 2019 ; les montants ont subi une baisse d'environ 3 % en termes réels depuis 2018-19 ; et jusqu'à 30 % des écoles n'utiliseraient pas les données probantes de l'EEF pour décider de l'affectation.",
+   "concrete_practice": "Une école secondaire de 1 000 élèves dont 300 sont éligibles reçoit plusieurs centaines de milliers de livres fléchées. Elle publie un document public indiquant, par exemple : recrutement d'un coordinateur de lecture, financement de tutorat en petits groupes, achat d'un programme de développement professionnel, prise en charge des sorties et du matériel. Le document doit référencer les données probantes mobilisées et être revu annuellement.",
+   "concrete_example": "La commission des comptes publics du Parlement britannique (Public Accounts Committee) a examiné le dispositif dans son rapport « Improving educational outcomes for disadvantaged children » et a publiquement alerté : les élèves défavorisés « risquent d'être perdants alors que leur financement est de plus en plus utilisé pour combler des déficits budgétaires ». Le basculement de 23 % à 47 % de directions détournant les fonds entre 2019 et 2024 est la conséquence directe de la compression des budgets scolaires généraux : le financement ciblé ne tient pas si le financement de base s'effondre. Contexte budgétaire : selon l'IFS, la dépense scolaire par élève de 5 à 18 ans a baissé de 10 % en termes réels entre 2010-11 et 2019-20, avant d'être ramenée à son niveau de 2010-11 en 2025-26.",
+   "conditions": "Le financement fléché ne produit d'effet que si trois conditions tiennent simultanément : le financement de base est préservé (sinon le fléchage est absorbé), l'école est tenue de justifier publiquement son usage, et elle dispose d'un référentiel de preuve utilisable pour choisir. L'Angleterre a satisfait les conditions 2 et 3 mais a échoué sur la 1 pendant une décennie.",
+   "contested": "Le désaccord est frontal et porte sur la méthode. Gorard, Siddiqui et See soutiennent dans le British Educational Research Journal et dans Research Papers in Education qu'il est fondamentalement difficile de juger de la différence faite par le Pupil Premium, faute de contrefactuel : toutes les écoles en ont bénéficié simultanément, aucune comparaison propre n'est possible, et attribuer une évolution d'écart social à une politique unique alors que le curriculum, l'accountability, le financement et la composition démographique changeaient en même temps n'est pas défendable. À l'inverse, l'EEF soutient devant le Parlement que la base de preuves du Pupil Premium est relativement solide comparée à d'autres interventions. Il faut retenir que l'incertitude est réelle : aucune des deux positions ne dispose d'une identification causale convaincante.",
+   "sources": [
+    {
+     "author": "Stephen Gorard, Nadia Siddiqui, Beng Huat See",
+     "title": "What is the evidence on the impact of Pupil Premium funding on school intakes and attainment by age 16 in England?",
+     "org": "British Educational Research Journal",
+     "year": "2022",
+     "url": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.3775"
+    },
+    {
+     "author": "Public Accounts Committee",
+     "title": "Improving educational outcomes for disadvantaged children",
+     "org": "House of Commons",
+     "year": "2024",
+     "url": "https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/365/report.html"
+    },
+    {
+     "author": "Public Accounts Committee",
+     "title": "Disadvantaged pupils risk losing out as their funding increasingly used to plug budget gaps",
+     "org": "UK Parliament",
+     "year": "2024",
+     "url": "https://committees.parliament.uk/committee/127/public-accounts-committee/news/205634/disadvantaged-pupils-risk-losing-out-as-their-funding-increasingly-used-to-plug-budget-gaps/"
+    },
+    {
+     "author": "Institute for Fiscal Studies",
+     "title": "Annual report on education spending in England: 2025–26",
+     "org": "Institute for Fiscal Studies",
+     "year": "2025",
+     "url": "https://ifs.org.uk/publications/annual-report-education-spending-england-2025-26"
+    }
+   ]
+  },
+  {
+   "claim": "L'inspection Ofsted a un effet mesurable et positif — mais uniquement sur les écoles jugées en échec, sans effet détectable sur les autres. Le régime a fini par être démantelé par le gouvernement en 2024 après le suicide d'une directrice d'école.",
+   "what_it_is": "Ofsted inspecte toutes les écoles anglaises, publie ses rapports et attribuait jusqu'en septembre 2024 un jugement global en un seul mot (outstanding, good, requires improvement, inadequate). Un jugement « inadequate » déclenchait la reprise forcée par un sponsor. Depuis 2019, le cadre d'inspection examine par « deep dives » la conception et la séquence du curriculum discipline par discipline, et traite le off-rolling comme un motif de jugement « inadequate » sur le leadership.",
+   "evidence_level": "quasi-expérimental (régression sur discontinuité / comparaison autour des seuils de notation d'inspection sur données nationales élèves) pour l'effet de l'inspection ; descriptif et qualitatif pour les effets pervers",
+   "effect_size": "Hussain (Journal of Human Resources, 2015, vol. 50 n° 1, p. 189-221) : une note d'échec à l'inspection entraîne des gains de résultats aux tests pour les élèves du primaire, sans preuve que les écoles concernées gonflent artificiellement leurs résultats ; en revanche, aucun effet détectable sur les résultats des écoles bien notées, ce qui suggère que les effets d'évaluation et de retour d'information sont négligeables à court terme pour les écoles non défaillantes. L'article restreint l'accès aux magnitudes chiffrées ; je n'ai pas pu vérifier de taille d'effet chiffrée sur la source primaire et je ne la cite donc pas.",
+   "concrete_practice": "Une équipe de deux à cinq inspecteurs arrive avec un préavis d'une demi-journée, passe deux jours dans l'école, conduit des « deep dives » dans trois à six disciplines (entretien avec le responsable de discipline, observation de leçons, examen des cahiers d'élèves, entretiens avec des élèves sur ce qu'ils retiennent), examine les registres de comportement et de sorties d'élèves, puis publie un rapport public. Un jugement « inadequate » enclenche une procédure d'intervention.",
+   "concrete_example": "Le basculement institutionnel est daté et documenté : après qu'une enquête du coroner eut conclu que le processus d'inspection d'Ofsted avait vraisemblablement contribué au suicide de Ruth Perry, directrice de la Caversham Primary School à Reading, dont l'école avait été déclassée de « outstanding » à « inadequate » pour des motifs de sécurité des enfants, le gouvernement a supprimé avec effet immédiat les jugements en un mot le 2 septembre 2024, pour les remplacer par des « report cards » multidimensionnelles à partir de septembre 2025. Ofsted a par ailleurs établi par sondage que moins de quatre parents sur dix, et seulement 29 % des enseignants, soutenaient les jugements en un mot.",
+   "conditions": "L'inspection produit un effet quand elle porte sur une école réellement défaillante, qu'elle est adossée à une conséquence crédible, et qu'elle examine les pratiques de classe plutôt que les seuls indicateurs — Hussain suggère précisément que l'examen des pratiques de classe par des évaluateurs limite le gaming. Elle ne produit rien sur les écoles moyennes ou bonnes. Un régime d'inspection dont les enjeux sont extrêmes et le jugement binaire génère en revanche des comportements d'évitement.",
+   "contested": "Les effets pervers sont massivement documentés et ne doivent pas être minimisés. La recherche montre que le personnel scolaire perçoit le off-rolling comme déclenché par la position dans les classements et par la pression sur la note Ofsted ; une enquête commanditée par Ofsted elle-même a recueilli des témoignages d'enseignants indiquant que les comptes rendus internes de mauvais comportement sont systématiquement exagérés pour justifier une exclusion formelle tout en protégeant les statistiques de l'école. Ofsted a reconnu que, du fait de variations de formulation dans ses propres rapports, certains cas de off-rolling n'avaient pas été détectés ni investigués. Done et Knowler (British Educational Research Journal, 2021) analysent les exclusions « stratégiques » comme un art de la visibilité et de l'invisibilité administrative. La sœur de Ruth Perry a publiquement qualifié les nouvelles propositions d'Ofsted de « resucée » du système « dangereux » qu'elles devaient remplacer.",
+   "sources": [
+    {
+     "author": "Iftikhar Hussain",
+     "title": "Subjective Performance Evaluation in the Public Sector: Evidence from School Inspections",
+     "org": "Journal of Human Resources, vol. 50, n° 1, p. 189-221",
+     "year": "2015",
+     "url": "https://jhr.uwpress.org/content/50/1/189"
+    },
+    {
+     "author": "Department for Education",
+     "title": "Removal of Ofsted single word judgements for schools",
+     "org": "Education Hub, GOV.UK",
+     "year": "2024",
+     "url": "https://educationhub.blog.gov.uk/2024/09/02/removal-ofsted-single-word-judgements-schools/"
+    },
+    {
+     "author": "Elizabeth Done, Helen Knowler",
+     "title": "'Off-rolling' and Foucault's art of visibility/invisibility: An exploratory study of senior leaders' views of 'strategic' school exclusion in southwest England",
+     "org": "British Educational Research Journal",
+     "year": "2021",
+     "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1002/berj.3709"
+    },
+    {
+     "author": "House of Commons Library",
+     "title": "Off-rolling in English schools",
+     "org": "UK Parliament",
+     "year": "2019",
+     "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8444/CBP-8444.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le coût social du régime anglais est chiffrable et il est lourd : environ 69 000 sorties d'élèves « inexpliquées » sur une seule cohorte, 955 000 suspensions et 10 900 exclusions définitives en 2023/24, avec un taux de suspension quatre à cinq fois plus élevé chez les élèves défavorisés.",
+   "what_it_is": "Deux phénomènes distincts mais liés. Le off-rolling est défini par Ofsted comme le retrait d'un élève des registres d'une école sans exclusion définitive formelle, ou en incitant un parent à le retirer, lorsque le retrait sert d'abord l'intérêt de l'école et non celui de l'élève. Les exclusions et suspensions sont, elles, formelles et comptabilisées.",
+   "evidence_level": "descriptif sur données administratives exhaustives (National Pupil Database, statistiques officielles du DfE) ; qualitatif pour les mécanismes",
+   "effect_size": "EPI (2019) : environ 69 000 sorties inexpliquées concernant 61 000 élèves sur les cinq années de scolarité secondaire de la cohorte passant le GCSE en 2017, soit un élève de Year 11 sur dix ; 330 écoles, soit 6 % des écoles, concentrent 23 % du total ; environ trois quarts des sorties inexpliquées concernent des élèves vulnérables (placés, précédemment exclus, éligibles aux repas gratuits, issus de minorités) ; 52 % des élèves concernés ne rejoignent aucune école au trimestre suivant. Statistiques officielles 2023/24 : 955 000 suspensions (+21 % sur un an, contre 787 000 en 2022/23), soit 1 131 pour 10 000 élèves ; 10 900 exclusions définitives (+16 %, contre 9 400), soit 13 pour 10 000 élèves. Par éligibilité aux repas gratuits : 27,55 suspensions pour 100 élèves éligibles contre 5,99 pour les non-éligibles ; 0,33 exclusion définitive pour 100 élèves éligibles contre 0,06.",
+   "concrete_practice": "Concrètement, une direction convoque les parents d'un élève dont le comportement ou les résultats posent problème avant les examens, leur explique qu'une exclusion définitive figurerait au dossier, et leur propose de « déscolariser à domicile » ou de chercher une autre école. L'élève disparaît des registres, et donc des indicateurs de résultats et de l'inspection, sans qu'aucune exclusion ne soit enregistrée.",
+   "concrete_example": "L'EPI a reconstitué, à partir du National Pupil Database, le parcours complet de la cohorte anglaise passant le GCSE en 2017, en identifiant chaque sortie d'école non expliquée par un déménagement, un transfert documenté ou une exclusion formelle. L'analyse est descendue au niveau de l'école et de l'autorité locale ou du MAT, montrant que la pratique est extrêmement concentrée : 330 écoles sur environ 5 500 concentrent près d'un quart du phénomène. C'est sur cette base qu'Ofsted a intégré le off-rolling dans son cadre d'inspection de 2019 avec la règle qu'une école où le off-rolling est établi doit être jugée « inadequate » sur le leadership et le management.",
+   "conditions": "Ces comportements apparaissent lorsque trois éléments coexistent : des indicateurs de résultats publiés et à fort enjeu, un calcul des indicateurs sur les élèves présents à la date de l'examen, et un marché scolaire où l'école a une marge de manœuvre sur sa composition. La contre-mesure anglaise consiste à publier des indicateurs suivant la cohorte d'origine, indépendamment des sorties — mais l'ampleur des exclusions continue de croître malgré ces mesures, et malgré la sortie du régime de jugement en un mot.",
+   "contested": "La mesure du off-rolling fait débat : le terme « sorties inexpliquées » désigne une catégorie résiduelle statistique, et une partie de ces sorties correspond à des mobilités légitimes que les données administratives ne captent pas. Les chercheurs qui travaillent sur le sujet reconnaissent explicitement la difficulté d'articuler les « preuves dures » administratives et les récits d'expérience. Par ailleurs, la hausse des suspensions et exclusions depuis 2021 est aussi attribuée, dans le débat anglais, aux effets post-pandémiques sur le comportement et la santé mentale et à la crise de l'identification et de la prise en charge des besoins éducatifs particuliers, et non seulement au régime d'accountability. La littérature récente élargit d'ailleurs le problème aux « fair access protocols » et aux exclusions illégales, dont l'ampleur est mal mesurée.",
+   "sources": [
+    {
+     "author": "Education Policy Institute",
+     "title": "Unexplained pupil exits from schools: A growing problem?",
+     "org": "Education Policy Institute",
+     "year": "2019",
+     "url": "https://epi.org.uk/publications-and-research/unexplained-pupil-exits/"
+    },
+    {
+     "author": "Department for Education",
+     "title": "Suspensions and permanent exclusions in England, Academic year 2023/24",
+     "org": "Explore Education Statistics, GOV.UK",
+     "year": "2024",
+     "url": "https://explore-education-statistics.service.gov.uk/find-statistics/suspensions-and-permanent-exclusions-in-england/2023-24"
+    },
+    {
+     "author": "FFT Education Datalab",
+     "title": "Exclusions and suspensions in 2024/25",
+     "org": "FFT Education Datalab",
+     "year": "2025",
+     "url": "https://ffteducationdatalab.org.uk/2025/09/exclusions-and-suspensions-in-2024-25/"
+    },
+    {
+     "author": "Helen Knowler, Elizabeth Done",
+     "title": "Researching 'off rolling' as a sensitive topic: 'Hard' evidence and experiential accounts",
+     "org": "Emotional and Behavioural Difficulties",
+     "year": "2022",
+     "url": "https://www.tandfonline.com/doi/full/10.1080/13632752.2022.2152589"
+    }
+   ]
+  },
+  {
+   "claim": "Quinze ans de réforme n'ont pas refermé l'écart social : il s'est élargi à toutes les étapes depuis 2019, et les élèves durablement pauvres accusent près de deux ans de retard à 16 ans. C'est l'échec le plus net du modèle anglais.",
+   "what_it_is": "L'Education Policy Institute calcule chaque année un « disadvantage gap » exprimé en mois de retard scolaire, entre élèves éligibles aux repas gratuits (ou l'ayant été dans les six dernières années) et les autres, à trois moments : fin de maternelle (5 ans), fin de primaire (11 ans) et GCSE (16 ans), avec un indicateur spécifique pour les élèves « durablement défavorisés » (éligibles au moins 80 % de leur scolarité).",
+   "evidence_level": "descriptif rigoureux sur données administratives exhaustives (National Pupil Database) ; aucune inférence causale sur les causes de l'évolution",
+   "effect_size": "Rapport annuel 2025 de l'EPI (résultats 2024) : écart de 4,7 mois à 5 ans, 10,0 mois en fin de primaire, 19,1 mois au GCSE. Évolution 2019-2024 : +0,5 mois en maternelle (+12 %), +0,8 mois au primaire (+8 %), +1,0 mois au GCSE (+5 %) — l'écart s'est élargi à toutes les étapes, y compris en 16-19 ans. L'écart primaire reste très supérieur à son niveau d'avant-pandémie, où il était descendu à 9,2 mois en 2018, son minimum. Élèves durablement défavorisés : 11 mois de retard en fin de primaire et 22,4 mois en fin de secondaire. Dispersion territoriale extrême : Newham affiche le plus faible écart au GCSE (3,9 mois), West Berkshire le plus élevé (25,7 mois), soit un rapport de plus de six ; 18 des 20 autorités locales au plus faible écart sont à Londres.",
+   "concrete_practice": "L'indicateur n'est pas un dispositif mais un instrument de pilotage public : il transforme une inégalité diffuse en un nombre unique, comparable d'une année à l'autre et d'un territoire à l'autre, publié par une institution indépendante du gouvernement. Il rend impossible de déclarer le succès d'une réforme sur la seule base de la moyenne nationale.",
+   "concrete_example": "Le contraste territorial est l'illustration la plus parlante : à Newham, arrondissement de l'est londonien parmi les plus pauvres d'Angleterre, l'écart social au GCSE est de 3,9 mois — pratiquement résorbé — alors qu'à West Berkshire, territoire nettement plus aisé, il atteint 25,7 mois. Dix-huit des vingt autorités locales aux écarts les plus faibles sont londoniennes. Ce résultat, stable depuis des années, montre qu'un système scolaire peut refermer l'écart, mais que l'Angleterre ne l'a réussi que dans un territoire particulier et pour des raisons qui restent disputées.",
+   "conditions": "Les conditions apparentes du succès londonien font l'objet d'un débat non tranché. Elles combinent, selon les analyses, une composition ethnique particulière, une forte proportion d'élèves allophones de deuxième génération très performants, une amélioration du primaire antérieure au secondaire, et un programme d'intervention (London Challenge) fondé sur l'accompagnement entre écoles plutôt que sur la sanction.",
+   "contested": "L'attribution du « London effect » est l'une des controverses les plus vives de la recherche éducative anglaise et il faut la présenter comme telle. Burgess conclut que le progrès supérieur des élèves londoniens — 9,8 % d'écart-type — est « entièrement expliqué par la composition ethnique ». Greaves et al. montrent qu'après contrôle des acquis de fin de primaire et d'un ensemble de caractéristiques d'élèves et d'écoles, l'avantage londonien se réduit substantiellement, ce qui suggère qu'il provient largement du primaire et non des politiques secondaires. D'autres auteurs, dont Demie, défendent l'existence d'un effet propre des politiques scolaires londoniennes. Le Centre for Education and Youth résume le débat comme portant sur « la plupart contre la totalité », et note que le pourcentage de variance expliquée bouge à chaque nouvelle découpe des données ou changement de mesure d'acquis. Aucune conclusion ferme n'est disponible : on ne sait pas reproduire Londres.",
+   "sources": [
+    {
+     "author": "Education Policy Institute",
+     "title": "Annual Report 2025 — Foreword and Executive Summary",
+     "org": "Education Policy Institute",
+     "year": "2025",
+     "url": "https://epi.org.uk/annual-report-2025-foreword-executive-summary/"
+    },
+    {
+     "author": "Education Policy Institute",
+     "title": "Annual Report 2025 — Disadvantage",
+     "org": "Education Policy Institute",
+     "year": "2025",
+     "url": "https://epi.org.uk/annual-report-2025-disadvantage/"
+    },
+    {
+     "author": "Simon Burgess et divers auteurs, revue de littérature",
+     "title": "The 'London Effect': Literature Review",
+     "org": "University of Manchester",
+     "year": "2018",
+     "url": "https://documents.manchester.ac.uk/display.aspx?DocID=37617"
+    },
+    {
+     "author": "Centre for Education and Youth",
+     "title": "The London Schools Effect revisited: A saga in many parts",
+     "org": "CfEY",
+     "year": "2021",
+     "url": "https://cfey.org/2021/02/the-london-schools-effect-revisited-a-saga-in-many-parts/"
+    },
+    {
+     "author": "Ellen Greaves et al.",
+     "title": "Lessons from London schools for attainment gaps and social mobility",
+     "org": "Social Mobility and Child Poverty Commission",
+     "year": "2014",
+     "url": "https://assets.publishing.service.gov.uk/media/5a7eac95e5274a2e8ab47796/London_Schools_-_FINAL.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "La refonte de la formation et du développement professionnel des enseignants — School Direct, Teach First, Early Career Framework, NPQ, réaccréditation des opérateurs de formation — est la partie la plus ambitieuse et la moins concluante de la réforme anglaise : l'effet mesuré sur la rétention des débutants est nul et la pénurie enseignante persiste.",
+   "what_it_is": "Un ensemble de réformes successives : Teach First (recrutement de diplômés d'élite affectés en écoles défavorisées), School Direct (formation initiale pilotée par les écoles plutôt que par les universités), l'Early Career Framework (accompagnement structuré obligatoire de deux ans pour tout nouvel enseignant, déployé nationalement en 2021), la suite des National Professional Qualifications (qualifications nationales de développement professionnel dont les référentiels sont revus par l'EEF), et la réaccréditation de tous les opérateurs de formation initiale (ITT Market Review, 2021-2022).",
+   "evidence_level": "quasi-expérimental (essai de l'Early Career Framework en déploiement anticipé, évalué par le NFER pour l'EEF ; panel apparié en différences-de-différences pour Teach First) ; descriptif pour les NPQ et la réaccréditation",
+   "effect_size": "Early Career Framework : l'évaluation de la rétention à deux ans conclut à une absence d'effet significatif sur la rétention à court terme, et les données nationales postérieures confirment que le déploiement national n'a eu que peu d'impact, les enseignants en début de carrière continuant de partir à des taux élevés. Teach First : une estimation en différences-de-différences sur panel apparié, comparant 168 écoles entrées tôt dans le dispositif à des écoles témoins, trouve des gains à l'échelle de l'école d'environ une note sur les huit meilleures matières du GCSE, et des gains au niveau du département de plus de 5 % d'une note de matière par participant Teach First placé dans une équipe de six enseignants. Marché de la formation : la réaccréditation a abouti à 179 opérateurs accrédités et 68 opérateurs existants ayant perdu leur accréditation, soit une réduction d'environ un quart, l'EPI estimant qu'environ 16 % des places de formation étaient réallouées, avec un impact le plus marqué dans l'Est et le Nord-Est.",
+   "concrete_practice": "Un enseignant débutant anglais suit, pendant ses deux premières années, un programme national prescrit : un mentor formé dans son école, des sessions hebdomadaires structurées sur un référentiel commun (comportement, pédagogie, évaluation, curriculum), un temps de décharge réglementaire, et des matériaux fournis par un opérateur agréé. Ensuite, il peut suivre un NPQ (enseignement de la lecture, comportement, leadership de matière, direction) dont les référentiels ont été revus par l'EEF pour garantir la fidélité aux données probantes.",
+   "concrete_example": "L'évaluation du déploiement anticipé de l'Early Career Framework, conduite par le NFER et financée par l'EEF, a mesuré la rétention des enseignants débutants après deux ans ainsi que leurs perceptions de qualité d'enseignement, de satisfaction professionnelle et de sentiment d'efficacité personnelle. Conclusion : le dispositif a aidé les écoles à créer un environnement de soutien, mais sans effet significatif sur la rétention à court terme ; les enseignants signalaient que le caractère générique du référentiel ne correspondait pas toujours à leur contexte ni à leur discipline. Le gouvernement en a tiré les conséquences en fusionnant les référentiels de formation initiale et de début de carrière dans un ITTECF unique mis en œuvre à partir de septembre 2025. Sur l'état du marché du travail enseignant, le NFER relève que le taux de postes vacants non pourvus est six fois supérieur à son niveau d'avant-pandémie et que les écoles secondaires recourent davantage à des enseignants non qualifiés ou non spécialistes, en particulier dans les écoles à recrutement social défavorisé.",
+   "conditions": "Les éléments qui semblent produire quelque chose sont ceux qui touchent au contenu de la pratique (mentorat structuré sur un référentiel commun, développement professionnel disciplinaire). Ceux qui touchent à l'architecture du marché de la formation (accréditation, mise en concurrence des opérateurs) n'ont pas de bilan positif démontré. Et rien de tout cela ne compense la dégradation de l'attractivité salariale et des conditions de travail : le NFER note tout de même une amélioration récente, avec le recrutement en primaire atteignant sa cible pour la première fois en quatre ans et le recrutement secondaire à 11 % sous la cible pour 2025/26, son meilleur niveau en quatre ans, et les mathématiques prévues 22 % au-dessus de leur cible.",
+   "contested": "Contesté sur le fond et sur la forme. Sur le fond, Smith et al. (British Educational Research Journal, 2026) interrogent le caractère « soutenant ou étouffant » de l'expérience vécue par les enseignants débutants sous l'Early Career Framework. Des travaux de l'Université de Manchester analysent la suite NPQ comme une marchandisation du développement professionnel continu et soutiennent que cette politique a bridé le développement professionnel des enseignants et des cadres plutôt que de le stimuler. Sur la forme, la réaccréditation des opérateurs de formation a été qualifiée de « gravement viciée » par l'Universities Council for the Education of Teachers, a fait l'objet de menaces d'action en justice, a vu l'université de Cambridge renoncer à se représenter, et le DfE a rejeté l'ensemble des recours. Les critiques académiques soulignent qu'on ne peut évaluer sur dossier la qualité de programmes de formation qui n'existent pas encore. Enfin, pour Teach First, les estimations disponibles reposent sur des appariements et non sur une randomisation : le risque de sélection des écoles participantes n'est pas éliminé.",
+   "sources": [
+    {
+     "author": "NFER",
+     "title": "Evaluation of the early roll-out of the Early Career Framework",
+     "org": "National Foundation for Educational Research / Education Endowment Foundation",
+     "year": "2023",
+     "url": "https://www.nfer.ac.uk/publications/evaluation-of-the-early-roll-out-of-the-early-career-framework/"
+    },
+    {
+     "author": "Rebecca Allen, Sam Sims",
+     "title": "The impact of Teach First on pupil attainment at age 16",
+     "org": "British Educational Research Journal",
+     "year": "2017",
+     "url": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.3288"
+    },
+    {
+     "author": "Education Policy Institute",
+     "title": "The reaccreditation of ITT providers: Implications for STEM subjects",
+     "org": "Education Policy Institute",
+     "year": "2022",
+     "url": "https://epi.org.uk/publications-and-research/the-reaccreditation-of-itt-providers-implications-for-stem-subjects/"
+    },
+    {
+     "author": "NFER",
+     "title": "Teacher Labour Market in England Annual Report 2025",
+     "org": "National Foundation for Educational Research",
+     "year": "2025",
+     "url": "https://www.nfer.ac.uk/publications/teacher-labour-market-in-england-annual-report-2025/"
+    },
+    {
+     "author": "Schools Week",
+     "title": "Cambridge refuses to reapply for teacher training over 'prescriptive' reforms",
+     "org": "Schools Week",
+     "year": "2022",
+     "url": "https://schoolsweek.co.uk/cambridge-refuses-to-reapply-for-itt-over-reform-concerns/"
+    }
+   ]
+  },
+  {
+   "claim": "Le curriculum « riche en savoirs » de 2014 et les mesures de performance qui l'accompagnent (EBacc, Progress 8) ont produit un effet de contenu mesurable — mais au prix d'un rétrécissement documenté de l'offre, que l'Angleterre elle-même vient de décider de corriger : la revue Francis a recommandé en novembre 2025 la suppression de l'EBacc.",
+   "what_it_is": "Le curriculum national de 2013-2014 a resserré et relevé les contenus disciplinaires, en s'inspirant explicitement de Hong Kong, du Massachusetts, de Singapour et de la Finlande. Il s'accompagne de deux indicateurs de pilotage : l'EBacc, qui mesure la proportion d'élèves passant un ensemble de matières académiques (anglais, mathématiques, sciences, une langue, histoire ou géographie), et Progress 8, qui mesure les progrès entre 11 et 16 ans sur huit matières.",
+   "evidence_level": "descriptif (évolution des inscriptions aux examens par discipline) et enquête auprès d'enseignants ; aucune évaluation causale de l'effet du curriculum de 2014 sur les acquis",
+   "effect_size": "Inscriptions au GCSE : les matières de l'EBacc en hausse de 9 % par rapport à 2016, les matières artistiques en baisse de 9 % sur la même période. Au niveau A-level, baisse de 2 % du nombre d'élèves achevant des A-levels dans les disciplines créatives, artistiques et techniques en 2016/17 par rapport à l'année précédente, avec des effondrements disciplinaires (musique -50,2 %, théâtre -66,3 %, arts du spectacle et expressifs -70,5 % — chiffres issus d'analyses de presse spécialisée que je n'ai pas pu recouper sur la statistique officielle, et qui doivent donc être maniés avec prudence). Enquête enseignants : 60 % des enseignants du secondaire déclarent une réduction de l'éventail de matières académiques hors EBacc enseignées dans leur établissement.",
+   "concrete_practice": "Une direction de collège anglais, évaluée sur son taux d'entrée en EBacc et sur Progress 8, oriente massivement les élèves de Year 9 vers le bloc de matières académiques comptabilisées, réduit le nombre d'options artistiques offertes à deux ou une, supprime les postes correspondants par attrition, et réaffecte les heures vers les matières mesurées. Au primaire, le curriculum de 2014 se traduit par des progressions disciplinaires plus précises et plus exigeantes, notamment en calcul et en grammaire.",
+   "concrete_example": "La correction institutionnelle est datée. Le gouvernement a confié en juillet 2024 à la professeure Becky Francis la présidence d'une revue du curriculum et de l'évaluation. Le rapport intermédiaire de mars 2025 a reconnu l'impact négatif de l'EBacc sur l'accès aux disciplines créatives. Le rapport final, « Building a World-Class Curriculum for All », publié en novembre 2025, recommande la suppression de l'EBacc, une réduction d'au moins 10 % du temps d'examen, l'accès de tous à la triple science au GCSE, l'introduction d'un référentiel d'oralité (oracy) complétant les référentiels existants de lecture et d'écriture, et la mise à jour de tous les programmes d'études. Le gouvernement a annoncé un curriculum révisé publié en 2027 pour un premier enseignement en 2028. Autrement dit, l'Angleterre entre dans une phase de correction de trajectoire après quinze ans.",
+   "conditions": "Le curriculum prescrit fonctionne comme levier à condition d'être adossé à du développement professionnel disciplinaire massif — c'est ce qui a été fait en mathématiques via les Maths Hubs, et beaucoup moins ailleurs. Les indicateurs de pilotage déterminent ce que les écoles font réellement : si l'indicateur ne compte que certaines matières, l'offre se contracte autour de ces matières. La leçon opérationnelle est que le choix de l'indicateur est un choix de curriculum, quoi qu'en disent les textes.",
+   "contested": "Fortement contesté dans les deux sens. Du côté des critiques, la Social Market Foundation impute explicitement à Michael Gove un système « qui encourageait l'apprentissage par cœur, décourageait l'investissement des écoles dans l'apprentissage extra- et péri-scolaire, et contribuait à des environnements académiques très générateurs de stress » ; le rapport State of the Arts de la Campaign for the Arts et de l'Université de Warwick (2024) impute la marginalisation des arts aux pressions financières conjuguées à l'EBacc et à Progress 8. Du côté de la défense, Tim Oates, l'un des concepteurs du curriculum de 2014, maintient une défense argumentée du curriculum riche en savoirs, et la British Academy plaide pour élargir l'EBacc plutôt que l'abolir. Il faut noter un point méthodologique : au moins une analyse concluant que les GCSE artistiques n'avaient pas été affectés par l'EBacc a été publiquement contestée comme reposant sur une analyse trompeuse. Enfin, il n'existe à ma connaissance aucune évaluation causale du curriculum de 2014 sur les acquis des élèves — le lien avec les résultats TIMSS est une inférence, pas une démonstration.",
+   "sources": [
+    {
+     "author": "Department for Education / Curriculum and Assessment Review",
+     "title": "Building a World-Class Curriculum for All — Final Report of the Curriculum and Assessment Review",
+     "org": "Department for Education",
+     "year": "2025",
+     "url": "https://eric.ed.gov/default.aspx?id=ED680016"
+    },
+    {
+     "author": "House of Lords Library",
+     "title": "National curriculum and assessment review",
+     "org": "UK Parliament",
+     "year": "2025",
+     "url": "https://lordslibrary.parliament.uk/national-curriculum-and-assessment-review/"
+    },
+    {
+     "author": "Arts Professional",
+     "title": "EBacc is narrowing the curriculum, research finds",
+     "org": "Arts Professional",
+     "year": "2017",
+     "url": "https://www.artsprofessional.co.uk/news/ebacc-narrowing-curriculum-research-finds"
+    },
+    {
+     "author": "Campaign for the Arts",
+     "title": "Curriculum change in England – what's happening?",
+     "org": "Campaign for the Arts",
+     "year": "2025",
+     "url": "https://www.campaignforthearts.org/news/curriculum-change-in-england-whats-happening/"
+    },
+    {
+     "author": "Social Market Foundation",
+     "title": "The facts of the matter: England is shifting to a 'knowledge-rich curriculum'",
+     "org": "Social Market Foundation",
+     "year": "2024",
+     "url": "https://www.smf.co.uk/commentary_podcasts/the-facts-of-the-matter-england-is-shifting-to-a-knowledge-rich-curriculum/"
+    }
+   ]
+  },
+  {
+   "claim": "Le National Tutoring Programme, plus grande opération de rattrapage post-Covid jamais menée en Angleterre avec 6,17 millions de parcours de tutorat, n'a produit que des effets très faibles — au plus un mois de progrès supplémentaire en fin de primaire, moins d'un mois au secondaire — ce qui constitue un avertissement direct pour tout plan de remédiation à grande échelle.",
+   "what_it_is": "Lancé en 2020-2021 comme pilier de la stratégie de rattrapage post-Covid, le NTP a financé du tutorat en petits groupes via trois voies : tutorat piloté par l'école (School-Led Tutoring), mentors académiques salariés affectés à une école (Academic Mentors) et partenaires de tutorat externes (Tuition Partners). Le programme s'est achevé à la fin de l'année scolaire 2023-2024.",
+   "evidence_level": "quasi-expérimental (appariement d'écoles et d'élèves sur données nationales, avec analyses de sensibilité pour quantifier le biais de sélection résiduel) — la randomisation des élèves était impossible",
+   "effect_size": "Évaluation d'impact de la 3e année (septembre 2024) : au Key Stage 2, effets positifs petits et souvent statistiquement significatifs en anglais et en mathématiques, équivalant à un mois de progrès supplémentaire ou moins, les effets en mathématiques étant plus grands qu'en anglais ; au Key Stage 4, effets systématiquement plus faibles, dans tous les cas inférieurs à un mois, certains atteignant tout de même la significativité statistique ; au niveau élève en KS4, effets proches de zéro et non significatifs. Les évaluateurs estiment que la dilution (tous les élèves d'une école traitée n'ont pas été tutorés, et la matière du tutorat est souvent inconnue) et le biais de sélection négatif (les écoles choisissent les élèves les plus en difficulté) conduisent probablement à sous-estimer l'effet réel. Analyse de dosage : l'estimation optimale du nombre d'heures de tutorat par élève tutoré maximisant les résultats au niveau école est de 31 heures en mathématiques et 20 en lecture au KS2, avec une forte incertitude ; aucune estimation n'a pu être obtenue au KS4.",
+   "concrete_practice": "Une école primaire identifie une quinzaine d'élèves en retard, les regroupe par trois, et leur fait suivre une quinzaine de séances de 45 minutes avec un tuteur — enseignant de l'école rémunéré en heures supplémentaires, assistant d'éducation formé, ou tuteur externe en ligne — sur un contenu aligné sur ce qui est enseigné en classe. L'école déclare les heures et perçoit une subvention couvrant une part décroissante du coût au fil des années.",
+   "concrete_example": "Environ 6,17 millions de parcours de tutorat ont été dispensés entre novembre 2020 et août 2024, dont environ 1,5 million pour la seule année 2023-2024. L'évaluation de la 3e année a suivi les résultats aux évaluations nationales de fin de primaire et aux GCSE, en comparant écoles et élèves participants à des contreparties appariées, avec des analyses distinctes pour tous les élèves, les élèves éligibles au Pupil Premium et les élèves aux acquis antérieurs faibles. Elle a aussi détecté un bénéfice à plus long terme en mathématiques au KS2 pour les voies School-Led Tutoring et Academic Mentors — inférieur à un mois — et, à l'inverse, la persistance des petits effets négatifs sur l'anglais associés à la voie Tuition Partners déjà observés lors de la 2e année.",
+   "conditions": "Les conditions qui ressortent sont explicites : le tutorat marche mieux au primaire qu'au secondaire, probablement parce que les lacunes accumulées sur une longue période sont plus difficiles à combler ; il exige un volume d'heures substantiel (l'ordre de grandeur estimé est de 20 à 31 heures par élève et par matière) ; et l'alignement du contenu tutoré sur ce qui est enseigné en classe est un facteur d'efficacité identifié. Un dispositif de rattrapage à faible dosage, mal aligné et étalé sur tout un système produit des effets proches du bruit statistique.",
+   "contested": "Les évaluateurs eux-mêmes ne cachent pas la fragilité de leurs conclusions : « au KS4 et pour l'anglais au KS2, les tailles d'effet faibles et l'absence de résultats significatifs cohérents signifient que nous ne pouvons pas exclure complètement que ces effets soient des artefacts du biais de sélection, malgré nos efforts considérables pour l'éliminer ». Ils notent aussi que le grand nombre de tests statistiques conduits implique qu'une partie des effets significatifs disparaîtrait après correction pour comparaisons multiples. Les effets observés sont par ailleurs nettement plus faibles que ceux attendus d'après la littérature méta-analytique sur le tutorat en petits groupes (Nickow, Oreopoulos et Quan ; Dietrichson et al. ; Ritter et al.). À l'opposé, l'évaluation qualitative conduite par ImpactEd pour l'Education Development Trust conclut à un impact positif du tutorat scolaire sur la réduction de l'écart de résultats, les élèves éligibles au Pupil Premium obtenant de meilleurs résultats d'apprentissage — un écart d'appréciation entre évaluations quantitative et qualitative qu'il faut signaler plutôt que lisser.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "title": "National Tutoring Programme Year 3 Impact Evaluation",
+     "org": "Department for Education",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/66f2e30d7da73f17177640e8/National_Tutoring_Programme_year_3_impact_evaluation_-_Sep_24.pdf"
+    },
+    {
+     "author": "NFER",
+     "title": "National Tutoring Programme – Year 4 Evaluation and Reflections",
+     "org": "National Foundation for Educational Research / Department for Education",
+     "year": "2024",
+     "url": "https://assets.publishing.service.gov.uk/media/66e2c1f46cc3c902a6e6fbed/National_Tutoring_Programme_-_evaluation_and_reflection.pdf"
+    },
+    {
+     "author": "ImpactEd Evaluation / Education Development Trust",
+     "title": "Positive impact of school-based tutoring revealed in ImpactEd's Final Evaluation Report of the National Tutoring Programme",
+     "org": "Education Development Trust",
+     "year": "2024",
+     "url": "https://www.edt.org/insights-from-our-work/positive-impact-of-school-based-tutoring-revealed-in-impacted-s-final-evaluation-report-of-the-national-tutoring-programme/"
+    },
+    {
+     "author": "Department for Education",
+     "title": "National Tutoring Programme statistics, 2023-24",
+     "org": "Explore Education Statistics, GOV.UK",
+     "year": "2024",
+     "url": "https://explore-education-statistics.service.gov.uk/find-statistics/national-tutoring-programme/2023-24"
+    }
+   ]
+  },
+  {
+   "claim": "Les résultats PISA 2025 du Royaume-Uni doivent être écartés de toute comparaison FWB-Angleterre : le taux d'exclusion atteint 7,6 % contre un seuil de 5 %, et la non-réponse est massivement concentrée sur les élèves pauvres et à besoins spécifiques — 39,6 % des non-participants étaient éligibles aux repas gratuits contre 23,8 % des participants.",
+   "what_it_is": "PISA impose des standards techniques d'échantillonnage : taux d'exclusion global inférieur à 5 %, taux de réponse pondéré des écoles d'au moins 85 %, taux de réponse pondéré des élèves d'au moins 80 %. Les élèves peuvent être exclus s'ils ont des besoins éducatifs particuliers les empêchant de passer le test ou une maîtrise insuffisante de la langue. L'Angleterre a mené volontairement une analyse de biais de non-réponse (NRBA) appariant l'échantillon PISA aux données administratives du National Pupil Database.",
+   "evidence_level": "descriptif méthodologique sur source primaire (rapport national PISA 2025 pour l'Angleterre, DfE, septembre 2026) ; analyse de biais de non-réponse sur données administratives appariées",
+   "effect_size": "Taux d'exclusion global pour le Royaume-Uni hors Écosse : 7,6 %, au-dessus de la cible OCDE de 5 %, et en tendance haussière (4,9 % en 2022, 5,4 % en 2018). Taux de réponse Angleterre : écoles 90 % en pondéré, après recours aux écoles de remplacement (78 % avant remplacement) ; élèves 83 % — les deux seuils sont donc atteints. Composition : sur 7 270 élèves échantillonnés, 5 619 ont participé et 1 651 n'ont pas participé. Parmi les participants, 23,8 % avaient été éligibles aux repas gratuits contre 39,6 % des non-participants ; 10,7 % des participants recevaient un soutien pour besoins éducatifs particuliers contre 25,0 % des non-participants ; les élèves d'écoles sélectives sont surreprésentés parmi les participants (biais relatif de 0,15), de même que les élèves d'écoles non mixtes (biais relatif 0,13), et le taux de réponse est plus faible dans les écoles de la bande d'acquis la plus basse. À titre de référence méthodologique, l'OCDE justifie le seuil de 5 % par le fait qu'au-delà, les distorsions sur les moyennes nationales risquent de dépasser plus ou moins cinq points de score.",
+   "concrete_practice": "Concrètement, dans une école anglaise, le coordinateur PISA reçoit une liste de 35 à 40 élèves de 15 ans tirés au sort. Il peut exclure ceux dont les besoins éducatifs particuliers rendent le test impossible, et ceux qui n'ont pas une maîtrise suffisante de l'anglais. Les autres sont convoqués ; ceux qui ne se présentent pas comptent comme non-réponse. Aucun mécanisme ne garantit que les absents ressemblent aux présents — et en Angleterre, ils ne leur ressemblent pas.",
+   "concrete_example": "Le rapport national du DfE publié en septembre 2026 formule lui-même l'avertissement, page 26 : « il existait cependant des indications qu'au sein de ces écoles, les élèves non répondants étaient légèrement plus susceptibles d'avoir l'anglais pour première langue, légèrement plus susceptibles d'avoir été éligibles aux repas gratuits à un moment des six dernières années de leur scolarité, et légèrement plus susceptibles de recevoir une forme de soutien pour besoins éducatifs particuliers. Pour l'Angleterre comme pour les autres systèmes éducatifs participants, cela signifie que les résultats doivent être interprétés avec prudence, en particulier lorsqu'on considère les tendances de performance dans le temps et lorsqu'on établit des comparaisons internationales. » Le rapport précise que des conclusions plus assurées peuvent être tirées des comparaisons entre groupes d'élèves à l'intérieur de l'Angleterre. Les scores concernés : mathématiques 492 (moyenne OCDE 463), lecture 497, sciences 516 ; en mathématiques, le score de 2025 est significativement inférieur à celui de 2018 (504) mais non significativement différent de 2022 (492) et de 2015 (493), tandis que la moyenne des pays OCDE de tendance chutait de 490 en 2018 à 465 en 2025.",
+   "conditions": "Pour l'usage FWB, la conséquence pratique est simple : (1) ne jamais comparer le score anglais de PISA 2025 au score FWB sans mentionner la réserve d'exclusion ; (2) fonder l'argumentaire sur PIRLS 2021 et TIMSS 2023, dont les échantillons anglais ne présentent pas ce défaut au même degré ; (3) noter que l'OCDE a néanmoins confirmé que les résultats PISA 2025 du Royaume-Uni peuvent être pleinement inclus dans les rapports et utilisés pour les comparaisons internationales et de tendance — la réserve n'est pas une disqualification, c'est un facteur de prudence directionnel.",
+   "contested": "Le point non résolu est l'ampleur du biais. L'OCDE fixe le seuil de 5 % en supposant qu'au-delà les distorsions dépassent cinq points de score, mais cette borne suppose que les exclus ressemblent en moyenne à la population — hypothèse que la NRBA anglaise contredit explicitement puisque la non-réponse est concentrée sur les groupes les plus faibles. Le sens du biais est donc connu (surestimation de l'Angleterre) mais son ampleur ne l'est pas. Un second point mérite d'être signalé honnêtement : le rapport du DfE note que les élèves non répondants étaient plus susceptibles d'avoir l'anglais pour première langue, alors même que les élèves allophones de deuxième génération obtiennent en Angleterre des scores supérieurs aux non-immigrants en lecture et en mathématiques — ce facteur joue donc en sens inverse. Enfin, le rapport reconnaît qu'il est impossible d'identifier, parmi les non-participants, ceux qui auraient de toute façon été inéligibles, ce qui contribue à la sous-représentation des élèves à besoins spécifiques et allophones dans l'échantillon final.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "title": "PISA 2025: national report for England",
+     "org": "Department for Education",
+     "year": "2026",
+     "url": "https://assets.publishing.service.gov.uk/media/6aa0073962ec7fe7bedf5160/pisa-2025-national-report-for-england.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2025 Technical Standards",
+     "org": "OCDE",
+     "year": "2025",
+     "url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/edu/pisa/publications/technical-standards/PISA_2025_Technical_Standards.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2025 Results (Volume I): United Kingdom — Country Note",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/united-kingdom_9e46f2f7-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "Contrairement à une idée reçue, l'Angleterre de PISA 2025 est un système dont le gradient social est plus faible que la moyenne OCDE : la pente socio-économique y est de 24 à 32 points selon la matière contre 32 à 36 dans l'OCDE, et la part de variance expliquée par l'origine sociale y est inférieure — un résultat qu'il faut mettre en regard des 92 points d'écart entre quartiles extrêmes en FWB.",
+   "what_it_is": "PISA mesure l'équité par trois indicateurs complémentaires : l'écart de score entre quartile supérieur et quartile inférieur de l'indice de statut économique, social et culturel (ESCS) ; la pente du gradient social (points de score associés à une augmentation d'une unité d'ESCS) ; et la part de variance des scores expliquée par l'ESCS.",
+   "evidence_level": "comparaison internationale corrélationnelle, sur source primaire vérifiée ; à lire sous la réserve d'exclusion documentée à l'item précédent",
+   "effect_size": "Angleterre, PISA 2025 : écart entre quartiles extrêmes d'ESCS de 81 points en sciences, 66 en lecture et 89 en mathématiques. En sciences et en mathématiques, ces écarts ne sont pas significativement différents de la moyenne OCDE (83 points en sciences) ; en lecture, l'écart anglais est significativement plus étroit que la moyenne OCDE. Pente du gradient : 30 points en sciences contre 36 en moyenne OCDE (significativement plus faible), 24 en lecture contre 32 (significativement plus faible), 32 en mathématiques contre 35 (non significativement différent). Part de variance expliquée par l'origine sociale : 9 % en sciences, 6 % en lecture, 10 % en mathématiques, contre respectivement 12 %, 9 % et 12 % en moyenne OCDE. Résilience académique : 14 % d'élèves résilients en sciences, 16 % en lecture, 13 % en mathématiques, contre 12 %, 13 % et 12 % en moyenne OCDE. Indice ESCS moyen de l'Angleterre : +0,10.",
+   "concrete_practice": "Ces indicateurs ne correspondent à aucun dispositif : ils sont le produit agrégé du système. Mais ils permettent de distinguer deux questions souvent confondues — l'ampleur brute de l'écart entre riches et pauvres (où l'Angleterre est dans la moyenne) et le degré auquel l'origine sociale détermine le destin scolaire (où l'Angleterre fait mieux que la moyenne OCDE).",
+   "concrete_example": "La comparaison détaillée du rapport anglais, sciences en quartiles d'ESCS : Angleterre 483 au quartile 1 et 565 au quartile 4, soit 81 points d'écart ; Singapour 508 et 599, soit 91 points ; Australie 469 et 549, soit 80 points ; Irlande 466 et 538, soit 72 points ; Estonie 492 et 560, soit 68 points ; Canada 480 et 539, soit 59 points ; moyenne OCDE 446 et 531, soit 85 points. L'Angleterre se distingue moins par un écart resserré que par le niveau élevé de son quartile inférieur (483 contre 446 en moyenne OCDE, soit 37 points au-dessus) — c'est le bas de la distribution qui tient, ce qui est cohérent avec le profil observé dans PIRLS 2021 au 10e percentile.",
+   "conditions": "Ce profil — bas de distribution relativement élevé, gradient social relativement plat — est cohérent avec l'hypothèse selon laquelle les leviers les plus efficaces en Angleterre ont été ceux qui ciblaient les fondamentaux du primaire pour tous les élèves (lecture, calcul), et non ceux qui ciblaient les structures ou l'autonomie. C'est précisément l'inverse du profil FWB, où l'écart entre quartiles extrêmes atteint 92 points et où un tiers des élèves de 15 ans ont redoublé.",
+   "contested": "Trois réserves impératives. (1) Ce profil favorable est mécaniquement gonflé par le problème d'exclusion : la sous-représentation des élèves pauvres et à besoins spécifiques dans l'échantillon anglais remonte artificiellement le quartile inférieur et aplatit le gradient. L'ampleur de cette distorsion n'est pas quantifiée. (2) Les indicateurs nationaux racontent une histoire beaucoup moins flatteuse : l'écart de l'EPI, mesuré sur données administratives exhaustives et donc immunisé contre le biais d'échantillonnage, s'est élargi à toutes les étapes depuis 2019 et atteint 19,1 mois au GCSE, 22,4 mois pour les élèves durablement pauvres. La divergence entre le diagnostic international (équité relativement bonne) et le diagnostic national (écart qui se creuse) doit être tenue, pas arbitrée : ils ne mesurent pas la même chose, l'un compare des positions relatives entre pays à un instant, l'autre suit une trajectoire nationale dans le temps. (3) L'indice ESCS a été révisé pour le cycle 2025, ce qui limite la comparabilité stricte avec les cycles antérieurs ; par ailleurs 10 % des élèves anglais ont un ESCS manquant.",
+   "sources": [
+    {
+     "author": "Department for Education",
+     "title": "PISA 2025: national report for England (chapitre 6, équité)",
+     "org": "Department for Education",
+     "year": "2026",
+     "url": "https://assets.publishing.service.gov.uk/media/6aa0073962ec7fe7bedf5160/pisa-2025-national-report-for-england.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "PISA 2025 Results (Volume I)",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en/full-report/what-is-pisa_d18121f2.html"
+    },
+    {
+     "author": "Education Policy Institute",
+     "title": "Annual Report 2025 — Disadvantage",
+     "org": "Education Policy Institute",
+     "year": "2025",
+     "url": "https://epi.org.uk/annual-report-2025-disadvantage/"
+    }
+   ]
+  }
+ ]
+}

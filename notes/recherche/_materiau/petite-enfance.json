@@ -1,0 +1,479 @@
+{
+ "topic": "Petite enfance et enseignement maternel : ce que la recherche établit, ce qu'elle infirme, et ce qu'elle prédit des choix de la Fédération Wallonie-Bruxelles",
+ "headline": "Le préscolaire n'est pas un levier en soi : les évaluations récentes à grande échelle produisent des résultats divergents allant de +8,3 points de pourcentage d'accès au supérieur (Boston) à des effets négatifs de -0,18 écart-type en mathématiques en 6e année (Tennessee), et ce qui sépare les deux n'est ni le taux d'encadrement ni la durée d'exposition mais le contenu enseigné, la qualification et l'accompagnement professionnel continu des équipes, et la capacité à cibler les enfants qui en bénéficieraient le plus mais y accèdent le moins.",
+ "searches_run": 45,
+ "items": [
+  {
+   "claim": "Les rendements spectaculaires attribués aux investissements précoces (Perry, Abecedarian) reposent sur des échantillons minuscules et un protocole de randomisation compromis ; les estimations rigoureuses divisent par deux les taux de rendement les plus cités, et une réanalyse indépendante conclut que les bénéfices de long terme concernent les filles et non les garçons.",
+   "what_it_is": "Le HighScope Perry Preschool Project (Ypsilanti, Michigan, 1962-1967) et le Carolina Abecedarian Project sont les deux essais qui fondent l'argumentaire de James Heckman sur la supériorité des investissements précoces. Perry : préscolaire intensif pour enfants afro-américains défavorisés, suivi jusqu'à 40 ans et au-delà, avec mesure des revenus, de la criminalité et de la santé.",
+   "evidence_level": "essai randomisé (randomisation compromise), avec réanalyses statistiques et analyses coût-bénéfice",
+   "effect_size": "Perry : taux de rendement social annuel estimé entre 7 et 10 % (Heckman, Moon, Pinto, Savelyev & Yavitz 2010), contre 16 % (Rolnick & Grunewald 2003) et 17 % (Belfield et al. 2006) dans les estimations antérieures, lesquelles étaient publiées sans écarts-types. ABC/CARE : taux de rendement interne de 13,7 % par an, ratio bénéfices/coûts de 7,3 (García, Heckman, Leaf & Prados). Échantillon Perry : 123 enfants au total (traitements + contrôles).",
+   "concrete_practice": "Perry : 2,5 heures de classe par jour, 5 jours par semaine, pendant 2 ans, avec une visite hebdomadaire à domicile de 90 minutes par l'enseignant, en groupes très réduits, avec des enseignants diplômés. C'est un dispositif de démonstration, jamais un service public à l'échelle.",
+   "concrete_example": "Heckman, Moon, Pinto, Savelyev & Yavitz (2010, Journal of Public Economics) recalculent le rendement de Perry en corrigeant quatre défauts : (a) le protocole de randomisation a été compromis — les enfants étaient d'abord classés par score d'entrée au Stanford-Binet, répartis en rangs pairs/impairs, puis certains étaient échangés entre groupes pour équilibrer le sexe et le statut socio-économique, et d'autres encore échangés parce que leur mère travaillait et ne pouvait recevoir les visites à domicile ; (b) absence de données au-delà de 40 ans ; (c) données manquantes ; (d) valorisation des coûts du crime. Résultat : 7-10 % au lieu de 16-17 %, avec écarts-types. En 2023, Heckman, Pinto & Shaikh (NBER WP 31982) reprennent l'exercice avec des méthodes d'identification partielle et des tests d'hypothèses multiples : seuls les effets sur la criminalité (hommes et femmes) résistent à la correction.",
+   "conditions": "Ces rendements supposent une population extrêmement défavorisée (le contrefactuel est très mauvais), une intensité de service impossible à généraliser, et une valorisation monétaire de la criminalité évitée qui représente une part majeure des bénéfices. Rien de tout cela ne se retrouve dans un système où le maternel est déjà quasi universel et gratuit.",
+   "contested": "Fortement contesté. (1) Michael Anderson (2008, Journal of the American Statistical Association) réanalyse Abecedarian, Perry et l'Early Training Project en corrigeant l'inférence multiple, l'attrition et les violations du protocole : « girls garnered substantial short- and long-term benefits from the interventions, particularly in the domain of total years of education. However, there were no significant long-term benefits for boys. » Ce résultat contredit frontalement celui de Boston (voir élément suivant), où les effets sont plus forts chez les garçons — aucune des deux études n'explique la divergence. (2) Rea & Burton (2020, Journal of Economic Surveys) testent la « courbe de Heckman » sur l'ensemble des ratios bénéfices/coûts estimés par le Washington State Institute for Public Policy et « find no support for the claim that social policy programs targeted early in the life course have the largest benefit cost ratios ». (3) Hanushek & Lindseth (2009) jugent les estimations d'impact de Perry « fragiles ». (4) Heckman et al. reconnaissent eux-mêmes que « the randomization protocol was compromised ».",
+   "sources": [
+    {
+     "title": "The rate of return to the HighScope Perry Preschool Program",
+     "author": "Heckman, Moon, Pinto, Savelyev & Yavitz",
+     "org": "Journal of Public Economics 94(1-2)",
+     "year": "2010",
+     "url": "https://doi.org/10.1016/j.jpubeco.2009.11.001"
+    },
+    {
+     "title": "The Rate of Return to the High/Scope Perry Preschool Program (version de travail, texte intégral)",
+     "author": "Heckman et al.",
+     "org": "NBER Working Paper 15471",
+     "year": "2009",
+     "url": "https://www.nber.org/system/files/working_papers/w15471/w15471.pdf"
+    },
+    {
+     "title": "Dealing with Imperfect Randomization: Inference for the HighScope Perry Preschool Program",
+     "author": "Heckman, Pinto & Shaikh",
+     "org": "NBER Working Paper 31982",
+     "year": "2023",
+     "url": "https://www.nber.org/papers/w31982"
+    },
+    {
+     "title": "Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects",
+     "author": "Michael L. Anderson",
+     "org": "Journal of the American Statistical Association 103(484)",
+     "year": "2008",
+     "url": "https://doi.org/10.1198/016214508000000841"
+    },
+    {
+     "title": "Uncovering Gender Differences in the Effects of Early Intervention (version de travail avec résultats auxiliaires)",
+     "author": "Michael L. Anderson",
+     "org": "SSRN",
+     "year": "2005",
+     "url": "https://doi.org/10.2139/ssrn.812426"
+    },
+    {
+     "title": "Quantifying the Life-Cycle Benefits of a Prototypical Early Childhood Program",
+     "author": "García, Heckman, Leaf & Prados",
+     "org": "SSRN / NBER WP 22993",
+     "year": "2017",
+     "url": "https://doi.org/10.2139/ssrn.2979958"
+    },
+    {
+     "title": "New Evidence on the Heckman Curve",
+     "author": "David Rea & Tony Burton",
+     "org": "Journal of Economic Surveys 34(2)",
+     "year": "2020",
+     "url": "https://doi.org/10.1111/joes.12353"
+    }
+   ]
+  },
+  {
+   "claim": "La meilleure preuve causale disponible sur un préscolaire public à grande échelle — les loteries d'admission de Boston — montre des effets importants sur l'accès au supérieur et la diplomation, mais aucun effet sur les scores aux tests standardisés, de la 3e à la 10e année.",
+   "what_it_is": "Gray-Lobe, Pathak & Walters exploitent le tirage au sort intégré au mécanisme centralisé d'affectation scolaire des Boston Public Schools pour comparer des enfants admis et non admis en K1 (classe des 4 ans).",
+   "evidence_level": "essai randomisé de fait (loterie d'admission), suivi administratif sur ~20 ans, publié dans le Quarterly Journal of Economics",
+   "effect_size": "Inscription au préscolaire de Boston : +8,3 points de pourcentage sur l'inscription dans le supérieur « à l'heure » (soit +18 % par rapport à un taux de référence de 46 %) ; +5,5 pp sur l'inscription en cursus de 4 ans ; +8,5 pp sur l'inscription dans un établissement du Massachusetts ; +6,0 pp sur la diplomation secondaire (à tout moment) ; +8,5 à 9 pp sur le fait de passer le SAT ; -0,8 pp sur l'incarcération juvénile (p<0,10). Effets sur les scores MCAS (tests d'État, années 3 à 10) : « uniformly small and statistically insignificant ». Chez les garçons uniquement : +16 pp SAT, +16 pp diplomation, +0,33 écart-type sur l'indice disciplinaire.",
+   "concrete_practice": "K1 des Boston Public Schools, 1997-2003 : enseignants titulaires d'un bachelor (100 % de l'échantillon observé en 2005-2006), 56 % titulaires d'un master, rémunérés sur la grille des enseignants du primaire/secondaire, 8 ans d'ancienneté moyenne dans le district ; classes de 10 à 25 enfants, moyenne 19 ; curricula explicites (Opening the World of Learning pour le langage, Building Blocks pour les mathématiques) ; coût d'environ 13 000 USD (dollars 2020) par enfant en journée complète.",
+   "concrete_example": "Plus de 4 000 candidats de 4 ans effectivement randomisés (4 215 sur 8 786 candidats au total), répartis sur sept cohortes d'admission de 1997 à 2003. Les résultats post-secondaires proviennent d'un extrait spécial du National Student Clearinghouse couvrant ~99 % des candidats. Une offre de place augmente la probabilité de fréquentation effective de 65 points de pourcentage (premier stade), et l'effet réduit d'une offre sur l'inscription à l'heure dans le supérieur est de +5,4 pp, soit +8,3 pp en 2SLS pour la fréquentation effective.",
+   "conditions": "Contexte urbain nord-américain à contrefactuel médiocre (les non-admis n'accédaient pas nécessairement à un accueil de qualité). Le programme combine enseignants pleinement qualifiés et payés comme leurs collègues du primaire, curricula explicites en langage ET en mathématiques, et coaching pédagogique — trois conditions simultanées. Attrition différentielle modeste mais significative sur les données du Massachusetts (les enfants admis sont 3,8 pp plus susceptibles d'avoir un score de suivi observé), donc les résultats sur tests et comportement doivent être lus avec plus de prudence que ceux sur le supérieur.",
+   "contested": "(1) L'absence totale d'effet sur les tests standardisés est un résultat gênant pour toute politique qui justifierait un investissement maternel par une amélioration attendue des scores PISA : à Boston, les gains passent par des canaux non cognitifs et de parcours, pas par les acquis mesurés. (2) Les effets sont concentrés chez les garçons, à l'inverse de la réanalyse d'Anderson (2008) sur Perry/Abecedarian où ils sont concentrés chez les filles ; aucune théorie ne réconcilie ces deux résultats. (3) Les auteurs de l'étude du Tennessee soulignent que dans l'étude de Boston « the effect estimates for the 3rd grade math scores and kindergarten special education placements were negative, though short of statistical significance » — c'est-à-dire que les mêmes signes négatifs qu'au Tennessee y apparaissent, en dessous du seuil de significativité. (4) Les cohortes étudiées datent de 1997-2003 ; le programme a changé depuis.",
+   "sources": [
+    {
+     "title": "The Long-Term Effects of Universal Preschool in Boston",
+     "author": "Guthrie Gray-Lobe, Parag A. Pathak & Christopher R. Walters",
+     "org": "Quarterly Journal of Economics 138(1) / NBER Working Paper 28756",
+     "year": "2023 (WP 2021)",
+     "url": "https://www.nber.org/system/files/working_papers/w28756/w28756.pdf"
+    },
+    {
+     "title": "The Long-Term Effects of Universal Preschool in Boston (fiche projet)",
+     "org": "MIT Blueprint Labs",
+     "year": "2023",
+     "url": "https://blueprintlabs.mit.edu/research/the-long-term-effects-of-universal-preschool-in-boston/"
+    },
+    {
+     "title": "Impacts of a Prekindergarten Program on Children's Mathematics, Language, Literacy, Executive Function, and Emotional Skills",
+     "author": "Christina Weiland & Hirokazu Yoshikawa",
+     "org": "Child Development 84(6)",
+     "year": "2013",
+     "url": "https://doi.org/10.1111/cdev.12099"
+    }
+   ]
+  },
+  {
+   "claim": "Le seul essai randomisé d'un programme préscolaire public à l'échelle d'un État entier — le Tennessee Voluntary Pre-K — trouve des effets NÉGATIFS et croissants sur les acquis jusqu'en 6e année, ainsi que plus d'orientations vers l'enseignement spécialisé et plus de sanctions disciplinaires.",
+   "what_it_is": "TN-VPK : programme préscolaire gratuit financé par l'État du Tennessee pour les enfants de 4 ans de familles à bas revenus. L'évaluation exploite le fait que les sites étaient sursouscrits : les candidats ont été tirés au sort entre offre d'admission et liste d'attente.",
+   "evidence_level": "essai randomisé contrôlé, suivi longitudinal sur registres administratifs d'État jusqu'en 6e année",
+   "effect_size": "En 6e année (effets d'intention de traiter / effets sur les traités) : anglais -0,128 / -0,240 écart-type ; mathématiques -0,178 / -0,333 ; sciences -0,132 / -0,249 (tous p<0,05). Enseignement spécialisé (PEI) cumulé : 11,7 % pour le groupe pré-K contre 8,4 % pour le contrôle (ITT -0,107, p<0,01). Infractions disciplinaires cumulées de la maternelle à la 6e : « toute infraction » 27,3 % contre 23,4 % (ITT -0,090, p=0,025) ; infractions majeures 13,7 % contre 10,9 % (p=0,043). Assiduité en 6e : 97,1 % contre 97,5 % (p=0,013). Redoublement : aucune différence (87,2 % contre 88,1 %, p=0,531).",
+   "concrete_practice": "TN-VPK : 5,5 heures par jour, 5 jours par semaine sur l'année scolaire ; classes de 20 enfants maximum ; un enseignant titulaire d'une licence d'État avec spécialisation en petite enfance, rémunéré à la grille des enseignants du public, plus un assistant éducatif par classe ; curriculum choisi dans une liste approuvée par l'État. Le programme satisfaisait 9 des 10 critères de qualité du NIEER — il figurait parmi les mieux dotés des États-Unis sur les indicateurs structurels.",
+   "concrete_example": "2 990 enfants de familles à bas revenus, issus de deux cohortes (2009-2010 et 2010-2011), candidats à des sites sursouscrits répartis dans tout l'État, randomisés entre offre d'admission et liste d'attente ; fréquentation moyenne de 143,8 jours (écart-type 31,6). Les effets initiaux positifs à la fin du pré-K disparaissent dès la fin de la maternelle (kindergarten), deviennent négatifs à la fin de la 3e année, et s'aggravent jusqu'en 6e. Les auteurs écartent explicitement l'explication par la qualité des écoles ultérieures : « There were no significant differences in the quality of the schools and teachers that VPK and control students subsequently experienced after pre-k. »",
+   "conditions": "L'hypothèse retenue par les auteurs est pédagogique : l'enseignement préscolaire s'y concentre sur des « compétences contraintes » (à plafond — lettres, chiffres, couleurs) plutôt que sur des compétences non contraintes (vocabulaire, compréhension, raisonnement numérique) ; ils notent que « teachers in these circumstances often display a flat to negative affect, one that could lead to children developing negative attentional biases ». Autrement dit : des indicateurs structurels excellents (encadrement, qualification, durée) coexistent avec un contenu pédagogique inadéquat, et ce sont ces derniers qui déterminent le résultat.",
+   "contested": "(1) Interprétation disputée de la hausse des orientations vers le spécialisé : les auteurs reconnaissent qu'une partie peut refléter un dépistage plus précoce, la plupart des classes TN-VPK étant hébergées dans des écoles primaires où se fait l'identification — ce serait alors un effet souhaitable et non un préjudice. (2) Une correction a été publiée par la revue (Developmental Psychology, juillet 2022, DOI 10.1037/dev0001407) ; toute citation de chiffres précis doit se référer à la version corrigée. (3) L'échantillon est composé exclusivement de candidats à des sites sursouscrits, non d'un échantillon représentatif des bénéficiaires du programme. (4) Les tenants du préscalaire universel objectent que le contrefactuel du groupe contrôle incluait d'autres formes d'accueil de qualité, ce qui réduirait le contraste ; l'article maintient néanmoins un effet négatif, pas seulement nul.",
+   "sources": [
+    {
+     "title": "Effects of a Statewide Prekindergarten Program on Children's Achievement and Behavior through Sixth Grade",
+     "author": "Kelley Durkin, Mark W. Lipsey, Dale C. Farran & Sarah E. Wiesen",
+     "org": "Developmental Psychology 58(3)",
+     "year": "2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716729/"
+    },
+    {
+     "title": "Correction to Durkin et al. (2022)",
+     "org": "Developmental Psychology",
+     "year": "2022",
+     "url": "https://doi.org/10.1037/dev0001407"
+    }
+   ]
+  },
+  {
+   "claim": "Le « fade-out » des effets du préscolaire sur les acquis est la règle, pas l'exception — mais des effets de long terme sur les parcours peuvent réapparaître, y compris quand les gains de tests ont disparu ; ces deux faits ne se contredisent pas.",
+   "what_it_is": "Le Head Start Impact Study est l'essai randomisé national du principal programme préscolaire fédéral américain destiné aux familles pauvres. Il a produit le cas d'école du fade-out. Parallèlement, des travaux quasi-expérimentaux sur le déploiement historique de Head Start trouvent des effets adultes substantiels.",
+   "evidence_level": "essai randomisé national (HSIS) + évaluation quasi-expérimentale sur données administratives massives (Bailey, Sun & Timpe) + revue de synthèse (Bailey et al. 2020)",
+   "effect_size": "HSIS : effets initiaux modestes sur le langage et la littératie qui « rapidly dissipated in elementary school, with only a single impact remaining at the end of 3rd grade for children in each age cohort ». Bailey, Sun & Timpe (2021, American Economic Review) : +0,65 année de scolarité, +2,7 % de diplomation secondaire, +8,5 % d'inscription dans le supérieur, +39 % de diplomation du supérieur.",
+   "concrete_practice": "Head Start : programme fédéral américain financé directement auprès d'opérateurs locaux, ciblé sur les familles sous le seuil de pauvreté, incluant volets santé, nutrition et soutien parental en plus du préscolaire.",
+   "concrete_example": "HSIS : 4 667 enfants nouvellement entrants (2 559 dans la cohorte des 3 ans, 2 108 dans celle des 4 ans) randomisés en 2002 entre accès à Head Start et groupe contrôle, suivis jusqu'à la fin de la 3e année primaire. Conclusion textuelle du rapport final : « there were initial positive impacts from having access to Head Start, but by the end of 3rd grade there were very few impacts found for either cohort in any of the four domains of cognitive, social-emotional, health and parenting practices. The few impacts that were found did not show a clear pattern of favorable or unfavorable impacts for children. » À l'inverse, Bailey, Sun & Timpe exploitent le déploiement comté par comté de Head Start entre 1965 et 1980, croisé avec les seuils d'âge d'entrée à l'école, sur des données Census-ACS 2000-2018 appariées au fichier Numident de la Sécurité sociale : les cohortes exposées atteignent à l'âge adulte un niveau d'éducation nettement supérieur.",
+   "conditions": "La divergence s'explique en partie par le contrefactuel : Kline & Walters (2016, QJE) montrent que « Head Start draws roughly a third of its participants from competing preschool programs », et que les gains de tests sont « larger for children who would not otherwise attend preschool ». Dans les années 1960-1970, le contrefactuel était l'absence de tout préscolaire ; en 2002, il ne l'était plus. La persistance dépend aussi, selon Bailey, Duncan, Cunha, Foorman & Yeager (2020), « on the types of skills targeted, the institutional constraints and opportunities within the social context, and complementarities between interventions and subsequent environmental affordances ».",
+   "contested": "(1) Le fade-out a longtemps été attribué à un artefact de mesure ; Bailey et al. (2020) tranchent : « fade-out is a substantive phenomenon, not merely a measurement artifact ». (2) Le contraste entre HSIS (effets évanouis) et les études de cohortes historiques peut refléter soit un vrai effet de contrefactuel, soit des biais des stratégies non expérimentales — l'étude de Boston elle-même note que ce patron « may be due to persistent impacts operating through non-cognitive channels (Heckman et al., 2013) or to biases in non-experimental research strategies (Hoxby, 2014) ». Le débat n'est pas tranché. (3) Kline & Walters concluent malgré tout à un ratio bénéfices/coûts supérieur à 1 « under a wide range of assumptions », en intégrant les économies budgétaires liées à la substitution entre programmes publics.",
+   "sources": [
+    {
+     "title": "Third Grade Follow-Up to the Head Start Impact Study: Final Report (OPRE Report 2012-45)",
+     "author": "Puma, Bell, Cook, Heid, Broene, Jenkins, Mashburn & Downer",
+     "org": "Administration for Children and Families, U.S. Department of Health and Human Services",
+     "year": "2012",
+     "url": "https://files.eric.ed.gov/fulltext/ED539264.pdf"
+    },
+    {
+     "title": "Prep School for Poor Kids: The Long-Run Impacts of Head Start on Human Capital and Economic Self-Sufficiency",
+     "author": "Martha J. Bailey, Shuqiao Sun & Brenden Timpe",
+     "org": "American Economic Review 111(12)",
+     "year": "2021",
+     "url": "https://doi.org/10.1257/aer.20181801"
+    },
+    {
+     "title": "Evaluating Public Programs with Close Substitutes: The Case of Head Start",
+     "author": "Patrick Kline & Christopher R. Walters",
+     "org": "Quarterly Journal of Economics 131(4)",
+     "year": "2016",
+     "url": "https://doi.org/10.1093/qje/qjw027"
+    },
+    {
+     "title": "Persistence and Fade-Out of Educational-Intervention Effects: Mechanisms and Potential Solutions",
+     "author": "Bailey, Duncan, Cunha, Foorman & Yeager",
+     "org": "Psychological Science in the Public Interest 21(2)",
+     "year": "2020",
+     "url": "https://doi.org/10.1177/1529100620915848"
+    }
+   ]
+  },
+  {
+   "claim": "Les indicateurs structurels de qualité — taux d'encadrement, ancienneté des enseignants — ne prédisent pratiquement pas les acquis des enfants dans les plages réglementaires usuelles. C'est le résultat le plus dérangeant pour une politique qui investit massivement dans l'encadrement.",
+   "what_it_is": "Deux revues systématiques avec méta-analyse, menées par la même équipe (Hospital for Sick Children / University of Toronto), testent l'association entre d'une part le ratio enfants/adulte et l'expérience des éducateurs, d'autre part les acquis développementaux des enfants en accueil et éducation préscolaires.",
+   "evidence_level": "revues systématiques avec méta-analyse d'études majoritairement corrélationnelles (donc : ce sont des associations, pas des effets causaux — ce qui affaiblit autant les conclusions positives que négatives)",
+   "effect_size": "Ratios : sur 209 analyses statistiques portant sur 83 mesures de résultats distinctes, « the available literature reveal few, if any, relationships between child-staff ratios in preschool ECEC programs and children's developmental outcomes ». La seule méta-analyse possible (3 études, vocabulaire réceptif au PPVT) donne une corrélation groupée r = 0,03 (IC 95 % : 0,00 à 0,05), non significative. Plage de ratios couverte : 5 à 14,5 enfants par adulte, moyenne 8,65.",
+   "concrete_practice": "Fixation réglementaire de normes d'encadrement et de recrutement — exactement le levier actionné par la FWB depuis 2020.",
+   "concrete_example": "Perlman, Fletcher, Falenchuk, Brunsek, McMullen & Shah (2017, PLOS ONE) recensent 29 études mesurant le ratio enfants/personnel en structure préscolaire et au moins un résultat développemental. Conclusion des auteurs : « within the range of permissible child-staff ratios, variations in ratios have small, if any, associations with concurrent and subsequent child outcomes ». Ils ajoutent immédiatement que ce constat ne justifie pas d'assouplir les normes, mais invite à chercher la qualité ailleurs, notamment dans le développement professionnel du personnel. La même équipe (Perlman et al., 2016, PLOS ONE) examine 35 études (39 échantillons) utilisant le CLASS, l'instrument de référence pour mesurer la qualité des interactions adulte-enfant : sur 14 méta-analyses, seules deux associations sont significatives — Organisation de la classe avec le Pencil Tapping (r = 0,06) et Soutien pédagogique avec les compétences sociales SSRS (r = 0,09).",
+   "conditions": "Ces résultats valent « dans la plage des ratios autorisés » : ils n'établissent pas qu'un ratio de 1 pour 30 équivaudrait à 1 pour 10. Ils établissent qu'un déplacement marginal à l'intérieur d'une plage déjà réglementée (par exemple de 15 à 13 enfants par enseignant) n'a pas de rendement mesurable observable, sauf s'il s'accompagne d'un changement de ce que l'adulte fait du temps ainsi libéré.",
+   "contested": "(1) Très contesté par le champ de la petite enfance, pour de bonnes raisons méthodologiques : le nombre d'études méta-analysables est minuscule (3 pour les ratios), les mesures de ratio sont souvent des moyennes déclaratives peu fiables, et la variance de ratio dans les échantillons est restreinte par la réglementation elle-même — un problème classique d'atténuation. (2) Une littérature concurrente identifie des effets de seuil : Burchinal, Vandergrift, Pianta & Mashburn (2010) et Hatfield, Burchinal, Pianta & Sideris (2016) trouvent des associations entre qualité des interactions et acquis au-dessus de certains seuils de qualité seulement — ce qui signifie qu'une moyenne linéaire nulle peut masquer un effet réel dans la queue basse de la distribution. (3) La faiblesse des corrélations du CLASS avec les acquis ne prouve pas que les interactions sont sans importance : elle peut signaler que l'instrument mesure mal ce qui compte. C'est l'interprétation retenue par plusieurs auteurs de ce champ.",
+   "sources": [
+    {
+     "title": "Child-Staff Ratios in Early Childhood Education and Care Settings and Child Outcomes: A Systematic Review and Meta-Analysis",
+     "author": "Perlman, Fletcher, Falenchuk, Brunsek, McMullen & Shah",
+     "org": "PLOS ONE 12(1)",
+     "year": "2017",
+     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170256"
+    },
+    {
+     "title": "A Systematic Review and Meta-Analysis of a Measure of Staff/Child Interaction Quality (the Classroom Assessment Scoring System) in Early Childhood Education and Care Settings",
+     "author": "Perlman, Falenchuk, Fletcher, McMullen, Beyene & Shah",
+     "org": "PLOS ONE 11(12)",
+     "year": "2016",
+     "url": "https://doi.org/10.1371/journal.pone.0167660"
+    },
+    {
+     "title": "Is educators' years of experience in early childhood education and care settings associated with child outcomes? A systematic review and meta-analysis",
+     "author": "McMullen, Perlman, Falenchuk, Kamkar, Fletcher & Brunsek",
+     "org": "Early Childhood Research Quarterly 53",
+     "year": "2020",
+     "url": "https://doi.org/10.1016/j.ecresq.2020.03.004"
+    },
+    {
+     "title": "Threshold analysis of association between child care quality and child outcomes for low-income children in pre-kindergarten programs",
+     "author": "Burchinal, Vandergrift, Pianta & Mashburn",
+     "org": "Early Childhood Research Quarterly 25(2)",
+     "year": "2010",
+     "url": "https://doi.org/10.1016/j.ecresq.2009.10.004"
+    }
+   ]
+  },
+  {
+   "claim": "La formation continue en cours d'emploi des personnels du préscolaire améliore fortement la qualité des pratiques (0,68 écart-type) mais ne transmet que faiblement cet effet aux enfants (0,14 écart-type) — la chaîne de transmission est réelle mais lossy, et il faut la dimensionner en conséquence.",
+   "what_it_is": "Méta-analyse d'études (quasi-)expérimentales évaluant des programmes de développement professionnel en cours d'emploi (coaching, mentorat, formation ciblée) pour des professionnels de l'accueil et de l'éducation préscolaires.",
+   "evidence_level": "méta-analyse d'essais randomisés et quasi-expérimentaux",
+   "effect_size": "Au niveau enseignant : effet de 0,68 écart-type (ES = 0,68 ; SE = 0,07 ; p<0,001) sur la qualité de processus, agrégé sur 36 études et 2 891 enseignants. Au niveau enfant : 0,14 écart-type (SE = 0,02 ; p<0,001), sur le sous-ensemble de 9 études fournissant les deux niveaux (486 enseignants, 4 504 enfants) ; effet correspondant au niveau classe : 0,45 écart-type (SE = 0,11). La variance des effets au niveau enfant est expliquée à 53 % par l'ampleur de l'effet sur la qualité mesurée.",
+   "concrete_practice": "Coaching individualisé en classe, observation filmée et retour structuré, communautés d'apprentissage professionnel, accompagnement à l'implémentation d'un curriculum — par opposition à la formation ponctuelle hors classe.",
+   "concrete_example": "Egert, Fukkink & Eckhardt (2018, Review of Educational Research) agrègent 36 études (quasi-)expérimentales de formation en cours d'emploi. Le résultat clé pour un décideur n'est pas la taille d'effet moyenne mais le lien de médiation : c'est spécifiquement l'amélioration mesurée de la qualité de processus qui explique la moitié de la variance des gains enfants. Un dispositif de formation qui ne déplace pas la qualité observée en classe ne déplace pas les acquis. Cela rejoint directement le cas de Boston, où le programme préscolaire évalué par Weiland & Yoshikawa (2013) sur 2 018 enfants « implemented a coaching system and consistent literacy, language, and mathematics curricula » et obtenait des « moderate-to-large impacts on children's language, literacy, numeracy and mathematics skills ».",
+   "conditions": "Le transfert vers les enfants suppose (a) que la formation cible des pratiques observables et mesurables, (b) qu'elle s'articule à un curriculum défini, (c) qu'elle soit soutenue dans la durée plutôt qu'événementielle. Un référentiel de compétences sans dispositif d'accompagnement des pratiques n'a aucun mécanisme identifié par lequel il produirait des acquis.",
+   "contested": "(1) Le ratio 0,68 → 0,14 signifie qu'environ 80 % de l'effet sur les pratiques ne se retrouve pas chez les enfants ; certains auteurs y voient la preuve que les mesures de qualité captent mal ce qui importe, d'autres que les interventions de formation améliorent surtout ce qui est observé. (2) Le sous-échantillon permettant d'estimer l'effet enfant est de 9 études seulement. (3) Les études incluses sont majoritairement nord-américaines, avec des personnels souvent moins qualifiés à l'entrée que les instituteurs maternels de la FWB — ce qui peut réduire le rendement marginal d'une formation en contexte FWB (effet de plafond). (4) Egert, Dederer & Fukkink (2020) confirment l'effet sur la qualité des interactions mais ne l'étendent pas automatiquement aux acquis.",
+   "sources": [
+    {
+     "title": "Impact of In-Service Professional Development Programs for Early Childhood Teachers on Quality Ratings and Child Outcomes: A Meta-Analysis",
+     "author": "Franziska Egert, Ruben Fukkink & Andrea G. Eckhardt",
+     "org": "Review of Educational Research 88(3)",
+     "year": "2018",
+     "url": "https://doi.org/10.3102/0034654317751918"
+    },
+    {
+     "title": "The impact of in-service professional development on the quality of teacher-child interactions in early education and care: A meta-analysis",
+     "author": "Egert, Dederer & Fukkink",
+     "org": "Educational Research Review 29",
+     "year": "2020",
+     "url": "https://doi.org/10.1016/j.edurev.2019.100309"
+    },
+    {
+     "title": "Impacts of a Prekindergarten Program on Children's Mathematics, Language, Literacy, Executive Function, and Emotional Skills",
+     "author": "Christina Weiland & Hirokazu Yoshikawa",
+     "org": "Child Development 84(6)",
+     "year": "2013",
+     "url": "https://doi.org/10.1111/cdev.12099"
+    }
+   ]
+  },
+  {
+   "claim": "Un curriculum préscolaire explicite et spécifique à un domaine produit des effets importants — mais la plupart des curricula préscolaires n'en produisent aucun : sur 14 curricula évalués par essai randomisé aux États-Unis, 2 seulement ont eu un effet sur les acquis des enfants en année préscolaire.",
+   "what_it_is": "D'un côté, l'essai randomisé de Building Blocks, curriculum mathématique préscolaire construit sur des trajectoires d'apprentissage documentées. De l'autre, la Preschool Curriculum Evaluation Research (PCER) initiative de l'Institute of Education Sciences, qui a soumis 14 curricula du commerce à des essais randomisés selon un protocole commun.",
+   "evidence_level": "essais randomisés (les deux)",
+   "effect_size": "Building Blocks : +0,47 écart-type contre un autre curriculum mathématique préscolaire, +1,07 écart-type contre le groupe contrôle, après 26 semaines d'enseignement. PCER : 2 curricula sur 14 ont un effet sur les acquis en année préscolaire ; 4 sur 14 en maternelle (kindergarten), dont un effet NÉGATIF (Project Approach sur le comportement) ; 8 sur 14 ont un effet sur les mesures au niveau de la classe (qualité, instruction) sans effet correspondant sur les enfants.",
+   "concrete_practice": "Building Blocks : séquences d'activités mathématiques quotidiennes calées sur des trajectoires d'apprentissage (subitizing, comptage, comparaison, composition de nombres, géométrie), intégrées à la routine de classe et outillées par des logiciels, avec formation et suivi des enseignants.",
+   "concrete_example": "Clements & Sarama (2008, American Educational Research Journal) : 36 classes préscolaires assignées aléatoirement à Building Blocks, à un curriculum mathématique comparatif, ou au contrôle ; enfants testés individuellement avant et après 26 semaines. Des mesures d'observation confirment la fidélité d'implémentation et un effet significatif sur l'environnement et l'enseignement mathématiques de la classe. La PCER (IES, 2008) fournit le contrepoint : 12 équipes de recherche, 14 curricula, classes assignées aléatoirement au curriculum d'intervention ou au curriculum de contrôle, mêmes 27 mesures pour tous. Résultat : « Ten curricula show no statistically significant impacts on any of the student-level measures » en année préscolaire. Les deux qui marchent sont DLM Early Childhood Express complété par Open Court Reading Pre-K (lecture, conscience phonologique, langage) et Pre-K Mathematics complété par le logiciel DLM Math (mathématiques) — soit, dans les deux cas, un curriculum de domaine explicite et complété, pas un curriculum généraliste.",
+   "conditions": "Ce qui distingue les deux curricula efficaces de la PCER et Building Blocks : spécificité de domaine, séquence d'apprentissage explicite, matériel complémentaire, et formation des enseignants à ce contenu précis. Ce qui échoue : les curricula généralistes centrés sur l'organisation de l'environnement et le développement global. Un référentiel de compétences attendues n'est pas un curriculum en ce sens : il énonce des cibles, il ne fournit ni séquence, ni matériel, ni formation.",
+   "contested": "(1) Clements et Sarama sont les auteurs de Building Blocks : c'est une évaluation par le développeur, situation où les tailles d'effet sont systématiquement plus élevées que dans les réplications indépendantes. L'effet de 1,07 écart-type doit être lu avec cette réserve. (2) La PCER ne compare pas les curricula entre eux (« cross-curriculum comparisons are not made ») et chaque groupe contrôle diffère ; on ne peut donc pas classer les 14. (3) Le taux d'échec de la PCER (12 curricula sur 14 sans effet sur les enfants) est parfois attribué à un manque de puissance statistique par site plutôt qu'à une absence réelle d'effet. (4) Le fait que 8 curricula sur 14 améliorent la qualité observée de la classe sans améliorer les acquis des enfants est un avertissement direct : piloter la réforme sur des indicateurs de qualité de classe peut donner l'illusion du succès.",
+   "sources": [
+    {
+     "title": "Experimental Evaluation of the Effects of a Research-Based Preschool Mathematics Curriculum",
+     "author": "Douglas H. Clements & Julie Sarama",
+     "org": "American Educational Research Journal 45(2)",
+     "year": "2008",
+     "url": "https://doi.org/10.3102/0002831207312908"
+    },
+    {
+     "title": "Effects of Preschool Curriculum Programs on School Readiness (NCER 2008-2009)",
+     "author": "Preschool Curriculum Evaluation Research Consortium",
+     "org": "National Center for Education Research, Institute of Education Sciences, U.S. Department of Education",
+     "year": "2008",
+     "url": "https://ies.ed.gov/ncer/pubs/20082009/pdf/20082009_rev.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Une intervention langagière ciblée, courte et scriptée, délivrée par du personnel non spécialiste, est le dispositif préscolaire dont les preuves sont aujourd'hui les plus solides ET les plus reproduites à grande échelle : quatre essais randomisés, un déploiement national sur plus de 10 000 écoles, et une persistance des effets à deux ans.",
+   "what_it_is": "Le Nuffield Early Language Intervention (NELI) : programme de 20 semaines (version courte) ou 30 semaines (version longue) de développement du langage oral, destiné aux enfants de 4-5 ans identifiés comme faibles en langage à l'entrée à l'école, délivré par des assistants d'éducation formés, en petits groupes et en séances individuelles quotidiennes.",
+   "evidence_level": "essais randomisés contrôlés (quatre), plus une évaluation quasi-expérimentale par régression sur discontinuité à l'échelle nationale, plus un suivi longitudinal à deux ans",
+   "effect_size": "Déploiement national (régression sur discontinuité, 19 936 enfants) : Hedges' g = 0,40 sur le développement langagier. Suivi à deux ans après la fin de l'intervention : langage oral d = 0,22 (d = 0,33 pour les enfants au langage le plus faible) ; compréhension en lecture d = 0,16 (0,24) ; lecture de mots isolés d = 0,16 (0,22).",
+   "concrete_practice": "20 semaines, séances quotidiennes en petit groupe (3 par semaine) plus séances individuelles, sur le vocabulaire, la narration, l'écoute active et la conscience phonologique, avec un script détaillé, du matériel fourni, une formation en ligne asynchrone des assistants d'éducation, et un dépistage automatisé (LanguageScreen) pour identifier les enfants éligibles et suivre leurs progrès.",
+   "concrete_example": "En réponse à la crise du COVID-19, le gouvernement britannique a financé le déploiement de NELI dans plus de 10 000 écoles primaires d'Angleterre. West, Titiunik, Hearne, Korell, Duta & Hulme (American Journal of Speech-Language Pathology, 2026) exploitent le seuil de l'évaluation langagière automatisée qui déterminait l'accès au programme : ils comparent les enfants juste au-dessus et juste en dessous du seuil (design de régression sur discontinuité), sur 19 936 enfants, et trouvent g = 0,40. Hulme, West, Rios Diaz, Hearne, Korell, Duta & Snowling (Journal of Child Psychology and Psychiatry, 2025) retestent environ deux ans après la fin de l'intervention et montrent que les gains persistent en langage et se transmettent à la lecture. En amont, l'essai randomisé de Fricke, Burgoyne, Bowyer-Crane et al. (JCPP, 2017) portait sur 394 enfants en Angleterre, comparant une version de 30 semaines démarrant en nursery (N = 132), une version de 20 semaines démarrant en Reception (N = 133) et un groupe contrôle en liste d'attente.",
+   "conditions": "Trois conditions non négociables : (a) un dépistage systématique permettant d'identifier les enfants cibles — le programme est ciblé, pas universel ; (b) un script et un matériel standardisés, précisément parce qu'il est délivré par des non-spécialistes ; (c) une formation et un soutien continu à l'implémentation. Le déploiement national a explicitement adapté ces composantes selon un cadre d'implémentation (Consolidated Framework for Implementation Research) pour tenir à l'échelle.",
+   "contested": "(1) Le design de régression sur discontinuité n'estime l'effet qu'au voisinage du seuil : il ne dit rien des enfants très éloignés du seuil. (2) L'équipe qui évalue (Hulme, Snowling, West, Oxford) est aussi celle qui a développé NELI et qui commercialise LanguageScreen : les quatre essais et le suivi sont menés par les concepteurs, ce qui est le facteur de risque le mieux documenté de surestimation des effets. Une réplication pleinement indépendante (l'essai néo-zélandais enregistré sous ISRCTN15660056) est nécessaire pour lever cette réserve. (3) Les auteurs de la revue sur le fade-out (Bailey et al. 2020) prédiraient une décroissance plus rapide ; le résultat à deux ans y contrevient, ce que les auteurs de NELI revendiquent explicitement — mais deux ans reste court au regard des 20 ans de suivi de Boston. (4) Transposition linguistique non testée : aucun essai de NELI en français n'est publié à ma connaissance ; une adaptation supposerait de reconstruire le contenu lexical et phonologique, ce qui n'est pas une traduction.",
+   "sources": [
+    {
+     "title": "Real-World Effectiveness of Early Language Intervention: Evidence From a Nationwide Rollout of the Nuffield Early Language Intervention in England",
+     "author": "West, Titiunik, Hearne, Korell, Duta & Hulme",
+     "org": "American Journal of Speech-Language Pathology",
+     "year": "2026",
+     "url": "https://doi.org/10.1044/2025_ajslp-25-00205"
+    },
+    {
+     "title": "The Nuffield Early Language Intervention (NELI) programme is associated with lasting improvements in children's language and reading skills",
+     "author": "Hulme, West, Rios Diaz, Hearne, Korell, Duta & Snowling",
+     "org": "Journal of Child Psychology and Psychiatry",
+     "year": "2025",
+     "url": "https://doi.org/10.1111/jcpp.14157"
+    },
+    {
+     "title": "The efficacy of early language intervention in mainstream school settings: a randomized controlled trial",
+     "author": "Fricke, Burgoyne, Bowyer-Crane, Kyriacou, Zosimidou, Maxwell et al.",
+     "org": "Journal of Child Psychology and Psychiatry 58(10)",
+     "year": "2017",
+     "url": "https://doi.org/10.1111/jcpp.12737"
+    },
+    {
+     "title": "Efficacy of language intervention in the early years",
+     "author": "Fricke, Bowyer-Crane, Haley, Hulme & Snowling",
+     "org": "Journal of Child Psychology and Psychiatry 54(3)",
+     "year": "2013",
+     "url": "https://doi.org/10.1111/jcpp.12010"
+    }
+   ]
+  },
+  {
+   "claim": "Le récit du « fossé de 30 millions de mots » entre enfants pauvres et riches, qui sert d'argumentaire standard aux politiques de langage précoce, a échoué à se répliquer. L'écart de vocabulaire existe, mais sa description dominante est fausse — et cela change la conception des dispositifs.",
+   "what_it_is": "Hart & Risley (1995) avaient observé 42 familles américaines et estimé qu'à 4 ans un enfant de famille pauvre avait entendu 30 millions de mots de moins qu'un enfant de famille de cadres. Cette statistique structure depuis trente ans le discours sur le langage précoce.",
+   "evidence_level": "étude descriptive originale à très petit échantillon ; échec de réplication par étude ethnographique et observationnelle ; travaux de standardisation par enregistrement automatisé",
+   "effect_size": "Non disponible sous forme de taille d'effet standardisée. Sperry, Sperry & Miller (2019, Child Development) : sur 42 enfants de 18 à 48 mois observés à domicile dans cinq communautés américaines de niveaux économiques différents, l'écart n'est pas reproduit ; les auteurs relèvent « substantial variation in vocabulary environments within each socioeconomic stratum » et montrent que les enfants de familles pauvres entendent davantage de mots qu'estimé lorsqu'on compte les locuteurs multiples et la parole non directement adressée.",
+   "concrete_practice": "Les politiques dérivées de Hart & Risley consistent typiquement à dire aux parents défavorisés de parler davantage à leur enfant — une intervention de type déficit parental. Les politiques dérivées du constat de variance intra-groupe consistent au contraire à évaluer individuellement le langage de chaque enfant et à intervenir sur ceux qui en ont besoin, indépendamment de leur milieu.",
+   "concrete_example": "Sperry, Sperry & Miller (2019) combinent travail ethnographique et observations à domicile dans cinq communautés américaines contrastées et ne retrouvent pas l'écart de Hart & Risley. Le corollaire opérationnel est visible dans le dispositif NELI décrit plus haut : l'éligibilité y est déterminée par un test langagier individuel administré à tous les enfants entrants (LanguageScreen), et non par un indice socio-économique — ce qui est exactement ce que prédit la découverte d'une forte variance intra-strate. Sur 19 936 enfants dépistés dans le déploiement anglais, l'allocation par seuil de score a permis un design de régression sur discontinuité, donc l'identification causale ; une allocation par indice social ne l'aurait pas permise.",
+   "conditions": "Le dépistage individuel n'a de valeur que s'il est adossé à une intervention disponible pour ceux qu'il identifie. Un dépistage sans suite est un coût sans bénéfice (voir l'élément sur le dépistage).",
+   "contested": "(1) La réfutation elle-même repose sur 42 enfants, c'est-à-dire la même faiblesse d'échantillon que l'étude qu'elle conteste : personne n'a tranché à grande échelle. (2) Gilkerson, Richards, Warren et al. (2017, AJSLP) ont produit une standardisation à partir de 3 213 enregistrements de 12 heures analysés automatiquement (système LENA) et retrouvent des différences liées au milieu socio-économique — le débat n'est donc pas clos en faveur de Sperry. (3) Le désaccord porte moins sur l'existence d'un écart que sur sa taille, sa cause et le fait qu'il soit un bon prédicteur individuel : sur ce dernier point, la variance intra-groupe documentée par Sperry est le résultat robuste et le plus directement actionnable.",
+   "sources": [
+    {
+     "title": "Reexamining the Verbal Environments of Children From Different Socioeconomic Backgrounds",
+     "author": "Douglas E. Sperry, Linda L. Sperry & Peggy J. Miller",
+     "org": "Child Development 90(4)",
+     "year": "2019",
+     "url": "https://doi.org/10.1111/cdev.13072"
+    },
+    {
+     "title": "Mapping the Early Language Environment Using All-Day Recordings and Automated Analysis",
+     "author": "Gilkerson, Richards, Warren, Montgomery, Greenwood & Kimbrough Oller",
+     "org": "American Journal of Speech-Language Pathology 26(2)",
+     "year": "2017",
+     "url": "https://doi.org/10.1044/2016_ajslp-15-0169"
+    },
+    {
+     "title": "Real-World Effectiveness of Early Language Intervention: Evidence From a Nationwide Rollout of the Nuffield Early Language Intervention in England",
+     "author": "West, Titiunik, Hearne, Korell, Duta & Hulme",
+     "org": "American Journal of Speech-Language Pathology",
+     "year": "2026",
+     "url": "https://doi.org/10.1044/2025_ajslp-25-00205"
+    }
+   ]
+  },
+  {
+   "claim": "Le dépistage universel des troubles du langage chez l'enfant de moins de 5 ans n'a pas de base de preuves suffisante en soi : l'autorité d'évaluation américaine maintient depuis 2006 un avis d'insuffisance de preuves. Ce qui est démontré, ce n'est pas le dépistage seul, mais le couple dépistage-intervention.",
+   "what_it_is": "L'US Preventive Services Task Force (USPSTF) évalue périodiquement l'intérêt du dépistage systématique des retards et troubles du langage et de la parole chez les enfants de 5 ans et moins asymptomatiques, c'est-à-dire sans inquiétude exprimée par les parents ou le clinicien.",
+   "evidence_level": "revue systématique de preuves par une agence d'évaluation indépendante, aboutissant à une recommandation graduée",
+   "effect_size": "Non disponible : c'est précisément le constat. Recommandation de grade I (insufficient evidence), réaffirmée le 23 janvier 2024 : « The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for speech and language delay and disorders in children 5 years or younger. » Même conclusion en 2015 et en 2006.",
+   "concrete_practice": "Le grade I n'est pas une recommandation contre le dépistage : il signifie que la balance bénéfices/risques ne peut pas être établie, et renvoie au jugement clinique. Les points de vigilance identifiés portent sur la précision des outils en soins primaires, et sur l'absence de démonstration que le dépistage lui-même (par opposition à l'intervention qui le suit) améliore les résultats.",
+   "concrete_example": "L'USPSTF a réexaminé en 2024 les preuves sur (a) la précision des outils de dépistage en soins primaires, (b) le rôle de la surveillance par les cliniciens, (c) le fait que dépistage et interventions améliorent ou non les résultats, et (d) les effets indésirables potentiels ; elle a maintenu le grade I et a explicitement appelé à des travaux supplémentaires ciblant les populations à prévalence plus élevée (enfants noirs, hispaniques, et de foyers à bas revenus). Le contre-exemple positif est le dispositif anglais : là, le dépistage (LanguageScreen) n'est pas une fin mais le mécanisme d'allocation d'une intervention dont l'efficacité est elle-même établie par essai randomisé — et c'est l'ensemble, non le dépistage, qui produit g = 0,40 sur 19 936 enfants.",
+   "conditions": "Un dépistage n'a de valeur mesurable que s'il est (a) intégré dans le lieu où les enfants se trouvent déjà, donc l'école maternelle plutôt que le cabinet médical ; (b) directement couplé à une intervention disponible, gratuite et d'efficacité établie ; (c) répété pour suivre les progrès plutôt qu'administré une fois. Sans ces trois conditions, l'avis de l'USPSTF s'applique et le dépistage est un coût sans rendement démontré.",
+   "contested": "(1) Le grade I est régulièrement mal lu, dans les deux sens : ce n'est ni un feu vert ni une condamnation. (2) L'étude du Tennessee fournit un signal d'alerte empirique : les enfants passés par le pré-K y étaient plus souvent orientés vers l'enseignement spécialisé (11,7 % contre 8,4 %), et les auteurs reconnaissent que cela peut refléter une identification plus précoce du fait que les classes étaient hébergées en école primaire — un dépistage renforcé produit mécaniquement plus de diagnostics, dont le bénéfice net n'est pas établi et dont le coût budgétaire est immédiat. (3) L'USPSTF évalue le dépistage en soins primaires (médecine), pas le dépistage scolaire ; la transposition de son avis à un dépistage en classe est une extrapolation qu'il faut assumer comme telle.",
+   "sources": [
+    {
+     "title": "Screening for Speech and Language Delay and Disorders in Children 5 Years or Younger: US Preventive Services Task Force Recommendation Statement (Grade I)",
+     "org": "U.S. Preventive Services Task Force",
+     "year": "2024",
+     "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/speech-and-language-delay-and-disorders-in-children-age-5-and-younger-screening"
+    },
+    {
+     "title": "Screening for Speech and Language Delay and Disorders in Children Aged 5 Years or Younger: US Preventive Services Task Force Recommendation Statement",
+     "author": "Albert L. Siu (pour l'USPSTF)",
+     "org": "Pediatrics 136(2)",
+     "year": "2015",
+     "url": "https://doi.org/10.1542/peds.2015-1711"
+    },
+    {
+     "title": "Effects of a Statewide Prekindergarten Program on Children's Achievement and Behavior through Sixth Grade",
+     "author": "Durkin, Lipsey, Farran & Wiesen",
+     "org": "Developmental Psychology 58(3)",
+     "year": "2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716729/"
+    }
+   ]
+  },
+  {
+   "claim": "Les enfants qui bénéficieraient le plus du préscolaire sont précisément ceux qui y accèdent le moins — et augmenter l'offre de places ne les y amène pas. C'est le résultat européen le plus directement transposable, et il implique que le levier n'est pas la capacité mais le ciblage actif.",
+   "what_it_is": "Cornelissen, Dustmann, Raute & Schönberg exploitent l'expansion échelonnée par municipalité de l'accueil préscolaire universel en Allemagne, croisée avec les examens médicaux obligatoires d'entrée à l'école, pour estimer des rendements marginaux (méthode des marginal treatment effects) : qui gagne quoi selon sa propension à s'inscrire.",
+   "evidence_level": "évaluation quasi-expérimentale sur données administratives exhaustives (examens d'entrée scolaire obligatoires), publiée au Journal of Political Economy",
+   "effect_size": "Dans l'état non traité, les enfants issus de l'immigration ont 12 points de pourcentage de probabilité en moins d'être jugés prêts pour l'entrée scolaire que les enfants majoritaires ; leur effet de traitement est supérieur de 12 points de pourcentage — l'accueil précoce efface donc quasiment l'écart. Simulations de politique : augmenter la propension d'inscription jusqu'à 90 % (cible européenne de Barcelone) accroît la probabilité d'être prêt pour l'école de 16-17 points de pourcentage par enfant déplacé ; mais une politique d'expansion de l'offre de places n'accroît l'attendance que de 4 à 5 points de pourcentage et « induce no change in the early child care attendance rate of minority children ».",
+   "concrete_practice": "Deux politiques radicalement différentes : (a) créer des places (norme d'offre, taux de couverture) ; (b) aller chercher les familles qui ne s'inscrivent pas (campagnes d'information ciblées, gratuité totale, médiation).",
+   "concrete_example": "Données : l'ensemble des examens d'entrée scolaire standardisés et obligatoires de la région Weser-Ems (Basse-Saxe) de 1994 à 2002, appariés aux taux de couverture municipaux en accueil préscolaire mesurés trois ans plus tôt (soit à l'âge de 3 ans de l'enfant). Les auteurs simulent explicitement deux politiques d'offre : porter le taux de couverture à 100 % là où il est inférieur, et ajouter 40 points de couverture. Les deux produisent des gains de 12,3 et 14,1 points de pourcentage de préparation scolaire par enfant effectivement déplacé — mais ne déplacent que 4 à 5 % des enfants, et aucun enfant issu de l'immigration supplémentaire. Conclusion des auteurs : « creating additional child care slots alone is not enough to attract more children (and specifically minority children) into child care […] the expansion in child care slots should be complemented by other policies such as informational campaigns or free access to child care for disadvantaged and minority families. »",
+   "conditions": "Le résultat suppose que la contrainte n'est pas la capacité mais la demande — situation typique d'un système où le préscolaire est déjà largement disponible et gratuit. Il suppose aussi que l'accueil offert soit de qualité suffisante pour que le gain existe (voir Tennessee : un accueil de mauvaise qualité pédagogique produit des effets négatifs, donc ramener plus d'enfants vers lui serait contre-productif).",
+   "contested": "(1) Design quasi-expérimental, pas randomisé : l'identification repose sur la variation du calendrier d'expansion entre municipalités, qui pourrait être corrélée à d'autres évolutions locales. (2) La mesure de résultat est la « préparation scolaire » évaluée lors de l'examen médical d'entrée, pas des acquis scolaires ultérieurs. (3) Havnes & Mogstad (2011, AEJ: Economic Policy), sur l'expansion norvégienne, trouvent au contraire des effets de long terme « strong positive […] on children's educational attainment and labor market participation », les plus forts pour les enfants de mères peu éduquées et pour les filles — mais leurs mêmes données montrent que l'accueil subventionné a surtout « crowd[ed] out informal child care arrangements » plutôt qu'accru l'emploi maternel, ce qui rappelle que l'effet net dépend entièrement de ce qui est remplacé. (4) La transposition au niveau de couverture de la FWB (où la fréquentation du maternel est réputée quasi universelle dès 3 ans) est incertaine : si la marge de non-fréquentation est très faible, l'effet agrégé d'une politique de ciblage est mécaniquement petit, même si le rendement par enfant déplacé est élevé.",
+   "sources": [
+    {
+     "title": "Who Benefits from Universal Child Care? Estimating Marginal Returns to Early Child Care Attendance",
+     "author": "Thomas Cornelissen, Christian Dustmann, Anna Raute & Uta Schönberg",
+     "org": "Journal of Political Economy 126(6)",
+     "year": "2018",
+     "url": "https://eprints.whiterose.ac.uk/id/eprint/126965/1/Edited_MTE_paper_2ndrevision_final.pdf"
+    },
+    {
+     "title": "No Child Left Behind: Subsidized Child Care and Children's Long-Run Outcomes",
+     "author": "Tarjei Havnes & Magne Mogstad",
+     "org": "American Economic Journal: Economic Policy 3(2)",
+     "year": "2011",
+     "url": "https://doi.org/10.1257/pol.3.2.97"
+    },
+    {
+     "title": "Money for Nothing? Universal Child Care and Maternal Employment",
+     "author": "Tarjei Havnes & Magne Mogstad",
+     "org": "SSRN",
+     "year": "2009",
+     "url": "https://doi.org/10.2139/ssrn.1497710"
+    }
+   ]
+  },
+  {
+   "claim": "Les ratios bénéfices/coûts du préscolaire public, quand ils sont estimés par un organisme indépendant selon une méthode homogène, se situent entre 2,7 et 4,8 pour 1 — élevés, mais un ordre de grandeur en dessous des chiffres militants, et non supérieurs à ceux d'interventions plus tardives.",
+   "what_it_is": "Le Washington State Institute for Public Policy (WSIPP), agence d'évaluation non partisane du Parlement de l'État de Washington, produit depuis vingt ans des analyses coûts-bénéfices standardisées sur l'ensemble des politiques sociales, avec la même méthode, les mêmes hypothèses de taux d'actualisation et les mêmes analyses de sensibilité Monte Carlo.",
+   "evidence_level": "analyse coûts-bénéfices appliquée à des méta-analyses d'évaluations (niveau de preuve : synthèse économique de preuves de niveaux hétérogènes)",
+   "effect_size": "Par participant : programmes préscolaires publics universels — bénéfices 29 565 USD, coût 8 246 USD, ratio 3,59 ; programmes préscolaires publics ciblés bas revenus — bénéfices 16 619 USD, coût 3 475 USD, ratio 4,78 ; Head Start — bénéfices 27 643 USD, coût 10 381 USD, ratio 2,66 ; Child-Parent Center (Chicago) — bénéfices 49 930 USD, coût 11 914 USD, ratio 4,19.",
+   "concrete_practice": "Comparer, à budget contraint, le rendement du préscolaire à celui d'autres usages du même euro : tutorat intensif, réduction de taille de classe en primaire, formation professionnelle, programmes de prévention.",
+   "concrete_example": "Les estimations WSIPP ci-dessus reposent sur des revues de littérature datées de juillet 2019 (programmes d'État) et avril 2020 (Child-Parent Center). Le point politiquement décisif est le rapport entre les deux lignes « programmes d'État » : le préscolaire ciblé bas revenus a un ratio supérieur (4,78 contre 3,59) au préscolaire universel, parce que son coût par participant est 2,4 fois plus faible (3 475 contre 8 246 USD) alors que ses bénéfices ne sont inférieurs que de 44 %. Sur cette base indépendante, dans un système sous contrainte budgétaire, l'euro marginal rend davantage en intensité ciblée qu'en extension universelle.",
+   "conditions": "Ces ratios sont calculés pour l'État de Washington, avec ses coûts salariaux, son système fiscal, ses coûts de criminalité et son taux d'actualisation. Ils supposent que les tailles d'effet importées de la littérature américaine se réalisent. Ils intègrent, comme pour Perry, une valorisation de la criminalité évitée dont la transposition à un contexte européen à criminalité et incarcération beaucoup plus faibles réduirait mécaniquement les bénéfices.",
+   "contested": "(1) Rea & Burton (2020, Journal of Economic Surveys) utilisent exactement cette base WSIPP pour tester la courbe de Heckman et concluent : aucun soutien à l'idée que les programmes précoces auraient les meilleurs ratios, ni que les programmes destinés aux adultes coûteraient plus qu'ils ne rapportent. L'argument du « rendement décroissant avec l'âge » — pilier rhétorique de toute plaidoirie pour la petite enfance — n'est pas soutenu par la seule base de données homogène disponible. (2) Heckman et ses coauteurs contestent cette lecture (voir « Clarifying the Nature of the Heckman Curve », Journal of Economic Surveys 2020), en soutenant que la courbe porte sur des programmes de qualité comparable et non sur l'ensemble hétérogène du catalogue WSIPP. Le désaccord est ouvert et n'est pas tranché. (3) Les ratios WSIPP ne tiennent pas compte des résultats du Tennessee : un programme préscolaire dont les effets sont négatifs a un ratio bénéfices/coûts négatif, ce que la moyenne masque.",
+   "sources": [
+    {
+     "title": "Benefit-Cost Results: Pre-K to 12 Education / Early childhood education",
+     "org": "Washington State Institute for Public Policy",
+     "year": "2019-2020 (revues de littérature), consulté 2026",
+     "url": "https://www.wsipp.wa.gov/BenefitCost?topicId=4"
+    },
+    {
+     "title": "New Evidence on the Heckman Curve",
+     "author": "David Rea & Tony Burton",
+     "org": "Journal of Economic Surveys 34(2)",
+     "year": "2020",
+     "url": "https://doi.org/10.1111/joes.12353"
+    },
+    {
+     "title": "Clarifying the Nature of the Heckman Curve",
+     "author": "David Rea & Tony Burton (et réponses associées)",
+     "org": "Journal of Economic Surveys",
+     "year": "2020",
+     "url": "https://doi.org/10.1111/joes.12359"
+    }
+   ]
+  },
+  {
+   "claim": "Appliquée aux trois choix opérés par la FWB depuis 2020 — référentiel des compétences initiales, renforcement de l'encadrement, obligation scolaire à 5 ans — la littérature prédit un effet nul à faible sur les acquis à l'horizon d'une décennie, sauf si ces mesures sont complétées par un curriculum opérationnel de langage et de mathématiques et par un dispositif de formation continue des instituteurs maternels.",
+   "what_it_is": "La FWB a rendu l'enseignement obligatoire dès 5 ans à partir de septembre 2020 (la dernière année de maternel devient obligatoire), a adopté un Référentiel des compétences initiales couvrant les trois années de maternel (M1-M3) organisé en cinq domaines disciplinaires et trois domaines transversaux, commun à tous les réseaux, et a renforcé l'encadrement maternel.",
+   "evidence_level": "description sans évaluation pour le dispositif FWB lui-même (aucune évaluation causale publiée à ce jour) ; la prédiction ci-dessous repose sur les niveaux de preuve des éléments 5, 6, 7, 8 et 11",
+   "effect_size": "Non disponible pour la FWB. Prédictions fondées sur les tailles d'effet établies ailleurs : encadrement, r ≈ 0,03 non significatif (Perlman et al. 2017) ; référentiel sans curriculum ni formation, effet non identifié (PCER : 12 curricula sur 14 sans effet enfant) ; obligation à 5 ans, effet borné par la taille de la population marginale non scolarisée (Cornelissen et al. : une politique d'offre ne déplace que 4-5 points de pourcentage d'enfants) ; à l'inverse, formation continue adossée à un curriculum, 0,14 écart-type enfant (Egert et al. 2018) et intervention langagière ciblée, g = 0,40 puis d = 0,22 à deux ans (West et al. 2026 ; Hulme et al. 2025).",
+   "concrete_practice": "Ce que la recherche identifie comme le bloc actif, par ordre de rendement attendu décroissant : (1) une intervention langagière ciblée, scriptée, allouée par dépistage individuel systématique en M3 et en 1re primaire, délivrée par du personnel non spécialiste formé ; (2) un curriculum mathématique préscolaire explicite à trajectoires d'apprentissage, avec matériel et formation associés ; (3) un dispositif de coaching en classe mesurant la qualité observée des interactions. Ce que la recherche n'identifie PAS comme actif : un déplacement marginal du taux d'encadrement, un référentiel de cibles non outillé, une extension de la durée d'exposition.",
+   "concrete_example": "Depuis septembre 2020, conformément au cadre décrit par Eurydice pour la Communauté française de Belgique, « children aged 5 years and above are subject to compulsory education: the final year of pre-primary education is now compulsory », l'accès gratuit au maternel restant ouvert dès 2,5 ans. Le Référentiel des compétences initiales couvre M1 à M3 et s'applique à toutes les écoles quel que soit leur réseau, autour de cinq domaines (français/langues anciennes/arts et culture ; langues modernes ; mathématiques, sciences et techniques ; sciences humaines, philosophie, citoyenneté ; éducation physique, bien-être et santé) et trois domaines transversaux. Le cas du Tennessee est le comparateur le plus instructif : ce programme satisfaisait 9 des 10 critères structurels du NIEER — enseignants licenciés et payés à la grille du public, classes plafonnées à 20, 5,5 heures par jour, curriculum choisi sur liste officielle — c'est-à-dire un profil structurel proche de ce vers quoi tend la FWB, et il a produit -0,178 écart-type en mathématiques en 6e année. La configuration inverse est celle de Boston : mêmes qualifications, mais curricula nommés et imposés (Opening the World of Learning, Building Blocks) plus coaching pédagogique, et +8,3 points de pourcentage d'accès au supérieur.",
+   "conditions": "Horizon temporel : les effets sur les acquis mesurés en fin de primaire ne seraient observables qu'en 2027-2030 pour les cohortes entrées en maternel en 2020-2021 ; les effets sur PISA (élèves de 15 ans) de la cohorte entrée en M1 en 2020 ne seraient mesurables qu'en 2033-2034. Aucune réforme du maternel engagée en 2020 ne peut expliquer un résultat PISA avant cette date. Toute attente d'un redressement PISA à court terme attribuable au maternel est sans fondement.",
+   "contested": "(1) Le chiffre d'un encadrement passé de 15,3 à 12,8 élèves par enseignant m'a été fourni comme élément de contexte : je n'ai PAS pu le vérifier sur une source primaire de la FWB (Indicateurs de l'enseignement, circulaires de calcul du capital-périodes) dans le cadre de cette revue — les pages consultées sur enseignement.be et Eurydice ne le documentent pas. Il doit être confirmé avant publication. J'ai également écarté une source apparemment pertinente (un PDF Gallilex présenté par un outil automatique comme le décret abaissant l'obligation scolaire) après vérification du texte intégral : il s'agissait d'une circulaire sans rapport. (2) Le raisonnement par analogie Tennessee/Boston est un raisonnement, pas une preuve : aucune étude ne teste directement l'hypothèse « curriculum + coaching contre encadrement » en comparaison expérimentale. (3) Un argument légitime en sens inverse : la réduction du nombre d'élèves par classe peut être une condition permissive — sans elle, un curriculum explicite peut être inapplicable — même si elle n'a pas d'effet propre. Aucune donnée ne permet de trancher. (4) Aucune évaluation causale du Référentiel des compétences initiales ni de l'obligation à 5 ans n'a été publiée ; je n'ai identifié aucun dispositif d'évaluation prévu, ce qui est en soi le problème le plus grave signalé par cette revue.",
+   "sources": [
+    {
+     "title": "Belgium – French Community: Early Childhood Education and Care",
+     "org": "Eurydice, European Education and Culture Executive Agency (Commission européenne)",
+     "year": "consulté 2026",
+     "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/belgium-french-community/early-childhood-education-and-care"
+    },
+    {
+     "title": "Contenus d'apprentissage – Référentiel des compétences initiales (M1-M3)",
+     "org": "Fédération Wallonie-Bruxelles, enseignement.be",
+     "year": "consulté 2026",
+     "url": "https://www.enseignement.be/index.php?page=25189"
+    },
+    {
+     "title": "Belgium – French Community: Early Childhood and School Education Funding",
+     "org": "Eurydice, European Education and Culture Executive Agency",
+     "year": "consulté 2026",
+     "url": "https://eurydice.eacea.ec.europa.eu/eurypedia/belgium-french-community/early-childhood-and-school-education-funding"
+    },
+    {
+     "title": "Effects of a Statewide Prekindergarten Program on Children's Achievement and Behavior through Sixth Grade",
+     "author": "Durkin, Lipsey, Farran & Wiesen",
+     "org": "Developmental Psychology 58(3)",
+     "year": "2022",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716729/"
+    },
+    {
+     "title": "The Long-Term Effects of Universal Preschool in Boston",
+     "author": "Gray-Lobe, Pathak & Walters",
+     "org": "Quarterly Journal of Economics 138(1)",
+     "year": "2023",
+     "url": "https://www.nber.org/system/files/working_papers/w28756/w28756.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui NE se transpose PAS tel quel. (1) Les tailles d'effet des programmes américains (Perry, Abecedarian, Head Start, Boston) reposent sur un contrefactuel absent ou médiocre : un enfant non admis n'accédait souvent à aucun accueil éducatif. En FWB, le maternel est gratuit dès 2,5 ans et largement fréquenté : le contrefactuel est déjà un enseignement maternel encadré par des instituteurs diplômés. Mécaniquement, tout effet d'extension de l'accès y sera d'un ordre de grandeur inférieur. C'est la raison principale pour laquelle l'argumentaire heckmanien standard ne peut pas être importé en l'état dans une note de position wallonne. (2) Les analyses coûts-bénéfices américaines (WSIPP, Perry) tirent une part majeure de leurs bénéfices de la criminalité et de l'incarcération évitées, dans un pays où les taux d'incarcération sont sans commune mesure avec la Belgique : les ratios de 2,7 à 4,8 pour 1 y perdraient une fraction substantielle. (3) L'effet de Boston passe par l'accès à l'enseignement supérieur dans un système où celui-ci est coûteux et sélectif ; en FWB, où l'accès au supérieur est ouvert et peu coûteux, le même mécanisme causal produirait un effet mesuré plus faible sur cette variable, même à effet réel identique sur l'enfant. (4) NELI est un dispositif anglophone : son contenu lexical, phonologique et narratif ne se traduit pas, il se reconstruit — ce qui suppose un investissement de développement et une validation par essai en français avant tout déploiement, pas après.\n\nCe qui se transpose. (1) Le résultat allemand (Cornelissen et al., JPE 2018) est le plus directement pertinent : même contexte d'Europe continentale, même architecture d'accueil préscolaire public, même mesure administrative universelle de préparation scolaire. Sa conclusion — les enfants à plus fort rendement sont ceux qui s'inscrivent le moins, et créer des places ne les fait pas venir — s'applique sans réserve majeure à la FWB et oriente vers le ciblage actif plutôt que vers l'extension de capacité. (2) Le constat de la PCER (2 curricula sur 14 produisent un effet) et celui d'Egert et al. (la formation continue n'atteint l'enfant que via un déplacement mesuré de la pratique) sont des résultats sur le mécanisme, pas sur un contexte : ils valent pour tout système. Ils impliquent qu'un référentiel commun aux réseaux, quelle que soit sa qualité, n'a pas de mécanisme d'action sur les acquis tant qu'il n'est pas traduit en séquences, matériel et formation.\n\nCompatibilité avec une gouvernance partagée entre réseaux. C'est le point le plus favorable de cette revue. Les leviers pour lesquels les preuves sont les plus fortes — une intervention langagière ciblée et scriptée, un curriculum mathématique explicite, un dispositif de dépistage individuel — sont précisément ceux qui n'exigent aucun pilotage centralisé du projet pédagogique : ce sont des outils mis à disposition, adoptables par un pouvoir organisateur sans atteinte à la liberté d'enseignement, comme NELI l'a été par 10 000 écoles anglaises de statuts divers. À l'inverse, les leviers qui exigeraient un pilotage centralisé (normes d'encadrement, obligation scolaire, référentiel prescriptif) sont ceux pour lesquels les preuves d'effet sur les acquis sont les plus faibles. La contrainte institutionnelle de la FWB pointe donc dans la même direction que les données.\n\nCompatibilité budgétaire. Une intervention langagière ciblée de 20 semaines délivrée par du personnel d'appui existant coûte, par construction, un ordre de grandeur de moins qu'un point de taux d'encadrement appliqué à l'ensemble du maternel. Dans un système où l'enseignement pèse 54 % des dépenses d'une communauté en déficit, l'arbitrage documenté par le WSIPP entre ciblé (ratio 4,78) et universel (3,59) n'est pas un argument idéologique mais une donnée comptable. Réserve honnête : ce raisonnement suppose que la FWB dispose d'un outil de dépistage validé en français, ce que je n'ai pas pu établir dans le cadre de cette revue.\n\nHorizon. Enfin, et c'est une condition de crédibilité de toute note de position : aucune mesure prise sur le maternel en 2020 ne peut produire d'effet observable dans PISA avant 2033-2034, puisque la cohorte entrée en M1 en 2020 aura 15 ans à cette date. Présenter le renforcement du maternel comme une réponse au recul de PISA 2025 serait un contresens temporel. Il se justifie sur d'autres critères — équité d'entrée, réduction du redoublement précoce, dépistage — et doit être défendu sur ceux-là, avec un dispositif d'évaluation causale mis en place dès maintenant, faute de quoi la FWB se retrouvera en 2035 exactement là où elle est aujourd'hui : à commenter des résultats sans pouvoir les attribuer."
+}

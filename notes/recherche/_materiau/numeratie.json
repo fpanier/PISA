@@ -1,0 +1,443 @@
+{
+ "topic": "Numératie : l'enseignement de la maîtrise en mathématiques (Teaching for Mastery, sciences cognitives, fluence, diagnostic des erreurs, groupement par niveau)",
+ "headline": "Les preuves les plus solides en mathématiques ne portent pas sur le label « maîtrise » — les essais britanniques sur les programmes « mastery » donnent des effets faibles (+0,07 écart-type) voire nuls — mais sur un petit nombre de pratiques d'enseignement précises (enseignement explicite et systématique, exemples résolus, entrelacement des types de problèmes, automatisation des faits numériques, représentations concret-imagé-abstrait), dont les tailles d'effet vont de 0,3 à 0,8 écart-type ; ce qui échoue systématiquement, ce sont les modèles de diffusion en cascade et les réformes de structure (groupement par niveau), pas le contenu didactique.",
+ "searches_run": 29,
+ "transposability_fwb": "Trois transpositions sont solides et peu coûteuses, trois ne le sont pas. (1) Transposable sans condition culturelle : les pratiques de classe validées par le What Works Clearinghouse (enseignement systématique, représentations, activités chronométrées de fluence) et par les sciences cognitives (exemples résolus, entrelacement, pratique espacée). Elles ne dépendent ni d'une structure de réseau, ni d'un budget significatif : elles portent sur la conception des exercices et la séquence des leçons, c'est-à-dire sur les manuels, les outils d'évaluation et la formation initiale — trois leviers que la FWB contrôle réellement malgré la liberté d'enseignement, via les référentiels du tronc commun (application progressive 2023-2028) et l'agrément/financement des ressources didactiques. L'entrelacement en particulier est le levier le moins cher identifié dans ce dossier : il ne change que l'ordre des exercices d'un manuel existant, pour d = 0,83 dans un essai randomisé. (2) Transposable sous conditions : l'architecture anglaise Maths Hubs/NCETM (61 % des écoles, 30 729 participants en 2024/25) est intéressante pour un système à réseaux multiples parce qu'elle est volontaire, horizontale et fondée sur des écoles leaders, donc compatible avec la liberté d'enseignement — mais elle coûte 29 M£/an pour ~24 000 écoles (soit environ 1 200 £ par école et par an), a exigé dix ans de continuité politique, et son efficacité causale n'est toujours pas établie. Une version FWB devrait viser un réseau inter-réseaux de « spécialistes maîtrise » adossé aux référentiels du tronc commun, avec du temps de décharge financé — condition sine qua non que l'échec des essais ICCAMS (13 % des séances-cascade à la durée prévue) et Lesson Study (null sur 181 écoles) rend non négociable. (3) Non transposable tel quel : l'échange Angleterre-Shanghai (ressource culturelle et institutionnelle spécifique, effet nul au KS2) ; la logique « un manuel agréé par l'État co-financé à 2 000 £ par école » (incompatible avec la liberté du choix des méthodes en FWB, mais contournable par un financement conditionné plutôt qu'imposé) ; et la polémique américaine sur le groupement par niveau, qui n'a pas le même objet qu'en FWB — le problème belge francophone n'est pas le setting en classe, c'est le redoublement à 35 % et l'orientation précoce, deux mécanismes bien plus lourds que ceux étudiés par Boaler. Enfin, contrainte budgétaire : aucune des interventions efficaces documentées ici ne dépasse 50 €/élève/an, et les deux plus rentables (entrelacement, exemples résolus) sont à coût quasi nul ; l'argument de la contrainte budgétaire de 1,5 Md EUR ne justifie donc pas l'inaction sur ce levier, il oriente vers les pratiques plutôt que vers les structures.",
+ "items": [
+  {
+   "claim": "Le déficit mathématique de la FWB est déjà constitué à 9-10 ans et porte sur les bases : 42 % des élèves de 4e primaire sont au mieux au niveau « rudimentaire » en mathématiques, contre 27 % en Communauté flamande.",
+   "what_it_is": "Constat de départ établi par TIMSS 2023 (Trends in International Mathematics and Science Study), évaluation internationale des acquis en mathématiques et sciences en 4e année primaire, administrée en FWB par le service aSPe de l'ULiège. La cohorte testée est la dernière avant l'entrée en vigueur des référentiels du tronc commun.",
+   "evidence_level": "comparaison internationale corrélationnelle (échantillon représentatif, pas de design causal)",
+   "effect_size": "Score moyen FW-B : 489 (e.t. 2,4) contre 521 (2,1) en Communauté flamande, soit un écart de 32 points TIMSS ; moyenne UE 524, moyenne internationale 503, France 484, Pays-Bas 537, Angleterre 552. 12 % des élèves FW-B sous le niveau rudimentaire (Flandre 5 %, Pays-Bas 2 %) et 30 % au niveau rudimentaire. Écart socio-économique de 79 points entre les quartiles extrêmes. Population : élèves de 4e primaire, âge moyen 9,9 ans.",
+   "concrete_practice": "Les auteurs relèvent une dissonance entre déclarations enseignantes et résultats : 87 % des élèves ont des enseignants déclarant leur faire réutiliser seuls leurs acquis dans des situations nouvelles au moins une leçon sur deux, et 64 % travaillent collectivement des problèmes sous supervision directe, alors que 42 % des élèves n'ont « pas de réelle compétence en résolution de problèmes ». Autrement dit, la résolution de problèmes est massivement pratiquée mais sans que les prérequis (concepts et procédures de base) soient sécurisés.",
+   "concrete_example": "TIMSS 2023, FWB : échantillon représentatif d'élèves de 4e primaire, test administré au printemps 2023, résultats publiés le 4 décembre 2024 par l'aSPe (ULiège). Vérification importante réalisée par l'équipe : 85 % des questions portent sur des contenus travaillés en FWB avant la fin de la 4e année, et le score recalculé en supprimant les items portant sur des notions vues après la 4e primaire n'est pas significativement différent — l'argument du « décalage curriculaire » ne sauve donc pas le résultat. À titre de comparaison, la même opération en sciences fait gagner 10 points, ce qui montre que la correction a bien été faite et qu'elle est nulle en mathématiques.",
+   "conditions": "Le résultat est pré-tronc commun : il constitue une ligne de base contre laquelle les référentiels entrés en vigueur en 2023 (1re-2e primaire) puis 2024 (3e-4e) pourront être évalués — à condition que la FWB maintienne sa participation à TIMSS 2027. Les élèves FW-B ont en moyenne cinq mois de moins que la moyenne des pays de l'UE au moment du test, ce qui explique une part (non chiffrée par les auteurs) de l'écart avec l'UE mais pas avec la Flandre, dont les élèves ont le même âge.",
+   "contested": "L'écart avec la Flandre en 4e primaire (32 points TIMSS) n'est pas directement comparable aux 22 points PISA à 15 ans : échelles, âges et populations diffèrent, et aucune source consultée ne permet de convertir l'un dans l'autre. Par ailleurs TIMSS est adossé au curriculum, ce qui avantage les systèmes dont le programme correspond au cadre IEA — la vérification aSPe ci-dessus limite mais n'élimine pas cette objection. Enfin, une comparaison internationale ne permet aucune inférence causale sur les causes du retard.",
+   "sources": [
+    {
+     "title": "TIMSS 2023 — Un éclairage international sur les acquis en mathématiques et en sciences des élèves de 4e année primaire (diaporama de présentation des résultats)",
+     "author": "aSPe, Université de Liège",
+     "org": "Université de Liège / Fédération Wallonie-Bruxelles",
+     "year": "2024",
+     "url": "https://www.timss-fwb.uliege.be/upload/docs/application/pdf/2024-12/timss_2023-diaporama.pdf"
+    },
+    {
+     "title": "L'enquête TIMSS en Fédération Wallonie-Bruxelles",
+     "org": "Fédération Wallonie-Bruxelles — enseignement.be",
+     "year": "2024",
+     "url": "https://www.enseignement.be/systeme-educatif/etudes-et-chiffres-cles/enquetes-internationales/timss"
+    }
+   ]
+  },
+  {
+   "claim": "L'étiquette « mastery learning » bénéficie d'une réputation d'efficacité (+5 mois, +6 en mathématiques) qui repose sur une base de preuves ancienne et peu randomisée — et que les essais contemporains n'ont pas reproduite.",
+   "what_it_is": "Le mastery learning au sens historique (Bloom, années 1970) : découper la matière en unités, exiger un seuil de maîtrise (typiquement 80 %) avant de passer à l'unité suivante, remédier pour ceux qui n'y parviennent pas. C'est cette littérature qui fonde la réputation des approches « maîtrise », et non les programmes britanniques contemporains qui en portent le nom.",
+   "evidence_level": "méta-analyse / synthèse de synthèses (Teaching and Learning Toolkit de l'EEF), qualité de preuve jugée faible par l'EEF elle-même",
+   "effect_size": "+5 mois de progrès supplémentaires en moyenne sur une année scolaire ; +6 mois en mathématiques contre +3 mois en lecture ; +8 mois au primaire contre +3 mois au secondaire. Base : 80 études. Sécurité de la preuve : « faible » (peu d'études récentes, forte proportion de devis non randomisés). Dernière révision : septembre 2021.",
+   "concrete_practice": "Concrètement : la classe progresse ensemble, une évaluation formative en fin d'unité identifie les élèves sous le seuil, ceux-ci reçoivent un enseignement correctif (souvent en petit groupe ou en tutorat) pendant que les autres approfondissent, et la classe ne passe à l'unité suivante qu'après cette boucle. Le point décisif est le temps de remédiation supplémentaire réellement financé.",
+   "concrete_example": "L'EEF elle-même documente l'écart entre cette littérature et les essais contemporains : dans son rapport de synthèse sur Mathematics Mastery, elle explique que les résultats obtenus (+0,07 écart-type) sont « substantiellement inférieurs » aux effets moyens de la littérature antérieure sur les approches de maîtrise, et avance deux explications : la plupart des études antérieures ont été conduites aux États-Unis dans les années 1970-1980, et surtout les classes suivant Mathematics Mastery « ne retardaient pas le passage à un nouveau sujet jusqu'à ce qu'un niveau élevé de maîtrise ait été atteint par tous les élèves » — alors que c'était précisément l'élément actif de nombreux programmes efficaces des années 1970.",
+   "conditions": "La condition identifiée par l'EEF est explicite : le mastery learning ne réduit l'écart social que si un soutien additionnel ciblé est financé pour les élèves qui décrochent ; « les approches qui se contentent de construire sur les savoirs fondamentaux sans cibler un soutien pour les élèves en retard ont peu de chances de réduire l'écart ». Sans temps de remédiation supplémentaire, le dispositif se réduit à un ralentissement du rythme.",
+   "contested": "Fortement contesté sur trois points : l'ancienneté de la base (peu d'études récentes), la faible proportion d'essais randomisés, et le risque d'effet de publication typique des méta-analyses des années 1980. Il est méthodologiquement abusif de citer le « +5 mois » de l'EEF à l'appui du Teaching for Mastery anglais contemporain, qui est une pratique différente (progression collective en petits pas sans seuil de maîtrise bloquant) et dont les essais donnent des effets bien plus faibles. C'est précisément l'erreur d'attribution que l'EEF signale elle-même.",
+   "sources": [
+    {
+     "title": "Mastery learning — Teaching and Learning Toolkit",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/mastery-learning"
+    },
+    {
+     "title": "Mathematics Mastery: Overarching Summary Report",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581180.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le programme britannique le mieux évalué qui porte le nom de « maîtrise » — Mathematics Mastery (Ark) — produit un effet réel mais très faible : +0,073 écart-type, soit environ un mois de progrès, à la limite de la significativité statistique.",
+   "what_it_is": "Mathematics Mastery est un programme de curriculum et de développement professionnel conçu par Ark (réseau d'academies britannique), inspiré de Singapour : moins d'objets d'étude par an, approfondissement de chacun, représentations multiples, progression en petits pas, insistance sur le langage mathématique. Il est diffusé avec manuels, plans de leçons et accompagnement.",
+   "evidence_level": "deux essais contrôlés randomisés en grappes (écoles) menés simultanément, plus une méta-analyse des deux, évaluation indépendante par l'UCL Institute of Education pour l'EEF",
+   "effect_size": "Méta-analyse combinée : +0,073 écart-type (IC 95 % : 0,004 à 0,142 ; p < 0,05), soit +1 mois de progrès, sur 10 114 élèves dans 127 écoles. Primaire (Year 1, 5-6 ans) : +0,099 écart-type (IC 95 % : −0,009 à +0,207 ; e.t. 0,054), non significatif à 5 %, soit +2 mois, 4 176 élèves / 83 écoles. Secondaire (Year 7, 11-12 ans) : +0,055 (IC 95 % : −0,037 à +0,147), non significatif, soit +1 mois, 5 938 élèves / 44 écoles. Coût : environ 131 £/élève/an au primaire et 50 £/élève/an au secondaire la première année.",
+   "concrete_practice": "Les écoles reçoivent un curriculum séquencé, des supports de leçon, deux jours de formation initiale et un accompagnement ; les enseignants planifient en équipe, utilisent systématiquement des représentations (barres, jetons) et travaillent le vocabulaire mathématique avec des phrases-types (« stem sentences »). Une seule année de dosage a été testée dans les essais.",
+   "concrete_example": "Essai primaire : 83 écoles d'échantillon analysé (90 randomisées), Londres et Sud-Est de l'Angleterre, élèves de Year 1, deux années scolaires (sept. 2012-août 2013 et sept. 2013-août 2014) ; essai secondaire : 44 écoles analysées, élèves de Year 7, année 2013-2014. Taux de réponse école de 92 % et 88 %, taux de réponse élève de 82 % et 77 %. Les erreurs types sont corrigées par ajustement Huber-White pour la structure en grappes. Publication des résultats : février 2015. Le programme est aujourd'hui utilisé dans plus de 300 écoles primaires britanniques.",
+   "conditions": "Trois conditions ressortent : (1) l'effet est plus net au primaire — l'EEF précise que la conclusion combinée est « plus prédictive de l'impact du programme sur les élèves du primaire que du secondaire » ; (2) une seule année de dosage suffit à produire l'effet, ce qui est plutôt encourageant en termes de coût ; (3) l'EEF juge le rapport coût-efficacité potentiellement favorable malgré la petite taille d'effet, précisément parce que le coût unitaire est modeste.",
+   "contested": "Contesté sur trois fronts. D'abord la taille d'effet : 0,073 écart-type est un effet minuscule, dont l'intervalle de confiance inclut des valeurs quasi nulles (0,004), et qui n'atteint la significativité qu'après agrégation des deux essais — ni l'un ni l'autre n'est significatif isolément à 5 %. Ensuite l'ambiguïté du concept : ce programme ne met pas en œuvre le mécanisme (seuil de maîtrise bloquant) qui rendait efficaces les programmes de maîtrise des années 1970. Enfin l'impossibilité de conclure sur l'équité : l'EEF indique explicitement qu'on ne sait pas si l'impact diffère pour les élèves bénéficiant des repas scolaires gratuits (indicateur de défavorisation) ni selon le niveau initial.",
+   "sources": [
+    {
+     "title": "Mathematics Mastery: Overarching Summary Report (incluant la méta-analyse des deux essais randomisés)",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581180.pdf"
+    },
+    {
+     "title": "Mathematics Mastery Primary Evaluation Report",
+     "org": "Education Endowment Foundation / UCL Institute of Education",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581183.pdf"
+    },
+    {
+     "title": "Mathematics Mastery Secondary Evaluation Report",
+     "org": "Education Endowment Foundation / UCL Institute of Education",
+     "year": "2015",
+     "url": "https://files.eric.ed.gov/fulltext/ED581187.pdf"
+    },
+    {
+     "title": "Ark Mathematics Mastery — fiche projet et résultats",
+     "org": "Education Endowment Foundation",
+     "year": "2015",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery"
+    }
+   ]
+  },
+  {
+   "claim": "L'échange d'enseignants Angleterre-Shanghai, dispositif emblématique de la politique de maîtrise, n'a produit aucun gain mesurable en fin de primaire (KS2) ; un effet positif n'apparaît qu'au KS1 et seulement dans le sous-groupe des écoles qui ont réellement implémenté l'approche.",
+   "what_it_is": "Le Mathematics Teacher Exchange (MTE) England-China : des enseignants anglais passent deux semaines dans des écoles de Shanghai, puis accueillent des enseignants shanghaïens dans leurs écoles, avec pour objectif de diffuser la pédagogie de maîtrise. Lancé par le DfE en 2014, trois vagues d'échange jusqu'en 2018, plus de 600 enseignants chinois et anglais impliqués.",
+   "evidence_level": "évaluation quasi-expérimentale longitudinale (appariement par score de propension, modèles multiniveaux sur données administratives nationales NPD), Sheffield Hallam University pour le DfE",
+   "effect_size": "KS2 (fin de primaire, 11 ans), modèle en valeur ajoutée contrôlant l'acquis KS1 : d = +0,05 en 2015 (IC : −0,05 ; +0,15), +0,02 en 2016 (−0,09 ; +0,13), −0,02 en 2017 (−0,12 ; +0,09) — aucun significatif ; n ≈ 25 000-27 500 élèves, 589 écoles par année. KS1 (7 ans), dépassement du niveau attendu : d = +0,08 en 2017 (−0,02 ; +0,18), non significatif sur l'échantillon complet. En revanche, dans le sous-échantillon de 12 écoles à « forte maîtrise et forte implémentation » au KS1 : d = +0,31 en 2017 (IC 95 % : +0,11 ; +0,52 ; OR = 1,77), significatif et robuste à l'ajout du statut FSM — mais nul en 2014 (avant effet), ce qui plaide pour un effet réel plutôt qu'un biais d'appariement.",
+   "concrete_practice": "Les enseignants revenus de Shanghai animent des leçons observées, introduisent la progression en petits pas, la variation systématique des exemples, l'usage des représentations, et un temps de planification collective. Le dispositif repose sur la diffusion depuis l'enseignant-pilote vers son école puis vers d'autres écoles.",
+   "concrete_example": "Évaluation Sheffield Hallam, rapport technique publié en janvier 2019 pour le DfE : 47 écoles d'échange de la cohorte 1 appariées par score de propension à 940 écoles témoins (échantillon d'analyse principal restreint à 33 écoles d'échange appariées à 556 témoins avec données complètes 2013-2017), données d'attainment KS1 et KS2 du National Pupil Database sur cinq années (2013-2017), soit deux années avant et trois années après le début de l'échange. Conclusion textuelle des auteurs : « nous n'avons trouvé aucune preuve que la participation d'une école au programme d'échange d'enseignants de mathématiques de Shanghai ait produit des gains d'acquis des élèves en mathématiques au KS2 ». Côté processus, les enseignants de 34 des 41 écoles interrogées déclarent des connaissances renforcées et 25 sur 41 ont modélisé l'enseignement de maîtrise auprès d'autres écoles.",
+   "conditions": "La condition critique est identifiée par les auteurs eux-mêmes : « toutes les écoles ayant participé au premier échange ne sont pas allées jusqu'à implémenter la pédagogie de maîtrise ». L'effet n'existe que là où l'implémentation est effective et profonde, et seulement aux premiers degrés du primaire. Le dispositif transforme les croyances et les connaissances enseignantes bien plus vite que les résultats des élèves.",
+   "contested": "Très contesté. Le sous-groupe « forte implémentation » compte 12 écoles seulement, n'est pas préspécifié, et repose sur une variable d'implémentation construite ex post — c'est une analyse exploratoire, pas une preuve. De plus, les écoles d'échange se distinguaient déjà significativement des témoins en 2013, deux ans avant l'intervention (d = +0,20 au KS1, +0,14 au KS2), ce que les auteurs reconnaissent comme une possible faiblesse de l'appariement et qu'ils tentent de corriger par un ré-appariement sur 2013. La presse britannique a présenté ce rapport comme un désaveu de la politique gouvernementale. Aucun essai randomisé n'existe sur ce dispositif.",
+   "sources": [
+    {
+     "title": "Longitudinal Evaluation of the Mathematics Teacher Exchange: China-England — Technical Report",
+     "author": "Sheffield Hallam University",
+     "org": "Department for Education (Royaume-Uni)",
+     "year": "2019",
+     "url": "https://assets.publishing.service.gov.uk/media/5c49c57840f0b6171357c711/MTE_Technical_report.pdf"
+    },
+    {
+     "title": "The Mathematics Teacher Exchange and 'Mastery' in England: The Evidence for the Efficacy of Component Practices",
+     "org": "Sheffield Hallam University Research Archive",
+     "year": "2019",
+     "url": "https://files.eric.ed.gov/fulltext/EJ1201436.pdf"
+    },
+    {
+     "title": "Shanghai maths teacher exchange failed to boost KS2 outcomes, DfE report finds",
+     "org": "Schools Week",
+     "year": "2019",
+     "url": "https://schoolsweek.co.uk/shanghai-maths-teacher-exchange-failed-to-boost-ks2-outcomes-dfe-report-finds/"
+    }
+   ]
+  },
+  {
+   "claim": "L'apport principal de l'Angleterre n'est pas une méthode mais une infrastructure : un réseau national de Maths Hubs animé par des écoles, qui touche 61 % des écoles publiques pour 29 M£/an — sans que son effet causal sur les résultats des élèves ait jamais été établi.",
+   "what_it_is": "Le programme Maths Hubs, piloté par le NCETM (National Centre for Excellence in the Teaching of Mathematics) et financé par le DfE : 40 hubs régionaux animés par des écoles et collèges performants, qui organisent des « Work Groups » (collectifs d'enseignants de plusieurs écoles) et forment des « Mastery Specialists » chargés de diffuser la démarche dans et hors de leur école.",
+   "evidence_level": "descriptif (données de programme) pour l'infrastructure ; comparaison internationale corrélationnelle (TIMSS) pour la tendance nationale ; aucune évaluation causale du programme dans son ensemble",
+   "effect_size": "Échelle 2024/25 : 30 729 enseignants, assistants et cadres issus de 61 % des écoles publiques anglaises ; 8 461 écoles primaires engagées dans les Work Groups Teaching for Mastery ; 2 175 écoles secondaires, dont 1 020 aux stades « Embedding » ou « Sustaining » ; 4 634 participants aux parcours SKTM. Budget : 41 M£ annoncés sur quatre ans en 2016, puis 26 M£ (2022-23), 32 M£ (2023-24), 29 M£ (2024-25 et 2025-26). Tendance TIMSS Angleterre en mathématiques : Year 5 531 (2003) → 546 (2015) → 556 (2019) → 552 (2023, baisse non significative) ; Year 9 498 (2003) → 518 (2015) → 515 (2019) → 525 (2023, hausse non significative).",
+   "concrete_practice": "Une ou deux personnes par école rejoignent un Work Group animé localement par un Mastery Specialist expérimenté ; le groupe se réunit plusieurs fois dans l'année, chaque participant retravaille ensuite sa pratique dans son école avec ses collègues, et certaines écoles bénéficient d'un accompagnement sur site. Le modèle est volontaire, horizontal (école à école) et progressif : Readiness → Development → Embedding → Sustaining.",
+   "concrete_example": "Le programme Mastering Number at Reception and KS1, porté par le NCETM via les Maths Hubs depuis 2021, a touché plus de la moitié des écoles primaires anglaises (environ 10 000 écoles à la fin 2024/25) ; 1 683 nouvelles écoles l'ont rejoint en 2024/25 et 1 173 ont rejoint sa déclinaison KS2. Il porte sur des séances quotidiennes courtes de travail sur le sens du nombre en maternelle et début de primaire. Point décisif pour la FWB : après quatre ans de déploiement national, le NCETM annonce que les Maths Hubs vont participer à un essai randomisé EEF (évaluateur NFER, année 2025/26) pour « construire la base de preuves » — c'est-à-dire que 10 000 écoles ont été équipées avant que l'efficacité du dispositif ne soit testée.",
+   "conditions": "Conditions de réussite : durée (dix ans de continuité politique depuis 2014), structure volontaire et animée par des pairs plutôt qu'imposée, financement du temps de décharge, et articulation avec un curriculum national révisé (2014) qui légitimait l'approche. Le modèle est, de ce point de vue, plus compatible qu'il n'y paraît avec un système à réseaux multiples, puisqu'il ne repose pas sur une autorité hiérarchique mais sur l'adhésion d'écoles leaders.",
+   "contested": "Très contesté sur le plan causal et budgétaire. Aucune évaluation ne relie les Maths Hubs à la trajectoire TIMSS anglaise : la hausse du Year 5 est antérieure au déploiement massif (531 en 2003 → 546 en 2015) et la seule variation significative récente est une baisse non significative en 2023. Le financement a été réduit d'environ 20 % entre 2023-24 et 2024-25 ; un responsable de hub cité par Schools Week évoque une chute de 1 M£ à environ 650 000 £, et un cadre du secteur reconnaît que « le secteur n'a pas suffisamment démontré l'impact du financement des maths hubs ». Enfin, le rapport annuel du NCETM est un document de programme, pas une évaluation indépendante : ses chiffres d'engagement sont fiables, ses affirmations d'impact ne le sont pas.",
+   "sources": [
+    {
+     "title": "Maths Hubs Programme Annual Report 2024/25",
+     "org": "NCETM / Department for Education",
+     "year": "2026",
+     "url": "https://www.ncetm.org.uk/media/qfxclahx/maths-hubs-annual-report-2024-25.pdf"
+    },
+    {
+     "title": "Trends in International Mathematics and Science Study (TIMSS) 2023: national report for England, volume 1",
+     "org": "Department for Education (Royaume-Uni)",
+     "year": "2025",
+     "url": "https://assets.publishing.service.gov.uk/media/67a4a36381828dd65c16a81d/TIMMS_2023_national_report_for_england_volume_1.pdf"
+    },
+    {
+     "title": "Maths hubs funding drops (but DfE says it's not a cut)",
+     "org": "Schools Week",
+     "year": "2024",
+     "url": "https://schoolsweek.co.uk/maths-hubs-funding-drops-but-dfe-says-its-not-a-cut/"
+    },
+    {
+     "title": "Effectiveness Trial of Mastering Number 2025-26",
+     "org": "National Foundation for Educational Research (NFER)",
+     "year": "2025",
+     "url": "https://www.nfer.ac.uk/for-schools/participate-in-research/participate-in-research-projects/effectiveness-trial-of-mastering-number-2025-26/"
+    }
+   ]
+  },
+  {
+   "claim": "L'enseignement systématique et explicite est la pratique mathématique la mieux établie au monde : niveau de preuve « fort » du What Works Clearinghouse sur 43 études, avec des effets allant de 0,31 à 1,47 écart-type selon le domaine.",
+   "what_it_is": "« Systematic instruction » au sens du WWC : séquencer l'enseignement du simple au complexe, modéliser explicitement les procédures (exemples résolus, pensée à voix haute), fournir une pratique guidée avec étayage progressivement retiré, donner un retour immédiat et corriger les erreurs, prévoir une révision cumulative. C'est le cœur méthodologique commun aux approches de maîtrise et aux sciences cognitives.",
+   "evidence_level": "guide de pratique du What Works Clearinghouse (Institute of Education Sciences, département de l'Éducation des États-Unis), niveau de preuve « fort », méta-analyse à effets fixes sur 43 études expérimentales et quasi-expérimentales répondant aux standards WWC",
+   "effect_size": "Effets méta-analytiques par domaine (population : élèves de primaire en difficulté en mathématiques) : calcul sur les rationnels g = 1,47 (IC : 1,35-1,58) ; compréhension des grandeurs rationnelles g = 0,98 (0,87-1,08) ; algèbre et raisonnement algébrique g = 0,60 (0,38-0,82) ; connaissance des rationnels g = 0,60 (0,50-0,70) ; problèmes sur les rationnels g = 0,55 (0,39-0,71) ; calcul sur les entiers g = 0,52 (0,44-0,61) ; problèmes sur les entiers g = 0,42 (0,34-0,51) ; performance mathématique générale g = 0,31 (0,23-0,39) ; comptage et cardinalité g = 0,34 (0,21-0,47). Un seul domaine non significatif : compréhension des grandeurs sur les entiers g = 0,05 (−0,09-0,18).",
+   "concrete_practice": "En classe : l'enseignant présente d'abord la procédure entièrement résolue en verbalisant son raisonnement, puis fait résoudre des problèmes de même type avec un étayage décroissant (problèmes à trous, puis problèmes complets), corrige immédiatement, et réintroduit régulièrement les types de problèmes antérieurs. Le WWC insiste sur la combinaison de trois éléments : modélisation, pratique guidée étayée, et rétroaction corrective immédiate.",
+   "concrete_example": "Le guide WWC 2021006 « Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades » (mars 2021) formule six recommandations — enseignement systématique, langage mathématique, représentations concrètes et semi-concrètes, droite numérique, problèmes écrits, activités chronométrées — et leur attribue toutes les six le niveau de preuve le plus élevé (« strong »). C'est inhabituel : dans la plupart des guides WWC, la majorité des recommandations reçoivent un niveau « moderate » ou « minimal ». Pour la recommandation 1, les 43 études réunissent des devis randomisés et quasi-expérimentaux répondant aux standards du WWC, avec une validité interne et externe jugées fortes.",
+   "conditions": "Le guide vise explicitement les élèves en difficulté en mathématiques, en contexte d'intervention (remédiation), au primaire. Sa transposition à l'enseignement ordinaire de toute une classe est plausible mais n'est pas ce que les 43 études ont testé. Le WWC insiste par ailleurs sur le fait que l'enseignement explicite doit inclure le langage mathématique et les représentations, et non se réduire à la répétition de procédures.",
+   "contested": "Deux limites à énoncer honnêtement. D'abord, les effets très élevés sur les nombres rationnels (g = 1,47) proviennent d'un petit nombre d'études (k = 10) portant sur des mesures alignées sur l'intervention ; ce type de mesure « proche du traitement » gonfle mécaniquement les effets, et c'est d'ailleurs pour cela que l'effet sur la « performance mathématique générale » chute à 0,31. Ensuite, le débat de fond n'est pas tranché : les tenants des approches par la résolution de problèmes soutiennent que l'enseignement explicite produit des acquis procéduraux transférables à court terme mais peu de compréhension conceptuelle — le WWC n'apporte pas de preuve directe sur le transfert à long terme, et la seule mesure de transfert relatif (compréhension des grandeurs sur les entiers) est justement la seule non significative.",
+   "sources": [
+    {
+     "title": "Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades. Educator's Practice Guide (WWC 2021006)",
+     "org": "What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education",
+     "year": "2021",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'effet de l'exemple travaillé (worked example effect) est l'un des rares résultats des sciences cognitives confirmé par une méta-analyse récente spécifique aux mathématiques : g = 0,48, avec un résultat contre-intuitif — ajouter des consignes d'auto-explication dégrade l'effet.",
+   "what_it_is": "Théorisé par John Sweller dans le cadre de la théorie de la charge cognitive : pour un apprenant novice, étudier un problème entièrement résolu produit plus d'apprentissage que résoudre soi-même un problème équivalent, parce que la recherche de solution consomme des ressources de mémoire de travail sans construire de schéma. En pratique, on alterne exemples résolus et problèmes à résoudre.",
+   "evidence_level": "méta-analyse d'études expérimentales et quasi-expérimentales de haute qualité, publiée dans une revue à comité de lecture",
+   "effect_size": "g = 0,48 (p = 0,01), effet moyen sur la performance en mathématiques. Base : 43 articles, 55 études, 181 tailles d'effet, issus d'un criblage de 8 033 résumés incluant la littérature grise. Population : de l'école primaire au post-secondaire.",
+   "concrete_practice": "Concrètement, au lieu de donner dix problèmes à résoudre, l'enseignant donne cinq paires « exemple résolu / problème jumeau » : l'élève étudie la solution détaillée, puis résout immédiatement un problème structurellement identique. On retire progressivement les étapes fournies au fur et à mesure que l'expertise se construit (« faded examples »).",
+   "concrete_example": "La méta-analyse de Barbieri, Miller-Cotto, Clerjuste et Chawla (Educational Psychology Review, 2023, vol. 35, art. 35) produit trois résultats directement actionnables. Premièrement, les exemples corrects seuls produisent des effets plus grands que les exemples erronés seuls ou que la combinaison correct/erroné — ce qui contredit une pratique répandue consistant à faire analyser des erreurs typiques. Deuxièmement, l'ajout de consignes d'auto-explication (« explique pourquoi cette étape est correcte »), largement recommandé dans la littérature antérieure, modère significativement et négativement l'effet. Troisièmement, l'effet reste de taille moyenne que les exemples soient utilisés en phase d'acquisition ou en phase de pratique, ce qui élargit leur usage possible.",
+   "conditions": "L'effet est conditionné par l'expertise de l'apprenant : la théorie de la charge cognitive prédit un « expertise reversal effect » — au-delà d'un certain niveau de maîtrise, les exemples résolus deviennent redondants et la résolution autonome redevient supérieure. Cela implique de retirer progressivement l'étayage, ce qui suppose une évaluation formative fine. En pratique, le levier est à coût nul : il concerne la structure des exercices d'un manuel, pas des moyens supplémentaires.",
+   "contested": "Le résultat sur l'auto-explication contredit directement des recommandations largement diffusées, y compris des synthèses antérieures ; les auteurs eux-mêmes qualifient ce résultat de « surprenant » et il attend une réplication. Plus généralement, les méta-analyses sur les exemples résolus reposent majoritairement sur des expériences courtes, en laboratoire ou quasi-scolaires, avec des tests immédiats alignés sur l'entraînement — la généralisation à une année scolaire complète et à des évaluations externes n'est pas démontrée. Enfin, le débat théorique reste ouvert entre partisans de la charge cognitive et partisans de l'apprentissage par la résolution de problèmes (« productive failure »), qui rapportent des effets inverses sur le transfert.",
+   "sources": [
+    {
+     "title": "A Meta-analysis of the Worked Examples Effect on Mathematics Performance",
+     "author": "Barbieri, C. A., Miller-Cotto, D., Clerjuste, S. N., & Chawla, K.",
+     "org": "Educational Psychology Review, 35(1), art. 35",
+     "year": "2023",
+     "url": "https://link.springer.com/article/10.1007/s10648-023-09745-1"
+    },
+    {
+     "title": "Notice ERIC EJ1364058 — A Meta-Analysis of the Worked Examples Effect on Mathematics Performance",
+     "org": "ERIC, Institute of Education Sciences",
+     "year": "2023",
+     "url": "https://eric.ed.gov/?id=EJ1364058"
+    }
+   ]
+  },
+  {
+   "claim": "L'entrelacement des types de problèmes (interleaving) est, à ce jour, l'intervention mathématique au meilleur rapport effet/coût documentée par un essai randomisé en conditions réelles : d = 0,83 sans aucune ressource supplémentaire — seul l'ordre des exercices change.",
+   "what_it_is": "Dans un devoir « bloqué » classique, tous les exercices relèvent de la même procédure (une page de calculs de pente, puis une page de volumes). Dans un devoir entrelacé, deux exercices consécutifs ne se résolvent jamais par la même stratégie : l'élève doit d'abord identifier quelle procédure appliquer, ce qui est précisément ce que l'évaluation finale exige et que la pratique bloquée n'entraîne jamais.",
+   "evidence_level": "essai contrôlé randomisé en grappes (classes), en conditions scolaires naturelles, publié dans une revue à comité de lecture",
+   "effect_size": "d = 0,83 (IC 95 % : 0,68 ; 0,97). Scores au test : 61 % de réussite pour le groupe entrelacé contre 38 % pour le groupe bloqué. Population : 787 élèves de 7e année (grade 7, environ 12-13 ans) répartis en 54 classes dans 5 établissements d'un même district scolaire américain.",
+   "concrete_practice": "Les mêmes exercices, dans un ordre différent. Les élèves du groupe entrelacé rencontrent au fil de l'année des devoirs mélangeant les types de problèmes déjà étudiés ; ceux du groupe témoin voient exactement les mêmes exercices, regroupés par type. Le dispositif combine mécaniquement entrelacement et espacement, puisque mélanger les types revient à répartir chaque type dans le temps.",
+   "concrete_example": "Rohrer, Dedrick, Hartwig & Cheung (Journal of Educational Psychology, 2020, 112(1), 40-52) : chacune des 54 classes de 7e année a été randomisée en condition entrelacée ou bloquée (« business as usual »), sur une période de cinq mois ; tout l'enseignement a été délivré par les enseignants ordinaires, sans lien préalable avec l'intervention ni avec les auteurs. Le protocole complet était : devoirs pendant environ 100 jours, puis un devoir de révision 4 ou 5 jours plus tard, puis un test surprise 30 jours après. Les enseignants ont pu implémenter l'intervention sans formation particulière et ont déclaré, dans une enquête anonyme administrée avant de connaître les résultats, être favorables à la pratique entrelacée.",
+   "conditions": "Trois conditions rendent ce levier particulièrement adapté à un système sous contrainte budgétaire : coût marginal nul (seul l'ordonnancement des exercices change), pas de formation lourde requise (les enseignants n'avaient reçu aucune formation spécifique), et compatibilité avec n'importe quel manuel. La condition technique est que le test soit différé (ici 30 jours) : l'entrelacement dégrade la performance pendant la pratique et ne paie qu'en rétention à moyen terme — ce qui suppose de convaincre enseignants et parents d'accepter une baisse apparente de réussite immédiate.",
+   "contested": "Limites réelles. L'essai porte sur un seul district, un seul niveau (7e année), et a été conduit par les concepteurs de l'intervention — pas de réplication indépendante à cette échelle à ce jour. La taille d'effet de 0,83 est très supérieure à ce qu'on observe habituellement dans les essais scolaires à grande échelle, ce qui invite à la prudence : les essais d'efficacité menés par des évaluateurs indépendants sur de larges échantillons (type EEF) produisent typiquement des effets cinq à dix fois plus petits. L'Institute of Education Sciences a financé une étude d'efficacité de la pratique entrelacée dont les résultats devraient permettre de trancher. Enfin, l'effet mesuré porte sur un test conçu par les chercheurs, non sur une évaluation externe.",
+   "sources": [
+    {
+     "title": "A Randomized Controlled Trial of Interleaved Mathematics Practice",
+     "author": "Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N.",
+     "org": "Journal of Educational Psychology, 112(1), 40-52",
+     "year": "2020",
+     "url": "https://gwern.net/doc/psychology/spaced-repetition/2019-rohrer.pdf"
+    },
+    {
+     "title": "An Efficacy Study of Interleaved Mathematics Practice",
+     "org": "Institute of Education Sciences (IES)",
+     "year": "2019",
+     "url": "https://ies.ed.gov/use-work/awards/efficacy-study-interleaved-mathematics-practice"
+    }
+   ]
+  },
+  {
+   "claim": "En mathématiques spécifiquement, la pratique espacée est confirmée (g = 0,28) mais la pratique de récupération — pourtant le principe le plus populaire des sciences cognitives appliquées — n'est PAS établie : g = 0,18 avec un intervalle de confiance qui contient zéro.",
+   "what_it_is": "Deux principes distincts souvent confondus. La pratique espacée : répartir les séances d'entraînement dans le temps plutôt que les masser. La pratique de récupération (testing effect) : se tester sur un contenu plutôt que le relire. Le second est massivement documenté en apprentissage verbal ; la question est de savoir s'il se transpose aux mathématiques, où l'objet à récupérer est une procédure et non un fait.",
+   "evidence_level": "revue méta-analytique publiée dans une revue à comité de lecture (Educational Psychology Review), portant spécifiquement sur les mathématiques",
+   "effect_size": "Espacement : g = 0,28 (27 études, 53 tailles d'effet) ; g = 0,43 pour l'apprentissage de matériel isolé (10 études) contre g = 0,24 pour l'apprentissage intégré à un cours (17 études). Récupération (test vs réétude) : g = 0,18 sur 7 études et 32 tailles d'effet, mais avec un intervalle de confiance à 95 % traversant zéro — les auteurs concluent explicitement que l'effet de test « n'est pas robuste » en mathématiques.",
+   "concrete_practice": "Espacement en classe : au lieu d'un chapitre « fractions » de trois semaines suivi d'un passage définitif au chapitre suivant, on répartit le travail sur les fractions en séances courtes réparties sur plusieurs mois, en revenant régulièrement dessus. C'est exactement le mécanisme du dispositif Mastering Number anglais (séances quotidiennes courtes sur le sens du nombre) et, mécaniquement, de l'entrelacement.",
+   "concrete_example": "Murray, Horner & Göbel (Educational Psychology Review, 2025) ont synthétisé la littérature spécifiquement mathématique et mis en évidence une asymétrie décisive pour l'action publique : l'espacement fonctionne mais son effet est deux fois moindre quand il est intégré dans un cours réel (g = 0,24) que dans des conditions d'apprentissage isolé (g = 0,43), et la base de preuves sur la récupération en mathématiques se réduit à sept études seulement. Autrement dit, la promesse de « transférer les sciences cognitives en classe » est validée pour l'espacement, non vérifiée pour la récupération dans cette discipline.",
+   "conditions": "L'espacement suppose de renoncer à la logique « un chapitre, une période, une évaluation, on passe à autre chose », c'est-à-dire de restructurer la progression annuelle et les évaluations sommatives — une décision curriculaire, pas une décision pédagogique individuelle. En FWB, cela relève des référentiels et des programmes de réseau, donc d'un chantier négocié. La condition secondaire est que le délai avant le test soit suffisant : des délais courts réduisent ou annulent l'effet d'espacement.",
+   "contested": "C'est ici qu'il faut être le plus prudent : la pratique de récupération est le principe le plus vendu dans la formation continue des enseignants en Europe (quiz de début de cours, « low stakes testing »), et la meilleure synthèse disponible pour les mathématiques ne permet pas de l'étayer. Les auteurs soulignent eux-mêmes que les effets en mathématiques sont plus petits que dans d'autres domaines. Il faut aussi noter la différence avec le guide WWC, dont la recommandation 6 (activités chronométrées, niveau de preuve « fort ») porte sur un objet plus étroit — la fluence des faits numériques — et non sur la récupération comme méthode d'étude générale. Je n'ai pas identifié de méta-analyse contredisant Murray et al. sur ce point.",
+   "sources": [
+    {
+     "title": "A Meta-analytic Review of the Effectiveness of Spacing and Retrieval Practice for Mathematics Learning",
+     "author": "Murray, E., Horner, A. J., & Göbel, S. M.",
+     "org": "Educational Psychology Review",
+     "year": "2025",
+     "url": "https://link.springer.com/article/10.1007/s10648-025-10035-1"
+    },
+    {
+     "title": "Dépôt institutionnel White Rose — notice et texte intégral",
+     "org": "White Rose Research Online / University of York",
+     "year": "2025",
+     "url": "https://eprints.whiterose.ac.uk/id/eprint/229807/"
+    },
+    {
+     "title": "Spaced mathematics practice improves test scores and reduces overconfidence",
+     "author": "Emeny, W. G., Hartwig, M. K., & Rohrer, D.",
+     "org": "Applied Cognitive Psychology",
+     "year": "2021",
+     "url": "https://files.eric.ed.gov/fulltext/ED611846.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'automatisation des faits numériques par des activités chronométrées régulières reçoit le niveau de preuve le plus élevé du What Works Clearinghouse (27 études, dont 21 essais randomisés) — ce qui contredit frontalement le discours anti-chronométrage popularisé dans le monde anglophone.",
+   "what_it_is": "Recommandation 6 du guide WWC : inclure régulièrement des activités chronométrées pour construire la récupération automatique des faits arithmétiques de base et l'exécution fluide des sous-étapes des problèmes complexes. Le fondement théorique est la libération de la mémoire de travail : un élève qui doit reconstruire 7 × 8 ne dispose plus de ressources pour la structure du problème.",
+   "evidence_level": "guide de pratique What Works Clearinghouse, niveau de preuve « fort » ; 27 études dont 21 essais randomisés à faible attrition répondant aux standards WWC sans réserve et 6 avec réserves ; complété par une méta-analyse récente spécifique aux élèves en difficulté",
+   "effect_size": "WWC, effets par domaine (élèves de primaire en difficulté, 4 336 élèves, 403 écoles) : calcul sur les rationnels g = 1,55 (1,42-1,67) ; compréhension des grandeurs rationnelles g = 0,97 (0,86-1,09) ; calcul sur les entiers g = 0,64 (0,54-0,74) ; connaissance des rationnels g = 0,57 (0,46-0,68) ; algèbre g = 0,55 (0,29-0,81) ; performance mathématique générale g = 0,35 (0,24-0,47) ; comptage et cardinalité g = 0,27 (0,04-0,49) ; les neuf domaines sont positifs et significatifs. Méta-analyse indépendante (Douglas, Myers, Mason, Powell & Lariviere, Journal of Learning Disabilities, 2026) : g = 0,76 (IC 95 % : 0,46-1,06) sur 35 études et 178 tailles d'effet, mais intervalle de prédiction à 95 % de −0,60 à 2,12.",
+   "concrete_practice": "Le WWC est explicite sur ce qu'il ne recommande PAS : « distribuer simplement des feuilles chronométrées ou mettre les élèves devant un programme informatique sans soutenir leur apprentissage ». L'activité chronométrée efficace fournit un retour en temps réel, fixe des objectifs d'amélioration individuels et augmente progressivement la difficulté des items. Elle porte aussi bien sur l'automatisation des faits que sur la fluidité d'autres sous-tâches (par exemple les retenues d'une addition à deux chiffres).",
+   "concrete_example": "La méta-analyse de Douglas et al. (2026), qui porte sur 35 études de groupe publiées entre 1990 et 2023 auprès d'élèves en difficulté en mathématiques, identifie des modérateurs directement opérationnels : les interventions en grand groupe produisent des effets supérieurs à celles en tête-à-tête (p = 0,023) — contre-intuitif et favorable budgétairement ; les interventions d'au moins 30 séances surpassent celles de moins de 10 séances (p = 0,046) ; les interventions couvrant à la fois l'additif et le multiplicatif surpassent celles limitées à l'additif (p = 0,023) ; et les effets sont plus petits quand la mesure de résultat est un problème verbal plutôt qu'une épreuve de fluence calculatoire (p = 0,015).",
+   "conditions": "Deux conditions de dosage sont chiffrées : au moins 30 séances, et une couverture des deux structures (additive et multiplicative). Une condition de conception : le retour immédiat et la progression graduée de la difficulté. Et une condition d'interprétation : le gain se manifeste surtout sur la fluence calculatoire et bien moins sur la résolution de problèmes verbaux — la fluence est une condition nécessaire, pas suffisante.",
+   "contested": "Trois contestations sérieuses. (1) L'hétérogénéité : l'intervalle de prédiction de Douglas et al. (−0,60 à 2,12) signifie qu'une nouvelle étude pourrait tout à fait produire un effet négatif ; les auteurs eux-mêmes signalent que seules 5 études utilisaient un format en grand groupe, que la fidélité d'implémentation n'est rapportée que dans 60-66 % des études, et que 16 études ne rapportent pas les données ethniques. (2) Le débat pédagogique : Jo Boaler et le courant « Fluency without fear » soutiennent que les tests chronométrés engendrent de l'anxiété mathématique, particulièrement chez les filles, et dégradent les performances à long terme. Le guide WWC ne traite pas explicitement cette objection sur le plan empirique — c'est une lacune réelle du guide, pas un argument en sa faveur. (3) Les effets les plus élevés (g = 1,55) reposent sur des mesures alignées sur l'entraînement ; l'effet sur la « performance mathématique générale » (g = 0,35) est le chiffre à retenir pour un décideur.",
+   "sources": [
+    {
+     "title": "Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades (WWC 2021006), Recommandation 6 et Annexe C",
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "year": "2021",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "title": "A Meta-Analysis of Mathematics Fact Fluency Interventions for Students With Mathematics Difficulties (MD)",
+     "author": "Douglas, G. P., Myers, J. A., Mason, K. K., Powell, S. R., & Lariviere, D. O.",
+     "org": "Journal of Learning Disabilities",
+     "year": "2026",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13069136/"
+    }
+   ]
+  },
+  {
+   "claim": "L'approche concret-imagé-abstrait, cœur de la « méthode de Singapour », est solidement étayée comme principe (niveau « fort » du WWC sur 28 études) mais faiblement étayée comme produit : le seul essai randomisé d'un manuel singapourien en Angleterre a été financé par son éditeur.",
+   "what_it_is": "La séquence concret-pictural-abstrait (CPA) : introduire un concept avec du matériel manipulable, puis par une représentation imagée (schéma en barres, droite numérique), puis par la notation symbolique, en maintenant les liens entre les trois registres. C'est la signature pédagogique importée de Singapour, avec le « modèle en barres » comme représentation-pivot.",
+   "evidence_level": "pour le principe : guide WWC, niveau de preuve « fort », méta-analyse sur 28 études ; pour le produit commercial : un essai randomisé en grappes de petite taille, financé par l'éditeur, non publié dans une revue à comité de lecture",
+   "effect_size": "WWC recommandation 3 (représentations concrètes et semi-concrètes), 28 études : performance mathématique générale g = 0,64 (IC : 0,56-0,71) ; calcul sur les rationnels g = 1,46 (1,35-1,57) ; compréhension des grandeurs rationnelles g = 0,99 (0,88-1,09) ; connaissance des rationnels g = 0,58 (0,48-0,69) ; algèbre g = 0,48 (0,01-0,95) ; calcul sur les entiers g = 0,43 (0,34-0,51) ; comptage et cardinalité g = 0,34 (0,21-0,47) ; compréhension des grandeurs sur les entiers g = 0,05 (−0,09-0,18, non significatif). Pour l'essai Inspire Maths : 576 élèves de Year 1 suivis sur une année scolaire ; la taille d'effet précise n'est pas accessible dans les sources publiques que j'ai pu consulter.",
+   "concrete_practice": "Pour un problème de partage : l'élève manipule d'abord des jetons, puis dessine un modèle en barres représentant le tout et les parties, puis écrit l'opération. Le WWC insiste sur le fait que les représentations doivent être choisies pour le concept enseigné et explicitement reliées entre elles — l'EEF, dans son rapport de recommandations sur les mathématiques en Key Stages 2 et 3, formule la même mise en garde : « les manipulatifs et les représentations ne sont que des outils : la manière dont ils sont utilisés est déterminante », et les enseignants doivent disposer d'un rationnel clair pour chaque manipulatif employé pour un concept donné.",
+   "concrete_example": "Inspire Maths (Oxford University Press), adaptation britannique de la série singapourienne « My Pals are Here! », a été évalué par un essai contrôlé randomisé en grappes mené par James Hall (University of Exeter) et Pam Sammons (Oxford University Department of Education) : 576 élèves de Year 1 (5-6 ans) suivis sur une année scolaire, dans les premières écoles mettant en œuvre simultanément Inspire Maths et le curriculum national anglais de 2015, avec un devis mixte combinant tests élèves, observations de classes et entretiens d'enseignants. Les chercheurs rapportent des effets positifs significatifs sur les progrès après seulement deux trimestres d'usage, et les enseignants rapportent des gains de motivation et d'engagement.",
+   "conditions": "Condition principale, soulignée à la fois par le WWC et l'EEF : les représentations doivent être un support temporaire vers l'abstraction, pas une fin. Sans stratégie explicite de retrait du matériel et de mise en correspondance des registres, les manipulatifs peuvent devenir une béquille. Condition budgétaire : un manuel structuré CPA est une dépense récurrente par élève ; le DfE anglais a dû le co-financer à hauteur de 2 000 £ par école pour les manuels agréés, ce qui suppose un mécanisme d'agrément incompatible en l'état avec la liberté du choix des méthodes en FWB.",
+   "contested": "L'essai Inspire Maths a été financé par Oxford University Press, éditeur du programme évalué — conflit d'intérêts direct qui impose de traiter ce résultat comme une preuve faible, quelle que soit la qualité du devis. Il porte sur 576 élèves seulement, n'a pas fait l'objet d'une publication à comité de lecture accessible, et je n'ai pas pu retrouver sa taille d'effet dans une source publique : je m'abstiens donc de la citer. Par ailleurs, dans la méta-analyse WWC, le seul domaine non significatif (compréhension des grandeurs sur les entiers, g = 0,05) est précisément celui où l'on attendrait le plus l'apport des représentations. Enfin l'EEF a publié une mise au point (« Myth-busting mathematical manipulatives ») rappelant que l'usage des manipulatifs n'est ni réservé aux plus jeunes ni aux plus faibles, et n'est pas efficace en soi.",
+   "sources": [
+    {
+     "title": "Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades (WWC 2021006), Recommandation 3",
+     "org": "What Works Clearinghouse, Institute of Education Sciences",
+     "year": "2021",
+     "url": "https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC2021006-Math-PG.pdf"
+    },
+    {
+     "title": "Improving Mathematics in Key Stages 2 and 3 — Guidance Report",
+     "org": "Education Endowment Foundation",
+     "year": "2017",
+     "url": "https://files.eric.ed.gov/fulltext/ED634883.pdf"
+    },
+    {
+     "title": "Evaluation of the Impact and Implementation of Inspire Maths in Year 1 Classrooms in England: Findings from a Mixed-Method Randomised Control Trial",
+     "author": "Hall, J., Lindorff, A., & Sammons, P.",
+     "org": "University of Oxford Department of Education (financé par Oxford University Press)",
+     "year": "2016",
+     "url": "https://news-archive.exeter.ac.uk/2016/november/title_550537_en.html"
+    },
+    {
+     "title": "Myth-busting mathematical manipulatives",
+     "org": "Education Endowment Foundation",
+     "year": "2020",
+     "url": "https://educationendowmentfoundation.org.uk/news/myth-busting-mathematical-manipulatives"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation formative ciblée sur les conceptions erronées est la première recommandation de l'EEF en mathématiques, mais le programme le plus rigoureusement conçu pour l'appliquer à grande échelle (ICCAMS) a produit un effet strictement nul : +0,04 écart-type sur 18 052 élèves.",
+   "what_it_is": "Identifier les conceptions erronées typiques (par exemple : « multiplier augmente toujours », la lettre en algèbre comprise comme une étiquette d'objet), les diagnostiquer par des questions conçues pour les révéler, et construire l'enseignement autour de leur confrontation. ICCAMS (Increasing Competence and Confidence in Algebra and Multiplicative Structures) opérationnalise cela avec 40 plans de leçons, 20 mini-évaluations, 20 activités de reprise et neuf jours de développement professionnel sur deux ans, pour les Years 7 et 8.",
+   "evidence_level": "essai contrôlé randomisé en grappes à deux bras, essai d'efficacité à l'échelle (« effectiveness trial »), sécurité de preuve EEF « modérée à élevée » (3 cadenas sur 5)",
+   "effect_size": "Résultat principal : Hedges g = +0,04 (IC 95 % : −0,07 ; +0,15 ; p = 0,507), soit 0 mois de progrès, sur 18 052 élèves. Sous-groupe défavorisé (FSM) : g = +0,06 (−0,04 ; +0,16 ; p = 0,215), soit 1 mois. Sous-échelle algèbre : 1 mois de progrès supplémentaire ; raisonnement multiplicatif : 0. Attitudes envers les mathématiques : aucune différence. Essai mené de septembre 2016 à juillet 2018 sur 109 écoles (environ 20 800 élèves recrutés). Coût : environ 5 720 £ par école, soit 15 £ par élève et par an sur trois ans.",
+   "concrete_practice": "Les enseignants administrent des mini-évaluations diagnostiques, identifient les conceptions erronées dominantes de leur classe, puis conduisent des leçons construites autour de représentations visuelles et de discussions collectives visant à faire émerger et à résoudre le conflit conceptuel. Le programme prévoyait un enseignant référent formé en externe, chargé de former ses collègues en interne (modèle en cascade).",
+   "concrete_example": "L'évaluation ICCAMS montre exactement où la chaîne casse, et c'est le résultat le plus utile pour un décideur. Les quatre maillons de la théorie du programme étaient : (1) les enseignants référents sont bien formés, (2) ils forment efficacement leurs collègues, (3) les enseignants délivrent les leçons comme prévu, (4) les élèves progressent. L'évaluation trouve des preuves solides pour le maillon 1 seulement : plus de 80 % des référents jugent la formation bonne ou excellente, 88 % trouvent utiles les visites de coaching, 78 % se disent confiants pour enseigner les leçons ICCAMS. Mais 55 % des référents ont délivré moins de sessions de cascade que prévu ; alors que chaque session devait durer une heure, seuls 13 % des enseignants déclarent avoir eu des sessions d'au moins une heure et 76 % déclarent des sessions de 30 minutes ou moins ; et seuls 41 % des enseignants interrogés déclarent avoir enseigné les 20 leçons prévues. Les causes citées : charges concurrentes, réticence de certains collègues, rotation du personnel.",
+   "conditions": "La condition n'est pas didactique mais organisationnelle : le temps de formation interne doit être protégé et financé, sans quoi le modèle en cascade se vide. À noter que le rapport EEF précise que l'infidélité d'implémentation « rend plus difficile l'estimation précise de l'ampleur de l'impact sur les élèves de l'essai » — l'effet nul mesure autant l'échec du véhicule de diffusion que celui du contenu.",
+   "contested": "Il faut résister à la lecture complaisante « le contenu était bon, seule la diffusion a échoué » : c'est plausible mais non démontré, et un décideur doit retenir que le paquet complet (contenu + modèle de diffusion) ne produit rien. À l'inverse, il serait injuste de conclure à l'inefficacité de l'évaluation formative en général : l'essai Embedding Formative Assessment de l'EEF (140 écoles, 25 000 élèves, deux ans) a obtenu une taille d'effet de 0,09 sur les résultats aux examens nationaux GCSE (soit deux mois de progrès), non significative à 5 % mais significative à 10 %, avec 0,11 dans les analyses de sensibilité et de conformité — mais il s'agit d'un dispositif transversal, non spécifique aux mathématiques. Enfin, la littérature sur les leçons d'évaluation formative en mathématiques du Shell Centre (Mathematics Assessment Project, Nottingham/Berkeley) repose sur des évaluations quasi-expérimentales américaines dont je n'ai pas pu vérifier les tailles d'effet dans les sources primaires accessibles : je ne les cite donc pas comme preuve.",
+   "sources": [
+    {
+     "title": "Increasing Competence and Confidence in Algebra and Multiplicative Structures (ICCAMS) — Evaluation Report",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/documents/pages/projects/ICCAMS_report_2021-final.pdf?v=1641930056"
+    },
+    {
+     "title": "Increasing Competence and Confidence in Algebra and Multiplicative Structures — fiche projet",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/increasing-competence-and-confidence-in-algebra-and-multiplicative-structur"
+    },
+    {
+     "title": "The Effect of Embedding Formative Assessment on Pupil Attainment",
+     "org": "Journal of Research on Educational Effectiveness, 15(4)",
+     "year": "2022",
+     "url": "https://www.tandfonline.com/doi/full/10.1080/19345747.2021.2018746"
+    },
+    {
+     "title": "Improving Mathematics in Key Stages 2 and 3 — Guidance Report (recommandation 1 : utiliser l'évaluation pour s'appuyer sur les savoirs existants des élèves)",
+     "org": "Education Endowment Foundation",
+     "year": "2017",
+     "url": "https://files.eric.ed.gov/fulltext/ED634883.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le refus du groupement par niveau au primaire, principe affiché du Teaching for Mastery, est soutenu par une preuve faible et souvent mal citée : le setting entre classes a un effet nul en moyenne (0 mois) mais le regroupement par niveau à l'intérieur de la classe a un effet positif, et plus fort en mathématiques (+4 mois).",
+   "what_it_is": "Trois dispositifs distincts, régulièrement confondus dans le débat public. Le streaming : répartition des élèves en classes de niveau pour toutes les matières. Le setting : répartition en groupes de niveau matière par matière. Le within-class grouping : constitution de groupes de niveau à l'intérieur de la classe ordinaire, avec le même enseignant, pour certaines activités. Le Teaching for Mastery anglais refuse les deux premiers au primaire.",
+   "evidence_level": "synthèse de méta-analyses (EEF Teaching and Learning Toolkit), qualité de preuve jugée « très limitée » par l'EEF ; complétée par un essai contrôlé randomisé indépendant",
+   "effect_size": "Setting/streaming : 0 mois de progrès en moyenne, base de 58 études, sécurité « très limitée », révision juillet 2021 ; l'EEF signale « un petit impact négatif sur les élèves faibles ». Within-class attainment grouping : +2 mois en moyenne, base de 22 études, sécurité « très limitée » ; +4 mois en mathématiques contre aucune différence en littératie, et +3 mois au primaire contre aucun impact au secondaire. Essai Best Practice in Setting (NFER pour l'EEF) : 0 mois en mathématiques (121 écoles, sécurité faible à modérée), −1 mois en anglais (79 écoles, sécurité très faible), 0 mois pour les élèves défavorisés dans les deux matières ; 24 742 élèves, 127 écoles, 4 ans et 8 mois, financement 1 164 215 £.",
+   "concrete_practice": "Concrètement, la recommandation qui résiste le mieux aux données n'est pas « pas de groupes de niveau » mais « pas de classes de niveau ». Au sein d'une classe hétérogène, constituer des groupes temporaires et flexibles pour une activité donnée, sur la base d'une évaluation récente et avec un réexamen fréquent de la composition, est la modalité qui présente le meilleur profil — particulièrement en mathématiques au primaire.",
+   "concrete_example": "L'essai Best Practice in Grouping Students (EEF/NFER, évaluation UCL Institute of Education) a testé une intervention formant les écoles à des pratiques de setting « de bonne qualité » (affectation fondée sur les acquis, réaffectations régulières, enseignants expérimentés attribués aux groupes faibles, attentes élevées maintenues) en anglais et mathématiques, Years 7 et 8. Résultat : aucun effet, mais surtout un échec d'engagement révélateur — la participation aux dernières sessions de formation est tombée à 21 % en mathématiques et 12 % en anglais, et plus de la moitié des écoles avaient cessé de mettre en œuvre l'intervention avant le suivi. La conclusion des évaluateurs mérite d'être retenue telle quelle : « parvenir à engager les écoles dans le programme s'est révélé au moins aussi important que le programme lui-même ». Un essai pilote parallèle sur l'enseignement en groupes hétérogènes avait, lui, échoué à recruter : les écoles refusent largement d'être randomisées vers la mixité de niveau.",
+   "conditions": "Les conditions identifiées par l'EEF portent sur la flexibilité (réévaluation fréquente de la composition des groupes), la qualité de l'affectation (risques de mauvais classement), et le maintien des attentes. Le risque documenté est une prophétie autoréalisatrice : attentes enseignantes abaissées, enseignants moins expérimentés affectés aux groupes faibles, dégradation durable des attitudes et de l'engagement des élèves faibles.",
+   "contested": "C'est le point le plus contesté du dossier, et il faut le dire sans complaisance dans les deux sens. (1) Contre Boaler : ses travaux fondateurs (Boaler, Wiliam & Brown, British Educational Research Journal, 2000, étude longitudinale sur quatre ans dans six écoles) sont des études qualitatives et longitudinales, non des essais randomisés, et ne permettent pas d'établir un effet causal du grouping sur les acquis ; l'argument selon lequel les pays flexibles réussissent mieux aux tests internationaux est corrélationnel. Une plainte anonyme de 100 pages déposée à Stanford en mars 2024 allègue 52 cas de citations déformées dans ses travaux et dans le California Math Framework ; Stanford a examiné la plainte et décidé en avril 2024 de ne pas ouvrir d'enquête formelle, estimant que les allégations relevaient d'un « désaccord scientifique et d'interprétation ». Aucune conclusion de fraude n'a donc été établie, mais la contestation est publique et documentée. (2) Contre les critiques de Boaler : ces derniers invoquent souvent la méta-analyse de Steenbergen-Hu et al. (2016) sur les bénéfices du regroupement pour les élèves à haut potentiel — je n'ai pas pu en vérifier les tailles d'effet dans la source primaire et je ne les cite donc pas. (3) Contre les deux : la base de preuves de l'EEF est explicitement de sécurité « très limitée » des deux côtés (58 et 22 études, peu de randomisation, peu d'études récentes) — invoquer cette littérature comme un argument fort, dans un sens ou dans l'autre, est abusif.",
+   "sources": [
+    {
+     "title": "Setting or streaming — Teaching and Learning Toolkit",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/setting-or-streaming"
+    },
+    {
+     "title": "Within class attainment grouping — Teaching and Learning Toolkit",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/within-class-attainment-grouping"
+    },
+    {
+     "title": "Best Practice in Setting — trial (évaluation NFER)",
+     "org": "Education Endowment Foundation",
+     "year": "2023",
+     "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-grouping-students"
+    },
+    {
+     "title": "Students' Experiences of Ability Grouping — disaffection, polarisation and the construction of failure",
+     "author": "Boaler, J., Wiliam, D., & Brown, M.",
+     "org": "British Educational Research Journal, 26(5)",
+     "year": "2000",
+     "url": "https://www.youcubed.org/wp-content/uploads/BoalerWiliamBrownBERJ.pdf"
+    },
+    {
+     "title": "Stanford closes review into complaint on Jo Boaler",
+     "org": "The Stanford Daily",
+     "year": "2024",
+     "url": "https://stanforddaily.com/2024/04/22/university-decides-not-to-open-investigation-into-jo-boaler/"
+    }
+   ]
+  },
+  {
+   "claim": "Le facteur limitant n'est pas le contenu didactique mais le véhicule de diffusion : les modèles de développement professionnel en cascade et par observation croisée entre pairs — les moins coûteux, donc les plus tentants sous contrainte budgétaire — ont échoué dans tous les essais randomisés à grande échelle disponibles.",
+   "what_it_is": "Trois modèles de diffusion largement utilisés en Europe : la cascade (un enseignant référent formé en externe forme ses collègues en interne), la Lesson Study japonaise (des enseignants conçoivent, observent et révisent ensemble une leçon), et les collectifs d'enseignants accompagnés par un conseiller (« constellations » du plan mathématiques français). Tous mutualisent le coût de formation en s'appuyant sur le temps des enseignants.",
+   "evidence_level": "trois essais contrôlés randomisés indépendants (EEF) ; plus un rapport d'inspection descriptif pour le cas français",
+   "effect_size": "Lesson Study (EEF) : aucun effet sur les acquis, « ni en moyenne, ni dans aucun sous-groupe » ; 181 écoles, 12 700 élèves de Key Stage 2, 2 ans et 9 mois, 543 425 £ ; seules 64 des 89 écoles assignées au traitement ont suivi les deux années d'intervention. ICCAMS (cascade) : g = +0,04 (−0,07 ; +0,15) sur 18 052 élèves. Realistic Mathematics Education (collectifs + CPD externe) : g = +0,04 (−0,06 ; +0,15), 0 mois, 4 159 élèves analysés, 119 écoles, sécurité « très faible » ; sous-groupe défavorisé : g = −0,03 (−0,17 ; +0,11) ; coût 32,22 £ par élève et par an.",
+   "concrete_practice": "Dans les trois cas, le dispositif repose sur du temps d'enseignant : temps de formation interne (cascade), temps d'observation croisée et de conception collective (Lesson Study, constellations), temps de participation à des journées externes. Ce temps n'est presque jamais entièrement financé, et c'est là que le dispositif se vide.",
+   "concrete_example": "L'essai RME (Manchester Metropolitan University, évaluation Sheffield Hallam pour l'EEF) documente un mécanisme de dilution que la FWB rencontrerait à l'identique. Le programme visait les Years 7 et 8 avec huit jours de CPD sur deux ans et dix modules de matériel ; il a produit zéro effet. Mais l'explication principale n'est pas pédagogique : seuls 43,5 % des élèves de l'échantillon d'intention de traiter ont effectivement été dans une classe enseignée par un enseignant RME les deux années — parce que les élèves changent de classe de mathématiques entre la 7e et la 8e année. Les évaluateurs en tirent une conclusion générale explicite : ce constat « semble représenter un défi pour la conception future d'essais randomisés évaluant, dans le secondaire, des programmes fondés sur un changement au niveau de l'enseignant ou de la classe ». Un signal encourageant malgré tout : les élèves des écoles ayant envoyé deux enseignants ou plus à au moins quatre journées de formation avaient de meilleurs résultats que ceux des écoles en dessous de ce seuil — la dose de formation compte, même si la corrélation n'est pas causale.",
+   "conditions": "Trois conditions se dégagent de la comparaison des échecs : (1) financer explicitement le temps, et pas seulement le contenu — le plan mathématiques français a retenu la leçon en prévoyant, pour chaque « constellation » de 6 à 9 professeurs des écoles, 30 heures de formation dont 18 heures sur le temps d'animations pédagogiques et 12 heures sur temps de classe avec remplacement, plus 24 jours de formation sur trois ans pour le conseiller pédagogique qui l'anime ; (2) assurer la stabilité des affectations d'enseignants et de classes sur la durée du dispositif ; (3) mesurer la dose réellement délivrée et non la dose prévue.",
+   "contested": "L'essai RME est de sécurité « très faible » (48 % d'attrition, perturbations Covid majeures, report du test de 2020 à 2021) : il ne prouve pas grand-chose sur l'approche elle-même. L'essai Lesson Study est plus solide et son verdict plus sévère. Quant au modèle français des constellations, le rapport de suivi de l'IGÉSR (rapport 2021-228, janvier 2022) porte sur le pilotage, les choix d'organisation et l'atteinte des premiers objectifs, et confirme l'adoption du modèle par les enseignants et les formateurs — mais il ne mesure aucun impact sur les acquis des élèves, et le dispositif a fait l'objet d'une contestation syndicale sur son caractère obligatoire. Il ne peut donc être invoqué comme preuve d'efficacité, seulement comme modèle organisationnel francophone transposable. Enfin, il serait erroné de conclure que le développement professionnel est inutile : les échecs documentés portent sur des véhicules de diffusion précis, pas sur le principe.",
+   "sources": [
+    {
+     "title": "Lesson Study — trial, Evaluation Report",
+     "org": "Education Endowment Foundation",
+     "year": "2017",
+     "url": "https://files.eric.ed.gov/fulltext/ED581145.pdf"
+    },
+    {
+     "title": "Realistic Mathematics Education — Evaluation Report",
+     "org": "Education Endowment Foundation / Sheffield Hallam University",
+     "year": "2022",
+     "url": "https://shura.shu.ac.uk/31112/1/Realistic-Maths-Education-FINAL.pdf"
+    },
+    {
+     "title": "Increasing Competence and Confidence in Algebra and Multiplicative Structures (ICCAMS) — Evaluation Report",
+     "org": "Education Endowment Foundation",
+     "year": "2021",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/documents/pages/projects/ICCAMS_report_2021-final.pdf?v=1641930056"
+    },
+    {
+     "title": "Suivi du Plan mathématiques (rapport IGÉSR n° 2021-228)",
+     "org": "Inspection générale de l'éducation, du sport et de la recherche (France)",
+     "year": "2022",
+     "url": "https://www.vie-publique.fr/rapport/284988-suivi-du-plan-mathematiques"
+    },
+    {
+     "title": "Comprendre les caractéristiques de la Lesson Study pour les constellations des Plans mathématiques et français",
+     "org": "Conseil d'évaluation de l'École / Ministère de l'Éducation nationale (France)",
+     "year": "2023",
+     "url": "https://www.education.gouv.fr/le-conseil-d-evaluation-de-l-ecole/comprendre-les-caracteristiques-de-la-lesson-study-pour-les-constellations-des-plans-mathematiques-470471"
+    }
+   ]
+  }
+ ]
+}

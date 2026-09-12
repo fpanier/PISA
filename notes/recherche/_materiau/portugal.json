@@ -1,0 +1,419 @@
+{
+ "topic": "Portugal : anatomie d'une ascension PISA (2000-2015/2018) et de son effacement (2018-2025) — ce qui tient, ce qui a lâché",
+ "headline": "Le Portugal a gagné ~40 points PISA entre 2000 et 2018 puis les a intégralement reperdus en 2025 (460 en maths, 462 en lecture, soit un niveau inférieur à 2006 et, en lecture, à 2000) ; les leviers qui ont réellement tenu sont structurels et lents (restructuration du réseau en agrupamentos, scolarité obligatoire à 18 ans, filières professionnelles, hausse du capital scolaire des parents), tandis que les dispositifs emblématiques les plus copiés — TEIP, baisse administrative du redoublement, autonomie curriculaire, évaluation des enseignants — sont soit non évalués, soit évalués comme sans effet, soit évalués comme contre-productifs.",
+ "transposability_fwb": "Cinq avertissements pour la FWB. (1) Ce qui a le mieux tenu au Portugal est une restructuration de réseau (17 141 → 8 199 écoles, 98 % en agrupamentos) conduite sur 25 ans avec continuité politique : c'est exactement la brique que la FWB, à liberté d'enseignement constitutionnelle et réseaux multiples, ne peut pas reproduire par décret — mais elle peut en retenir le principe d'un pilotage par contrat pluriannuel avec des unités organisationnelles plus grandes, ce que les « plans de pilotage » du Pacte esquissaient déjà. (2) Le TEIP est l'analogue direct de l'encadrement différencié / indice socio-économique de la FWB : après 25 ans et 136 agrupamentos, l'évaluation économétrique la plus large (4 M de notes, Ferraz, Neves & Nata 2018) ne trouve aucun effet et le rapport officiel NOVA.ID 2019 montre des taux de redoublement médians toujours supérieurs dans les écoles TEIP. Financer des moyens supplémentaires sans prescrire de pratiques évaluées ne réduit pas les écarts — c'est le risque exact du différentiel de moyens FWB. (3) Sur le redoublement (35 % en FWB, 1er rang européen), le Portugal fournit l'argument budgétaire le plus fort, pas l'argument pédagogique : le PNPSE chiffre 30 000 redoublants évités et ~112 M€ d'économies, alors que la seule preuve causale portugaise (Nunes, Reis & Seabra, Applied Economics 2018) trouve un effet du redoublement soit nul, soit positif mais minuscule (~0,2 point sur 1-5). Conclusion transposable : réduire le redoublement se justifie par son coût et son inefficacité, pas par un gain d'apprentissage automatique — et une baisse purement administrative produit de l'inflation des notes (au Portugal, 13,6 en interne contre 10,6 aux examens). (4) L'expérience portugaise de l'évaluation des enseignants (2007-2008) est un contre-modèle direct : la tournoi individuel a fait baisser les résultats aux examens nationaux de ~1/3 à 1/2 écart-type, sans baisse des notes internes (Martins 2010) — dans un système FWB à forte densité syndicale et à pénurie d'enseignants, transposer un dispositif de ce type serait imprudent. (5) Le point le plus directement transposable, et le moins coûteux : le Portugal a supprimé en 2016 ses épreuves externes certificatives de fin de 4e et 6e années et n'a rétabli un dispositif censitaire de monitoring (ModA) qu'en 2024/2025 — huit ans de pilotage à l'aveugle qui recouvrent précisément la période du décrochage. La FWB, qui dispose déjà d'épreuves externes certificatives (CEB, CE1D, CESS), doit considérer ce dispositif comme son actif le plus précieux et résister à toute tentation de l'alléger au nom de la flexibilité curriculaire. Enfin, deux limites de contexte : la hausse spectaculaire du diplôme des parents portugais (moins de 20 % d'un parent diplômé du supérieur en 2003, 45 % en 2022) a porté mécaniquement les scores et ne se rejouera pas en FWB, où le stock de diplômés est déjà élevé ; et l'expansion professionnelle portugaise a été massivement financée par le Fonds social européen, ressource dont la FWB ne dispose pas au même niveau.",
+ "searches_run": 22,
+ "items": [
+  {
+   "claim": "La trajectoire portugaise n'est pas « une progression continue jusqu'en 2018 puis un décrochage » : c'est une progression jusqu'en 2015, puis une érosion qui précède la pandémie et s'achève en 2025 par l'effacement intégral des gains — le Portugal est en 2025 sous son niveau de 2006 en mathématiques et sous son niveau de 2000 en lecture.",
+   "what_it_is": "Trajectoire du Portugal aux cycles PISA 2000 à 2025, publiée le 8 septembre 2026 pour le cycle 2025. Scores 2025 : 460 en mathématiques, 462 en lecture, 482 en sciences, pour des moyennes OCDE respectivement de 463, 461 et 482. Le Portugal reste donc « dans la moyenne OCDE » tout en ayant reperdu vingt ans de progrès, parce que la moyenne OCDE elle-même a reculé.",
+   "evidence_level": "comparaison internationale corrélationnelle (enquête sur échantillon, pas de design causal)",
+   "effect_size": "-12 points en mathématiques et -15 points en lecture entre 2022 et 2025 ; -32 points en mathématiques, -36 en lecture et -19 en sciences entre 2015 et 2025 (population : élèves de 15 ans, 6 945 élèves portugais dans 225 écoles pour le cycle 2025). À titre de référence antérieure, la Banque mondiale chiffre à « environ 40 points » le gain moyen du Portugal entre 2000 et 2018. La part d'élèves faibles augmente de 11 points de pourcentage en mathématiques et en lecture et de 7 points en sciences par rapport à 2015.",
+   "concrete_practice": "Aucune pratique : il s'agit de l'indicateur de résultat qui sert de juge de paix à toutes les affirmations sur les réformes portugaises. Sa lecture correcte impose de distinguer trois sous-périodes (2000-2009 : progrès généralisés ; 2009/2015-2018 : progrès soutenus par la composition sociale ; 2018-2025 : recul généralisé) plutôt que d'opposer un « avant 2018 » à un « après 2018 ».",
+   "concrete_example": "Le 8 septembre 2026, l'OCDE publie la note-pays PISA 2025 pour le Portugal. L'écart de performance en sciences entre les 25 % d'élèves socio-économiquement les plus favorisés et les 25 % les moins favorisés est de 92 points, au-dessus des 85 points de la moyenne OCDE — soit un écart désormais supérieur à la moyenne, alors que le Portugal était cité dix ans plus tôt comme un système à la fois moyen et relativement équitable. Parallèlement, 11 % des élèves défavorisés portugais atteignent le quartile supérieur en sciences, contre 12 % en moyenne OCDE : la résilience académique, longtemps un point fort portugais, est revenue dans la norme.",
+   "conditions": "Ce que cet indicateur peut et ne peut pas établir : il mesure une cohorte de 15 ans tous les trois ans, il est sensible à la composition de la population testée (taux de scolarisation à 15 ans, part des élèves en retard, part des filières professionnelles) et il ne permet aucune attribution causale à une politique particulière. Toute lecture politique du chiffre doit être adossée à une décomposition.",
+   "contested": "Deux réserves méthodologiques documentées. D'abord, l'OCDE elle-même signale dans la note-pays PISA 2022 que « en 2018, le Portugal n'a pas respecté la norme de taux de réponse des élèves » et que l'analyse de biais de non-réponse fournie « implique un léger biais à la hausse pour les résultats PISA 2018 du Portugal » : le pic de 2018, abondamment célébré, est partiellement un artefact d'échantillonnage. Ensuite, la comparabilité 2022→2025 est affectée par le passage généralisé au test numérique et par les effets pandémiques, que l'OCDE ne parvient pas à isoler. Je n'ai pas pu accéder directement à la page OCDE de la note-pays 2025 (réponse HTTP 403) ; les chiffres 2025 cités ici sont ceux repris par la presse économique portugaise le jour de la publication et concordants entre sources, mais ils n'ont pas été vérifiés sur le tableau source de l'OCDE.",
+   "sources": [
+    {
+     "title": "PISA 2025 Results (Volume I): Portugal — Country Note",
+     "org": "OCDE",
+     "year": "2026",
+     "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/portugal_1b9ed477-en.html"
+    },
+    {
+     "title": "Alunos portugueses estão piores na matemática e leitura do que há 20 anos",
+     "org": "ECO / SAPO",
+     "year": "2026",
+     "url": "https://eco.sapo.pt/2026/09/08/alunos-portugueses-estao-piores-na-matematica-e-leitura-do-que-ha-20-anos/"
+    },
+    {
+     "title": "PISA 2025: Alunos portugueses regridem cerca de 20 anos a Matemática e Leitura",
+     "org": "Renascença",
+     "year": "2026",
+     "url": "https://rr.pt/noticia/pais/2026/09/08/pisa-2025-alunos-portugueses-regridem-cerca-de-20-anos-a-matematica-e-leitura/484602/"
+    },
+    {
+     "title": "PISA 2022 Results Factsheets: Portugal",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/portugal_b17a7e1d/777942d5-en.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Une part substantielle du « miracle portugais » après 2009 n'est pas produite par l'école mais par la montée du niveau de diplôme des parents : à composition parentale figée, la progression généralisée des élèves s'arrête en 2009 en mathématiques et en 2015 en lecture et en sciences.",
+   "what_it_is": "Décomposition contrefactuelle des scores PISA portugais 2003-2022 : les auteurs recalculent le score moyen national année par année en appliquant aux trois groupes d'élèves (au moins un parent diplômé du supérieur ; au moins un parent avec le secondaire ; aucun parent avec le secondaire) les pondérations de population observées en 2003. L'écart entre score réel et score contrefactuel mesure ce que la seule élévation du capital scolaire des familles apporte.",
+   "evidence_level": "quasi-expérimental faible — décomposition de type shift-share sur microdonnées élèves ; ce n'est pas une identification causale, mais c'est le seul travail qui sépare composition et performance sur toute la série portugaise",
+   "effect_size": "Bascule de composition : en 2003, plus de la moitié des élèves de 15 ans ont des parents n'ayant pas achevé le secondaire et moins de 20 % ont au moins un parent diplômé du supérieur ; en 2022, 45 % ont au moins un parent diplômé du supérieur. Jusqu'en 2012 le score contrefactuel est « seulement légèrement inférieur » au score réel ; à partir de 2015 l'écart se creuse continûment. En mathématiques, « la forte amélioration jusqu'en 2009 a été portée par une amélioration généralisée des scores quel que soit le niveau d'éducation des parents. Cette amélioration généralisée s'est arrêtée en 2009 » ; la hausse observée ensuite jusqu'en 2018 est attribuée à la qualification des parents.",
+   "concrete_practice": "Implication opérationnelle directe : un ministère qui lit la courbe agrégée PISA comme un tableau de bord de ses réformes se trompe pendant environ dix ans. Le Portugal a continué à célébrer des gains en mathématiques jusqu'en 2018 alors que, à structure familiale constante, la performance de ses élèves stagnait depuis 2009 et se dégradait depuis 2015.",
+   "concrete_example": "L'étude est conduite par le Centre de connaissance en économie de l'éducation de la Nova School of Business and Economics (Luís Catela Nunes, Pedro Freitas, Ricardo Colaço) pour EDULOG, le think tank éducation de la Fundação Belmiro de Azevedo, et publiée en mai 2024 (ISBN 978-989-35739-0-7). Elle exploite les données individuelles de tous les cycles PISA portugais de 2000 à 2022. Résultat opérationnel marquant : en 2022, chez les 25 % d'élèves les plus défavorisés, moins de 1 % sont « top performers » contre 57 % d'élèves faibles ; chez les plus favorisés, 24 % de top performers et 7 % d'élèves faibles. Et la réduction de l'écart top/bottom observée entre 2018 et 2022 vient « principalement de la chute des résultats des meilleurs élèves » — un nivellement par le bas, pas un gain d'équité.",
+   "conditions": "La décomposition tient si le rendement scolaire du diplôme parental est stable dans le temps, ce que les auteurs supposent sans le tester. Elle ne dit pas non plus que l'école n'a rien fait : les gains 2000-2009, eux, sont généralisés à tous les niveaux de diplôme parental et sont donc bien imputables au système (ou à des facteurs sociaux non captés par le diplôme des parents).",
+   "contested": "Les auteurs eux-mêmes écrivent que la seconde question — la part imputable au système éducatif — est « très difficile » et qu'ils ne la traitent pas : leur résidu inclut tout ce qui n'est pas le diplôme parental (revenus, crise financière 2011-2014, pandémie, migration). Nuno Crato, ministre de l'Éducation 2011-2015, défend une lecture inverse : les gains jusqu'en 2015 seraient dus à des curricula exigeants et à des examens fréquents, et le décrochage à leur abandon après 2016. Les deux lectures ne sont pas formellement départageables avec les données disponibles, et aucune des deux ne repose sur un design causal.",
+   "sources": [
+    {
+     "author": "Luís Catela Nunes, Pedro Freitas, Ricardo Colaço",
+     "title": "Trends in Student Achievement in Portugal: What does PISA tell us?",
+     "org": "EDULOG / Fundação Belmiro de Azevedo / Nova SBE",
+     "year": "2024",
+     "url": "https://www.edulog.pt/storage/app/uploads/public/666/875/9da/6668759daa0d6352676543.pdf"
+    },
+    {
+     "author": "Nuno Crato",
+     "title": "Math curriculum matters: Statistical evidence and the Portuguese experience",
+     "org": "EMS Magazine (European Mathematical Society), n° 124",
+     "year": "2022",
+     "url": "https://euromathsoc.org/magazine/articles/83"
+    }
+   ]
+  },
+  {
+   "claim": "La réforme qui a le mieux tenu au Portugal n'est pas pédagogique mais structurelle : la fusion du réseau scolaire en agrupamentos de escolas, menée sur 25 ans avec une continuité politique ininterrompue, a réduit de moitié le nombre d'écoles et augmenté de 80 % la taille moyenne des écoles primaires.",
+   "what_it_is": "Regroupement d'écoles préscolaires, primaires et secondaires d'un même territoire en une unité organisationnelle unique (agrupamento) dotée de ses propres organes de direction et d'un projet pédagogique commun (Decreto-Lei 137/2012), avec fermeture des sites non viables et mutualisation de la direction, des ressources humaines et des équipements.",
+   "evidence_level": "descriptif / étude de cas institutionnelle — aucune évaluation contrefactuelle de la réforme elle-même n'existe",
+   "effect_size": "Entre 2000 et 2022, le nombre total d'écoles publiques et privées passe de 17 141 à 8 199 (-52 %) ; les écoles publiques de 1er cycle reculent de 60 % et leur taille moyenne passe de 51,7 à 91,8 élèves (+78 %) ; les écoles hors agrupamento passent de 4 811 à 93 (-98 %). Environ 3 500 petites écoles sont fermées entre 2010 et 2012. Le nombre d'agrupamentos se stabilise autour de 713 en 2013 et atteint 809 en 2025. Le décrochage précoce chute de 43 % en 1999 à 6 % en 2022.",
+   "concrete_practice": "Mécanique opérationnelle : la Résolution du Conseil des ministres n° 44/2010 impose la fermeture de toutes les écoles publiques de 1er cycle de moins de 21 élèves et met fin à la création d'agrupamentos « horizontaux » ; le Dispatch 12955/2010 durcit les critères de viabilité. Les élèves sont transférés vers une école-pôle rénovée. L'État a accompagné par l'entreprise publique Parque Escolar, chargée de reconstruire ou rénover les écoles-pôles, puis a utilisé la structure d'agrupamento comme véhicule de déploiement du Programme de transition numérique (500 M€ à partir de 2020) : distribution d'équipements, contenus et formation à l'échelle du cluster plutôt que de l'école.",
+   "concrete_example": "Le rapport de la Banque mondiale d'octobre 2025 (P507130, équipe Anna Berdzenadze et Renata Freitas Lemos, synthèse Iordan Iossifov, en collaboration avec les ministères portugais et géorgien) documente la séquence complète : phase de résistance 2010-2012 (opposition frontale des enseignants, parents et communes), puis stabilisation dès 2013 avec bascule de l'objectif d'efficience vers la qualité et l'équité. La Banque mondiale cite l'OCDE : le Portugal « a réussi là où peu de pays ont réussi, à rationaliser sans heurt son offre de places scolaires et à connecter les écoles en réseaux ». Le rapport souligne que beaucoup de communautés ont fini par reconnaître que le regroupement avait évité la disparition pure et simple de l'école locale, puisque les sites étaient maintenus quand c'était possible.",
+   "conditions": "Conditions de réussite explicitement identifiées par la Banque mondiale : soutien politique ininterrompu à travers les alternances ; approche séquencée (efficience d'abord, qualité ensuite) ; engagement précoce et continu des parties prenantes via les conseils généraux des agrupamentos incluant communes et parents ; investissement visible dans les infrastructures pour compenser politiquement les fermetures ; cadrage de la réforme comme partie de la modernisation européenne du pays, ce qui la rendait politiquement difficile à défaire. Facteur contextuel non transposable : la réforme a été portée par une contraction démographique rurale forte qui rendait le statu quo intenable.",
+   "contested": "Aucune évaluation causale n'existe : l'attribution au clustering des +40 points PISA et de la chute du décrochage est une inférence narrative de la Banque mondiale et de l'OCDE, pas une estimation. Le rapport lui-même note que les réformes ont « réduit l'autonomie administrative et financière » des établissements absorbés, que les budgets des agrupamentos peuvent varier du simple au quadruple et que les directeurs signalent des trous de financement et des contraintes bureaucratiques. Le même rapport oppose explicitement le succès du clustering à l'échec des réformes curriculaires portugaises, « marquées par des virages et des revirements brutaux » qui « ont contribué au déclin des résultats d'apprentissage, y compris à PISA ».",
+   "sources": [
+    {
+     "title": "Portugal's School Clustering Reform: Lessons for Georgia for Improving Efficiency, Equity, and Quality through School-Network Restructuring (P507130)",
+     "org": "Banque mondiale",
+     "year": "2025",
+     "url": "https://documents1.worldbank.org/curated/en/099112525193042171/pdf/P507130-67d27dd7-b942-495b-9b4a-104cf8d24aad.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'allongement de la scolarité obligatoire à 18 ans (Lei 85/2009), couplé à une expansion massive de l'enseignement professionnel financée par le Fonds social européen, est le levier dont les effets mesurés sont les plus robustes — mais ils portent sur l'insertion et la rétention, pas sur les acquis cognitifs.",
+   "what_it_is": "La Lei n.º 85/2009 du 27 août porte la scolarité obligatoire à 12 ans ou 18 ans, en s'appliquant aux élèves inscrits de la 1re à la 7e année à partir de 2009/10 (les élèves déjà en 8e année ou au-delà restant sous l'ancien régime). Parallèlement, à partir de 2006, l'offre de cursos profissionais de niveau secondaire est ouverte massivement dans les écoles publiques, avec cofinancement FSE.",
+   "evidence_level": "mixte : quasi-expérimental faible (analyse sur microdonnées appariées éducation-marché du travail, comparaisons régionales et temporelles) pour les effets emploi ; descriptif pour les effets sur le décrochage",
+   "effect_size": "Taux d'échec et d'abandon dans le secondaire : 39 % en 2000 à moins de 10 % en 2023. Décrochage précoce (indicateur européen) : 35 % en 2008, 10,6 % en 2019, 8,9 % en 2020, ~6 % en 2022. Insertion : 72 % des diplômés du professionnel qui ne poursuivent pas d'études trouvent un emploi dans les 1 à 2 ans, contre 56 % des diplômés du secondaire général ; inactivité économique des 25-34 ans : 5,6 % pour les diplômés du professionnel contre 10,6 % pour le général. Effet régional : environ +20 % de travailleurs dans la profession correspondante trois ans après la fin de formation. Part des élèves du secondaire supérieur en filière professionnelle : ~40 % aujourd'hui contre ~38,7 % au niveau intermédiaire en 2023 selon la Commission européenne.",
+   "concrete_practice": "Au niveau de l'école : les agrupamentos ouvrent des cursos profissionais de trois ans sanctionnés par une double certification scolaire et professionnelle, avec une part importante d'apprentissage en situation de travail. Le Portugal affiche un taux de participation à l'apprentissage en milieu professionnel de 77,8 % en 2024, très au-dessus des 65,2 % de l'UE. Des dispositifs de rattrapage spécifiques (PIEF, cursos de educação e formação) accueillent les élèves les plus en rupture au niveau du collège.",
+   "concrete_example": "Le policy paper 2025 de la Fundação Francisco Manuel dos Santos, coordonné par Luís Catela Nunes avec Pedro S. Martins, Pedro Reis et Teresa Thomas (Nova SBE), exploite les microdonnées appariées du système éducatif et du marché du travail pour suivre les cohortes issues de l'expansion post-2006. Il documente non seulement l'insertion mais aussi un effet entrepreneurial : hausse significative des créations d'entreprises 3 à 5 ans après l'arrivée des diplômés du professionnel sur le marché du travail dans les zones concernées.",
+   "conditions": "Conditions de réussite : disponibilité d'un financement externe massif et pluriannuel (FSE), qui a permis d'ouvrir l'offre sans arbitrage budgétaire national douloureux ; existence d'un tissu d'entreprises capable d'accueillir les stages ; et acceptation sociale d'une filière professionnelle scolaire (et non en alternance patronale), ce qui distingue le modèle portugais du modèle germanique. Point de fragilité : les auteurs notent que l'effet emploi est « moins prononcé au niveau municipal », signe que les diplômés migrent, ce qui limite le retour local sur investissement.",
+   "contested": "Trois critiques sérieuses. Première : effet de composition sur PISA. Nunes, Freitas et Colaço montrent que la part des élèves de 15 ans en filière professionnelle augmente fortement d'un cycle PISA à l'autre, que ces élèves sont systématiquement moins performants dans les trois domaines sur toute la période, et que la filière professionnelle « semble plus attractive pour les élèves qui réussissent mal » — l'expansion professionnelle maintient donc dans le système des élèves qui tirent la moyenne PISA vers le bas tout en réduisant le décrochage, ce qui brouille l'interprétation de la courbe. Deuxième : dans les écoles privées, la part d'élèves de 15 ans en filière professionnelle passe de moins de 20 % en 2012-2015 à plus de 50 % depuis 2018, ce qui déforme aussi la comparaison public/privé. Troisième : la seule étude publiée que j'aie trouvée sur l'effet propre de l'allongement de la scolarité obligatoire portugaise repose sur les perceptions des enseignants et non sur un design causal ; je n'ai pas trouvé d'estimation par régression sur discontinuité de l'effet de la Lei 85/2009, alors qu'un tel design serait possible (la loi crée une discontinuité nette entre 7e et 8e année en 2009/10). Je signale explicitement ce manque plutôt que de citer une estimation que je ne peux pas vérifier.",
+   "sources": [
+    {
+     "author": "Luís Catela Nunes (coord.), Pedro S. Martins, Pedro Reis, Teresa Thomas",
+     "title": "The expansion of vocational courses in Portugal: what are its impacts on education, employment and entrepreneurship?",
+     "org": "Fundação Francisco Manuel dos Santos / Nova SBE",
+     "year": "2025",
+     "url": "https://ffms.pt/en/research/policy-papers/expansion-vocational-courses-portugal-what-are-its-impacts-education-employment-and-entrepreneurship"
+    },
+    {
+     "author": "Luís Catela Nunes, Pedro Freitas, Ricardo Colaço",
+     "title": "Trends in Student Achievement in Portugal: What does PISA tell us?",
+     "org": "EDULOG / Nova SBE",
+     "year": "2024",
+     "url": "https://www.edulog.pt/storage/app/uploads/public/666/875/9da/6668759daa0d6352676543.pdf"
+    },
+    {
+     "title": "Education and Training Monitor 2025 — Portugal",
+     "org": "Commission européenne",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/portugal.html"
+    },
+    {
+     "title": "Portugal's School Clustering Reform (P507130)",
+     "org": "Banque mondiale",
+     "year": "2025",
+     "url": "https://documents1.worldbank.org/curated/en/099112525193042171/pdf/P507130-67d27dd7-b942-495b-9b4a-104cf8d24aad.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le programme TEIP, vitrine internationale de l'éducation prioritaire portugaise depuis 1996, n'a pas d'effet démontré sur les résultats : l'analyse la plus large disponible conclut à une absence d'impact et montre un écart avec les écoles non-TEIP qui s'est creusé.",
+   "what_it_is": "Territórios Educativos de Intervenção Prioritária : discrimination positive territoriale. Trois générations (TEIP1 1996-2005, 35 agrupamentos ; TEIP2 2006-2011, extension à 104 ; TEIP3 2012-2021, 136 agrupamentos), une quatrième lancée par le Despacho n.º 7798/2023 du 28 juillet pour six années scolaires (2023-2024 à 2028-2029). Les écoles retenues signent un Plano Plurianual de Melhoria avec des cibles chiffrées et reçoivent en contrepartie un crédit horaire additionnel et des personnels spécialisés.",
+   "evidence_level": "corrélationnel longitudinal sur données administratives exhaustives (Ferraz, Neves & Nata 2018) ; descriptif institutionnel pour les rapports officiels ; étude de cas qualitative pour le bilan des 25 ans",
+   "effect_size": "Ferraz, Neves & Nata analysent environ 4 millions de notes du secondaire (classifications internes finales et notes d'examens nationaux) de 2001/2002 à 2014/2015, en comparant les écoles selon leur phase d'entrée dans le TEIP à partir de 2006/2007. Conclusion : « le programme TEIP n'a pas d'impact sur l'amélioration de la performance scolaire ». L'écart aux examens nationaux entre écoles TEIP et non-TEIP passe d'environ 0,38 point en 2001/2002 à environ 0,95 point en 2014/2015 — il double.",
+   "concrete_practice": "Ce que fait concrètement une école TEIP : elle mobilise son crédit horaire pour du tutorat individuel ou en petits groupes, elle recrute des techniciens spécialisés (psychologues, médiateurs socioculturels, assistants sociaux, animateurs) souvent regroupés dans un « gabinete » d'appui à l'élève, elle met en place du tutorat entre pairs désigné par le conseil de classe, elle est suivie par un « perito externo » (expert externe universitaire) et par la DGE selon un modèle d'accompagnement gradué (intensif, de proximité, universel).",
+   "concrete_example": "Le rapport officiel NOVA.ID de septembre 2019, commandé par la Direção-Geral da Educação et coordonné par Vítor Teodoro, agrège les rapports annuels des unités organisationnelles TEIP de 2012 à 2018. Il établit un fait embarrassant et non contesté : « à toutes les années de scolarité (2e à 12e), la médiane du taux de redoublement dans les unités TEIP est supérieure à celle des unités non-TEIP », l'écart atteignant un maximum de 7,1 points de pourcentage en 12e année en 2016/17. Le bilan des 25 ans coordonné par Estela Costa et Marta Almeida (Institut d'éducation de l'Université de Lisbonne, 2022) relève par ailleurs qu'en mathématiques seuls 36,8 % des élèves des écoles TEIP réussissent l'épreuve globale de 9e année et 39,5 % l'examen de Mathématiques A de 12e année.",
+   "conditions": "Les facteurs identifiés comme critiques par les évaluateurs qualitatifs sont : la stabilité du corps enseignant (rarement acquise dans les territoires concernés), le rôle des techniciens spécialisés et en particulier des médiateurs, l'articulation avec les dispositifs de qualification des parents, et la qualité du leadership de l'agrupamento. Aucune de ces conditions n'est prescrite ni contrôlée par le programme, qui finance des moyens et contractualise des cibles sans imposer de pratiques.",
+   "contested": "Le TEIP est le point le plus contesté du dossier portugais, et l'honnêteté impose de restituer les deux camps. Défense : le rapport NOVA.ID relève des progrès internes réels dans le TEIP3 (hausse des taux de réussite aux épreuves globales de portugais de 9e année et aux examens de 12e), et la médiane des élèves ayant des notes positives en portugais dépasse 80 % dans la plupart des années. Le bilan universitaire de 2022 conclut à une « évolution positive » mais concentrée sur certaines disciplines, certains cycles et les écoles qui avaient déjà consolidé de meilleurs résultats — autrement dit un effet Matthieu interne au programme. Attaque : l'analyse de Ferraz, Neves et Nata reste la seule à mobiliser une population exhaustive sur treize ans et elle conclut à l'absence d'effet ; le bilan des 25 ans est une synthèse interprétative appuyée sur dix études de cas, sans contrefactuel. Limite méthodologique commune : la sélection dans le TEIP est explicitement fondée sur la dégradation des indicateurs, ce qui produit un biais de sélection négatif que ni les rapports officiels ni l'étude de Ferraz ne corrigent par un design du type différences-en-différences avec appariement ou régression sur discontinuité. On ne peut donc pas exclure que le TEIP ait un effet positif masqué par la sélection — mais personne au Portugal n'a produit l'étude qui le montrerait, après 30 ans de programme.",
+   "sources": [
+    {
+     "author": "Hélder Ferraz, Tiago Neves, Gil Nata",
+     "title": "A eficácia dos programas de educação compensatória nos resultados escolares: análise do programa nacional português de educação compensatória ao longo de 13 anos",
+     "org": "Ensaio: Avaliação e Políticas Públicas em Educação, 26(100), 1058-1083",
+     "year": "2018",
+     "url": "https://www.scielo.br/j/ensaio/a/9dX8yy6LrpthgHFZQvfzWCk/"
+    },
+    {
+     "author": "NOVA.ID (coord. Vítor Teodoro)",
+     "title": "Escolas TEIP — Resultados dos Relatórios Elaborados pelas UOs em Setembro de 2018",
+     "org": "Direção-Geral da Educação, Ministério da Educação",
+     "year": "2019",
+     "url": "https://www.dge.mec.pt/sites/default/files/EPIPSE/relatorio_teip_2012-2018.pdf"
+    },
+    {
+     "author": "Estela Costa, Marta Almeida (coord.)",
+     "title": "25 Anos do Programa TEIP em Portugal",
+     "org": "Instituto de Educação da Universidade de Lisboa / Direção-Geral da Educação",
+     "year": "2022",
+     "url": "https://www.dge.mec.pt/sites/default/files/Noticias_documentos/ebook_25_anos_do_programa_teip_em_portugal.pdf"
+    },
+    {
+     "title": "Despacho n.º 7798/2023 — criação do Programa TEIP4",
+     "org": "Diário da República, 2.ª série, n.º 146",
+     "year": "2023",
+     "url": "https://files.diariodarepublica.pt/2s/2023/07/146000000/0006500069.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le Portugal a effectivement fait chuter le redoublement de moitié en dix ans (32 % des élèves de 15 ans ayant redoublé au moins une fois en 2018, 17 % en 2022), mais cette baisse a été obtenue par un dispositif de mobilisation des écoles sans groupe de contrôle, dont les gains d'apprentissage n'ont jamais été établis.",
+   "what_it_is": "Le Programa Nacional de Promoção do Sucesso Escolar (PNPSE), créé par la Résolution du Conseil des ministres n.º 23/2016 du 24 mars, demande à chaque agrupamento d'élaborer un Plano de Ação Estratégica (PAE) fondé sur son propre diagnostic, avec cible de réduction du redoublement de 25 % par rapport à son historique, financé par le Programme opérationnel Capital humain et le Fonds social européen.",
+   "evidence_level": "évaluation de programme avant/après sans contrefactuel (auto-évaluation officielle) ; complétée par des statistiques descriptives PISA et nationales",
+   "effect_size": "PISA : 32 % des élèves portugais de 15 ans déclarent avoir redoublé au moins une fois en 2018, 17 % en 2022 (moyenne OCDE 9 %). PNPSE, biennat 2016-2018 : réduction du taux de redoublement de 29 % dans l'enseignement de base (29 % au 1er cycle, 31 % au 2e, 28 % au 3e) ; 30 000 élèves redoublants en moins dans le réseau des écoles PNPSE ; gains d'efficience estimés à environ 112 millions d'euros ; réduction de 16 % de la part d'élèves ayant au moins une note négative ; dans les écoles ayant appliqué des mesures PAE, variation relative du redoublement de près de -40 % en 2017/18 par rapport à 2014/15.",
+   "concrete_practice": "Deux briques opérationnelles distinctes. (1) Le PAE : chaque école identifie deux ou trois « années critiques » (typiquement la 2e, la 5e et la 7e année, années de transition) et y concentre des mesures — coenseignement, groupes de niveau temporaires, assistance en petits groupes, réorganisation du calendrier. (2) L'Apoio Tutorial Específico, créé par le Despacho Normativo n.º 4-A/2016 (article 12) : tout élève des 2e et 3e cycles ayant accumulé deux redoublements ou plus est confié à un enseignant tuteur ; chaque tuteur suit un groupe de 10 élèves et se voit attribuer quatre heures hebdomadaires pour cet accompagnement, consacrées à la planification et au suivi du parcours d'apprentissage de l'élève.",
+   "concrete_example": "Sur les 811 agrupamentos publics du continent, 674 étaient éligibles et 663 ont déposé un Plano de Ação Estratégica, soit 98 % des éligibles. Dans 552 d'entre eux (83 % du réseau PNPSE), les mesures portent sur au moins trois cycles d'enseignement. Plus de 70 000 enseignants ont suivi une formation continue entre 2016 et 2018 dans le cadre de ces plans, la formation basculant d'une logique de besoins individuels vers une logique de besoins collectifs de l'établissement. Le rapport final, coordonné par José Verdasca (coordinateur national de la structure de mission PNPSE) et publié en juillet 2019, est explicitement présenté comme une politique « bottom-up » : l'administration centrale fixe la cible (-25 %) et finance, mais ne prescrit pas les moyens pédagogiques.",
+   "conditions": "Le dispositif suppose une capacité de diagnostic et d'ingénierie pédagogique au niveau de l'établissement — donc des agrupamentos suffisamment grands et dirigés, ce que la réforme du réseau avait précisément créé. Il suppose aussi un financement externe (POCH/FSE) qui n'entre pas en concurrence avec le budget de fonctionnement. Le rapport lui-même signale des « asymétries territoriales dans l'intensité de la réduction des taux de redoublement », c'est-à-dire que les territoires les plus fragiles ont le moins baissé.",
+   "contested": "Trois objections lourdes. (1) Le rapport PNPSE est une auto-évaluation de la structure de mission qui pilote le programme, sans groupe de contrôle ni correction de la tendance nationale préexistante : la baisse du redoublement était déjà engagée et le PNPSE couvre 98 % des écoles éligibles, ce qui interdit toute comparaison. (2) La chute de 32 % à 17 % entre PISA 2018 et PISA 2022 recouvre les années de pandémie, pendant lesquelles le Portugal a très largement suspendu le redoublement : attribuer cette baisse au PNPSE est indéfendable. (3) Risque d'inflation des notes : la DGEEC publie un indicateur de « desalinhamento » des classifications, qui montre pour les élèves internes du secondaire une moyenne d'examen de 10,6 contre une moyenne de classification interne de 13,6, soit environ trois points d'écart, et un écart atteignant près de cinq points dans les écoles privées. L'Inspection a ouvert des procédures depuis 2019 mais, faute de cadre légal sur le désalignement, ne peut pas sanctionner une école au seul motif qu'elle gonfle systématiquement ses notes. Une baisse du redoublement obtenue par assouplissement des critères de passage n'est pas un progrès d'apprentissage.",
+   "sources": [
+    {
+     "author": "José Verdasca, Ana Maria Neves, Helena Fonseca, José Alberto Fateixa, Marta Procópio, Teodolinda Magro-C",
+     "title": "Relatório PNPSE 2016-2018: Escolas e Comunidades tecendo Políticas Educativas com base em Evidências",
+     "org": "Estrutura de Missão do PNPSE / Direção-Geral da Educação (ISBN 978-972-742-433-7)",
+     "year": "2019",
+     "url": "https://dspace.uevora.pt/rdpc/bitstream/10174/25940/1/Escolas%20e%20Comunidades%20tecendo%20Pol%C3%ADticas%20Educativas%20com%20base%20em%20Evid%C3%AAncias%20(Relat%C3%B3rio%20PNPSE%202016-2018).pdf"
+    },
+    {
+     "title": "PISA 2022 Results Factsheets: Portugal",
+     "org": "OCDE",
+     "year": "2023",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/pisa-2022-results-volume-i-and-ii-country-notes_2fca04b9/portugal_b17a7e1d/777942d5-en.pdf"
+    },
+    {
+     "title": "Apoio Tutorial Específico (Despacho Normativo n.º 4-A/2016, art. 12)",
+     "org": "Direção-Geral da Educação",
+     "year": "2016",
+     "url": "https://www.dge.mec.pt/apoio-tutorial-especifico"
+    },
+    {
+     "title": "Sobrevalorização de classificações, exames nacionais e acesso ao ensino superior",
+     "org": "EDUSTAT / Fundação Belmiro de Azevedo",
+     "year": "2023",
+     "url": "https://edustat.pt/detalhes-infostat?ID=17"
+    }
+   ]
+  },
+  {
+   "claim": "La meilleure preuve causale produite au Portugal sur le redoublement donne un résultat inconfortable pour les deux camps : redoubler en 4e année a un effet soit nul, soit positif mais dérisoire — ce qui condamne le redoublement par son coût, pas par sa nocivité.",
+   "what_it_is": "Étude de Luís Catela Nunes, Ana Balcão Reis et Carmo Seabra (Nova SBE), acceptée dans Applied Economics en 2018. Le Portugal est un terrain rare : tous les élèves passent des examens nationaux standardisés à des années fixes (4e et 6e), et les données administratives suivent les élèves dans le temps, ce qui permet de comparer élèves retenus et élèves promus à niveau initial mesuré identique.",
+   "evidence_level": "quasi-expérimental : appariement sur score de propension, puis variable instrumentale (la « culture du redoublement » de l'école de 4e année) pour traiter l'endogénéité résiduelle",
+   "effect_size": "Sur l'échantillon d'élèves faibles de 4e année, l'appariement donne un effet positif statistiquement significatif mais faible sur les notes des examens nationaux de 6e année. L'estimateur d'effets hétérogènes de Xie, Brand et Jann donne un effet local d'environ 0,2 point sur une échelle de 1 à 5 pour les élèves à faible propension à être retenus. Avec l'instrument, l'effet global n'est plus statistiquement significatif en mathématiques ; en portugais il reste significatif uniquement pour les élèves sans redoublement antérieur, d'une magnitude d'« environ 0,2 sur une échelle de 1 à 5 ».",
+   "concrete_practice": "La conclusion opérationnelle des auteurs est directe : « compte tenu des coûts élevés du maintien d'un élève une année supplémentaire à l'école, le faible bénéfice que nous obtenons suggère que le redoublement est un outil inefficace pour traiter la difficulté scolaire précoce ». Ils appellent explicitement à expérimenter et comparer les alternatives : heures supplémentaires de soutien par l'enseignant, mentorat, écoles d'été, affectation préférentielle des élèves faibles aux enseignants les plus performants.",
+   "concrete_example": "L'étude, financée par la Fundação Francisco Manuel dos Santos et la Fundação para a Ciência e Tecnologia, exploite les données du DGEEC-Ministère de l'Éducation. Elle produit au passage un résultat de politique publique en soi : à performance égale aux examens nationaux, être un garçon, être originaire d'un autre pays lusophone, ou avoir une mère n'ayant que l'école primaire augmente significativement la probabilité d'être retenu — les auteurs qualifient cela de discrimination, puisque le niveau scolaire est contrôlé. Ils observent aussi que les enseignants tendent à ne pas retenir les élèves déjà retenus auparavant, ce qui révèle que la décision de redoublement n'est pas fondée sur le seul niveau.",
+   "conditions": "Portée limitée : l'étude porte sur le redoublement en 4e année d'élèves faibles, avec mesure d'issue en 6e année (deux ans plus tard) — elle ne dit rien du redoublement au secondaire, ni des effets à long terme sur le décrochage ou l'insertion. Elle ne capture pas non plus les effets psychosociaux.",
+   "contested": "Les auteurs contextualisent eux-mêmes leur résultat de manière contradictoire avec le consensus anti-redoublement européen. Ils rappellent que la méta-analyse d'Allen et al. (2009), restreinte aux études aux designs les plus solides, ne trouve pas d'effets significatifs, et que Greene & Winters (2009), Roderick & Nagaoka (2005) et Schwerdt, West & Winters (2015) trouvent des effets légèrement positifs en Floride — mais ils soulignent une différence cruciale : en Floride le redoublement est accompagné de mesures de soutien additionnelles, « ce qui n'est pas la norme au Portugal ». Une autre étude portugaise sur données PISA 2018 conclut que les élèves retenus présentent une orientation vers la tâche et un sentiment d'appartenance plus faibles, ce qui pointe un coût non capté par les notes. Limite de la méthode : l'appariement sur score de propension repose sur une hypothèse d'absence de confondants non observés, et l'instrument (culture de redoublement de l'école) est vulnérable à l'objection qu'une école qui retient beaucoup diffère aussi par d'autres pratiques.",
+   "sources": [
+    {
+     "author": "Luís Catela Nunes, Ana Balcão Reis, Carmo Seabra",
+     "title": "Is retention beneficial to low-achieving students? Evidence from Portugal",
+     "org": "Applied Economics / Nova School of Business and Economics",
+     "year": "2018",
+     "url": "https://research.unl.pt/ws/files/3707566/Is_retention_beneficial_to_low_achieving_students.pdf"
+    },
+    {
+     "title": "One Step Back or One Step Forward? Effects of Grade Retention and School Retention Composition on Portuguese Students' Psychosocial Outcomes Using PISA 2018 Data",
+     "org": "Sustainability, 14(24), 16573",
+     "year": "2022",
+     "url": "https://doi.org/10.3390/su142416573"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation individuelle des enseignants introduite au Portugal en 2007-2008 est le cas le mieux documenté d'une réforme éducative qui a détérioré les résultats : les notes aux examens nationaux ont chuté d'environ un tiers à une moitié d'écart-type, sans baisse des notes internes — c'est-à-dire en produisant de l'inflation des notes.",
+   "what_it_is": "Introduction, dans toutes les écoles publiques du continent portugais, d'une évaluation individuelle de performance des enseignants (Avaliação do Desempenho Docente) avec quotas de promotion, donc tournoi entre collègues, et critères de promotion faisant une place explicite aux résultats des élèves.",
+   "evidence_level": "quasi-expérimental : différences-en-différences avec deux groupes de contrôle complémentaires, puis triple différence pour isoler l'inflation des notes",
+   "effect_size": "Sur les notes externes (examens nationaux), le coefficient est de -0,044 à -0,064 en log-note moyenne par école lorsque le contrôle est constitué des écoles publiques des Açores et de Madère (soumises à une version allégée de la réforme), soit « près de la moitié d'un écart-type de la log-note moyenne entre écoles », significatif au seuil de 0,1 %. Avec les écoles privées (non exposées) comme contrôle, l'effet est de -0,052 à -0,070, soit « environ un tiers à une moitié d'un écart-type ». Sur les notes internes, les estimations sont de -0,006 à -0,007 seulement, non significatives à 5 %. L'écart entre note interne et note d'examen augmente de 0,271 à 0,352, « environ un tiers d'un écart-type de l'écart moyen », significatif à 5 %.",
+   "concrete_practice": "Le mécanisme identifié par l'auteur : le tournoi pour les promotions a désorganisé la coopération entre enseignants et a alourdi la charge administrative, ce qui a nourri l'insatisfaction professionnelle. L'analyse des départs anticipés à la retraite dans les écoles publiques corrobore ce mécanisme. Simultanément, parce que les critères de promotion valorisaient les résultats des élèves, les enseignants ont ajusté la variable qu'ils contrôlaient — la note interne — sans que la performance réelle, mesurée par l'examen externe corrigé à l'extérieur, suive.",
+   "concrete_example": "L'étude de Pedro S. Martins (Queen Mary University of London / Centre for the Economics of Education, LSE, Discussion Paper 112, mars 2010) utilise des données appariées élèves-écoles couvrant la population des examens nationaux du secondaire sur sept ans. Le design exploite une particularité institutionnelle portugaise décisive : les régions autonomes des Açores et de Madère ont appliqué une version allégée de la réforme, et les écoles privées ne l'ont pas appliquée du tout, alors que tous les élèves — publics, privés, continentaux ou insulaires — passent exactement les mêmes examens nationaux. L'intensité de l'effet est cohérente avec l'intensité du traitement : plus fort contre les écoles privées (traitement nul) que contre les îles (traitement intermédiaire).",
+   "conditions": "Le résultat porte sur un dispositif précis : évaluation individuelle avec quotas de promotion, dans un corps enseignant syndiqué et hostile, introduite brutalement. L'auteur conclut d'ailleurs que « les enseignants répondent aux incitations de façon prévisible » et appelle à passer de la question « la rémunération à la performance est-elle bonne ou mauvaise ? » à la question « quels montages précis produisent les meilleurs résultats pour les élèves ? ».",
+   "contested": "Limites reconnaissables. L'identification repose sur trois unités de traitement agrégées (continent, îles, privé) : si un autre choc a frappé le continent au même moment, il est confondu avec la réforme — et la période couvre le début de la crise financière portugaise. Les groupes de contrôle ne sont pas comparables sur tout : les écoles privées portugaises recrutent un public plus favorisé et ont depuis été elles-mêmes accusées d'inflation massive des notes (en 2024, sur plus de 30 000 évaluations finales dans les collèges privés, 38 notes négatives seulement). Enfin, l'étude est restée un working paper très cité mais je n'ai pas vérifié sa publication ultérieure dans une revue à comité de lecture ; le même auteur a publié en 2024 avec João R. Ferreira un travail plus récent sur les effets des réformes d'incitations individuelles dans le secteur public, que je n'ai pas pu lire.",
+   "sources": [
+    {
+     "author": "Pedro S. Martins",
+     "title": "Individual Teacher Incentives, Student Achievement and Grade Inflation (CEE Discussion Paper 112)",
+     "org": "Centre for the Economics of Education, London School of Economics",
+     "year": "2010",
+     "url": "https://cep.lse.ac.uk/pubs/download/CEE/ceedp112.pdf"
+    },
+    {
+     "author": "Pedro S. Martins, João R. Ferreira",
+     "title": "Effects of Individual Incentive Reforms in the Public Sector: The Case of Teachers",
+     "org": "SSRN / Nova SBE Working Papers",
+     "year": "2024",
+     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4987943"
+    },
+    {
+     "title": "Inflação de notas. Em mais de 30 mil avaliações finais, colégios só deram 38 negativas",
+     "org": "Renascença",
+     "year": "2024",
+     "url": "https://rr.pt/especial/pais/2024/07/12/inflacao-de-notas-em-mais-de-30-mil-avaliacoes-finais-colegios-so-deram-38-negativas/385968/"
+    }
+   ]
+  },
+  {
+   "claim": "L'autonomie et la flexibilité curriculaire de 2017-2018 — la réforme pédagogique la plus emblématique du Portugal — a été généralisée en deux ans sans qu'aucune évaluation d'impact n'ait été produite, et l'OCDE avait explicitement averti des risques qui se sont matérialisés.",
+   "what_it_is": "Le Projeto de Autonomia e Flexibilidade Curricular (PAFC), lancé à titre expérimental par le Despacho n.º 5908/2017 de juillet 2017 sur base volontaire, puis généralisé par le Decreto-Lei 55/2018 et l'Ordonnance 181/2019 : les écoles peuvent gérer jusqu'à 25 % du curriculum, redessiner leur offre en fonction du Perfil dos Alunos à Saída da Escolaridade Obrigatória, et pratiquer des démarches de projet interdisciplinaires. Il est accompagné du remplacement des « Metas Curriculares » détaillées par des « Aprendizagens Essenciais ».",
+   "evidence_level": "aucune évaluation d'impact — revue institutionnelle qualitative de l'OCDE fondée sur une visite d'étude, plus littérature qualitative portugaise ; la Banque mondiale indique en 2025 que les réformes sont « actuellement sous évaluation externe »",
+   "effect_size": "Non disponible. Aucun chiffre d'effet du PAFC sur les apprentissages n'a été publié, huit ans après son lancement. Les seuls ordres de grandeur disponibles sont d'échelle : plus de 200 écoles volontaires dès septembre 2017, généralisation en 2018/2019, et jusqu'à 25 % du curriculum mobilisable localement.",
+   "concrete_practice": "Concrètement dans l'école : l'agrupamento constitue des « domaines d'autonomie curriculaire », fusionne ou réorganise des heures disciplinaires, développe des projets interdisciplinaires évalués de manière formative, et désigne un coordinateur dédié. Le dispositif est adossé aux Laboratórios de Educação Digital (LED) : plus de 1 300 laboratoires installés dans les écoles primaires et secondaires, chaque école choisissant entre LED 1 (STEM : imprimante 3D, programmation, robotique), LED 2 (ajout arts et multimédia, logique STEAM) et LED 3 (combinaison la plus avancée), avec des scénarios d'apprentissage fournis par la DGE.",
+   "concrete_example": "La revue de l'OCDE de 2018 (équipe de mission incluant Miho Taguma et Lars Barteit du Secrétariat OCDE, avec visite de neuf écoles pilotes et d'une école non pilote) formule trois avertissements datés et vérifiables, tous confirmés depuis. Premier : le PAFC risque d'être perçu comme « une distraction, ou comme convenant seulement aux tranches d'âge plus jeunes ou aux élèves sans risque », parce que l'examen certificatif de fin de secondaire, qui commande l'accès au supérieur, reste souverain. Deuxième : « une perception erronée persiste selon laquelle une plus grande flexibilité du curriculum implique un abaissement des standards d'apprentissage » — l'OCDE indique que le Portugal doit démontrer que la réduction du volume de contenu par la définition d'« apprentissages essentiels » ne dégrade pas les exigences. Troisième : le conflit structurel entre un modèle d'apprentissage décentralisé et un système « hautement prescriptif et centralisé ». La Banque mondiale ajoute en 2025 un élément décisif que l'OCDE ne relevait pas : avant 2015 la flexibilité curriculaire portugaise était additive (les écoles pouvaient enrichir le contenu), après 2015 elle devient soustractive (elles peuvent réduire le contenu), « rendant plus difficile de définir des standards nationaux universels pour l'évaluation ».",
+   "conditions": "L'OCDE conditionne le succès à la capacité de l'État à démontrer empiriquement que la flexibilité ne baisse pas les standards, à l'alignement du système d'évaluation certificative sur le nouveau modèle, et au développement des compétences des enseignants en évaluation formative — trois conditions dont aucune n'a été remplie avant la généralisation.",
+   "contested": "Frontalement contesté au Portugal. Nuno Crato, ministre 2011-2015 et auteur de l'article « Math curriculum matters » (EMS Magazine n° 124, 2022), soutient que le tournant de 2016 — abolition de deux des quatre évaluations standardisées, remplacement des programmes par des « Aprendizagens Essenciais » qu'il juge vagues, virage vers la multidisciplinarité — explique le décrochage, et documente sur TIMSS 4e année que la part d'élèves très performants en mathématiques passe de 8 % (2011) à 12 % (2015) puis retombe à 9 % (2019), tandis que la part d'élèves faibles passe de 20 % (2011) à 18 % (2015) puis remonte à 26 % (2019). La Banque mondiale constate sobrement que « les experts portugais sont divisés sur l'impact de ces changements » et que certains les relient au déclin de PISA et TIMSS « depuis 2016, bien avant la pandémie ». Aucune des deux positions ne repose sur une identification causale : le PAFC a été généralisé à tout le pays en deux ans, ce qui a détruit toute possibilité de contrefactuel interne — c'est en soi le reproche méthodologique le plus solide qu'on puisse faire à la réforme.",
+   "sources": [
+    {
+     "title": "Curriculum Flexibility and Autonomy in Portugal — an OECD Review",
+     "org": "OCDE, projet Education 2030",
+     "year": "2018",
+     "url": "https://www.oecd.org/content/dam/oecd/en/about/projects/edu/education-2040/6-bilateral-support/Curriculum-Flexibility-and-Autonomy-in-Portugal-an-OECD-Review.pdf"
+    },
+    {
+     "author": "Nuno Crato",
+     "title": "Math curriculum matters: Statistical evidence and the Portuguese experience",
+     "org": "EMS Magazine n° 124, European Mathematical Society",
+     "year": "2022",
+     "url": "https://euromathsoc.org/magazine/articles/83"
+    },
+    {
+     "title": "Portugal's School Clustering Reform (P507130)",
+     "org": "Banque mondiale",
+     "year": "2025",
+     "url": "https://documents1.worldbank.org/curated/en/099112525193042171/pdf/P507130-67d27dd7-b942-495b-9b4a-104cf8d24aad.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Le Portugal a désarmé son dispositif d'évaluation externe censitaire en 2016 et ne l'a rétabli qu'en 2024/2025 : huit années de pilotage sans mesure fiable en fin de 1er et de 2e cycle, qui recouvrent exactement la période du décrochage.",
+   "what_it_is": "En janvier 2016, le gouvernement supprime les épreuves finales certificatives de 4e et 6e années en portugais et mathématiques (instaurées sous Nuno Crato pour qu'un examen clôture chaque cycle) et les remplace par des « provas de aferição » à faible enjeu en 2e, 5e et 8e années, ne comptant pas dans la note de l'élève et couvrant l'ensemble des domaines du curriculum pour éviter le rétrécissement curriculaire. Les examens de 9e année sont maintenus. En juillet 2024, le gouvernement annonce un nouveau modèle : les provas de aferição deviennent les Provas de Monitorização da Aprendizagem (ModA), passées en 4e et 6e années à partir de 2024/2025.",
+   "evidence_level": "descriptif institutionnel (textes réglementaires et communiqués gouvernementaux) ; la preuve causale disponible porte non sur les épreuves elles-mêmes mais sur la publication des classements d'écoles",
+   "effect_size": "Non disponible pour l'effet de la suppression des épreuves sur les apprentissages. Pour l'effet de la transparence des résultats, Nunes, Reis & Seabra (Economics of Education Review, vol. 49, 2015, p. 15-23) établissent qu'après la publication des classements d'écoles, moins d'élèves s'inscrivent dans les écoles mal classées et la probabilité de fermeture d'une école mal classée augmente, les effets étant plus forts pour les écoles privées.",
+   "concrete_practice": "Le dispositif ModA rétabli en 2024/2025 : épreuves obligatoires, numériques, en 4e et 6e années, ne comptant pas dans la note finale mais servant à monitorer les apprentissages et à orienter l'intervention pédagogique. Outre le portugais et les mathématiques (fixes), une troisième épreuve tourne tous les trois ans — en 4e année, anglais (2025 et 2028), éducation artistique (2026), éducation physique (2027) ; en 6e année, histoire et géographie du Portugal (2025 et 2028), anglais (2026), éducation physique et éducation visuelle (2027). Un rapport national des épreuves ModA 2025 a été publié par la DGE.",
+   "concrete_example": "La séquence complète, vérifiable sur pièces : Despacho Normativo n.º 17-A/2015 puis annonce du 8 janvier 2016 remplaçant les épreuves finales de 4e et 6e par des provas de aferição en 2e, 5e et 8e ; communiqué du XXIVe gouvernement du 18 juillet 2024 annonçant le nouveau modèle d'évaluation externe à partir de 2024/2025 ; publication par la DGE du Relatório Nacional das Provas ModA 2025 et envoi des résultats aux écoles. Entre les deux bornes, le Portugal n'a disposé d'aucune mesure externe des acquis en fin de cycle primaire — période pendant laquelle PISA, TIMSS et PIRLS se dégradent tous les trois.",
+   "conditions": "Ce qui rend le rétablissement utile suppose que les résultats ModA redescendent effectivement à l'échelle de l'école et de la classe et servent à l'intervention pédagogique, non seulement au reporting national. Les provas de aferição précédentes étaient critiquées précisément pour ne produire aucune conséquence exploitable par l'enseignant.",
+   "contested": "La suppression de 2016 a une justification défendable qu'il faut restituer : des épreuves certificatives à enjeu en 4e et 6e années concentrent l'enseignement sur deux disciplines et alimentent le redoublement précoce ; les provas de aferição, passées en début de cycle (2e, 5e, 8e) et couvrant tous les domaines, visaient explicitement à permettre de corriger les difficultés avant la fin du cycle et à contrer le rétrécissement curriculaire. Le passage de 2024 leur reprend d'ailleurs cet argument en les replaçant en fin de cycle. Il n'existe aucune preuve causale que la suppression des épreuves de 4e et 6e ait causé le décrochage portugais : l'imputation est chronologique, et elle est portée principalement par les acteurs politiques qui avaient instauré ces épreuves. À l'inverse, l'absence de mesure censitaire pendant huit ans est un fait, et elle a mécaniquement privé le système de toute capacité d'alerte précoce — ce qui est un argument de gouvernance, pas un argument d'efficacité pédagogique des examens.",
+   "sources": [
+    {
+     "title": "Ministério cria provas de aferição no 2.º, 5.º e 8.º anos e mantém exames no 9.º ano",
+     "org": "Observador",
+     "year": "2016",
+     "url": "https://observador.pt/2016/01/08/ministerio-cria-provas-afericao-no-2-5-8-anos-mantem-exames-no-9-ano/"
+    },
+    {
+     "title": "Novo modelo de avaliação externa dos alunos a partir de 2024/2025",
+     "org": "XXIV Governo Constitucional, República Portuguesa",
+     "year": "2024",
+     "url": "https://www.portugal.gov.pt/pt/gc24/comunicacao/comunicado?i=novo-modelo-de-avaliacao-externa-dos-alunos-a-partir-de-20242025"
+    },
+    {
+     "title": "Relatório Nacional das Provas ModA 2025",
+     "org": "Direção-Geral da Educação",
+     "year": "2025",
+     "url": "https://www.dge.mec.pt/noticias/relatorio-nacional-das-provas-moda-2025"
+    },
+    {
+     "author": "Luís Catela Nunes, Ana Balcão Reis, Carmo Seabra",
+     "title": "The publication of school rankings: A step toward increased accountability?",
+     "org": "Economics of Education Review, vol. 49, p. 15-23",
+     "year": "2015",
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0272775715001053"
+    }
+   ]
+  },
+  {
+   "claim": "Ce qui a le plus sûrement lâché après 2018 n'est pas une politique mais une ressource : le corps enseignant portugais a basculé en pénurie et en vieillissement extrême, avec une explosion du recours à des enseignants sans qualification professionnelle.",
+   "what_it_is": "Dégradation rapide de la ressource humaine enseignante : vieillissement, départs en retraite massifs, absentéisme médical élevé, recours croissant à des personnels non qualifiés, et incapacité à pourvoir les postes en portugais, mathématiques et informatique, en particulier dans les régions de Lisbonne, du Tage et du Sud.",
+   "evidence_level": "descriptif sur données administratives et sur enquête directeurs PISA ; projections démographiques pour les besoins futurs",
+   "effect_size": "Part d'enseignants de 50 ans ou plus dans le basique et le secondaire portugais : passe significativement entre 2013 et 2023 et dépasse 50 % en 2023, contre 38 % en moyenne OCDE (l'analyse presse sur l'enseignement secondaire inférieur donne 33 % en 2013 → 57 % en 2023, contre 36 % en moyenne OCDE ; âge moyen 51 ans contre 45 ans). Part d'enseignants sans habilitation professionnelle pour l'enseignement : 1,6 % en 2014/2015 → 6,5 % en 2022/2023. Part des élèves dans des écoles dont le directeur déclare que l'enseignement est entravé par le manque de personnel enseignant : hausse de plus de 30 points de pourcentage entre 2018 et 2022, contre +21 points en moyenne OCDE. Besoins projetés : environ 20 000 recrutements d'ici 2029/2030 et 39 000 d'ici 2034/2035.",
+   "concrete_practice": "Effet concret dans l'école : à la rentrée 2023/2024, sur environ 1,3 million d'élèves de la 1re à la 12e année, de l'ordre de 80 000 élèves n'avaient pas d'enseignant dans au moins une discipline. Les écoles couvrent les trous par des remplacements courts — environ 27 000 substitutions au fil de l'année — et 87,5 % des manques d'enseignants au cours de l'année sont imputables à l'absentéisme pour raison médicale, lui-même corrélé à l'âge du corps enseignant. Entre septembre et octobre 2023, 726 enseignants sont partis à la retraite, s'ajoutant aux 2 207 partis entre janvier et août.",
+   "concrete_example": "La note-pays Education at a Glance 2025 de l'OCDE pour le Portugal, diffusée par la DGEEC, énonce le diagnostic complet en un paragraphe : vieillissement au-delà de 50 % de plus de 50 ans, hausse de plus de 30 points du manque de personnel signalé par les directeurs, et quadruplement de la part d'enseignants non qualifiés professionnellement en huit ans. Elle ajoute le paramètre budgétaire qui rend le problème insoluble à ressources constantes : la dépense par élève du basique au supérieur est de 12 956 USD contre 15 023 USD en moyenne OCDE, mais elle représente 29 % du PIB par habitant contre 25 % en moyenne — le Portugal dépense peu en absolu et beaucoup relativement à sa richesse. Il n'y a pas de marge budgétaire pour acheter la sortie de crise.",
+   "conditions": "Le déclencheur identifié par les travaux de la Nova SBE est démographique et institutionnel : effondrement du recrutement de nouveaux enseignants pendant la décennie d'austérité 2010-2015, absence de renouvellement, puis choc de départs quand la génération recrutée dans les années 1980-1990 atteint l'âge de la retraite. La prévision EDUSTAT indique que le manque d'enseignants professionnellement qualifiés s'accentuera dès 2026.",
+   "contested": "Le lien causal entre pénurie enseignante et chute des scores PISA n'est pas établi : l'essentiel de la dégradation PISA 2015-2022 précède le pic de pénurie de 2022-2024, et la note OCDE ne l'affirme pas. Il s'agit d'une corrélation temporelle plausible et d'un mécanisme théoriquement solide, pas d'une estimation. Par ailleurs, la statistique des « 80 000 élèves sans enseignant » provient d'estimations médiatiques et syndicales (Fenprof) plutôt que d'un décompte administratif publié, et les chiffres circulant varient ; je la restitue avec cette réserve.",
+   "sources": [
+    {
+     "title": "Education at a Glance 2025 — Nota de país: Portugal",
+     "org": "OCDE / DGEEC-Ministério da Educação",
+     "year": "2025",
+     "url": "https://www.dgeec.medu.pt/api/ficheiros/68c06d8fc94dd8ed9f2a45ef"
+    },
+    {
+     "title": "Portugal é o país da OCDE com menos professores jovens",
+     "org": "Público",
+     "year": "2024",
+     "url": "https://www.publico.pt/2024/09/10/sociedade/noticia/portugal-pais-ocde-menos-professores-jovens-2103509"
+    },
+    {
+     "title": "Forecasts of Teacher Demand and Supply between 2021 and 2030",
+     "org": "Centro de Conhecimento de Economia da Educação, Nova SBE",
+     "year": "2023",
+     "url": "https://www.novasbe.unl.pt/en/faculty-research/knowledge-centers/economics-of-education/news/news-detail-digital/id/779"
+    },
+    {
+     "title": "A falta de professores com habilitação profissional irá acentuar-se já em 2026",
+     "org": "EDUSTAT / Fundação Belmiro de Azevedo",
+     "year": "2024",
+     "url": "https://www.edustat.pt/detalhes-infostat?ID=27"
+    }
+   ]
+  },
+  {
+   "claim": "Le décrochage portugais est confirmé par un second instrument indépendant de PISA : à TIMSS 2023 le Portugal se classe dernier des 15 États membres de l'UE participants en mathématiques et en sciences, et la dégradation frappe d'abord les élèves les plus favorisés en haut et les plus défavorisés en bas.",
+   "what_it_is": "Triangulation du constat par les enquêtes TIMSS (mathématiques et sciences, 4e et 8e années) et PIRLS (lecture, 4e année), qui portent sur des élèves plus jeunes que PISA et sur des contenus curriculaires — ce qui exclut l'hypothèse d'un artefact propre au design PISA ou à la composition des élèves de 15 ans.",
+   "evidence_level": "comparaison internationale corrélationnelle, sur un second instrument indépendant",
+   "effect_size": "TIMSS mathématiques 4e année Portugal : 541 points en 2015 → 525 en 2019 (-16 points) ; sciences 508 → 504. Part des élèves très performants en mathématiques (niveau 5 et plus) : 11,4 % en 2015 → 6,7 % en 2022. Part des jeunes de 15 ans en sous-performance en mathématiques : 29,7 % en 2022 (UE : 29,5 %), soit +5,9 points de pourcentage depuis 2015. Chez les élèves de milieu socio-économique défavorisé, la sous-performance en mathématiques passe de 39,4 % en 2018 à 46,9 % en 2022. TIMSS 2023 : dernier rang des 15 États membres de l'UE participants en mathématiques et en sciences, avec une chute particulièrement marquée en 8e année.",
+   "concrete_practice": "Usage opérationnel : c'est cette triangulation qui invalide les défenses les plus commodes du système portugais. Si seule PISA baissait, on pourrait invoquer l'effet de composition (élèves professionnels, redoublants remis à l'heure) ou le passage au numérique. TIMSS 4e année porte sur des enfants de 9-10 ans, avant toute orientation, et sur un contenu curriculaire : la baisse y est donc directement imputable à ce qui se passe dans la classe.",
+   "concrete_example": "Le rapport-pays Portugal du Education and Training Monitor 2025 de la Commission européenne documente la séquence et la réponse politique qu'elle a déclenchée : face au classement TIMSS 2023 et à la sous-performance en mathématiques, le Portugal a lancé le nouveau système d'évaluation des apprentissages ModA et a étendu les programmes d'intervention prioritaire dans les zones défavorisées (TEIP4, six années scolaires à partir de 2023-2024). Le même rapport montre que la dégradation est asymétrique : chez les 25 % les plus défavorisés, presque un élève sur deux est sous le seuil de compétence minimale en mathématiques en 2022.",
+   "conditions": "La comparabilité TIMSS 2019 → 2023 est affectée par le passage à l'administration numérique (eTIMSS) et par la pandémie, comme pour PISA. La force de l'argument tient à la convergence des trois instruments (PISA, TIMSS, PIRLS) et non à un chiffre isolé.",
+   "contested": "Je n'ai pas pu vérifier les scores TIMSS 2023 du Portugal sur la source primaire (timss2023.org) : les valeurs de 2015 et 2019 citées ici sont vérifiées via l'article de Nuno Crato et via les sources secondaires, mais le classement « dernier des 15 États membres de l'UE » provient du rapport de la Commission européenne et non du rapport international TIMSS. Par ailleurs, l'interprétation de Crato — qui attribue ce retournement au changement curriculaire de 2015-2016 — reste une imputation chronologique contestée par les défenseurs de la flexibilité curriculaire, qui invoquent la crise d'austérité 2011-2015 (dont les effets sur les cohortes scolarisées apparaîtraient avec retard) et la pandémie.",
+   "sources": [
+    {
+     "title": "Education and Training Monitor 2025 — Portugal",
+     "org": "Commission européenne",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/portugal.html"
+    },
+    {
+     "author": "Nuno Crato",
+     "title": "Math curriculum matters: Statistical evidence and the Portuguese experience",
+     "org": "EMS Magazine n° 124, European Mathematical Society",
+     "year": "2022",
+     "url": "https://euromathsoc.org/magazine/articles/83"
+    },
+    {
+     "title": "TIMSS 2023 International Results",
+     "org": "TIMSS & PIRLS International Study Center, Boston College",
+     "year": "2024",
+     "url": "https://timss2023.org/results/"
+    }
+   ]
+  },
+  {
+   "claim": "La leçon de gouvernance la plus transposable du cas portugais est négative et explicite : les réformes qui ont tenu sont celles qui ont survécu aux alternances, celles qui ont échoué sont celles qui ont été défaites par l'alternance suivante — la Banque mondiale l'énonce comme un « exemple d'avertissement ».",
+   "what_it_is": "Comparaison interne au Portugal entre deux trajectoires de réforme menées sur la même période et par les mêmes institutions : la réorganisation du réseau scolaire, maintenue sans discontinuité de 1998 à 2025 à travers tous les gouvernements, et la politique curriculaire et d'évaluation, retournée en 2011-2012 (curricula exigeants, examens de fin de cycle) puis retournée à nouveau en 2016-2018 (apprentissages essentiels, flexibilité, suppression de deux évaluations standardisées), puis partiellement re-retournée en 2024 (ModA).",
+   "evidence_level": "descriptif comparatif institutionnel ; aucune quantification de l'effet propre de la stabilité politique",
+   "effect_size": "Non disponible. Les seuls ordres de grandeur associés sont ceux des trajectoires comparées : +40 points PISA 2000-2018 et décrochage de 43 % à 6 % sur la période de stabilité structurelle, contre -32 à -36 points 2015-2025 sur la période d'instabilité curriculaire.",
+   "concrete_practice": "Les mécanismes de survie politique identifiés par la Banque mondiale sont opérationnels et reproductibles : approche séquencée qui met l'efficience en premier et la qualité ensuite, pour réduire la résistance en livrant des améliorations visibles ; engagement large des parties prenantes — communes, enseignants, parents — via les conseils des agrupamentos, pour construire légitimité et appropriation locale ; investissements d'infrastructure massifs et visibles (Parque Escolar) pour compenser politiquement les fermetures ; et cadrage de la réforme comme partie intégrante de la trajectoire de modernisation et d'intégration européenne du pays, ce qui la rendait « politiquement difficile à défaire ».",
+   "concrete_example": "Le contraste est posé explicitement dans les conclusions du rapport de la Banque mondiale d'octobre 2025 : « Par contraste, les réformes curriculaires du Portugal, marquées par des virages et des revirements brutaux, fournissent un exemple d'avertissement : l'absence de direction soutenue a contribué au déclin des résultats d'apprentissage, y compris dans la performance PISA, et a relancé le débat sur la voie à suivre. » Le rapport précise que la réorganisation du réseau « a bénéficié d'un soutien politique ininterrompu à travers les gouvernements », et note qu'aujourd'hui « même beaucoup de ses opposants initiaux reconnaissent son impact positif ». Il relève enfin que le Programme de transition numérique, lui, est adossé au cycle de financement européen et doit atteindre ses cibles en quelques années, là où le clustering s'est déployé sur plus de 25 ans — un risque de reproduction de l'erreur curriculaire.",
+   "conditions": "La stabilité a été possible parce que la réforme structurelle était (a) peu idéologique, (b) adossée à une contrainte démographique et budgétaire objective, (c) accompagnée d'une compensation visible, et (d) reformulée au fil du temps pour intégrer des objectifs d'équité qui la rendaient défendable à gauche comme à droite. La politique curriculaire ne réunissait aucune de ces quatre conditions : elle est intrinsèquement idéologique, sans contrainte objective, sans compensation, et chaque camp y a un projet identitaire.",
+   "contested": "Cet item est le plus faible du dossier sur le plan probatoire et il faut le dire. L'attribution du déclin à l'instabilité curriculaire est une inférence narrative de la Banque mondiale, qui ne fournit aucune estimation et qui rapporte elle-même que « les experts portugais sont divisés ». Le mécanisme inverse est tout aussi plausible : la stabilité de la réforme de réseau peut simplement refléter le fait qu'une réforme administrative achevée n'a plus d'ennemis, tandis que la politique curriculaire est le lieu naturel du conflit politique dans tous les systèmes éducatifs. Enfin, la Banque mondiale écrit ce rapport pour recommander le modèle portugais à la Géorgie : c'est un document de plaidoyer autant que d'analyse, et son cadrage favorable au clustering doit être lu comme tel.",
+   "sources": [
+    {
+     "title": "Portugal's School Clustering Reform: Lessons for Georgia for Improving Efficiency, Equity, and Quality through School-Network Restructuring (P507130)",
+     "org": "Banque mondiale",
+     "year": "2025",
+     "url": "https://documents1.worldbank.org/curated/en/099112525193042171/pdf/P507130-67d27dd7-b942-495b-9b4a-104cf8d24aad.pdf"
+    },
+    {
+     "author": "Luís Catela Nunes, Pedro Freitas, Ricardo Colaço",
+     "title": "Trends in Student Achievement in Portugal: What does PISA tell us?",
+     "org": "EDULOG / Nova SBE",
+     "year": "2024",
+     "url": "https://www.edulog.pt/storage/app/uploads/public/666/875/9da/6668759daa0d6352676543.pdf"
+    }
+   ]
+  }
+ ]
+}

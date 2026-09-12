@@ -1,0 +1,425 @@
+{
+ "topic": "Direction d'école et leadership pédagogique : ampleur de l'effet, pratiques efficaces, formation, temps réel et échelon intermédiaire",
+ "headline": "L'effet d'une direction sur les apprentissages est presque aussi grand que celui d'un enseignant mais s'applique à toute l'école (0,13 σ en maths par écart-type d'efficacité, soit ~2,9 mois d'apprentissage entre une direction du 25e et du 75e percentile) ; ce qui fait la différence n'est pas le temps « pédagogique » en général mais la participation directe de la direction au développement professionnel des enseignants — or en Fédération Wallonie-Bruxelles les directions ne consacrent que 16 % de leur temps aux tâches pédagogiques contre 38 % à l'administratif, soit 10 points d'administratif de plus que la France, les Pays-Bas, l'Angleterre ou la Communauté flamande.",
+ "searches_run": 36,
+ "items": [
+  {
+   "claim": "Un écart d'un écart-type d'efficacité entre directions se traduit par 0,13 écart-type en mathématiques et 0,09 en lecture ; remplacer une direction du 25e percentile par une du 75e vaut environ 2,9 mois d'apprentissage en maths et 2,7 en lecture, effet presque aussi grand que celui d'un enseignant mais appliqué à toute l'école.",
+   "what_it_is": "Synthèse systématique commanditée par la Wallace Foundation : 219 études retenues sur 4 800 documents criblés, publiées depuis 2000, dont un noyau d'études quantitatives à données longitudinales appariant élèves, enseignants et directions (Tennessee, Texas, Caroline du Nord, New York, Pennsylvanie, Miami-Dade...). Les auteurs recalculent une estimation moyenne de l'« effet direction » à partir des études les plus rigoureuses.",
+   "evidence_level": "méta-analyse / synthèse systématique d'études quasi-expérimentales (valeur ajoutée à effets fixes sur données administratives longitudinales)",
+   "effect_size": "+1 écart-type d'efficacité de la direction = +0,13 σ en mathématiques et +0,09 σ en lecture sur le score moyen des élèves de l'école. Passage du 25e au 75e percentile : +0,18 σ maths ≈ 2,9 mois d'apprentissage ; +0,12 σ lecture ≈ 2,7 mois. Comparaison enseignant (Hanushek & Rivkin 2010) : +0,23 σ maths ≈ 3,7 mois et +0,17 σ lecture ≈ 3,8 mois, mais pour ~21 élèves d'une classe contre 483 élèves dans une école primaire américaine moyenne. Population : élèves du primaire et du secondaire, systèmes scolaires publics des États-Unis.",
+   "concrete_practice": "Les systèmes qui prennent ce résultat au sérieux cessent de traiter la direction comme un poste administratif pourvu par ancienneté et la traitent comme le poste à plus fort levier de l'école : sélection explicite sur des standards de leadership pédagogique, évaluation annuelle de la pratique de direction par un supérieur formé, et affectation délibérée des directions les plus efficaces aux écoles les plus difficiles. Aux États-Unis, les districts utilisent des « practice ratings » de superviseurs (Tennessee : une note supérieure d'un point sur 5 prédit +0,05 σ en maths et +0,02 σ en lecture, Grissom, Blissett & Mitani 2018) pour piloter l'affectation et l'accompagnement.",
+   "concrete_example": "Wallace Foundation a financé, de 2011 à 2016, la Principal Pipeline Initiative dans six grands districts américains (Charlotte-Mecklenburg, Denver, Gwinnett County, Hillsborough County, New York City Community School District 9, Prince George's County). RAND (Gates, Baird, Master & Chavez-Herrerias, 2019) a comparé environ 500 écoles de ces districts à plus de 500 écoles comparables situées dans des districts non participants du même État. Résultat : les écoles ayant reçu une direction nouvellement nommée dans les districts « pipeline » dépassent les écoles de comparaison de plus de 6 points de percentile en lecture et de près de 3 points en mathématiques après trois ans, avec près de 8 départs de moins pour 100 directions nouvellement nommées. Coût : environ 42 dollars par élève et par an, soit moins de 0,5 % du budget des districts. Le dispositif comportait quatre briques : standards de compétences de direction, formation pré-service des adjoints, recrutement/affectation sélectifs adossés à un système de suivi des cadres, évaluation et soutien en poste (mentorat).",
+   "conditions": "L'effet suppose que la direction ait une prise réelle sur le recrutement, l'affectation et le développement des enseignants : les auteurs soulignent que l'effet direction est presque entièrement indirect, il passe par la capacité à recruter, développer, soutenir et retenir une équipe enseignante. Dans un système où la direction ne choisit ni ses enseignants ni leur affectation, le canal principal de l'effet est amputé. L'effet suppose aussi une stabilité : voir infra sur la rotation des directions.",
+   "contested": "Fortement contesté sur l'ampleur. Branch, Hanushek & Rivkin (NBER WP 17803, 2012) obtiennent selon la méthode des estimations allant de 0,207 σ (effets fixes directeur-par-séjour, que les auteurs eux-mêmes qualifient de « very large – perhaps unbelievably large ») à une borne inférieure de 0,05 σ lorsqu'on n'exploite que la variance additionnelle associée à un changement de direction ; ils reconnaissent que l'écart entre ces estimations est « compatible » avec l'idée que les différences non observées entre écoles biaisent les estimations à la hausse et que l'erreur d'échantillonnage gonfle la variance estimée. Deuxième limite : les études d'effet direction ne séparent pas l'effet de la direction de celui de ses enseignants — les auteurs de la synthèse Wallace écrivent explicitement qu'il ne faut pas conclure qu'avoir une bonne direction vaut presque autant pour un élève qu'avoir un bon enseignant. Troisième limite : la quasi-totalité des estimations proviennent des États-Unis, avec des tests standardisés annuels à enjeux, et la synthèse relève elle-même l'absence quasi totale d'études de réplication dans le champ.",
+   "sources": [
+    {
+     "author": "Jason A. Grissom, Anna J. Egalite, Constance A. Lindsay",
+     "title": "How Principals Affect Students and Schools: A Systematic Synthesis of Two Decades of Research",
+     "org": "The Wallace Foundation",
+     "year": "2021",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-09/How-Principals-Affect-Students-and-Schools.pdf"
+    },
+    {
+     "author": "Gregory F. Branch, Eric A. Hanushek, Steven G. Rivkin",
+     "title": "Estimating the Effect of Leaders on Public Sector Productivity: The Case of School Principals",
+     "org": "National Bureau of Economic Research, Working Paper 17803",
+     "year": "2012",
+     "url": "https://www.nber.org/system/files/working_papers/w17803/w17803.pdf"
+    },
+    {
+     "author": "Susan M. Gates, Matthew D. Baird, Benjamin K. Master, Emilio R. Chavez-Herrerias",
+     "title": "Principal Pipelines: A Feasible, Affordable, and Effective Way for Districts to Improve Schools",
+     "org": "RAND Corporation, RR-2666-WF",
+     "year": "2019",
+     "url": "https://www.rand.org/pubs/research_reports/RR2666.html"
+    }
+   ]
+  },
+  {
+   "claim": "La variation d'efficacité entre directions est nettement plus forte dans les écoles à forte concentration de pauvreté, et elle l'est surtout par le bas : c'est là que les directions les plus faibles se concentrent.",
+   "what_it_is": "Estimation de la valeur ajoutée des directions sur données administratives exhaustives du Texas, avec effets fixes élève, école et direction-par-séjour, désagrégée par quartile de taux de pauvreté de l'école.",
+   "evidence_level": "quasi-expérimental (effets fixes sur panel administratif exhaustif), avec bornes inférieures obtenues par estimation directe de la variance lors des changements de direction",
+   "effect_size": "Écart-type global de l'efficacité des directions estimé à 0,207 σ (borne haute) et ~0,05 σ (borne basse, estimation directe de la variance). La variance croît de façon monotone avec la part d'élèves à bas revenu. L'écart d'efficacité entre l'école la moins et la plus défavorisée vaut -0,20 σ au 10e percentile de la distribution des directions, -0,17 σ au 25e percentile, mais seulement 0,07 σ au 90e percentile. Population : écoles publiques du Texas.",
+   "concrete_practice": "Conséquence opérationnelle : le rendement marginal d'une politique de direction est maximal si elle cible d'abord les écoles socialement les plus difficiles — affectation prioritaire des directions expérimentées, différentiel de rémunération ou d'accompagnement pour ces postes, et surtout dispositif de détection et de sortie des directions manifestement défaillantes dans ces écoles. La synthèse Wallace ajoute que les directions ne sont pas réparties équitablement : l'expérience moyenne des directions a baissé, en particulier dans les écoles à forte pauvreté, où le taux de rotation annuel est substantiellement plus élevé.",
+   "concrete_example": "Le programme Keys to Success du City Challenge anglais (2008-2011) a appliqué exactement cette logique : 591 écoles identifiées comme les plus en difficulté à Londres, dans le Grand Manchester et dans le Black Country ont reçu un « Challenge Adviser » — un ancien chef d'établissement expérimenté, rémunéré à temps partiel, chargé d'établir un diagnostic conjoint avec l'autorité locale, de négocier un plan et d'y adosser des financements ciblés, avec suivi régulier. Résultat mesuré par l'évaluation officielle commandée par le Department for Education : parmi les écoles primaires du quintile de résultats le plus bas en 2008, les écoles Keys to Success progressent en moyenne de 16,3 points de pourcentage d'élèves atteignant le niveau attendu en anglais et maths entre 2008 et 2011, contre 12,1 points pour les écoles comparables du même quintile situées hors zones City Challenge. L'écart de résultats entre élèves bénéficiaires des repas gratuits et les autres s'est réduit d'environ 4 points dans ces écoles, contre 2,2 points au niveau national.",
+   "conditions": "L'évaluation identifie comme facteurs décisifs : l'expertise et les compétences de communication des conseillers (« the key factor in this was the expertise and the communication skills of the advisors involved »), des solutions sur mesure plutôt qu'un protocole uniforme, et une durée suffisante — l'évaluation juge trois ans « peut-être trop court » pour une amélioration durable à l'échelle d'un territoire. Elle note aussi qu'en cas de direction durablement défaillante, il faut un processus transparent et structuré de décision, et qu'un intérim prolongé retarde l'amélioration.",
+   "contested": "Le « London effect » est très contesté. Blanden, Greaves, Gregg, Macmillan & Sibieta (2015) montrent que l'avantage londonien pour les élèves pauvres était déjà présent au primaire comme au secondaire dès le milieu des années 1990, donc bien avant le London Challenge et le programme des academies, et qu'il s'explique largement par l'amélioration du primaire ; ils concluent qu'« une focalisation sur les interventions au secondaire manque une partie du tableau ». L'évaluation City Challenge elle-même n'est pas expérimentale : elle compare des écoles à des écoles du même quintile de résultats sans appariement fin ni contrefactuel construit, et les écoles Keys to Success ont été sélectionnées précisément pour leurs faibles résultats, ce qui expose au retour à la moyenne. L'évaluation reconnaît d'ailleurs qu'une des composantes phares, les Families of Schools (données de comparaison entre écoles à profil social similaire), a été très peu utilisée par les chefs d'établissement, beaucoup ignorant son existence ou son objet.",
+   "sources": [
+    {
+     "author": "Gregory F. Branch, Eric A. Hanushek, Steven G. Rivkin",
+     "title": "Estimating the Effect of Leaders on Public Sector Productivity: The Case of School Principals",
+     "org": "National Bureau of Economic Research, Working Paper 17803",
+     "year": "2012",
+     "url": "https://www.nber.org/system/files/working_papers/w17803/w17803.pdf"
+    },
+    {
+     "author": "Merryn Hutchings et al. (London Metropolitan University)",
+     "title": "Evaluation of the City Challenge programme (Research Report DFE-RR215)",
+     "org": "Department for Education (Angleterre)",
+     "year": "2012",
+     "url": "https://assets.publishing.service.gov.uk/media/5a7b72dee5274a34770ebc50/DFE-RR215.pdf"
+    },
+    {
+     "author": "Jo Blanden, Ellen Greaves, Paul Gregg, Lindsey Macmillan, Luke Sibieta",
+     "title": "Understanding the improved performance of disadvantaged pupils in London (SPCC Working Paper 21)",
+     "org": "Centre for Analysis of Social Exclusion, London School of Economics",
+     "year": "2015",
+     "url": "http://sticerd.lse.ac.uk/dps/case/spcc/wp21.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Parmi cinq dimensions du leadership, c'est la participation directe de la direction à l'apprentissage professionnel des enseignants qui a de loin le plus fort effet sur les résultats des élèves (ES = 0,84), deux fois plus que la fixation d'objectifs ou la supervision de l'enseignement (0,42 chacune) et trois fois plus que l'ordre et la sécurité (0,27).",
+   "what_it_is": "Méta-analyse de Viviane Robinson, Claire Lloyd et Kenneth Rowe portant sur 27 études publiées reliant leadership et résultats d'élèves ; une première méta-analyse compare leadership transformationnel et leadership pédagogique (22 études), une seconde calcule l'effet moyen de cinq dimensions de pratique dérivées inductivement (12 études, 199 tailles d'effet).",
+   "evidence_level": "méta-analyse d'études majoritairement corrélationnelles et de comparaisons entre groupes d'écoles (pas d'essai randomisé)",
+   "effect_size": "Dimension « Promoting and participating in teacher learning and development » : ES moyen 0,84 σ (erreur-type 0,14 ; 17 tailles d'effet issues de 6 études). « Establishing goals and expectations » : 0,42 (SE 0,07 ; 49 effets, 7 études). « Planning, coordinating and evaluating teaching and the curriculum » : 0,42 (SE 0,06 ; 80 effets, 9 études). « Strategic resourcing » : 0,31 (SE 0,10 ; 11 effets, 7 études). « Ensuring an orderly and supportive environment » : 0,27 (SE 0,09 ; 42 effets, 8 études). Par type de leadership : pédagogique 0,42 (188 effets, 12 études), « autre » 0,30, transformationnel 0,11 (13 effets, 5 études). Population : élèves d'écoles primaires et secondaires, principalement États-Unis, Israël, Nouvelle-Zélande, Pays-Bas.",
+   "concrete_practice": "Concrètement, cela signifie : la direction assiste aux formations avec ses enseignants plutôt que de les y envoyer ; elle anime ou co-anime des séances de travail sur des problèmes d'enseignement précis ; elle est identifiée par les enseignants comme une source de conseil sur l'enseignement, pas seulement comme une autorité administrative. Robinson et al. relèvent qu'une étude par analyse de réseaux (Friedkin & Slater 1994) montre que dans les écoles à meilleurs résultats les directions sont significativement plus souvent citées par les enseignants comme personne à qui l'on demande conseil sur son enseignement — alors que le fait d'être cité comme ami proche n'a aucune relation avec la performance de l'école.",
+   "concrete_example": "L'essai contrôlé randomisé de Roland Fryer à Houston (Texas) est le test causal le plus proche de ce résultat. 58 écoles publiques de Houston Independent School District ont été tirées au sort, 29 en traitement. Les directions traitées ont reçu environ 300 heures de formation au management sur deux années scolaires, portant sur trois leviers : planification de l'enseignement, exploitation des données, observation et coaching des enseignants ; 270 évaluations intermédiaires sans enjeu ont été créées pour servir de base aux séances individuelles entre enseignant et direction, et rendues disponibles aussi aux écoles témoins pour isoler l'effet de la formation. Preuve de mise en œuvre : les directions traitées ont observé et coaché leurs enseignants 0,55 fois de plus par mois (contre une moyenne témoin de 0,04 fois par mois), soit un retour détaillé à l'enseignant moyen une fois tous les deux mois, contre moins d'une fois par an dans les écoles témoins. Résultat année 1 : +0,10 σ sur l'indice des tests à enjeux (maths et lecture) et +0,19 σ sur l'indice des tests sans enjeu (maths, lecture, sciences sociales, sciences), soit environ +7 % de productivité. Coût marginal : 10 dollars par élève.",
+   "conditions": "L'effet dépend massivement de la fidélité de mise en œuvre et de la stabilité de la direction. Fryer montre, à partir de caractéristiques pré-traitement, que les écoles prédites comme à forte fidélité obtiennent +0,17 σ en année 1 et +0,18 σ en année 2, tandis que celles prédites sous la médiane obtiennent +0,04 σ puis -0,13 σ. En croisant fidélité et rotation : les écoles à forte fidélité dont la direction reste deux ans obtiennent +0,24 σ puis +0,35 σ ; celles à forte fidélité dont la direction part obtiennent +0,08 σ puis 0. La relation dose-réponse est décrite comme « remarkably robust ». Autrement dit, un dispositif de ce type ne produit rien si la direction change en cours de route ou ne s'y engage pas réellement.",
+   "contested": "Trois réserves sérieuses. (1) Robinson et al. reconnaissent eux-mêmes que la dimension à 0,84 ne repose que sur 6 études et que l'ensemble de l'analyse dimensionnelle ne repose que sur 12 études ; ils n'ont pas pu séparer résultats scolaires et non scolaires faute d'un nombre suffisant d'études. Les effets les plus élevés viennent d'études comparant des écoles à résultats durablement élevés et bas à composition sociale similaire, un design exposé au biais de sélection et à la causalité inverse (une école qui va bien libère du temps pédagogique pour sa direction). (2) La méta-analyse concurrente de Witziers, Bosker & Krüger (2003), portant sur 37 études multinationales des effets directs du leadership, trouve un effet moyen de 0,02 en score z, soit un effet nul ou très faible ; Robinson attribue l'écart au fait que les effets du leadership sont indirects, mais l'argument n'est pas testé. (3) Robinson critique explicitement la méta-analyse de Marzano et al. (2005, effet ~0,4) au motif que 60 des 70 études incluses étaient des thèses ou communications non publiées, non soumises à évaluation par les pairs. (4) Dans l'essai de Fryer, l'effet sur les tests à enjeux est statistiquement nul en année 2, les élèves noirs et les élèves économiquement défavorisés gagnent moins que les autres, et les analyses de sous-groupes reposent sur des prédictions construites a posteriori ; il s'agit d'un seul district urbain américain.",
+   "sources": [
+    {
+     "author": "Viviane M. J. Robinson, Claire A. Lloyd, Kenneth J. Rowe",
+     "title": "The Impact of Leadership on Student Outcomes: An Analysis of the Differential Effects of Leadership Types",
+     "org": "Educational Administration Quarterly, 44(5), 635-674",
+     "year": "2008",
+     "url": "https://cdn.auckland.ac.nz/assets/education/about/research/LRG/Robinson,%20Lloyd%20&%20Rowe%20(2008)%20The%20impact%20of%20leadership%20on%20student%20outcomes%20-%20An%20analysis%20of%20the%20differential%20effects%20of%20leadership%20types.pdf"
+    },
+    {
+     "author": "Roland G. Fryer, Jr.",
+     "title": "Management and Student Achievement: Evidence from a Randomized Field Experiment",
+     "org": "National Bureau of Economic Research, Working Paper 23437",
+     "year": "2017",
+     "url": "https://www.nber.org/system/files/working_papers/w23437/w23437.pdf"
+    },
+    {
+     "author": "Bob Witziers, Roel J. Bosker, Meta L. Krüger (cité et discuté dans Robinson, Lloyd & Rowe 2008)",
+     "title": "Educational Leadership and Student Achievement: The Elusive Search for an Association",
+     "org": "Educational Administration Quarterly, 39(3)",
+     "year": "2003",
+     "url": "https://cdn.auckland.ac.nz/assets/education/about/research/LRG/Robinson,%20Lloyd%20&%20Rowe%20(2008)%20The%20impact%20of%20leadership%20on%20student%20outcomes%20-%20An%20analysis%20of%20the%20differential%20effects%20of%20leadership%20types.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Passer plus de temps sur des « fonctions pédagogiques » en général ne prédit aucun gain d'apprentissage ; seules certaines activités précises (coaching, évaluation formelle des enseignants, construction du programme éducatif de l'école) le font, et les visites de classe informelles prédisent négativement les progrès des élèves.",
+   "what_it_is": "Étude longitudinale d'observation directe : environ 100 directions d'établissements urbains observées en continu sur des journées entières, chaque activité codée par catégorie, sur trois années scolaires, appariées aux gains de résultats des élèves.",
+   "evidence_level": "quasi-expérimental / corrélationnel longitudinal avec contrôles sur données d'observation directe (pas de randomisation)",
+   "effect_size": "L'article ne fournit pas de taille d'effet standardisée synthétique ; la conclusion est directionnelle et signée : temps consacré aux fonctions pédagogiques au sens large = non prédictif des gains ; temps de coaching des enseignants, d'évaluation et de développement du programme éducatif = prédictif positif ; temps consacré aux visites de classe informelles = prédicteur négatif des progrès, particulièrement au secondaire. Les directions observées consacraient moins de 13 % de leur journée aux questions d'enseignement. Population : directions d'écoles publiques urbaines américaines.",
+   "concrete_practice": "La traduction pratique est contre-intuitive : augmenter le « temps pédagogique » d'une direction par une injonction générale (« allez plus souvent en classe ») peut être inefficace, voire contre-productif, si l'observation n'est pas insérée dans un cycle explicite — critère observable, retour écrit ou oral daté, engagement de changement, ré-observation. Les auteurs suggèrent que la relation négative des visites informelles tient à ce que les directions ne les utilisent pas comme élément d'une stratégie d'amélioration de l'école.",
+   "concrete_example": "Le contraste avec Houston est instructif : dans l'essai de Fryer, ce n'est pas « du temps en classe » qui a été ajouté, mais un protocole précis — 270 évaluations intermédiaires sans enjeu servant de base à des séances individuelles enseignant/direction, avec observation suivie d'un retour détaillé passant de moins d'une fois par an à une fois tous les deux mois par enseignant. C'est ce format structuré, et non le volume de présence en classe, qui a produit +0,10 σ en année 1. Par comparaison, la méta-analyse de Kraft, Blazar & Hogan (2018) sur 60 études à design causal du coaching d'enseignants trouve +0,49 σ sur les pratiques d'enseignement observées et +0,18 σ sur les résultats des élèves — ce qui donne l'ordre de grandeur de ce que peut produire un accompagnement individualisé bien conduit.",
+   "conditions": "Kraft, Blazar & Hogan documentent explicitement la difficulté du passage à l'échelle : les effets se réduisent nettement dans les programmes de grande taille, et l'essentiel des preuves provient de programmes de coaching en littératie pour l'enseignement pré-primaire et primaire. Un dispositif qui fonctionne avec 30 écoles pilotes et des coachs triés sur le volet ne produit pas mécaniquement le même effet sur 2 600 écoles.",
+   "contested": "L'étude Grissom, Loeb & Master repose sur environ 100 directions d'un seul contexte urbain, sans randomisation : la direction qui passe du temps en visites informelles est peut-être celle qui dirige une école déjà en difficulté, ce qui produirait mécaniquement une corrélation négative. Les auteurs mobilisent des données d'enquête et d'entretien pour privilégier l'explication stratégique, mais ne l'établissent pas causalement. Plus largement, Hallinger et collègues montrent dans leurs revues systématiques de la recherche sur l'instructional leadership que les modèles conceptuels univariés et bivariés représentent encore près de 80 % des travaux, et que les données transversales ne permettent pas d'exclure l'endogénéité ni de trancher la bidirectionnalité — la littérature sur le leadership pédagogique reste massivement corrélationnelle.",
+   "sources": [
+    {
+     "author": "Jason A. Grissom, Susanna Loeb, Benjamin Master",
+     "title": "Effective Instructional Time Use for School Leaders: Longitudinal Evidence From Observations of Principals",
+     "org": "Educational Researcher, 42(8), 433-444",
+     "year": "2013",
+     "url": "https://journals.sagepub.com/doi/10.3102/0013189X13510020"
+    },
+    {
+     "author": "Matthew A. Kraft, David Blazar, Dylan Hogan",
+     "title": "The Effect of Teacher Coaching on Instruction and Achievement: A Meta-Analysis of the Causal Evidence",
+     "org": "Review of Educational Research, 88(4), 547-588",
+     "year": "2018",
+     "url": "https://www.matthewakraft.com/s/Kraft-Blazar-Hogan-2018-Teacher-Coaching-RER.pdf"
+    },
+    {
+     "author": "Philip Hallinger, Shengnan Liu, Pwint Nee Aung, Mengmeng Yan",
+     "title": "A systematic review of instructional leadership research conducted with the Principal Instructional Management Rating Scale (PIMRS), 1983-2024",
+     "org": "Educational Management Administration & Leadership",
+     "year": "2025",
+     "url": "https://journals.sagepub.com/doi/10.1177/17411432251358575"
+    }
+   ]
+  },
+  {
+   "claim": "En Fédération Wallonie-Bruxelles, les chefs d'établissement consacrent 38 % de leur temps aux réunions et tâches administratives et seulement 16 % aux tâches pédagogiques — soit au moins 10 points d'administratif de plus qu'en France, aux Pays-Bas, en Angleterre et en Communauté flamande.",
+   "what_it_is": "Données TALIS 2018 de l'OCDE pour la FW-B, recueillies par le Service d'analyse des Systèmes et des Pratiques d'enseignement (aSPe) de l'Université de Liège sur un échantillon représentatif de 120 établissements secondaires (chefs d'établissement + 20 enseignants du 1er degré par école), première participation de la FW-B à TALIS.",
+   "evidence_level": "descriptif — enquête internationale sur échantillon représentatif, sans évaluation d'impact",
+   "effect_size": "FW-B : 38 % du temps en réunions et tâches administratives, 20 % en leadership, 16 % en tâches pédagogiques, 24 % en relations avec les élèves, les parents ou la collectivité ; au total 58 % du temps consacré à la gestion de l'établissement. Moyenne OCDE TALIS 2018 : 30 % tâches administratives et réunions, 21 % tâches de direction, 16 % tâches liées au curriculum et à l'enseignement (moyenne TALIS calculée par le NCES américain : 28 % administratif, 21 % direction, 17 % curriculum/enseignement, 14 % interactions élèves, 10 % parents, 6 % communauté). La France, les Pays-Bas, l'Angleterre et la Communauté flamande consacrent au moins 10 points de moins que la FW-B aux réunions ou tâches administratives.",
+   "concrete_practice": "La FW-B combine trois traits qui s'additionnent : une équipe de direction existe dans 89 % des établissements secondaires mais elle est composée à 90 % d'un adjoint et à 75 % d'un gestionnaire financier, et à 20 % seulement d'enseignants — contre 96 % en Autriche, 85 % en Finlande et 74 % en Communauté flamande. La composition des équipes de direction en FW-B « traduit principalement des objectifs de gestion administrative », là où en Finlande, Autriche et Flandre elle traduit « une fonction davantage tournée vers la gestion pédagogique ». Par ailleurs 67 % des chefs d'établissement jugent insuffisant le soutien reçu de leur pouvoir organisateur ou du Ministère.",
+   "concrete_example": "Sur le leadership pédagogique direct, les données FW-B chiffrent l'écart entre discours et pratique : 56 % des chefs d'établissement déclarent collaborer souvent ou très souvent avec les enseignants pour régler les problèmes de discipline en classe, mais ils sont moins nombreux à donner des retours à la suite d'observations, et encore moins nombreux à aller observer des cours ou à travailler sur un programme de formation continue pour l'établissement. Or c'est précisément cette dernière activité — la participation directe au développement professionnel — qui porte l'effet de 0,84 σ chez Robinson et qui a été le cœur du protocole de Houston. Le rapport note aussi que moins d'un tiers des chefs d'établissement disent collaborer avec d'autres chefs d'établissement sur des tâches difficiles.",
+   "conditions": "Les données ont été recueillies en 2018, avant la mise en œuvre progressive du Pacte pour un Enseignement d'excellence et avant la crise sanitaire ; les auteurs indiquent explicitement qu'elles constituent « une prise de mesure initiale » et ne permettent pas encore de mesurer les effets de la mise en place des plans de pilotage. Toute lecture de 2026 doit en tenir compte : c'est une base de référence, pas un état des lieux actuel.",
+   "contested": "Deux prudences. (1) Les catégories de temps sont auto-déclarées par les chefs d'établissement en pourcentages approximatifs, non mesurées par observation directe ; les études d'observation directe (Grissom, Loeb & Master) montrent que les directions surestiment généralement leur temps pédagogique. Le document FW-B lui-même donne 16 % dans sa synthèse et 15 % dans le corps du texte pour la même grandeur. (2) La causalité n'est pas établie dans ce sens : une part de l'administratif élevé en FW-B peut refléter la petite taille moyenne des implantations et l'absence de personnel de soutien, autant que des choix de gouvernance. Enfin, comme le montre l'étude de Grissom, Loeb & Master, réduire le temps administratif ne produit pas mécaniquement un gain d'apprentissage : tout dépend de ce à quoi le temps libéré est employé.",
+   "sources": [
+    {
+     "author": "Valérie Quittre, Virginie Dupont (dir. scient. Dominique Lafontaine)",
+     "title": "TALIS en bref n°8 – Leadership et gestion pédagogique des établissements. TALIS 2018 en Fédération Wallonie-Bruxelles",
+     "org": "Service d'analyse des Systèmes et des Pratiques d'enseignement (aSPe), Université de Liège / Ministère de la Fédération Wallonie-Bruxelles",
+     "year": "2020",
+     "url": "https://www.talis-fwb.uliege.be/upload/docs/application/pdf/2021-12/talis_bref-n8_leadership-et-gestion.pdf"
+    },
+    {
+     "author": "National Center for Education Statistics",
+     "title": "TALIS 2018 Results: U.S. Highlights Web Report (NCES 2019-132) – Principals' use of working time",
+     "org": "U.S. Department of Education / OCDE TALIS 2018",
+     "year": "2019",
+     "url": "https://nces.ed.gov/pubs2019/2019132.pdf"
+    },
+    {
+     "author": "OCDE",
+     "title": "TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued Professionals",
+     "org": "OCDE",
+     "year": "2020",
+     "url": "https://www.oecd.org/en/publications/talis-2018-results-volume-ii_19cf08df-en.html"
+    }
+   ]
+  },
+  {
+   "claim": "La rotation des directions coûte environ 0,03 écart-type de résultats à l'école l'année suivante, et elle annule l'effet des programmes de développement du leadership ; recruter un successeur expérimenté compense largement cette perte.",
+   "what_it_is": "Étude en différences de différences avec groupe de comparaison apparié sur données administratives de deux États américains entiers (Missouri et Tennessee), estimant l'effet du départ d'une direction sur les résultats des élèves et sur la rotation des enseignants.",
+   "evidence_level": "quasi-expérimental (différences de différences avec appariement)",
+   "effect_size": "-0,03 σ sur les résultats de l'école l'année suivant le départ, en moyenne. Effets plus négatifs pour les transferts vers un autre établissement ; effets nuls ou même positifs à terme pour les rétrogradations (donc pour les directions vraisemblablement les moins performantes). La rotation des directions accroît aussi la rotation des enseignants, mais ce canal n'explique pas la baisse des résultats. Population : écoles publiques du Missouri et du Tennessee.",
+   "concrete_practice": "Implication de gouvernance : la politique de direction ne se joue pas seulement à l'entrée (sélection, formation) mais dans la gestion des successions — préparation interne d'un successeur identifié, transition organisée plutôt que nomination en urgence, et arbitrage explicite entre transfert d'une direction performante vers une autre école et stabilité de l'école qu'elle quitte. L'évaluation City Challenge notait de même qu'un intérim prolongé retarde l'amélioration et qu'il faut installer rapidement des arrangements permanents.",
+   "concrete_example": "L'essai de Houston fournit la démonstration la plus nette du coût de l'instabilité : dans les écoles prédites comme mettant en œuvre fidèlement la formation et dont la direction devait rester deux ans, l'effet était de +0,24 σ en année 1 puis +0,35 σ en année 2 ; dans les écoles également prédites à forte fidélité mais dont la direction était prédite partante entre les deux années, l'effet tombait à +0,08 σ puis 0. C'est la rotation des directions, combinée au caractère cumulatif de la formation, qui explique la disparition de l'effet moyen en année 2 de l'expérience. Du côté du dispositif RAND/Wallace, l'effet inverse est mesuré : les districts « pipeline » enregistrent près de 8 départs de moins pour 100 directions nouvellement nommées après trois ans, ce qui suggère qu'un système structuré de sélection et d'accompagnement produit de la stabilité en même temps que des résultats.",
+   "conditions": "L'effet négatif de la rotation est compensé « largement » si le successeur est expérimenté, ce qui suppose un vivier. Or dans un système en pénurie de candidats à la direction — cas de la FW-B, où le gouvernement invoque explicitement la pénurie, en particulier dans l'enseignement fondamental, pour justifier la revalorisation barémique adoptée en décembre 2025 visant une tension d'au moins 25 % entre direction et enseignant à ancienneté égale — le vivier de successeurs expérimentés est précisément ce qui manque.",
+   "contested": "L'effet de -0,03 σ est faible en valeur absolue et ne vaut que pour l'année suivante ; l'étude montre elle-même que la rotation n'est pas uniformément mauvaise (les rétrogradations ont des effets nuls ou positifs), ce qui interdit de transformer ce résultat en plaidoyer pour la stabilité à tout prix. La borne inférieure de Branch, Hanushek & Rivkin est d'ailleurs obtenue à partir de la variance additionnelle lors des changements de direction, ce qui indique que le signal capté lors des transitions est bruité. Enfin le résultat vient de deux États américains avec une forte mobilité des directions entre écoles d'un même district, configuration sans équivalent direct dans un système à réseaux et pouvoirs organisateurs multiples.",
+   "sources": [
+    {
+     "author": "Brendan Bartanen, Jason A. Grissom, Laura K. Rogers",
+     "title": "The Impacts of Principal Turnover",
+     "org": "Educational Evaluation and Policy Analysis, 41(3), 350-374",
+     "year": "2019",
+     "url": "https://journals.sagepub.com/doi/10.3102/0162373719855044"
+    },
+    {
+     "author": "Roland G. Fryer, Jr.",
+     "title": "Management and Student Achievement: Evidence from a Randomized Field Experiment",
+     "org": "National Bureau of Economic Research, Working Paper 23437",
+     "year": "2017",
+     "url": "https://www.nber.org/system/files/working_papers/w23437/w23437.pdf"
+    },
+    {
+     "author": "Valérie Glatigny, Ministre de l'Éducation",
+     "title": "Revalorisation salariale des directions, pour renforcer l'attractivité du métier et reconnaître les responsabilités (communiqué du 19 décembre 2025)",
+     "org": "Gouvernement de la Fédération Wallonie-Bruxelles",
+     "year": "2025",
+     "url": "https://glatigny.cfwb.be/home/communiques-de-presse/presses/revalorisation-salariale-des-directions-pour-renforcer-l-attractivite-du-metier-et-reconnaitre-les-responsabilites.html"
+    }
+   ]
+  },
+  {
+   "claim": "La qualité des pratiques de gestion d'un établissement est mesurable de façon reproductible et corrèle fortement avec les résultats des élèves ; les écoles autonomes financées publiquement obtiennent les meilleurs scores de gestion, et près de la moitié de leur avantage s'explique par le leadership et la gouvernance.",
+   "what_it_is": "World Management Survey appliquée à l'éducation : entretiens semi-structurés en double aveugle avec les chefs d'établissement de 1 851 lycées dans huit pays (Brésil, Canada, Allemagne, Inde, Italie, Suède, Royaume-Uni, États-Unis), scorés sur 20 pratiques de gestion (suivi, fixation d'objectifs, gestion des personnes), appariés à des mesures de résultats d'élèves au niveau de l'établissement.",
+   "evidence_level": "corrélationnel international, avec contrôles riches (composition sociale, taille, taux d'encadrement, sélection académique, effets interviewer) — les auteurs disent explicitement ne pas pouvoir établir de causalité",
+   "effect_size": "+1 écart-type de l'indice de gestion (soit 0,65 point sur l'échelle brute) est associé à +0,425 σ de résultats d'élèves avec seulement les indicatrices pays, et +0,232 σ avec l'ensemble des contrôles (significatif à 1 %). À titre de comparaison fournie par les auteurs, +1 σ de gestion équivaut à 49 % de l'amélioration associée à la sélection académique des élèves. Score de gestion moyen tous pays : 2,27 sur 5, soit un niveau faible ; le Royaume-Uni est en tête (2,9), suivi de la Suède, du Canada et des États-Unis, puis l'Allemagne, avec un décrochage pour l'Italie, le Brésil et l'Inde. Les écoles publiques autonomes (academies britanniques, charter schools américaines) obtiennent des scores supérieurs aux écoles publiques régulières et aux écoles privées, et près de la moitié de cet écart est imputable au leadership et à la gouvernance.",
+   "concrete_practice": "L'outil lui-même est transposable : un protocole d'entretien standardisé permet de scorer la qualité de gestion d'un établissement sur des dimensions observables (l'école suit-elle des indicateurs ? à quelle fréquence ? qui les regarde ? que se passe-t-il quand un indicateur décroche ? comment sont traités les enseignants sous-performants ? comment sont identifiés et retenus les meilleurs ?). Il fournit un diagnostic actionnable plutôt qu'un jugement global, et permet de comparer des écoles à composition sociale similaire.",
+   "concrete_example": "Le score de gestion des écoles a été comparé, dans le même protocole, à celui des hôpitaux et des entreprises manufacturières du même pays : la distribution des pratiques de gestion des écoles est nettement décalée vers le bas, et la proportion d'écoles obtenant un score élevé est très inférieure à celle observée dans l'industrie (les auteurs relèvent, sur les 16 questions communes aux trois secteurs et un échantillon de 362 écoles, 511 hôpitaux et 2 088 entreprises au Royaume-Uni et aux États-Unis, un déficit net pour les écoles). Autrement dit, le gisement de progrès managérial dans les écoles est, en niveau, plus grand que dans l'hôpital ou l'industrie. Les auteurs relèvent aussi des corrélations écologiques fortes entre score de gestion régional moyen et performance PISA : 0,65 pour les régions allemandes (significatif à 10 %) et 0,63 pour les régions italiennes (significatif à 5 %).",
+   "conditions": "Les auteurs insistent : il s'agit d'un exercice de validation externe de leur mesure, pas d'une démonstration causale. La corrélation gestion/résultats peut refléter une causalité inverse (une école performante attire un meilleur management) ou des variables omises (capital social du quartier). Le lien avec l'autonomie est particulièrement fragile puisque les écoles autonomes se distinguent aussi par leur recrutement.",
+   "contested": "C'est exactement le point où l'essai de Fryer à Houston devient décisif : il fournit la contrepartie causale qui manque à Bloom et al., en montrant qu'on peut déplacer les pratiques de gestion d'une direction par la formation et obtenir un gain d'apprentissage — mais aussi que ce gain s'évanouit en année 2 sur les tests à enjeux. Par ailleurs le lien « autonomie = meilleure gestion » est le résultat le plus fragile et le plus politiquement chargé du papier : les auteurs notent eux-mêmes que le coefficient des types d'école augmente substantiellement quand on retire la variable de gestion, ce qui signale une forte colinéarité, et qu'ils ne peuvent pas séparer l'effet de l'autonomie de celui de la sélection des élèves. Il faut aussi noter qu'aucune des données ne porte sur un système à liberté d'enseignement constitutionnelle et réseaux multiples de type belge.",
+   "sources": [
+    {
+     "author": "Nicholas Bloom, Renata Lemos, Raffaella Sadun, John Van Reenen",
+     "title": "Does Management Matter in Schools?",
+     "org": "The Economic Journal, 125(584), 647-674",
+     "year": "2015",
+     "url": "https://www.hbs.edu/ris/Publication%20Files/Management_Schools_May2015_c51ddab7-7f25-4bb0-b4dc-610fa7247af1.pdf"
+    },
+    {
+     "author": "Roland G. Fryer, Jr.",
+     "title": "Management and Student Achievement: Evidence from a Randomized Field Experiment",
+     "org": "National Bureau of Economic Research, Working Paper 23437",
+     "year": "2017",
+     "url": "https://www.nber.org/system/files/working_papers/w23437/w23437.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Un « pipeline » de directions — standards, formation pré-service, sélection et affectation, évaluation et soutien en poste — est le seul dispositif de politique publique du leadership dont l'effet sur les résultats des élèves a été mesuré à l'échelle d'un district entier et pour un coût marginal très faible.",
+   "what_it_is": "Évaluation externe par RAND de la Principal Pipeline Initiative financée par la Wallace Foundation dans six grands districts américains (2011-2016), avec comparaison de séries temporelles interrompues entre environ 500 écoles des districts participants et plus de 500 écoles comparables de districts non participants du même État.",
+   "evidence_level": "quasi-expérimental (comparaison avec groupe témoin apparié hors district, séries temporelles interrompues) — classé Tier II des standards de preuve de la loi fédérale ESSA",
+   "effect_size": "Écoles avec direction nouvellement nommée dans les districts pipeline : +6 points de percentile en lecture et +3 points en mathématiques par rapport aux écoles de comparaison, après trois ans. Rétention : près de 8 départs de moins pour 100 directions nouvellement nommées après trois ans. Coût : ~42 dollars par élève et par an, soit moins de 0,5 % du budget des districts en moyenne. Population : élèves du primaire, du collège et du lycée dans six grands districts urbains et péri-urbains américains.",
+   "concrete_practice": "Les quatre composantes sont : (1) des standards explicites de connaissances et de performance des directions, utilisés pour tous les actes de gestion ; (2) une formation pré-service de qualité pour les adjoints (le vivier) ; (3) un recrutement et une affectation sélectifs, adossés à un système de suivi des cadres (leader tracking system) qui permet de savoir qui est prêt pour quel type d'école ; (4) une évaluation et un soutien en poste, incluant le mentorat. Le système de suivi des cadres est la brique la moins visible et la plus structurante : c'est une base de données qui relie formation, évaluation, affectation et résultats.",
+   "concrete_example": "Composante complémentaire mesurée séparément : la Principal Supervisor Initiative, dispositif de 24 millions de dollars sur quatre ans lancé en 2014 dans six grands districts, a redéfini le poste de superviseur de directions pour le recentrer sur l'appui pédagogique. Résultats documentés par l'équipe Vanderbilt/Mathematica : le nombre moyen de directions par superviseur est passé de 17 à 12 (contre 16 dans les autres districts urbains comparables), la note moyenne donnée par les directions à l'efficacité de leur superviseur est passée de 3,88 à 4,10 sur une échelle de 1 à 5 (écart statistiquement significatif), et la part de directions estimant que l'administration centrale est organisée pour les soutenir est passée de 41 % à 57 %. C'est le dispositif qui correspond le plus directement à la question de l'échelon intermédiaire : il transforme le supérieur hiérarchique d'une direction en accompagnateur pédagogique, avec une norme d'encadrement chiffrée.",
+   "conditions": "Trois conditions explicites : les districts étaient volontaires et recevaient à la fois un financement et une assistance technique d'une fondation ; l'effet sur les résultats n'apparaît qu'après trois ans ; il ne porte que sur les écoles ayant reçu une direction nouvellement nommée, c'est-à-dire là où le pipeline a effectivement produit quelque chose. Le coût de 42 dollars par élève est le coût marginal des activités de pipeline, hors salaires de la structure existante.",
+   "contested": "Ce n'est pas un essai randomisé : les six districts se sont portés candidats, ce qui sélectionne des systèmes déjà dotés d'une capacité de gestion et d'une volonté de réforme ; l'effet estimé mélange donc l'effet du dispositif et celui de la volonté préalable. Le groupe témoin est constitué d'écoles d'autres districts du même État, ce qui ne contrôle pas les politiques propres aux districts témoins. L'évaluation a été financée par la fondation qui finançait aussi le programme. Enfin la Wallace Foundation, dans sa propre synthèse, constate que l'évaluation de la PPI n'a pas mis en évidence d'effet sur le leadership pédagogique déclaré, sur le climat scolaire rapporté par les enseignants, ni sur la rétention des enseignants — donc les mécanismes supposés ne sont pas confirmés par les indicateurs intermédiaires.",
+   "sources": [
+    {
+     "author": "Susan M. Gates, Matthew D. Baird, Benjamin K. Master, Emilio R. Chavez-Herrerias",
+     "title": "Principal Pipelines: A Feasible, Affordable, and Effective Way for Districts to Improve Schools",
+     "org": "RAND Corporation, RR-2666-WF",
+     "year": "2019",
+     "url": "https://www.rand.org/pubs/research_reports/RR2666.html"
+    },
+    {
+     "author": "The Wallace Foundation (recherche Vanderbilt University / Mathematica Policy Research)",
+     "title": "Changing the Principal Supervisor Role to Better Support Principals / A New Role Emerges for Principal Supervisors",
+     "org": "The Wallace Foundation",
+     "year": "2018",
+     "url": "https://wallacefoundation.org/report/new-role-emerges-principal-supervisors"
+    },
+    {
+     "author": "Jason A. Grissom, Anna J. Egalite, Constance A. Lindsay",
+     "title": "How Principals Affect Students and Schools (chapitre 7, interventions visant à améliorer le leadership)",
+     "org": "The Wallace Foundation",
+     "year": "2021",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-09/How-Principals-Affect-Students-and-Schools.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Les programmes de préparation sélective à la direction produisent des effets réels mais modestes et seulement après plusieurs années en poste — de l'ordre de 0,06 à 0,09 écart-type, soit 1 à 3 points de percentile.",
+   "what_it_is": "Évaluations successives par RAND du programme Aspiring Principals de l'organisation New Leaders, qui recrute sélectivement, forme (année résidentielle auprès d'un mentor) et accompagne en début de mandat des directions destinées à des écoles urbaines défavorisées.",
+   "evidence_level": "quasi-expérimental (comparaison avec directions formées par d'autres voies, contrôles sur caractéristiques d'école et d'élèves) — pas de randomisation",
+   "effect_size": "Environ 400 directions formées par New Leaders entre 2002 et 2011 dans dix districts partenaires. Aux niveaux élémentaires, au moins trois ans dans une école dirigée par une direction New Leaders : +0,7 à +1,3 point de percentile. Au lycée, avec trois ans ou plus d'ancienneté de la direction : environ +3 points de percentile en lecture. Exprimé en écarts-types : jusqu'à +0,089 σ en mathématiques et +0,057 σ en anglais par rapport aux écoles dirigées par des directions formées autrement. Population : écoles publiques urbaines défavorisées américaines.",
+   "concrete_practice": "Trois composantes constitutives : recrutement et admission sélectifs (taux d'admission bas, sélection sur compétences démontrées plutôt que sur ancienneté) ; formation avec endossement certifiant ; soutien renforcé en début de mandat. Le point saillant pour une politique publique est que l'effet ne se manifeste qu'à partir de la troisième année dans l'école : un programme de formation de directions qui serait évalué à deux ans conclurait à l'absence d'effet.",
+   "concrete_example": "Aux Pays-Bas, l'analogue institutionnel est le Schoolleidersregister PO : un registre professionnel des directions du primaire, avec une norme professionnelle de base, une inscription initiale et une ré-inscription tous les cinq ans conditionnée à une preuve de développement professionnel (diplômes et/ou portefeuille de compétences), assortie d'une certification des organismes de formation. L'évaluation qualitative indépendante conduite par le bureau Kwink pour la fondation du registre et le ministère de l'Éducation (2021) conclut que les directions et les pouvoirs organisateurs sont critiques sur la valeur ajoutée du registre pour la professionnalisation individuelle, qu'il est vécu comme une obligation et que les directions estiment manquer d'autonomie sur leur propre développement, mais que les organisations partenaires reconnaissent comme apport important la certification de l'offre de formation et la fixation de normes de qualité.",
+   "conditions": "L'effet dépend d'un vivier de candidats suffisant pour que la sélectivité ait un sens : un programme « sélectif » dans un système en pénurie de candidats à la direction sélectionne peu. Il dépend aussi de la capacité à placer les diplômés dans des postes réels et rapidement — l'effet mesuré est un effet d'exposition d'élèves à une direction, pas un effet de formation en soi.",
+   "contested": "L'effet est modeste : 0,7 à 1,3 point de percentile au primaire est faible au regard du coût d'un programme de formation résidentielle, et les gains importants ne se lisent qu'au lycée et en lecture. Le design ne randomise pas : les directions New Leaders peuvent être affectées à des écoles systématiquement différentes de celles des directions de comparaison, et l'organisation sélectionne les candidats les plus prometteurs, ce qui capture un effet de sélection en plus de l'effet de formation. Du côté britannique, le National Professional Qualification for Headship (NPQH), qualification de 18 mois dont le référentiel a été validé par l'Education Endowment Foundation et qui touche une part massive du corps enseignant (19,9 % des enseignants et cadres recensés au School Workforce Census ont participé à un NPQ réformé en 2024/25, 88,4 % des écoles ayant employé un participant), n'a à ce jour pas produit d'estimation publiée d'effet sur les résultats des élèves : l'évaluation processus et impact commandée par le Department for Education à CFE Research, dont le rapport intermédiaire de janvier 2023 repose sur 30 entretiens et une enquête de référence auprès de 3 250 participants (taux de réponse 23 %), n'en est qu'au stade de la position de départ. Les critiques académiques plus anciennes du NPQH (pluralisme conceptuel, séparation du leadership et de la gestion, primauté du processus sur la théorie, séparation de la formation et de l'évaluation) n'ont jamais été réfutées par une évaluation d'impact.",
+   "sources": [
+    {
+     "author": "Susan M. Gates et al.",
+     "title": "Preparing Principals to Raise Student Achievement: Implementation and Effects of the New Leaders Program in Ten Districts",
+     "org": "RAND Corporation, RR-507-NL",
+     "year": "2014",
+     "url": "https://www.rand.org/pubs/research_reports/RR507.html"
+    },
+    {
+     "author": "Susan M. Gates et al.",
+     "title": "Preparing School Leaders for Success: Evaluation of New Leaders' Aspiring Principals Program, 2012-2017",
+     "org": "RAND Corporation, RR-2812",
+     "year": "2019",
+     "url": "https://www.rand.org/pubs/research_reports/RR2812.html"
+    },
+    {
+     "author": "Kwink Groep",
+     "title": "Kwalitatieve evaluatie Schoolleidersregister PO – Eindrapport",
+     "org": "Schoolleidersregister PO / Ministerie van OCW (Pays-Bas)",
+     "year": "2021",
+     "url": "https://www.kwinkgroep.nl/wp-content/uploads/2021/01/kwalitatieve-evaluatie-schoolleidersregister-po.pdf"
+    },
+    {
+     "author": "CFE Research",
+     "title": "Emerging findings from the evaluation of National Professional Qualifications – Interim report 1",
+     "org": "Department for Education (Angleterre)",
+     "year": "2023",
+     "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1131108/Emerging_findings_from_the_evaluation_of_National_Professional_Qualifications_Interim_report_1.pdf"
+    },
+    {
+     "author": "Department for Education",
+     "title": "Teacher and leader development: ECF and NPQs, 2024-25",
+     "org": "Explore Education Statistics, GOV.UK",
+     "year": "2025",
+     "url": "https://explore-education-statistics.service.gov.uk/find-statistics/teacher-and-leader-development-ecf-and-npqs/2024-25"
+    }
+   ]
+  },
+  {
+   "claim": "Le leadership intermédiaire est le maillon le moins documenté de la chaîne : la seule preuve quantitative sérieuse porte sur des enseignants-leaders qui pilotent l'enseignement d'une équipe, et elle est robuste en mathématiques mais pas en lecture.",
+   "what_it_is": "Évaluation quasi-expérimentale par Benjamin Backes (AIR) et Michael Hansen (Brookings) pour le CALDER Center de l'initiative Opportunity Culture de Public Impact : des enseignants à forte valeur ajoutée sont promus « multi-classroom leaders », gardent une responsabilité d'enseignement partielle, dirigent une équipe de 2 à 6 enseignants dont ils co-planifient les leçons, observent les cours et coachent, et sont rémunérés davantage sur le budget existant réalloué.",
+   "evidence_level": "quasi-expérimental sur données administratives (spécifications à effets fixes multiples, dont école-par-année, avec tests placebo) — pas de randomisation",
+   "effect_size": "Les enseignants rejoignant une équipe dirigée par un multi-classroom leader se situaient en moyenne au 50e percentile des gains d'apprentissage avant d'intégrer l'équipe ; après, leurs élèves progressent comme ceux d'enseignants situés entre le 75e et le 85e percentile en mathématiques, et entre le 66e et le 72e percentile en lecture dans six des sept modèles statistiques. Échantillon : 44 écoles Opportunity Culture dans trois districts (deux en Caroline du Nord, un dans l'État de New York), environ 15 000 élèves et 300 enseignants, majoritairement éligibles Title I en 2015-16. Working paper CALDER 181-0118, janvier 2018.",
+   "concrete_practice": "Le dispositif est budgétairement neutre par construction : la promotion est financée par une réorganisation des affectations (un multi-classroom leader couvre plus d'élèves indirectement, ce qui libère des marges salariales), pas par des crédits nouveaux. C'est une forme de leadership intermédiaire radicalement différente de celle du « coordonnateur de discipline » européen : le leader garde une responsabilité mesurée sur les résultats des élèves de toute son équipe, pas seulement des siens.",
+   "concrete_example": "Le contraste avec la FW-B est direct et chiffré : selon TALIS 2018, une équipe de direction existe dans 89 % des établissements secondaires de la FW-B, mais les enseignants n'y sont représentés que dans 20 % des cas, contre 96 % en Autriche, 85 % en Finlande et 74 % en Communauté flamande. L'équipe de direction de la FW-B est composée d'un adjoint (90 %) et d'un gestionnaire financier (75 %) : sa composition, écrivent les auteurs, « traduit principalement des objectifs de gestion administrative », alors qu'en Finlande, en Autriche et en Flandre elle révèle « une fonction davantage tournée vers la gestion pédagogique de l'établissement ». Il n'existe donc pas, en FW-B, de couche formalisée de leadership pédagogique intermédiaire au sens où l'entend cette littérature.",
+   "conditions": "L'effet suppose que le leader intermédiaire conserve une crédibilité pédagogique (il enseigne encore), qu'il ait un temps de décharge réel pour observer et coacher, qu'il ait une autorité effective sur la planification de l'enseignement de son équipe, et une rémunération différenciée. Retirer l'un de ces quatre éléments transforme le dispositif en coordination administrative sans effet documenté.",
+   "contested": "Les auteurs signalent eux-mêmes la faiblesse décisive : en lecture, la spécification qui se comporte le mieux aux tests placebo — celle qui inclut des effets fixes école-par-année, donc qui contrôle l'amélioration générale des écoles traitées — ne trouve aucun effet. Les gains en lecture pourraient donc refléter une amélioration globale des écoles participantes plutôt que le dispositif. Trois districts volontaires, pas de randomisation. Plus généralement, la revue systématique de la littérature sur le middle leadership scolaire (Lipscombe, Harris, Tindall-Ford & Groth, 2025, 2020-2024) confirme que le champ reste dominé par des travaux qualitatifs et descriptifs autour du concept de leadership distribué, et que les preuves empiriques directes d'impact sur les résultats des élèves n'ont commencé à apparaître que très récemment. Enfin, la synthèse Wallace consacrée aux adjoints de direction (79 études empiriques depuis 2000, plus des analyses de données nationales et de deux États) conclut qu'aucune étude n'examine si les adjoints les plus efficaces sont affectés aux écoles qui en ont le plus besoin, faute de mesures d'efficacité, et que les adjoints consacrent une part disproportionnée de leur temps à la discipline, à la surveillance et à la communication avec les familles.",
+   "sources": [
+    {
+     "author": "Benjamin Backes, Michael Hansen",
+     "title": "Reaching Further and Learning More? Evaluating Public Impact's Opportunity Culture Initiative (CALDER Working Paper 181-0118)",
+     "org": "CALDER Center / American Institutes for Research",
+     "year": "2018",
+     "url": "https://caldercenter.org/publications/reaching-further-and-learning-more-evaluating-public-impacts-opportunity-culture"
+    },
+    {
+     "author": "Ellen Goldring, Mollie Rubin, Mariesa Herrmann",
+     "title": "The Role of Assistant Principals: Evidence and Insights for Advancing School Leadership",
+     "org": "The Wallace Foundation / Mathematica",
+     "year": "2021",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-10/the-role-of-assistant-principals-evidence-insights-for-advancing-school-leadership.pdf"
+    },
+    {
+     "author": "Kylie Lipscombe, Jess Harris, Sharon Tindall-Ford, Sean Groth",
+     "title": "School middle leadership: A systematic review revisited 2020-2024",
+     "org": "Educational Management Administration & Leadership",
+     "year": "2025",
+     "url": "https://journals.sagepub.com/doi/10.1177/17411432251362970"
+    },
+    {
+     "author": "Valérie Quittre, Virginie Dupont",
+     "title": "TALIS en bref n°8 – Leadership et gestion pédagogique des établissements",
+     "org": "aSPe, Université de Liège / Fédération Wallonie-Bruxelles",
+     "year": "2020",
+     "url": "https://www.talis-fwb.uliege.be/upload/docs/application/pdf/2021-12/talis_bref-n8_leadership-et-gestion.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "Il n'existe aucune structure de réseau optimale : la variation de performance à l'intérieur d'un type de réseau est systématiquement plus grande que la variation entre types de réseaux — la question pertinente n'est donc pas « faut-il des réseaux ? » mais « que fait ce réseau-là ? ».",
+   "what_it_is": "Programme de travail de l'Education Policy Institute construisant une batterie d'indicateurs comparables pour tous les groupes d'écoles anglais — multi-academy trusts, autorités locales, diocèses, fédérations — sur quatre domaines : inclusion et résultats des élèves, effectifs enseignants, efficience financière, et une enquête panel (DEEP) sur les modes de décision. Données : National Pupil Database et School Workforce Census, analysées dans le Secure Research Service de l'ONS.",
+   "evidence_level": "descriptif comparatif sur données administratives exhaustives, avec analyse d'associations entre indicateurs (pas de design causal)",
+   "effect_size": "Conclusion centrale : « there is no identifiable general optimal organisational structure for school groups » ; « across all the metrics we construct there is typically more variation within school group types compared to between school group types — the difference between two different MATs is often larger than the difference between the average MAT and the average local authority ». Exemples chiffrés : au secondaire, rotation annuelle des enseignants de 16,9 % dans le MAT médian contre 14,4 % dans l'autorité locale médiane (cumulée sur trois ans : 37,4 % contre 32,7 %) ; les petits MAT secondaires (<5 écoles) ont une rotation de 15,9 % contre 19,5 % pour les plus grands. Les grands MAT (≥10 écoles dans une phase) ont des taux de suspension, d'absentéisme persistant et de sorties inexpliquées plus élevés, mais accueillent plus d'élèves défavorisés et obtiennent de meilleurs résultats pour les élèves faibles et défavorisés.",
+   "concrete_practice": "L'EPI recommande que l'administration publie des indicateurs accessibles au niveau des groupes d'écoles, sur le modèle des « trust quality descriptors », de façon à rendre visibles les forces et faiblesses relatives de chaque réseau et la manière dont il reflète sa communauté locale. Autrement dit : la régulation d'un système à réseaux passe par la transparence comparative sur des indicateurs communs, pas par le choix d'une forme juridique.",
+   "concrete_example": "Le rapport Chain Effects 2018 de la Sutton Trust (Merryn Hutchings et Becky Francis) donne la mesure de la dispersion : parmi 58 chaînes d'academies analysées (au moins trois academies, au moins deux depuis trois ans), les élèves défavorisés n'obtenaient en 2017 des résultats supérieurs à la moyenne nationale des élèves défavorisés de l'ensemble des écoles ordinaires que dans 12 chaînes sur 58, dont 3 nettement au-dessus ; 38 chaînes sur 58 étaient en dessous de cette moyenne, dont 8 nettement en dessous. Sur cinq ans, le classement des chaînes bouge peu : le même petit groupe surperforme année après année, le même petit groupe reste en bas, et les auteurs concluent qu'il y a « peu d'éléments suggérant que les Regional Schools Commissioners parviennent à améliorer ces chaînes ». Les chaînes entrées plus tard dans l'échantillon ont fait moins bien que les précédentes lors de leur première année d'entrée, près de 8 sur 10 ayant des résultats sous la moyenne — ce qui suggère qu'il faut plus de trois ans pour redresser une école en difficulté et du temps pour qu'une chaîne développe des stratégies efficaces. Les auteurs relèvent enfin « peu de preuves d'un partage efficace des connaissances entre chaînes performantes et moins performantes ».",
+   "conditions": "Ce qui distingue un réseau qui améliore d'un réseau qui gère, selon les éléments convergents disponibles : il connaît finement ses écoles (forces et faiblesses) et traduit cette connaissance en activité d'amélioration ; il équilibre défi et soutien ; il laisse une marge d'autonomie sur le curriculum ; ses chefs d'établissement partagent la vision et respectent l'équipe centrale d'amélioration. Ce sont les critères que l'inspection anglaise (Ofsted) applique dans ses « summary evaluations » de trusts, qui restent toutefois des jugements d'inspection, non des mesures d'effet.",
+   "contested": "Ce dossier est le plus contesté du thème. (1) L'EPI conclut explicitement qu'on ne peut pas préférer la forme MAT à la forme autorité locale sur la base de la performance. (2) Une analyse antérieure de l'EPI montrait déjà qu'au primaire les MAT sont surreprésentés à la fois parmi les meilleurs et parmi les pires groupes (12 des 30 meilleurs, 9 des 23 pires). (3) Les données d'Ofsted rapportées par la presse spécialisée indiquent que 30 % des écoles primaires classées « outstanding » sous autorité locale conservent ce classement contre 7 % des primaires en MAT, sans différence au secondaire. (4) Le cas de Northern Education Trust (revue Ofsted 2017), qui avait repris trop d'écoles en difficulté sans la capacité de les redresser, illustre le risque de croissance non maîtrisée. (5) L'ensemble de cette littérature est descriptive : aucun de ces travaux n'établit causalement ce qui, dans un réseau, produit l'amélioration.",
+   "sources": [
+    {
+     "author": "Louis Hodge, Robbie Cruikshanks, Oana Gavriloiu, Jon Andrews",
+     "title": "The Features of Effective School Groups",
+     "org": "Education Policy Institute",
+     "year": "2024",
+     "url": "https://epi.org.uk/wp-content/uploads/2024/04/Effective_school_groups_final-240404-2.pdf"
+    },
+    {
+     "author": "Merryn Hutchings, Becky Francis",
+     "title": "Chain Effects 2018: The impact of academy chains on low-income pupils",
+     "org": "The Sutton Trust",
+     "year": "2018",
+     "url": "https://www.suttontrust.com/wp-content/uploads/2019/12/Chain-Effects-2018.pdf"
+    },
+    {
+     "author": "Education Policy Institute",
+     "title": "School performance in multi-academy trusts and local authorities",
+     "org": "Education Policy Institute",
+     "year": "2018",
+     "url": "https://epi.org.uk/wp-content/uploads/2018/01/school-performance-in-multi-academy-trusts.pdf"
+    },
+    {
+     "author": "Ofsted",
+     "title": "Multi-academy trusts: summary evaluations",
+     "org": "Ofsted / GOV.UK",
+     "year": "2023",
+     "url": "https://www.gov.uk/government/publications/multi-academy-trusts-summary-evaluations"
+    }
+   ]
+  },
+  {
+   "claim": "Les directions efficaces agissent sur quatre registres — interactions centrées sur l'enseignement, construction d'un climat scolaire productif, organisation de la collaboration professionnelle, gestion stratégique des personnels et des ressources — et leur effet le plus solidement documenté hors résultats scolaires porte sur la rétention des bons enseignants et sur l'assiduité des élèves.",
+   "what_it_is": "Chapitre 7 de la synthèse Wallace, qui recodifie l'ensemble des études retenues en trois domaines de compétences (enseignement, personnes, organisation) et quatre catégories de comportements, et chapitre 5 qui estime les effets sur des résultats autres que les scores.",
+   "evidence_level": "synthèse systématique mêlant études quasi-expérimentales (pour les effets sur assiduité, discipline, rotation) et études majoritairement corrélationnelles (pour les comportements)",
+   "effect_size": "Assiduité (Bartanen 2020, données du Tennessee) : les élèves d'une école dont la direction est au 75e percentile de l'effet sur la présence viennent environ 1,4 jour de plus par an que ceux d'une direction au 25e percentile, et ont 4 points de pourcentage de risque en moins d'être en absentéisme chronique (>10 % de l'année) — effets importants sachant que l'élève médian de l'échantillon manque 9,9 jours et que 13 % sont en absentéisme chronique ; effets plus grands en milieu urbain et en école à forte pauvreté. Fait notable : les directions qui excellent à réduire l'absentéisme ne sont souvent pas les mêmes que celles qui font monter les scores. Rotation des enseignants : les directions mieux notées par leurs superviseurs retiennent davantage les enseignants performants (à la fois sur observations de classe et sur valeur ajoutée) et retiennent moins leurs enseignants les moins performants ; l'effet de l'efficacité de la direction sur la baisse de la rotation est plus fort dans les écoles à forte pauvreté.",
+   "concrete_practice": "La quatrième catégorie — gestion stratégique des personnels — se décompose en recrutement, affectation, développement et rétention. Le résultat opérationnel le plus net est que la « rétention stratégique » (garder les meilleurs, ne pas garder les plus faibles) est plus visible dans les écoles favorisées, où la direction dispose d'un vivier de remplacement : la capacité d'agir sur la composition de l'équipe dépend du marché du travail enseignant local. Sur le mode d'action, la synthèse note que pour faire partir les enseignants les moins performants, le « counseling out » (entretien qui amène l'enseignant à partir de lui-même) apparaît plus déterminant que les procédures administratives formelles.",
+   "concrete_example": "Contre-exemple documenté, utile pour éviter la naïveté : à Miami-Dade, Grissom, Kalogrides & Loeb (2017) montrent que sous pression de reddition de comptes, les directions déplacent stratégiquement les enseignants les plus performants vers les niveaux évalués par les tests et les moins performants vers les niveaux non testés. En primaire, cela revient à envoyer les enseignants les plus faibles dans les classes de la maternelle au CE1 ; les élèves de ces classes obtiennent de moins bons résultats aux évaluations de ces niveaux et, plus tard, aux tests à enjeux. Autrement dit, donner à une direction du pouvoir sur l'affectation des enseignants dans un système à forte reddition de comptes produit des comportements d'optimisation qui pénalisent les plus jeunes élèves.",
+   "conditions": "Les quatre registres supposent tous que la direction ait une prise sur les personnels. Dans un système où ni le recrutement, ni l'affectation, ni la sortie des enseignants ne relèvent réellement de l'école, le registre le plus efficace selon Robinson (participation directe au développement professionnel) reste accessible, mais les trois autres sont largement inopérants. C'est le point de tension le plus fort pour la transposition.",
+   "contested": "Les auteurs de la synthèse Wallace sont eux-mêmes critiques de leur propre matériau : ils écrivent que la base de recherche en leadership éducatif est « highly variable in approach, topic, and rigor », qu'ils trouvent « peu d'exemples d'études quantitatives conçues pour répliquer des résultats antérieurs », ce qui relègue la reproductibilité au second plan. Sur la revendication historique de Leithwood et al. (2004) selon laquelle « le leadership est le deuxième facteur scolaire le plus important après l'enseignement en classe », ils précisent que cette conclusion ne repose pas sur des estimations d'effet du type qu'ils présentent mais sur des comparaisons de variance expliquée issues d'études souvent transversales et corrélationnelles. Le chapitre 7 sur les comportements repose très majoritairement sur des études corrélationnelles et qualitatives : on sait que les directions efficaces font ces choses, on ne sait pas que faire ces choses rend efficace.",
+   "sources": [
+    {
+     "author": "Jason A. Grissom, Anna J. Egalite, Constance A. Lindsay",
+     "title": "How Principals Affect Students and Schools: A Systematic Synthesis of Two Decades of Research (chapitres 5, 7 et 8)",
+     "org": "The Wallace Foundation",
+     "year": "2021",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-09/How-Principals-Affect-Students-and-Schools.pdf"
+    },
+    {
+     "author": "Brendan Bartanen (cité dans Grissom, Egalite & Lindsay 2021)",
+     "title": "Principal Quality and Student Attendance",
+     "org": "Educational Researcher",
+     "year": "2020",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-09/How-Principals-Affect-Students-and-Schools.pdf"
+    },
+    {
+     "author": "Jason A. Grissom, Demetra Kalogrides, Susanna Loeb (cités dans Grissom, Egalite & Lindsay 2021)",
+     "title": "Strategic Staffing? How Performance Pressures Affect the Distribution of Teachers within Schools",
+     "org": "American Educational Research Journal",
+     "year": "2017",
+     "url": "https://wallacefoundation.org/sites/default/files/2023-09/How-Principals-Affect-Students-and-Schools.pdf"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose sans difficulté majeure. (1) Le diagnostic de temps : les données TALIS 2018 existent déjà pour la FW-B et sont sans appel — 38 % du temps des chefs d'établissement en réunions et tâches administratives, 16 % en tâches pédagogiques, contre au moins 10 points d'administratif de moins en France, aux Pays-Bas, en Angleterre et en Communauté flamande. Ce chiffre est mobilisable tel quel, sans hypothèse d'importation. (2) La composition des équipes de direction : la FW-B compte 20 % d'enseignants dans ses équipes de direction contre 74 % en Communauté flamande, 85 % en Finlande, 96 % en Autriche. L'écart avec la Flandre, système voisin à liberté d'enseignement et réseaux multiples, montre qu'il ne s'agit pas d'une fatalité institutionnelle belge. (3) Le format de développement professionnel à fort effet — la direction participe directement à l'apprentissage professionnel de ses enseignants (Robinson, 0,84 σ ; Fryer, protocole d'observation et de retour tous les deux mois) — ne suppose ni pouvoir de recrutement, ni licenciement, ni budget substantiel : dans l'essai de Houston, le coût marginal était de 10 dollars par élève. C'est le levier le plus compatible avec une contrainte budgétaire forte et une gouvernance partagée. (4) Le rôle de superviseur-accompagnateur avec norme d'encadrement chiffrée (12 directions par superviseur au lieu de 17 dans la Principal Supervisor Initiative) est directement comparable à la fonction de délégué au contrat d'objectifs (DCO) en FW-B : la question transposable n'est pas de créer une fonction nouvelle mais de savoir si celle qui existe est une fonction de contrôle de conformité ou d'accompagnement pédagogique, et à quel ratio.\n\nCe qui ne se transpose pas tel quel. (1) L'essentiel des estimations d'effet direction vient de systèmes où des tests standardisés annuels à enjeux existent pour chaque élève et chaque niveau : la FW-B n'a pas cette infrastructure de mesure, ce qui rend impossible la réplication des designs de valeur ajoutée et donc l'évaluation locale des dispositifs. C'est une limite pratique majeure : sans mesure, on importe des dispositifs sans pouvoir savoir s'ils marchent ici. (2) La gestion stratégique des personnels — recruter, affecter, développer, retenir — est le canal par lequel passe l'essentiel de l'effet direction selon la synthèse Wallace. Or en FW-B les décisions de recrutement et de licenciement des enseignants relèvent largement du pouvoir organisateur et d'un cadre statutaire, et TALIS 2018 situe l'autonomie des établissements de la FW-B nettement en dessous de celle de l'Angleterre, de la Communauté flamande et des Pays-Bas. Trois des quatre registres de comportement des directions efficaces sont donc partiellement ou largement hors de portée d'une direction en FW-B — ce qui n'invalide pas le levier mais réduit mécaniquement son plafond d'effet. (3) Les dispositifs de type pipeline supposent un vivier de candidats permettant une sélection réelle ; la FW-B est en pénurie de candidats à la direction, en particulier dans le fondamental, au point que le gouvernement a adopté en décembre 2025 une revalorisation barémique visant une tension d'au moins 25 % entre direction et enseignant à ancienneté égale. Un dispositif sélectif dans un système en pénurie ne sélectionne pas ; l'ordre logique est donc attractivité puis sélectivité, pas l'inverse. (4) Les multi-academy trusts anglais et les districts américains sont des échelons intermédiaires à autorité hiérarchique sur les écoles ; le système FW-B, à liberté d'enseignement constitutionnelle et réseaux multiples, n'a pas d'équivalent et ne peut pas en créer un par voie centrale. Mais le résultat le plus robuste de cette littérature protège précisément contre l'illusion inverse : l'EPI conclut qu'il n'existe pas de structure optimale et que la variation à l'intérieur d'un type de réseau dépasse la variation entre types. La question opérationnelle pour la FW-B n'est donc pas de changer la structure des réseaux mais de rendre comparables et publics des indicateurs communs par réseau, et de doter chaque réseau d'une capacité réelle d'amélioration pédagogique de ses écoles — ce qui est précisément le fil qui distingue, dans toutes les sources examinées, un réseau qui améliore ses écoles d'un réseau qui les administre. (5) Enfin, prudence sur les tailles d'effet : les estimations les plus citées (0,13 σ) proviennent de synthèses américaines, et les auteurs de la seule étude aux méthodes multiples (Branch, Hanushek & Rivkin) obtiennent 0,207 σ ou 0,05 σ selon l'hypothèse retenue. Une note de position qui avancerait « l'effet direction vaut presque l'effet enseignant » sans mentionner cet intervalle serait attaquable."
+}
