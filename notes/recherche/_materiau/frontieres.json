@@ -1,0 +1,384 @@
+{
+ "topic": "Frontières émergentes : écrans, smartphones et intelligence artificielle à l'école — ce qui est démontré, ce qui ne l'est pas",
+ "headline": "Sur ce levier, l'écart entre l'intuition politique et la preuve est le plus large de tout le champ éducatif : l'interdiction du smartphone réduit de façon documentée la distraction déclarée mais n'a jamais démontré d'effet moyen sur les apprentissages dans les évaluations les plus rigoureuses ; l'équipement numérique sans pédagogie est un échec répliqué ; seuls les logiciels adaptatifs en mathématiques et, très récemment, quelques essais randomisés courts de tutorat IA montrent des effets substantiels — assortis d'une contre-preuve forte (Bastani et al., PNAS 2025) montrant que l'IA sans garde-fous dégrade l'apprentissage réel.",
+ "searches_run": 43,
+ "items": [
+  {
+   "claim": "L'étude fondatrice qui sert de caution scientifique aux interdictions de smartphone (Beland & Murphy, 2015) trouve un effet réel mais modeste (0,065 écart-type en moyenne, 0,142 pour le quintile le plus faible), sur un échantillon auto-sélectionné de 91 écoles, et n'a jamais été répliquée sur données individuelles.",
+   "what_it_is": "Étude quasi-expérimentale en différences de différences comparant les résultats au GCSE (examen national à 16 ans) d'élèves d'écoles anglaises avant et après l'introduction d'une interdiction du téléphone portable, en exploitant les dates différentes d'adoption des règlements par les écoles.",
+   "evidence_level": "quasi-expérimental (différences de différences sur données administratives, avec appariement à une enquête rétrospective auprès des chefs d'établissement)",
+   "effect_size": "+5,67 % d'écart-type en spécification de base ; +0,062 σ en contrôlant les acquis antérieurs ; +0,065 σ avec contrôles élèves ; 6,41 % d'écart-type dans la conclusion des auteurs. Par quintile d'acquis antérieurs à 11 ans : +0,1423 σ (quintile le plus faible), +0,0986 σ (deuxième quintile), aucun effet significatif pour les quintiles supérieurs. Population : élèves de 16 ans passant le GCSE, Angleterre, 2001-2011.",
+   "concrete_practice": "Des chefs d'établissement décident individuellement d'interdire le téléphone dans l'enceinte de l'école (confiscation à l'entrée ou interdiction de sortir l'appareil), à des dates échelonnées entre le début des années 2000 et 2012, sans coordination nationale.",
+   "concrete_example": "Les auteurs ont contacté par courriel puis par téléphone les chefs d'établissement de l'ensemble des lycées (high schools) de quatre villes anglaises — Birmingham, Londres, Leicester et Manchester — au printemps 2013, pour reconstituer l'historique des règlements sur les téléphones. 91 établissements ont répondu, soit 21 % de la cible. Ces réponses ont été appariées à la National Pupil Database, qui contient les résultats au GCSE de la totalité de la cohorte depuis 2001 (score standardisé national, moyenne 0, écart-type 1, sur la somme des points GCSE, environ 9 matières par élève). Résultat mesuré : après l'introduction d'une interdiction, la performance des élèves les plus faibles progresse de 0,14 σ, tandis que les élèves les plus forts ne gagnent rien — sans être pénalisés.",
+   "conditions": "L'effet repose entièrement sur l'hypothèse que les écoles qui interdisent le téléphone ne changent rien d'autre au même moment (les auteurs ont posé la question dans leur enquête). Il suppose aussi des élèves qui, sans interdiction, se laissent effectivement distraire — les auteurs interprètent l'absence d'effet en haut de la distribution comme le signe que les bons élèves se concentrent quel que soit le règlement. Ce qui le ferait échouer : une interdiction non appliquée, ou une école où le téléphone n'était déjà pas toléré en classe.",
+   "contested": "Fortement contesté. (1) Le taux de réponse de 21 % expose à un biais de sélection : les établissements qui répondent à une enquête sur leur règlement ne sont pas aléatoires. (2) L'historique des règlements est reconstitué rétrospectivement, de mémoire, par les chefs d'établissement en 2013 pour des décisions parfois vieilles de dix ans. (3) À ma connaissance, aucune réplication sur données individuelles d'un autre pays n'a reproduit ce résultat ; je n'ai trouvé aucun article publié de réplication directe, ce qui est en soi une faiblesse et non une confirmation. (4) Les évaluations postérieures les plus rigoureuses (SMART Schools 2025, Saffer 2026, Abrahamsson 2026) ne retrouvent pas d'effet moyen sur les résultats scolaires — voir les éléments suivants. Cette étude ne devrait pas être citée seule pour justifier une politique.",
+   "sources": [
+    {
+     "author": "Louis-Philippe Beland, Richard Murphy",
+     "title": "Ill Communication: Technology, Distraction & Student Performance",
+     "org": "Centre for Economic Performance (LSE), CEP Discussion Paper No 1350",
+     "year": "2015",
+     "url": "https://cep.lse.ac.uk/pubs/download/dp1350.pdf"
+    }
+   ]
+  },
+  {
+   "claim": "L'évaluation la plus rigoureuse à ce jour des politiques scolaires de restriction du téléphone (SMART Schools, Angleterre, 2025) ne trouve aucune différence de bien-être mental, de sommeil, d'activité physique, de résultats scolaires ni de comportement en classe entre écoles restrictives et permissives — parce que ces politiques ne réduisent pas l'usage global du téléphone.",
+   "what_it_is": "Étude observationnelle transversale comparant des adolescents de 12 à 15 ans scolarisés dans des écoles secondaires anglaises appliquant une interdiction de l'usage récréatif du téléphone à ceux d'écoles l'autorisant, avec mesures validées (échelle WEMWBS), accéléromètres pour le sommeil et l'activité physique, et données d'atteinte des objectifs scolaires.",
+   "evidence_level": "descriptif / corrélationnel de haute qualité (étude transversale observationnelle, échantillon nationalement représentatif, protocole préenregistré ISRCTN77948572, financement NIHR) — ce n'est pas un essai randomisé",
+   "effect_size": "Bien-être mental (WEMWBS) : différence moyenne ajustée −0,48 point (IC 95 % −2,05 à 1,06 ; p = 0,62), moyenne de l'échantillon 47 (ET 9). Temps d'écran téléphone pendant le temps scolaire : −0,67 h (IC 95 % −0,92 à −0,43 ; p = 0,00024). Réseaux sociaux pendant le temps scolaire : −0,54 h (IC 95 % −0,74 à −0,36 ; p = 0,00018). Aucune différence sur l'usage en semaine ou le week-end pris dans leur ensemble. Résultats scolaires (probabilité d'être sous l'objectif) : anglais OR 1,45 (0,85–2,47 ; p = 0,18) ; mathématiques OR 1,01 (0,45–2,27 ; p = 0,98). Comportement perturbateur : 0,06 (−0,57 à 0,68 ; p = 0,88). Population : 1 227 adolescents de 12-15 ans, 30 écoles secondaires anglaises.",
+   "concrete_practice": "Vingt écoles interdisent l'usage récréatif du téléphone pendant toute la journée (téléphone rangé, éteint, ou déposé) ; dix l'autorisent hors cours. Les chercheurs mesurent ensuite, chez les élèves, le bien-être, l'anxiété, la dépression, le sommeil par accéléromètre, l'activité physique, les résultats scolaires et le comportement en classe.",
+   "concrete_example": "Étude SMART Schools, dirigée par Victoria Goodyear (University of Birmingham), financée par le NIHR Public Health Research Programme. Recrutement de 1 227 élèves de 12 à 15 ans dans 30 écoles secondaires anglaises (20 restrictives, 10 permissives), avec accéléromètres portés pour objectiver sommeil et activité physique. Résultat mesuré : les élèves des écoles restrictives passent 40 minutes de moins par jour sur leur téléphone pendant le temps scolaire — mais leur consommation totale sur la journée et la semaine est identique. Aucune différence sur le WEMWBS, l'anxiété, la dépression, l'usage problématique des réseaux sociaux, la durée et l'efficacité du sommeil, l'activité physique modérée à vigoureuse, les résultats en anglais et en mathématiques, ni le comportement perturbateur en classe. Conclusion des auteurs : « The findings do not provide evidence to support the use of school policies that prohibit phone use during the school day in their current form. »",
+   "conditions": "Le mécanisme d'échec est explicite : l'interdiction déplace l'usage hors de l'école sans le réduire. Une politique scolaire seule ne peut donc pas agir sur des variables (bien-être, sommeil) déterminées par l'exposition totale. Les auteurs en tirent que ces politiques « require further development » — c'est-à-dire une articulation avec les familles et l'environnement hors scolaire.",
+   "contested": "Limites reconnues par le devis lui-même : transversal, donc sans causalité établie — les écoles qui interdisent peuvent différer systématiquement des autres sur des dimensions non mesurées. La comparaison 20 contre 10 écoles limite la puissance sur les résultats scolaires (les intervalles de confiance sur l'anglais n'excluent pas un effet). Un commentaire publié dans la même revue (Lancet Regional Health Europe, 2025, « Smartphone use and mental health: going beyond school restriction policies ») discute la portée de ces résultats. Une lettre à l'éditeur (Moon, Child and Adolescent Mental Health, 2026) souligne les limites de la preuve transversale sur cette question. À l'inverse, ces limites ne rendent pas l'étude moins informative que Beland & Murphy, qui souffre de biais au moins aussi lourds.",
+   "sources": [
+    {
+     "author": "Victoria A. Goodyear, A. Randhawa, P. Adab, H. Al-Janabi, S. Fenton, K. Jones, M. Michail, B. Morrison, P. Patterson, J. Quinlan, A. Sitch, R. Twardochleb, M. Wade, M. Pallan",
+     "title": "School phone policies and their association with mental wellbeing, phone use, and social media use (SMART Schools): a cross-sectional observational study",
+     "org": "The Lancet Regional Health – Europe, vol. 51, 101211",
+     "year": "2025",
+     "url": "https://doi.org/10.1016/j.lanepe.2025.101211"
+    },
+    {
+     "author": "Victoria A. Goodyear et al.",
+     "title": "Smartphones, social media and adolescent mental well-being: the impact of school policies restricting daytime use — protocol for a natural experimental observational study (SMART Schools Study)",
+     "org": "BMJ Open",
+     "year": "2023",
+     "url": "https://doi.org/10.1136/bmjopen-2023-075832"
+    }
+   ]
+  },
+  {
+   "claim": "Sur données administratives norvégiennes, l'interdiction du smartphone au collège n'a aucun effet moyen sur les résultats scolaires ni sur la santé mentale, mais masque un effet réel et positif concentré sur les filles, en particulier les plus défavorisées — c'est aujourd'hui le résultat positif le mieux identifié du domaine.",
+   "what_it_is": "Étude en event-study exploitant l'échelonnement des interdictions du smartphone adoptées école par école dans les collèges (middle schools) norvégiens, appariée à des registres administratifs de santé (recours aux soins psychologiques), de harcèlement et de résultats scolaires (moyennes, orientation vers la filière générale).",
+   "evidence_level": "quasi-expérimental (event-study sur adoption échelonnée, données administratives exhaustives et données d'enquête)",
+   "effect_size": "Effet moyen nul sur l'éducation et la santé mentale. Effets significatifs désagrégés : baisse du recours aux soins psychologiques chez les filles, baisse du harcèlement pour les deux sexes, hausse de la moyenne (GPA) et de la probabilité d'orientation en filière académique chez les filles, en particulier celles de milieu défavorisé. Population : élèves de collège, Norvège.",
+   "concrete_practice": "Des collèges norvégiens interdisent l'usage du smartphone pendant la journée scolaire, à des dates différentes selon les établissements, ce qui crée une variation exploitable statistiquement. L'autrice apparie ces dates aux registres nationaux de consultations pour symptômes psychologiques, aux enquêtes annuelles obligatoires sur le harcèlement et aux notes.",
+   "concrete_example": "Sara Abrahamsson (Norwegian School of Economics) exploite le déploiement non coordonné des interdictions dans les collèges norvégiens et le chaînage des registres administratifs individuels. Résultat principal, publié dans le Journal of Human Resources (mars 2026) : « Banning smartphones in middle schools has no average effect on education or mental health but masks important gender differences. Bans reduce psychological health care use among girls, lower bullying for both genders, and improve girls' GPAs and academic track placement, especially among those from disadvantaged backgrounds. »",
+   "conditions": "L'identification repose sur la disponibilité de registres administratifs individuels chaînés (santé, scolarité, harcèlement) — infrastructure statistique que la Norvège possède et que la FWB ne possède pas au même degré. Le résultat suggère que le canal d'action n'est pas l'attention en classe mais la sociabilité scolaire (harcèlement en ligne, pression sociale), ce qui oriente vers des politiques ciblées plutôt que vers une interdiction attendue comme levier de performance générale.",
+   "contested": "Je n'ai pas pu vérifier dans cette session les tailles d'effet chiffrées (l'article publié est sous paywall et je n'ai pas pu récupérer le document de travail NHH) : je m'en tiens donc strictement à la formulation de l'abstract publié, sans citer de coefficient. La différenciation par genre n'était pas préspécifiée dans la littérature antérieure, ce qui expose à un risque d'analyse de sous-groupes post hoc. Ce résultat contredit l'effet moyen de Beland & Murphy, et contredit aussi partiellement Saffer (2026) qui, sur données américaines, ne trouve aucun effet, même chez les filles.",
+   "sources": [
+    {
+     "author": "Sara Abrahamsson",
+     "title": "Smartphone Bans, Student Outcomes and Mental Health",
+     "org": "Journal of Human Resources",
+     "year": "2026",
+     "url": "https://doi.org/10.3368/jhr.0224-13403r2"
+    },
+    {
+     "author": "Sara Abrahamsson",
+     "title": "Smartphone Bans, Student Outcomes and Mental Health (version de travail)",
+     "org": "SSRN",
+     "year": "2024",
+     "url": "https://doi.org/10.2139/ssrn.4735240"
+    }
+   ]
+  },
+  {
+   "claim": "La première évaluation causale des interdictions d'État aux États-Unis ne trouve aucune preuve que ces politiques réduisent le temps d'écran ou améliorent le bien-être psychologique des jeunes.",
+   "what_it_is": "Évaluation en différences de différences synthétiques des interdictions scolaires du smartphone adoptées au niveau des États américains, à partir de l'enquête nationale National Survey of Children's Health.",
+   "evidence_level": "quasi-expérimental (synthetic difference-in-differences sur données d'enquête répétée, 2016-2024)",
+   "effect_size": "Aucun effet significatif détecté sur le temps d'écran ni sur le bien-être psychologique. L'auteur qualifie lui-même ces résultats de préliminaires et souligne un manque de puissance : un seul État dispose de deux périodes post-interdiction, deux États d'une seule.",
+   "concrete_practice": "Des États américains légifèrent pour interdire le smartphone dans les écoles publiques ; on mesure ensuite, sur un échantillon national de familles, le temps d'écran déclaré et des indicateurs de santé mentale des enfants, en comparant les États traités à un contrôle synthétique construit à partir des États non traités.",
+   "concrete_example": "Henry Saffer (NBER Working Paper 35181, mai 2026) mobilise la National Survey of Children's Health sur 2016-2024 et applique des modèles de différences de différences synthétiques aux États ayant adopté une interdiction scolaire. Résultat mesuré : « no clear evidence that the school ban policy reduced screentime or improved psychological wellbeing ». L'auteur conclut que « future studies with additional years of data […] are needed to increase power and to estimate the longer-term effects ».",
+   "conditions": "Une interdiction décidée au niveau d'un État ne dit rien de son application effective dans chaque école ; l'étude mesure donc un effet d'intention de traiter très dilué. Elle ne peut détecter qu'un effet de taille substantielle sur des indicateurs déclarés par les parents.",
+   "contested": "Limites majeures assumées : très peu d'années post-traitement, puissance statistique faible, indicateurs auto-déclarés par les parents plutôt que mesurés. Une absence de preuve n'est pas une preuve d'absence — ce résultat ne réfute pas Abrahamsson, il rappelle qu'aucun effet massif et immédiat n'est détectable au niveau agrégé. Le document est un working paper NBER, non encore passé par une revue à comité de lecture.",
+   "sources": [
+    {
+     "author": "Henry Saffer",
+     "title": "Youth Mental Health and School Smartphone Bans: Early Evidence",
+     "org": "National Bureau of Economic Research, Working Paper 35181",
+     "year": "2026",
+     "url": "https://www.nber.org/papers/w35181"
+    }
+   ]
+  },
+  {
+   "claim": "L'intuition la plus répandue — « le seul fait d'avoir son téléphone dans la poche dégrade les capacités cognitives » — n'est PAS démontrée : une méta-analyse de 56 effets sur 7 093 participants ne trouve un effet significatif que sur la mémoire de travail, et des effets nuls partout ailleurs, dans une littérature à faible puissance statistique.",
+   "what_it_is": "Revue systématique et six méta-analyses testant l'hypothèse du « brain drain » de Ward et al. (2017), selon laquelle la simple présence d'un smartphone (même éteint, même retourné) consomme des ressources attentionnelles et dégrade la mémoire de travail et l'intelligence fluide.",
+   "evidence_level": "méta-analyse d'expériences randomisées en laboratoire (k = 56 effets, n = 7 093 participants)",
+   "effect_size": "Un seul effet groupé statistiquement significatif sur six fonctions cognitives testées : la mémoire de travail est négativement affectée, avec un effet « smaller than theorized ». Effets nuls pour l'intelligence fluide, l'attention soutenue, l'inhibition de réponse et les autres fonctions. Hétérogénéité méthodologique substantielle et puissance statistique généralement faible dans le domaine.",
+   "concrete_practice": "Protocole type : on demande à des participants de poser leur smartphone sur le bureau, dans leur sac, ou dans une autre pièce, puis de réaliser des tâches de mémoire de travail (OSpan) et d'intelligence fluide (matrices de Raven). On compare les performances entre conditions.",
+   "concrete_example": "Douglas A. Parry (Stellenbosch University) recense l'ensemble de la littérature expérimentale postérieure à Ward, Duke, Gneezy & Bos (2017, Journal of the Association for Consumer Research), qui avait posé l'hypothèse. Sur 56 tailles d'effet issues d'expériences randomisées totalisant 7 093 participants, seule la mémoire de travail montre un effet groupé significatif. Conclusion des auteurs : « given methodological concerns, the extent to which the current body of literature can support or refute the hypothesis is limited ». Une étude indépendante (Hartmann et al., Consciousness and Cognition, 2020, « Does a smartphone on the desk drain our brain? ») ne trouve aucun coût cognitif en mémoire à court terme et prospective.",
+   "conditions": "Les effets de laboratoire sur des tâches cognitives de quelques minutes ne se transposent pas mécaniquement à des apprentissages scolaires sur une année. Inversement, l'absence d'effet de la simple présence n'exclut pas l'effet de l'usage actif en classe, qui est une question différente et mieux établie (voir élément suivant).",
+   "contested": "C'est précisément l'élément de la revue où l'écart entre discours public et preuve est le plus flagrant : l'étude originale de Ward et al. (2017) est massivement citée dans les débats sur l'interdiction ; sa généralisation n'est pas soutenue. À l'inverse, une publication contradictoire existe (Skowronek et al., Scientific Reports, 2023, « The mere presence of a smartphone reduces basal attentional performance »), ce qui indique une littérature encore instable. Aucune position ferme n'est défendable dans un sens ou dans l'autre.",
+   "sources": [
+    {
+     "author": "Douglas A. Parry et al.",
+     "title": "Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the \"Brain Drain Effect\"",
+     "org": "Media Psychology",
+     "year": "2023",
+     "url": "https://doi.org/10.1080/15213269.2023.2286647"
+    },
+    {
+     "author": "Adrian F. Ward, Kristen Duke, Ayelet Gneezy, Maarten W. Bos",
+     "title": "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity",
+     "org": "Journal of the Association for Consumer Research",
+     "year": "2017",
+     "url": "https://doi.org/10.1086/691462"
+    },
+    {
+     "author": "Tilo Hartmann et al.",
+     "title": "Does a smartphone on the desk drain our brain? No evidence of cognitive costs due to smartphone presence in a short-term and prospective memory task",
+     "org": "Consciousness and Cognition",
+     "year": "2020",
+     "url": "https://doi.org/10.1016/j.concog.2020.103033"
+    }
+   ]
+  },
+  {
+   "claim": "Ce que les restrictions produisent de façon documentée, c'est une baisse de la distraction déclarée en classe et de l'anxiété liée à l'appareil ; l'effet sur les scores standardisés n'apparaît que lorsque l'interdiction est effectivement appliquée — l'application, pas la règle, est la variable décisive.",
+   "what_it_is": "Analyse des microdonnées PISA 2022 (81 pays) croisant les politiques téléphoniques déclarées par les établissements, le degré d'application, les items de distraction numérique du questionnaire élève et les scores.",
+   "evidence_level": "corrélationnel sur comparaison internationale (microdonnées PISA 2022, 81 pays), avec analyses de sous-groupes — pas de source exogène de variation",
+   "effect_size": "Réductions significatives des distractions en classe et de l'anxiété déclarée liée à l'appareil, y compris sous une application faible. Améliorations mesurables des scores standardisés uniquement lorsque l'interdiction est effectivement appliquée. Hétérogénéité limitée entre sous-groupes ; réduction d'anxiété plus forte chez les élèves du privé.",
+   "concrete_practice": "Les établissements PISA déclarent leur politique téléphonique et son niveau d'application ; les élèves de 15 ans répondent à des items sur la distraction numérique en classe (par leur propre appareil et par celui des autres) et sur l'anxiété liée à la séparation d'avec l'appareil. On relie ces réponses aux scores en mathématiques.",
+   "concrete_example": "Étude de la Banque interaméricaine de développement (IDB Working Paper, octobre 2025) exploitant les microdonnées PISA 2022 sur 81 pays. Elle distingue trois régimes : pas de politique, politique non appliquée, politique appliquée. Résultat mesuré : les deux premiers régimes suffisent à faire baisser la distraction déclarée et l'anxiété ; seul le troisième produit une amélioration détectable des scores. Recommandation des auteurs : « Policy recommendations emphasize the critical role of enforcement ».",
+   "conditions": "L'application effective suppose un dispositif matériel (casiers, pochettes verrouillables), un consensus avec les familles, et un traitement des infractions qui ne repose pas sur l'enseignant seul. C'est un coût organisationnel réel, pas une simple circulaire.",
+   "contested": "Il s'agit d'une étude corrélationnelle transversale : les écoles qui appliquent réellement une interdiction sont probablement aussi celles où la discipline générale, le climat scolaire et le leadership sont meilleurs — l'effet attribué à l'application peut être un effet de gouvernance d'établissement. Le document est un working paper d'une banque de développement, non passé par une revue à comité de lecture, et je n'ai pas pu accéder au PDF complet pour en vérifier les tailles d'effet chiffrées dans cette session. Par ailleurs, je n'ai pas pu vérifier sur la source primaire OCDE les pourcentages de distraction numérique publiés dans PISA 2022 Volume II (site oecd.org inaccessible depuis cette session) : je m'abstiens donc de citer ces pourcentages.",
+   "sources": [
+    {
+     "author": "Rau et al.",
+     "title": "Mobile Devices and Children's Development: The Case for School Restrictions",
+     "org": "Inter-American Development Bank",
+     "year": "2025",
+     "url": "https://doi.org/10.18235/0013745"
+    }
+   ]
+  },
+  {
+   "claim": "Distribuer des machines ne produit aucun apprentissage : l'essai randomisé le plus vaste jamais conduit sur l'équipement individuel (One Laptop per Child, Pérou) n'a trouvé aucun effet sur les résultats en mathématiques et en langue après 15 mois — et aucun effet non plus après dix ans de suivi.",
+   "what_it_is": "Essai contrôlé randomisé de la distribution d'un ordinateur portable par élève dans des écoles primaires rurales péruviennes, avec mesure à 15 mois puis suivi administratif sur dix ans (achèvement du primaire et du secondaire, résultats au secondaire, inscription universitaire).",
+   "evidence_level": "essai randomisé à grande échelle (318 écoles à 15 mois ; 531 écoles dans le suivi long terme), suivi administratif décennal",
+   "effect_size": "Le ratio ordinateurs/élève passe de 0,12 à 1,18 dans les écoles traitées. Aucun effet détecté sur les scores en mathématiques et en langue à 15 mois ; preuves « non concluantes » d'effets positifs sur les compétences cognitives générales. Sur dix ans : aucun effet significatif sur les résultats scolaires, sur l'achèvement du primaire et du secondaire, sur les résultats au secondaire ni sur l'inscription universitaire ; indices d'effets négatifs sur la progression dans les classes ; effet positif sur la maîtrise de l'outil informatique ; aucun effet sur les compétences cognitives.",
+   "concrete_practice": "Chaque élève reçoit un ordinateur portable XO, utilisable à l'école et à la maison ; les enseignants reçoivent une formation. On mesure ensuite l'usage effectif puis les acquis.",
+   "concrete_example": "Programme One Laptop per Child au Pérou : 318 écoles primaires rurales tirées au sort, évaluation par Julián Cristia, Pablo Ibarrarán, Santiago Cueto, Ana Santiago et Eugenio Severín, publiée dans l'American Economic Journal: Applied Economics (2017). L'usage de l'ordinateur augmente fortement, à l'école comme à la maison ; les résultats en mathématiques et en langue ne bougent pas. Le suivi décennal (Cueto, Beuermann, Cristia, Malamud & Pardo, NBER Working Paper 34495, novembre 2025) étend l'analyse à 531 écoles avec dix ans de données administratives : toujours aucun effet sur les apprentissages ni sur les trajectoires, un effet réel sur les compétences informatiques, et le constat que les enseignants formés n'ont que marginalement intégré l'outil en classe, faute d'« additional pedagogical support ».",
+   "conditions": "Le résultat identifie clairement le point de rupture : le matériel est adopté, la pédagogie ne change pas. Toute politique d'équipement qui ne s'accompagne pas d'un dispositif contraignant d'intégration curriculaire et d'appui pédagogique reproduit ce schéma.",
+   "contested": "Contexte rural péruvien à faibles ressources, avec des enseignants peu formés au numérique : on peut soutenir qu'un système européen bien doté obtiendrait un résultat différent. Mais la méta-analyse de Zheng, Warschauer, Lin & Chang (Review of Educational Research, 2016) qui trouve des effets positifs des programmes 1:1 en anglais, écriture, mathématiques et sciences repose sur seulement 10 études quantitatives de qualité hétérogène, et non sur des essais randomisés — la contradiction apparente avec OLPC tient largement à la différence de niveau de preuve, pas à la différence de contexte.",
+   "sources": [
+    {
+     "author": "Julián Cristia, Pablo Ibarrarán, Santiago Cueto, Ana Santiago, Eugenio Severín",
+     "title": "Technology and Child Development: Evidence from the One Laptop per Child Program",
+     "org": "American Economic Journal: Applied Economics",
+     "year": "2017",
+     "url": "https://doi.org/10.1257/app.20150385"
+    },
+    {
+     "author": "Santiago Cueto, Diether W. Beuermann, Julián Cristia, Ofer Malamud, Francisco Pardo",
+     "title": "Laptops in the Long Run: Evidence from the One Laptop per Child Program in Rural Peru",
+     "org": "National Bureau of Economic Research, Working Paper 34495",
+     "year": "2025",
+     "url": "https://doi.org/10.3386/w34495"
+    },
+    {
+     "author": "Binbin Zheng, Mark Warschauer, Chin-Hsi Lin, Chi Chang",
+     "title": "Learning in One-to-One Laptop Environments: A Meta-Analysis and Research Synthesis",
+     "org": "Review of Educational Research",
+     "year": "2016",
+     "url": "https://doi.org/10.3102/0034654316628645"
+    }
+   ]
+  },
+  {
+   "claim": "Le seul usage pédagogique du numérique qui soutient un effet robuste est étroit : les logiciels d'apprentissage assisté par ordinateur qui s'adaptent au niveau de l'élève, principalement en mathématiques — et l'adaptativité, pas la personnalisation cosmétique, est ce qui fait l'effet.",
+   "what_it_is": "Synthèse d'essais randomisés (Escueta, Quan, Nickow & Oreopoulos) classant les technologies éducatives en quatre familles : accès au matériel, apprentissage assisté par ordinateur (CAL), interventions comportementales numériques, cours en ligne ; complétée par une méta-analyse d'essais randomisés sur l'apprentissage personnalisé par la technologie.",
+   "evidence_level": "revue systématique d'essais randomisés (Escueta et al., Journal of Economic Literature 2020) et méta-analyse de 16 essais randomisés, 53 029 élèves de 6 à 15 ans, 5 pays (Major, Francis & Tsapali, BJET 2021)",
+   "effect_size": "Escueta et al. : ASSISTments (plateforme gratuite de devoirs de mathématiques à rétroaction immédiate) +0,18 σ, et +0,29 σ pour les élèves au niveau ou en dessous de la médiane ; curriculum logiciel intensif en mathématiques +0,63 σ et +0,56 σ en 7e et 8e année américaines ; cours entièrement en ligne : effets potentiellement négatifs par rapport au présentiel ; enseignement hybride (blended) : à parité avec le présentiel. Major, Francis & Tsapali : effet global +0,18 (p = 0,001), montant à +0,35 pour les approches qui s'adaptent réellement au niveau de l'apprenant, contre les approches qui se contentent de relier aux centres d'intérêt ou de fournir une rétroaction personnalisée.",
+   "concrete_practice": "L'élève travaille des exercices sur une plateforme qui corrige immédiatement, propose une aide graduée, ajuste la difficulté au niveau réel, et restitue à l'enseignant un tableau de bord de ce qui n'est pas acquis. L'enseignant s'en sert pour réorienter son cours. Le logiciel remplace le devoir à la maison ou une fraction du temps de classe, jamais l'enseignant.",
+   "concrete_example": "ASSISTments, plateforme gratuite de devoirs de mathématiques développée par le Worcester Polytechnic Institute : elle ne demande à l'école de changer ni son manuel ni son programme. L'élève reçoit une correction immédiate et un guidage question par question ; l'enseignant reçoit les données de l'exercice pour ajuster le cours suivant. Évaluée par essai randomisé (Roschelle et al., 2016) sur des collèges américains : +0,18 écart-type sur les acquis en mathématiques, et un effet significativement plus fort (+0,29 σ) pour les élèves situés au niveau ou en dessous de la médiane — c'est-à-dire un outil à effet compensatoire, pour un coût de licence nul.",
+   "conditions": "Trois conditions apparaissent dans les deux synthèses : (1) le domaine — les mathématiques, où la séquence d'apprentissage est bien structurée, répondent nettement mieux que la lecture ; (2) l'adaptativité réelle au niveau, qui double l'effet ; (3) l'articulation avec l'enseignant, qui doit exploiter les données produites. Les auteurs d'Escueta et al. soulignent explicitement le besoin de recherche sur « how software interacts with teachers and current curriculum ».",
+   "contested": "Les effets les plus spectaculaires (+0,63 σ) proviennent d'études isolées sur des produits commerciaux spécifiques, avec des évaluations parfois conduites ou financées par les éditeurs ; le What Works Clearinghouse a d'ailleurs révisé à la baisse certaines estimations (Escueta et al. rapportent 0,29 σ pour Cognitive Tutor sur le test ETS, contre 0,23 σ après ajustement WWC). La méta-analyse de Major et al. porte exclusivement sur des pays à revenu faible et intermédiaire, où le contrefactuel (enseignement de base dégradé, classes surchargées) est bien plus favorable au logiciel que dans un système européen. L'effet global de 0,18 reste modeste. Enfin, la littérature est datée de 2017-2021 : les produits évalués ne sont plus ceux du marché actuel.",
+   "sources": [
+    {
+     "author": "Maya Escueta, Andre Joshua Nickow, Philip Oreopoulos, Vincent Quan",
+     "title": "Upgrading Education with Technology: Insights from Experimental Research",
+     "org": "Journal of Economic Literature",
+     "year": "2020",
+     "url": "https://doi.org/10.1257/jel.20191507"
+    },
+    {
+     "author": "Maya Escueta, Vincent Quan, Andre Joshua Nickow, Philip Oreopoulos",
+     "title": "Education Technology: An Evidence-Based Review",
+     "org": "National Bureau of Economic Research, Working Paper 23744",
+     "year": "2017",
+     "url": "https://www.nber.org/system/files/working_papers/w23744/w23744.pdf"
+    },
+    {
+     "author": "Louis Major, Gill A. Francis, Maria Tsapali",
+     "title": "The effectiveness of technology-supported personalised learning in low- and middle-income countries: A meta-analysis",
+     "org": "British Journal of Educational Technology",
+     "year": "2021",
+     "url": "https://doi.org/10.1111/bjet.13116"
+    }
+   ]
+  },
+  {
+   "claim": "Le premier essai randomisé de tutorat par grand modèle de langage conduit dans un système scolaire réel (Nigeria, Banque mondiale, 2024) rapporte +0,31 écart-type en six semaines — mais l'attrition différentielle entre groupes est massive et l'extrapolation à « deux ans d'apprentissage » est une projection linéaire, pas une mesure.",
+   "what_it_is": "Essai contrôlé randomisé d'un programme périscolaire de tutorat en anglais utilisant Microsoft Copilot (motorisé par GPT-4), avec accompagnement d'un enseignant qui guide sans enseigner directement.",
+   "evidence_level": "essai contrôlé randomisé (tirage au sort parmi les volontaires), six semaines, avec analyse dose-réponse en LATE",
+   "effect_size": "+0,31 σ sur l'évaluation finale composite (anglais, connaissance de l'IA, compétences numériques) ; +0,23 à +0,24 σ sur l'anglais, résultat principal ; +0,14 σ sur les compétences numériques ; +0,31 σ sur les compétences IA. Dose-réponse : environ +0,031 σ par jour de présence supplémentaire ; assiduité moyenne 72 %. Population : élèves de première année du secondaire supérieur, environ 15 ans, Benin City, Nigeria.",
+   "concrete_practice": "Après les cours, les élèves viennent par groupes d'environ 30 dans la salle informatique de leur établissement, travaillent en binôme sur un poste, et dialoguent avec le chatbot à partir d'activités alignées sur le programme national d'anglais. Un enseignant, formé trois jours, circule et guide sans faire cours. Deux séances de 1 h 30 par semaine, douze séances au total.",
+   "concrete_example": "Pilote conduit par la Banque mondiale avec l'État d'Edo (Nigeria), juin-juillet 2024, dans neuf écoles publiques de Benin City disposant d'une salle informatique. 52 % des élèves éligibles se sont portés volontaires dans une fenêtre de dix jours ; les participants ont été tirés au sort parmi eux : 657 assignés au traitement, 671 au contrôle. Internet fourni par routeurs et signal mobile, avec coupures de courant et d'internet fréquentes. Résultat mesuré à la fin des six semaines : +0,31 σ sur l'évaluation composite, +0,23 σ sur l'anglais. Les auteurs estiment un rapport coût-efficacité très favorable et projettent 1,2 à 2,2 σ pour une année scolaire complète selon l'assiduité.",
+   "conditions": "Le dispositif ajoute du temps d'apprentissage (périscolaire) : il ne compare pas l'IA à l'enseignant, mais « IA + temps supplémentaire + enseignant accompagnant » à « rien ». Il suppose une salle informatique, de la connectivité, un enseignant formé et présent, et un travail en binôme (qui introduit un effet de pair non isolé). Le contrefactuel nigérian — un enseignement d'anglais sous-doté — maximise l'effet mesurable.",
+   "contested": "Trois problèmes sérieux, à ne pas taire. (1) Attrition différentielle massive : sur 657 élèves assignés au traitement, 422 ont passé l'évaluation finale (36 % de perdus) ; sur 671 au contrôle, seulement 337 (50 % de perdus). Une telle asymétrie peut à elle seule produire l'effet mesuré. (2) Échantillon de volontaires (52 % des éligibles), ce qui limite la généralisation, même si les auteurs montrent une absence de sélection académique systématique. (3) L'annonce de « 1,5 à 2 ans d'apprentissage » et de « 1,2 à 2,2 σ pour une année complète » est une extrapolation linéaire de la relation dose-réponse observée sur six semaines, présentée comme telle par les auteurs mais reprise sans nuance dans la communication publique ; rien ne garantit que l'effet ne s'amortisse pas. (4) Aucun suivi de rétention à distance. Les auteurs reconnaissent eux-mêmes ne pas savoir « how student interactions with AI evolve » ni les « potential negative effects ».",
+   "sources": [
+    {
+     "author": "Martín De Simone, Federico Tiberti, Maria Barron Rodriguez, Federico Manolio, Wuraola Mosuro, Eliot Jolomi Dikoru",
+     "title": "From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria",
+     "org": "World Bank, Policy Research Working Paper 11125",
+     "year": "2025",
+     "url": "https://doi.org/10.1596/1813-9450-11125"
+    }
+   ]
+  },
+  {
+   "claim": "L'essai randomisé de Harvard sur un tuteur IA en physique rapporte un effet très élevé (0,63 à 1,3 écart-type) en moins de temps de travail — mais il porte sur 194 étudiants d'une université d'élite, deux leçons, deux semaines, sur des objectifs cognitifs de bas niveau, sans aucune mesure de rétention.",
+   "what_it_is": "Essai randomisé en plan croisé (crossover) comparant un tuteur IA conçu sur mesure, guidé par des principes pédagogiques explicites (découpage, rétroaction immédiate, pratique de récupération), à un cours en présentiel en pédagogie active — pas à un cours magistral.",
+   "evidence_level": "essai contrôlé randomisé en plan croisé, validé par comité d'éthique (Harvard IRB 23-0797), publié dans Scientific Reports",
+   "effect_size": "Score médian post-test 4,5 (groupe IA, N = 142) contre 3,5 (groupe présentiel actif, N = 174), pour un pré-test médian de 2,75 (N = 316) : gains médians plus du double. Régression linéaire contrôlée : 0,63 σ (p < 10⁻⁸), sous-estimation due à un effet plafond ; régression quantile : 0,73 à 1,3 σ. Temps de travail : médiane de 49 minutes pour le groupe IA contre 60 minutes de cours en présentiel ; 70 % des étudiants IA ont passé moins de 60 minutes. Engagement déclaré : 4,1 (ET 0,98) contre 3,6 (ET 0,92), t(311) = −4,5, p < 0,0001. Population : 194 étudiants éligibles sur 233 inscrits.",
+   "concrete_practice": "Sur deux semaines consécutives, chaque étudiant suit une leçon avec le tuteur IA à domicile et une leçon en classe en pédagogie active, avec le même contenu et la même fiche de travail, pré-test et post-test à chaque fois. Le tuteur IA est un système sur mesure avec ingénierie de prompt riche en contenu, pas un ChatGPT générique.",
+   "concrete_example": "Automne 2023, cours Physical Sciences 2 (physique introductive pour les sciences du vivant, le plus gros cours de physique de Harvard, 233 inscrits). Deux groupes randomisés, en respectant la contrainte que les étudiants travaillant habituellement ensemble restent dans le même groupe. Semaine 1 : groupe 1 avec le tuteur IA à domicile, groupe 2 en classe active (sujet : tension superficielle). Semaine 2 : conditions inversées (sujet : fluides). Résultat mesuré : les étudiants du groupe IA apprennent significativement plus, en moins de temps, et se déclarent plus engagés et plus motivés.",
+   "conditions": "Les auteurs sont explicites : le dispositif a été appliqué à des étudiants découvrant une matière, sur des objectifs de niveau « comprendre, appliquer, analyser » de la taxonomie de Bloom. Le tuteur a été conçu par les enseignants du cours eux-mêmes, à partir de leurs propres leçons. Les auteurs ne préconisent pas de remplacer le présentiel mais de libérer le temps de classe pour des activités de haut niveau cognitif.",
+   "contested": "Limites lourdes pour une transposition scolaire : (1) étudiants d'université d'élite, hautement autonomes, dans un cours déjà en pédagogie active (89 % des étudiants déclarent que ce cours utilise davantage la pédagogie active que les autres cours STEM) — la comparaison est donc avec un contrefactuel déjà exigeant, mais sur une population non représentative d'élèves du secondaire ; (2) deux leçons, deux semaines, aucun post-test différé : rien ne dit que l'avantage survit à un délai, et la littérature sur les effets d'entraînement suggère l'inverse ; (3) effet plafond au post-test, reconnu par les auteurs, qui les oblige à recourir à une régression quantile — l'intervalle 0,73-1,3 σ est donc large et dépendant du modèle ; (4) le tuteur a été développé sur mesure par des physiciens-pédagogues sur deux leçons précises, ce qui n'est pas réplicable à l'échelle d'un curriculum entier sans coût considérable ; (5) aucune réplication indépendante à ce jour. À titre de repère, la méta-analyse de référence sur le tutorat humain en préscolaire-secondaire (Nickow, Oreopoulos & Quan, AERJ 2023) donne un effet global de 0,288 σ sur des dizaines d'essais : annoncer qu'un tuteur IA fait deux à quatre fois mieux doit appeler la plus grande prudence.",
+   "sources": [
+    {
+     "author": "Greg Kestin, Kelly Miller, Anna Klales, Timothy Milbourne, Gregorio Ponti",
+     "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+     "org": "Scientific Reports, 15, 17458",
+     "year": "2025",
+     "url": "https://doi.org/10.1038/s41598-025-97652-6"
+    },
+    {
+     "author": "Andre Joshua Nickow, Philip Oreopoulos, Vincent Quan",
+     "title": "The Promise of Tutoring for PreK–12 Learning: A Systematic Review and Meta-Analysis of the Experimental Evidence",
+     "org": "American Educational Research Journal",
+     "year": "2023",
+     "url": "https://doi.org/10.3102/00028312231208687"
+    }
+   ]
+  },
+  {
+   "claim": "La contre-preuve la plus solide du champ : donner à des lycéens un accès non encadré à GPT-4 pendant qu'ils travaillent améliore spectaculairement leurs résultats sur le moment (+48 %) mais dégrade leur apprentissage réel — une fois l'outil retiré, ils font 17 % moins bien que ceux qui n'y ont jamais eu accès.",
+   "what_it_is": "Expérience de terrain randomisée dans un lycée, comparant deux interfaces de tuteur IA — l'une reproduisant ChatGPT standard (« GPT Base »), l'autre avec des prompts conçus pour protéger l'apprentissage (« GPT Tutor ») — et un groupe témoin sans accès, avec une évaluation finale réalisée sans outil.",
+   "evidence_level": "expérience de terrain randomisée sur près d'un millier de lycéens, publiée dans les Proceedings of the National Academy of Sciences",
+   "effect_size": "Pendant les séances avec accès : +48 % de note pour GPT Base, +127 % pour GPT Tutor. Après retrait de l'accès : −17 % de note pour GPT Base par rapport à ceux qui n'y ont jamais eu accès. Les effets négatifs sont « largement atténués » par les garde-fous de GPT Tutor. Population : environ 1 000 lycéens en mathématiques.",
+   "concrete_practice": "Pendant des séances de résolution d'exercices, une partie des élèves dispose d'une interface ChatGPT ordinaire, une autre d'une interface dont les prompts système interdisent de livrer la solution et imposent un guidage socratique. L'évaluation finale se fait sans outil, ce qui mesure l'apprentissage effectivement transféré.",
+   "concrete_example": "Expérience conduite par Hamsa Bastani et Osbert Bastani (University of Pennsylvania, Wharton) avec Alp Sungu, Haosen Ge, Özge Kabakcı et Rei Mariman, dans un lycée international, sur des séances d'exercices de mathématiques. Constat comportemental documenté : sans garde-fous, les élèves utilisent GPT-4 « as a crutch » — ils demandent la réponse plutôt que la méthode. Résultat mesuré : leur performance sur les exercices explose pendant les séances, puis s'effondre sous le niveau du groupe témoin dès qu'on leur retire l'outil. Conclusion des auteurs : « decision-makers must be cautious about design choices underlying generative AI deployments to preserve skill learning ».",
+   "conditions": "Tout tient à la conception de l'interface : la version avec garde-fous obtient à la fois la meilleure performance assistée et l'absence d'effet délétère. Une politique publique qui autoriserait l'usage d'assistants génériques en classe sans spécifier le comportement pédagogique attendu de l'outil produirait, selon ce résultat, un effet net négatif sur les apprentissages.",
+   "contested": "Une critique publiée du protocole existe (Tan, « Critique of Generative AI Can Harm Learning Study Design », SSRN 2024), portant sur le design de l'étude ; je n'ai pas pu en lire le contenu détaillé dans cette session et je signale son existence plutôt que d'en résumer les arguments. L'article a fait l'objet d'un erratum en août 2025, mais celui-ci ne porte que sur une affiliation d'auteur mal reproduite, sans incidence sur les résultats — il ne faut pas le présenter comme une remise en cause scientifique. Autres limites : un seul établissement, une seule matière, des effets exprimés en pourcentages de note et non en écarts-types, ce qui rend la comparaison avec les autres études difficile.",
+   "sources": [
+    {
+     "author": "Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman",
+     "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
+     "org": "Proceedings of the National Academy of Sciences, 122(26), e2422633122",
+     "year": "2025",
+     "url": "https://doi.org/10.1073/pnas.2422633122"
+    },
+    {
+     "author": "Correction",
+     "title": "Correction for Bastani et al., Generative AI without guardrails can harm learning (erratum d'affiliation uniquement)",
+     "org": "Proceedings of the National Academy of Sciences",
+     "year": "2025",
+     "url": "https://doi.org/10.1073/pnas.2518204122"
+    }
+   ]
+  },
+  {
+   "claim": "Le risque d'« illusion de compréhension » commence à être documenté expérimentalement : apprendre un sujet via une synthèse produite par un LLM plutôt que par une recherche web produit une connaissance plus superficielle, un conseil moins original et moins suivi — sur sept expériences totalisant plus de 10 000 participants.",
+   "what_it_is": "Série de sept expériences en ligne et en laboratoire comparant l'acquisition de connaissances sur un sujet via une synthèse de LLM et via une recherche web classique par liens, puis mesurant la profondeur de la connaissance acquise et la qualité du conseil formulé ensuite sur ce sujet.",
+   "evidence_level": "sept expériences randomisées (n = 10 462), publiées dans PNAS Nexus",
+   "effect_size": "Les participants ayant appris via des synthèses LLM déclarent développer une connaissance plus superficielle, se sentent moins investis dans le conseil qu'ils formulent, et produisent un conseil « sparser, less original, and ultimately less likely to be adopted by recipients ». L'effet persiste même lorsque les synthèses LLM sont augmentées de liens web en temps réel. Population : adultes, échantillons en ligne et en laboratoire.",
+   "concrete_practice": "Le mécanisme identifié n'est pas l'erreur du modèle mais sa forme : la synthèse dispense l'utilisateur de découvrir et d'agréger lui-même les sources, donc du travail cognitif qui produit la compréhension. Traduit en classe : un élève qui reçoit un résumé produit un texte correct mais n'a pas construit le savoir.",
+   "concrete_example": "Shiri Melumad et Jin Ho Yun (Wharton, University of Pennsylvania) confient à des participants la tâche d'apprendre un sujet (par exemple le jardinage) soit via ChatGPT, soit via une recherche Google classique par liens, puis de rédiger un conseil destiné à un tiers. Des évaluateurs indépendants jugent ensuite ces conseils, et des destinataires réels indiquent s'ils les suivraient. Résultat mesuré sur 10 462 participants : les conseils issus de l'apprentissage par LLM sont plus pauvres, moins originaux, et moins adoptés — y compris lorsque le LLM fournissait les liens sources.",
+   "conditions": "Le facteur causal est la substitution du travail de synthèse, pas la technologie en elle-même. Un dispositif pédagogique qui oblige l'élève à confronter des sources, à contredire la synthèse, ou à produire la synthèse lui-même avant de la comparer à celle du modèle, neutralise théoriquement le mécanisme — mais cela n'a pas été testé ici.",
+   "contested": "Ces expériences portent sur des adultes, sur des tâches courtes et sur des sujets généraux : rien ne garantit la transposition aux apprentissages scolaires cumulatifs. L'étude la plus médiatisée sur ce thème, « Your Brain on ChatGPT » (Kosmyna et al., MIT Media Lab, 2025), qui rapporte une connectivité cérébrale EEG plus faible chez les utilisateurs de LLM, est un préprint arXiv non passé par un comité de lecture, avec 54 participants aux sessions 1 à 3 et seulement 18 à la session 4 — c'est-à-dire une puissance trop faible pour soutenir les conclusions générales qui en ont été tirées dans la presse. Elle ne doit pas être citée comme une preuve établie.",
+   "sources": [
+    {
+     "author": "Shiri Melumad, Jin Ho Yun",
+     "title": "Experimental evidence of the effects of large language models versus web search on depth of learning",
+     "org": "PNAS Nexus",
+     "year": "2025",
+     "url": "https://doi.org/10.1093/pnasnexus/pgaf316"
+    },
+    {
+     "author": "Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes",
+     "title": "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task (préprint, non relu par les pairs)",
+     "org": "arXiv, MIT Media Lab",
+     "year": "2025",
+     "url": "https://arxiv.org/abs/2506.08872"
+    }
+   ]
+  },
+  {
+   "claim": "L'usage de l'IA le mieux documenté à ce jour n'est pas l'apprentissage des élèves mais l'allègement administratif des enseignants : sur 1 043 enseignants indiens, la préparation des fiches de leçon obligatoires est passée de 45-90 minutes à moins de 15 minutes — mais aucun effet sur les apprentissages n'a été mesuré.",
+   "what_it_is": "Déploiement à grande échelle d'un assistant IA de préparation de leçons, combinant grands modèles de langage et curation humaine, dans les écoles publiques d'un État indien, avec étude mixte (journaux d'usage, entretiens, évaluation qualité des contenus).",
+   "evidence_level": "étude mixte descriptive à grande échelle (1 043 enseignants, 23 curateurs), avec données de journalisation — PAS d'essai randomisé, PAS de mesure d'apprentissage des élèves",
+   "effect_size": "Temps de production des fiches de préparation obligatoires : de 45-90 minutes à moins de 15 minutes pour la plupart des enseignants. 87,6 % des enseignants accèdent à l'outil via leur smartphone. Baisse déclarée du stress lié à l'enseignement et déplacement vers une pédagogie par activités. Population : enseignants des écoles publiques du Karnataka, Inde.",
+   "concrete_practice": "Des curateurs experts co-produisent avec l'IA des fiches de leçon en anglais et en kannada, alignées sur le curriculum et au format administratif imposé (modèle 5E). Les enseignants récupèrent ces fiches curées et les personnalisent pour leur classe, avec l'aide de l'IA, depuis leur téléphone.",
+   "concrete_example": "Shiksha Copilot, développé par Microsoft Research India avec Cornell University, déployé dans les écoles publiques du Karnataka. Avant l'outil, les enseignants devaient soumettre à leur hiérarchie une documentation de préparation au format 5E imposé, tâche prenant 45 à 90 minutes ; beaucoup n'ayant pas d'ordinateur les rédigeaient à la main. Les fiches disponibles dans les réseaux de pairs ne respectaient pas le format, obligeant à tout réécrire. Après déploiement, la plupart des enseignants bouclent la tâche en moins de 15 minutes, depuis leur smartphone. Étude publiée dans les Proceedings of the ACM on Human-Computer Interaction (CSCW, 2026).",
+   "conditions": "Le gain mesuré porte sur une tâche bureaucratique standardisée et formatée — c'est exactement le type de tâche où l'IA générative excelle. Il suppose (1) que l'obligation administrative existe et soit formatée, (2) une curation humaine experte en amont, (3) un accès mobile. Les auteurs constatent que les contraintes systémiques — pénurie d'enseignants, charge administrative globale — ont limité le changement pédagogique plus large.",
+   "contested": "Trois réserves essentielles. (1) Aucun effet sur les apprentissages des élèves n'a été mesuré : gagner du temps de préparation ne démontre pas un meilleur enseignement. (2) Étude descriptive sans groupe de contrôle : les 45-90 minutes de référence sont déclaratives et rétrospectives. (3) Les traductions en kannada ont nécessité « extensive linguistic edits » — signal direct pour une communauté francophone : la qualité des contenus générés dans une langue autre que l'anglais reste inégale et exige une relecture experte, ce qui reporte une partie du coût. Je n'ai pas identifié, dans cette session, d'essai randomisé publié mesurant le temps de travail enseignant libéré par l'IA dans un système européen : cette absence doit être dite plutôt que comblée par des estimations de prestataires.",
+   "sources": [
+    {
+     "author": "Varuvel Dennison et al. (Microsoft Research India, Cornell University)",
+     "title": "Shiksha Copilot: Teacher-AI Collaboration for Curating and Customizing Lesson Plans in Low-Resource Schools",
+     "org": "Proceedings of the ACM on Human-Computer Interaction (CSCW), article CSCW038 / préprint arXiv 2507.00456",
+     "year": "2026",
+     "url": "https://arxiv.org/abs/2507.00456"
+    }
+   ]
+  },
+  {
+   "claim": "Le tuteur IA le plus médiatisé au monde, Khanmigo, ne dispose à ce jour d'aucun résultat d'évaluation randomisée publié : l'essai de référence est enregistré, en cours, et ses données ne sont pas publiques — toute décision d'achat public aujourd'hui se prend donc sans preuve d'efficacité.",
+   "what_it_is": "Essai contrôlé randomisé enregistré au registre de l'American Economic Association, évaluant l'usage quotidien de Khan Academy et de l'assistant IA Khanmigo dans des collèges américains, avec formation et accompagnement des enseignants.",
+   "evidence_level": "essai randomisé enregistré mais SANS résultats publiés à ce jour — niveau de preuve actuellement nul pour ce produit",
+   "effect_size": "Non disponible : aucune donnée publique. Le registre indique un statut « in development » et une fin d'étude au 30 juin 2026, avec une évaluation de suivi en deuxième année.",
+   "concrete_practice": "Des élèves de 6e à 8e année américaines (environ 11-14 ans) font 30 à 45 minutes quotidiennes de pratique assistée par ordinateur sur Khan Academy et Khanmigo pendant un créneau dédié dit « What I Need », en mathématiques et en anglais. Les enseignants sont formés et accompagnés par des coachs pour assurer la fidélité de mise en œuvre et l'engagement des élèves sur des objectifs d'apprentissage par maîtrise.",
+   "concrete_example": "Essai dirigé par Philip Oreopoulos (University of Toronto), enregistré au registre AEA sous la référence AEARCTR-0013519 : environ 22 établissements du Tennessee, 3 300 élèves en première année, 50 élèves relevant de soutien renforcé (Tiers 2 et 3) par niveau, sur 66 niveaux-classes. Intervention du 1er août 2024 au 31 mai 2025, fin d'étude prévue au 30 juin 2026. Résultat mesuré à ce jour : aucun — aucune donnée publique n'est disponible.",
+   "conditions": "Cet exemple illustre le décalage entre le cycle de décision publique (un an) et le cycle de la preuve (trois ans minimum, du préenregistrement à la publication). Une feuille de route qui veut s'appuyer sur des preuves doit prévoir soit d'attendre, soit d'évaluer elle-même en conditions contrôlées.",
+   "contested": "Aucune controverse scientifique — il n'y a rien à contester, précisément parce qu'il n'y a rien de publié. C'est le point : les affirmations de performance circulant sur ce produit proviennent de son éditeur et non d'une évaluation indépendante. J'ai cherché sans la trouver une évaluation randomisée publiée de Khanmigo ; je signale explicitement cette absence plutôt que de citer des chiffres promotionnels. Un second essai sur un tuteur IA est enregistré au même registre (AEARCTR-0016493, « AI Tutor and Student Outcomes », 2025), également sans résultats publiés.",
+   "sources": [
+    {
+     "author": "Philip Oreopoulos et al.",
+     "title": "AI-Powered Tutoring: Unleashing the Full Potential of Personalized Learning with Khanmigo (AEARCTR-0013519)",
+     "org": "AEA RCT Registry, American Economic Association",
+     "year": "2024",
+     "url": "https://doi.org/10.1257/rct.13519"
+    },
+    {
+     "author": "El Khoury et al.",
+     "title": "AI Tutor and Student Outcomes (AEARCTR-0016493)",
+     "org": "AEA RCT Registry, American Economic Association",
+     "year": "2025",
+     "url": "https://doi.org/10.1257/rct.16493"
+    }
+   ]
+  },
+  {
+   "claim": "Sur le terrain des sciences cognitives et de la santé, le levier le mieux étayé n'est ni l'écran ni l'IA mais l'horaire scolaire : retarder l'ouverture du secondaire d'environ une heure a produit +34 minutes de sommeil quotidien et +4,5 % sur les notes médianes — tandis que les interventions d'activité physique, très populaires, n'améliorent pas les résultats scolaires.",
+   "what_it_is": "D'une part, une étude avant-après avec mesure actigraphique objective du sommeil dans un district scolaire ayant retardé l'heure de début du secondaire ; d'autre part, une méta-analyse à trois niveaux de 92 essais randomisés d'interventions d'activité physique chez l'enfant.",
+   "evidence_level": "Horaires : quasi-expérimental avant-après avec mesure objective (actigraphie), publié dans Science Advances. Activité physique : méta-analyse multiniveaux de 92 essais randomisés, 25 334 enfants de 5 à 12 ans, avec évaluation de la certitude de la preuve.",
+   "effect_size": "Horaires scolaires : +34 minutes de durée médiane de sommeil quotidien, +4,5 % sur les notes médianes, amélioration de l'assiduité, après un retard de près d'une heure de l'heure de début. Activité physique : comportement centré sur la tâche g = 1,04 (IC 95 % 0,08-2,00 ; p = 0,03 ; certitude très faible) ; créativité g = 0,70 ; mémoire de travail g = 0,18 (IC 95 % 0,07-0,29 ; p = 0,01 ; certitude très faible) ; g = 0,16 (IC 95 % 0,02-0,30 ; p = 0,03 ; certitude modérée) ; AUCUN bénéfice global sur l'attention, le contrôle inhibiteur, la planification, la flexibilité cognitive, ni sur les résultats scolaires.",
+   "concrete_practice": "Pour les horaires : le district déplace l'heure de début du secondaire de près d'une heure plus tard, sans rien changer d'autre. Pour l'activité physique : programmes d'activité physique en classe, séances aérobies, activité physique intégrée à l'enseignement disciplinaire, de 6 à 10 semaines.",
+   "concrete_example": "Le district scolaire de Seattle a retardé de près d'une heure l'heure de début des établissements du secondaire. Gideon Dunster, Horacio de la Iglesia et leurs collègues (University of Washington) ont équipé les élèves d'actigraphes avant et après le changement, produisant la première mesure objective quantitative de l'effet d'une telle intervention unique. Résultat mesuré : la durée médiane de sommeil quotidien augmente de 34 minutes, les notes médianes de 4,5 %, l'assiduité s'améliore. À l'opposé, la méta-analyse de Vasilopoulos, Jeffrey, Wu & Dumontheil (Educational Psychology Review, 2023) sur 92 essais randomisés et 25 334 enfants ne détecte aucun bénéfice global des interventions d'activité physique sur les résultats scolaires — malgré des effets ciblés sur les mathématiques pour des programmes de 6 à 10 semaines d'intensité modérée à vigoureuse couplés à l'instruction académique.",
+   "conditions": "Le retard d'horaire fonctionne parce que l'heure du coucher des adolescents est déterminée par l'horloge circadienne et ne se décale pas : le gain est mécanique. Ses conditions de faisabilité sont entièrement logistiques (transport scolaire, activités périscolaires, horaires parentaux) et non pédagogiques. Pour l'activité physique, la méta-analyse montre que le type d'intervention détermine le résultat : activité physique couplée à l'instruction pour les mathématiques, aérobie modérée à vigoureuse pour les fonctions exécutives — le « faire bouger les enfants » indifférencié ne produit rien.",
+   "contested": "L'étude de Seattle est un devis avant-après sur deux établissements, sans groupe de contrôle randomisé : l'amélioration des notes peut refléter d'autres changements concomitants, et l'amélioration de l'assiduité n'a pas été observée dans les deux établissements de façon identique. L'hétérogénéité de la méta-analyse d'activité physique est élevée et la certitude de la preuve est qualifiée de « très faible » pour la majorité des effets rapportés, y compris les plus spectaculaires (g = 1,04, dont l'intervalle de confiance va de 0,08 à 2,00 — c'est-à-dire de négligeable à très grand). Aucun de ces deux résultats ne justifie une politique lourde sans évaluation locale.",
+   "sources": [
+    {
+     "author": "Gideon P. Dunster, Luciano de la Iglesia, Miriam Ben-Hamo, Claire Nave, Jason G. Fleischer, Satchidananda Panda, Horacio O. de la Iglesia",
+     "title": "Sleepmore in Seattle: Later school start times are associated with more sleep and better performance in high school students",
+     "org": "Science Advances",
+     "year": "2018",
+     "url": "https://doi.org/10.1126/sciadv.aau6200"
+    },
+    {
+     "author": "Fotini Vasilopoulos, Hannah Jeffrey, Yanwen Wu, Iroise Dumontheil",
+     "title": "Multi-Level Meta-Analysis of Physical Activity Interventions During Childhood: Effects of Physical Activity on Cognition and Academic Achievement",
+     "org": "Educational Psychology Review",
+     "year": "2023",
+     "url": "https://doi.org/10.1007/s10648-023-09760-2"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose difficilement, et pourquoi. (1) Les effets les plus spectaculaires du tutorat IA viennent de contextes où le contrefactuel est faible : le +0,31 σ nigérian mesure « IA + temps périscolaire supplémentaire + enseignant accompagnant » contre « rien », dans un système à ressources très basses ; en FWB, où l'élève reçoit déjà un enseignement d'un enseignant qualifié, l'effet marginal attendu est mécaniquement plus faible. De même, la méta-analyse de Major, Francis & Tsapali (+0,18, +0,35 si adaptatif) porte exclusivement sur des pays à revenu faible et intermédiaire. Aucune de ces tailles d'effet ne doit être reprise telle quelle dans une note wallonne. (2) À l'inverse, l'essai de Kestin (0,63-1,3 σ) vient d'une université d'élite américaine, avec un tuteur conçu sur mesure par les enseignants du cours pour deux leçons : il ne dit rien d'un déploiement à l'échelle de 2 600 écoles et n'est pas transposable au secondaire ordinaire sans réplication. (3) Les résultats d'Abrahamsson reposent sur des registres administratifs individuels chaînés (santé, scolarité, harcèlement) que la Norvège possède et que la FWB ne possède pas au même niveau : ce type d'identification causale n'est pas reproductible ici sans investissement préalable dans l'infrastructure de données — ce qui est en soi une recommandation. (4) La contrainte de gouvernance partagée entre réseaux et la liberté d'enseignement constitutionnelle rendent inapplicable le modèle d'interdiction nationale uniforme à la française ou à la néerlandaise ; mais elles sont compatibles avec ce que la preuve désigne comme le facteur décisif — l'application effective au niveau de l'établissement (Rau, IDB 2025), qui relève précisément de l'autonomie des pouvoirs organisateurs. Une norme-cadre fixant l'objectif (téléphone non accessible pendant la journée) et laissant le dispositif au PO est la forme la plus cohérente à la fois avec la preuve et avec le droit belge. (5) Sous contrainte budgétaire forte (déficit de 1,5 Md EUR, enseignement à 54 % des dépenses), le classement coût-efficacité est clair et va à l'encontre de l'intuition : l'équipement matériel massif est la dépense dont l'inefficacité est la mieux établie (OLPC, 318 puis 531 écoles, 10 ans de suivi, aucun effet) ; les logiciels adaptatifs en mathématiques à licence gratuite ou faible (type ASSISTments, +0,18 σ et +0,29 σ pour les élèves sous la médiane) sont le meilleur rapport preuve/coût disponible et présentent un profil compensatoire cohérent avec un écart social de 92 points PISA ; l'allègement administratif par IA est le gain le plus plausible à court terme mais n'a aucune preuve d'effet sur les apprentissages et suppose une relecture experte des contenus en français — coût que le cas kannada de Shiksha Copilot documente explicitement. (6) Enfin, ce qu'une feuille de route peut raisonnablement inscrire aujourd'hui sans surpromettre : une règle d'inaccessibilité du téléphone appliquée au niveau de l'établissement, justifiée par la réduction documentée de la distraction et non par une promesse de gain de score ; un déploiement limité de logiciels adaptatifs en mathématiques assorti d'une évaluation contrôlée locale ; une interdiction explicite des assistants génériques sans garde-fous pédagogiques en situation d'apprentissage (Bastani et al., PNAS 2025 : −17 % après retrait) ; un investissement dans les données administratives chaînées permettant enfin d'évaluer causalement ses propres réformes ; et l'inscription au programme de travail de deux questions non résolues — le tutorat IA en conditions scolaires européennes, et le temps enseignant réellement libéré par l'IA — sous forme d'essais contrôlés commandités, et non de généralisations."
+}

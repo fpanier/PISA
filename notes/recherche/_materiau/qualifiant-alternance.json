@@ -1,0 +1,485 @@
+{
+ "topic": "Enseignement qualifiant, alternance et lien avec le monde du travail",
+ "headline": "L'alternance duale achète une entrée rapide dans l'emploi au prix d'une adaptabilité moindre en fin de carrière, et elle ne fonctionne que si les entreprises formatrices y trouvent un intérêt économique mesuré, si la gouvernance est paritaire et si le contenu général et la perméabilité vers le supérieur sont préservés — conditions qui expliquent pourquoi la plupart des transpositions (Espagne, France, Royaume-Uni) produisent du volume subventionné plutôt qu'un système dual.",
+ "searches_run": 37,
+ "items": [
+  {
+   "claim": "L'avantage d'employabilité de la formation professionnelle sur la formation générale s'érode avec l'âge et s'inverse autour de 45-50 ans ; l'effet est le plus marqué dans les pays d'apprentissage (Allemagne, Danemark, Suisse).",
+   "what_it_is": "Test du compromis entre insertion immédiate et obsolescence des compétences spécifiques : comparaison des taux d'emploi par âge entre diplômés de filières générales et professionnelles, en différences de différences (l'identification repose sur l'interaction éducation générale x âge, et non sur le niveau moyen).",
+   "evidence_level": "quasi-expérimental (différences de différences sur microdonnées internationales, complété par une variation exogène de fermetures d'établissements en Autriche)",
+   "effect_size": "Sur 11 pays IALS, hommes ayant au moins le secondaire : les diplômés du général sont initialement (référence 16 ans) 6,9 points de pourcentage MOINS souvent en emploi, mais l'écart se referme de 2,1 points tous les dix ans ; croisement vers 49 ans. Sur le Microcensus allemand : -13,6 points initialement, croisement à 43 ans, +11,5 points en faveur du général à 65 ans. Dans les trois pays d'apprentissage, l'avantage du général est significatif sur toute la tranche 41-65 ans.",
+   "concrete_practice": "Ce résultat ne décrit pas un dispositif mais contraint la conception des filières : il plaide pour maintenir un socle général (langue, mathématiques, numérique) dans le qualifiant, pour organiser des passerelles vers le supérieur, et pour prévoir dès la formation initiale des droits à la reconversion, plutôt que de maximiser la spécialisation précoce.",
+   "concrete_example": "Volet autrichien de l'étude : les auteurs exploitent les données administratives de fermetures d'établissements. Parmi les travailleurs déplacés par une fermeture, les ouvriers (majoritairement issus de l'apprentissage) retrouvent un emploi plus souvent que les employés aux jeunes âges, mais moins souvent après 50 ans — l'écart relatif se dégrade en moyenne de 0,7 point de pourcentage par année d'âge au moment du licenciement. Le choc étant exogène, l'explication par une préférence pour la retraite anticipée est écartée. Le volet allemand (Microcensus, échantillon au 1 % des ménages) reproduit le résultat À L'INTÉRIEUR des groupes professionnels et après exclusion des métiers physiquement exigeants : ce n'est donc pas l'usure du corps mais l'obsolescence des compétences.",
+   "conditions": "Le résultat vaut pour des hommes ayant au moins achevé le secondaire, dans des économies à changement technologique soutenu. Les auteurs notent que l'équilibre gains précoces / pertes tardives dépend du rythme de transformation de l'économie : il resterait favorable à la voie professionnelle en Suisse (croissance lente sur 1970-2000) mais défavorable en Allemagne et au Danemark (croissance plus rapide). La portée pratique dépend aussi de l'existence d'une formation continue accessible après 40 ans.",
+   "contested": "Fortement contesté sur trois points. (1) Les données IALS datent de 1994-1998 : la génération observée a été formée dans les années 1960-1970. (2) Korber & Oesch (2019) ne retrouvent AUCUN renversement d'emploi en Suisse sur données 1991-2015 (voir élément suivant). (3) Les auteurs reconnaissent eux-mêmes que « l'estimation des âges de croisement est assez imprécise et varie selon les spécifications » et que des concerns d'identification subsistent sur l'avantage initial. Malamud & Pop-Eleches (2010) suggèrent que les écarts transversaux entre filières relèvent largement de la sélection. Enfin, l'analyse porte sur l'emploi, pas sur les revenus : les auteurs indiquent que le croisement en revenus intervient bien plus tôt, ce qui rend le résultat plus sévère encore pour l'alternance, mais ce point est moins documenté.",
+   "sources": [
+    {
+     "author": "Eric A. Hanushek, Guido Schwerdt, Ludger Woessmann, Lei Zhang",
+     "org": "Journal of Human Resources",
+     "title": "General Education, Vocational Education, and Labor-Market Outcomes over the Lifecycle",
+     "url": "https://hanushek.stanford.edu/sites/default/files/publications/Hanushek%2BSchwerdt%2BWoessmann%2BZhang%202017%20JHR%2052(1)_0.pdf",
+     "year": "2017"
+    },
+    {
+     "author": "Eric A. Hanushek, Guido Schwerdt, Ludger Woessmann, Lei Zhang",
+     "org": "NBER",
+     "title": "General Education, Vocational Education, and Labor-Market Outcomes over the Life-Cycle (NBER Working Paper 17504)",
+     "url": "https://www.nber.org/papers/w17504",
+     "year": "2011"
+    },
+    {
+     "author": "Franziska Hampf, Ludger Woessmann",
+     "org": "CESifo Economic Studies 63(3)",
+     "title": "Vocational vs. General Education and Employment over the Life Cycle: New Evidence from PIAAC",
+     "url": "https://ideas.repec.org/a/oup/cesifo/v63y2017i3p255-269..html",
+     "year": "2017"
+    }
+   ]
+  },
+  {
+   "claim": "La contre-épreuve suisse invalide partiellement le renversement : l'emploi des diplômés du professionnel ne décroche pas en fin de carrière, mais leur courbe de salaire est plate — le prix payé est pécuniaire, pas seulement en employabilité.",
+   "what_it_is": "Réplication du test cycle de vie sur le pays de l'OCDE où la part des jeunes en formation professionnelle est la plus élevée, avec un design de cohorte de naissance (plutôt qu'une comparaison transversale par âge) sur deux sources indépendantes.",
+   "evidence_level": "quasi-expérimental faible / corrélationnel multivarié (design de cohorte, modèles de probabilité linéaire avec contrôles, sans instrument)",
+   "effect_size": "Cohorte née 1954-1966. Emploi : les hommes du professionnel dépassent ceux du général de 20 points de pourcentage à 25 ans ; l'avantage disparaît vers 33 ans (cohorte 1967-79) et il n'y a PAS d'inversion significative ensuite. Chômage : l'écart oscille entre +3 et -2 points et n'est jamais significatif à aucun âge. Salaires : à 40 ans, les titulaires d'un diplôme général gagnent 12 % (hommes) à 13 % (femmes) de plus par heure que les titulaires d'un diplôme professionnel.",
+   "concrete_practice": "Implication de pilotage : mesurer la réussite du qualifiant non pas au seul taux d'insertion à 6 ou 18 mois, mais aux trajectoires salariales à 10-20 ans et à l'accès effectif à la formation continue et à la promotion interne.",
+   "concrete_example": "Les auteurs utilisent l'Enquête suisse sur la population active (SLFS) 1991-2014 et le Panel suisse de ménages (SHP) 1999-2015, en suivant la cohorte 1954-1966 des âges 25 à 60 ans. À 30 ans déjà, le revenu horaire médian des titulaires d'un CFC (Certificat fédéral de capacité, voie duale) est dépassé par celui des titulaires d'une maturité gymnasiale, et la courbe de revenu des premiers devient « presque aussi plate que celle des personnes sans formation post-obligatoire ». Contexte : 60 % d'une cohorte suisse entre en apprentissage dual en entreprise et 6 % en formation professionnelle à plein temps en école.",
+   "conditions": "Transférable seulement à un marché du travail à chômage très bas, à forte rétention en entreprise et à formation continue en entreprise développée. Les auteurs insistent sur le fait qu'en Suisse les perspectives d'emploi de la voie professionnelle ne se sont pas dégradées d'une cohorte à l'autre.",
+   "contested": "Le désaccord avec Hanushek et al. n'est pas résolu : les deux équipes mesurent la même chose sur le même pays avec des données et des designs différents et trouvent des résultats opposés sur l'emploi. Korber & Oesch n'ont pas d'instrument et ne peuvent pas exclure que la sélection (les meilleurs élèves vont au gymnase) explique l'écart de salaire. Leur résultat sur les femmes est plus défavorable encore à la voie professionnelle. Le désavantage salarial est robuste sur les deux sources mais les intervalles de confiance du SHP sont larges.",
+   "sources": [
+    {
+     "author": "Maïlys Korber, Daniel Oesch",
+     "org": "Advances in Life Course Research, vol. 40",
+     "title": "Vocational versus general education: Employment and earnings over the life course in Switzerland",
+     "url": "https://people.unil.ch/danieloesch/files/2019/04/Korber_Oesch_2019_Vocational_versus_general_education_over_the_life_course.pdf",
+     "year": "2019"
+    },
+    {
+     "author": "Maïlys Korber, Daniel Oesch",
+     "org": "LIVES Working Paper 57, Université de Lausanne",
+     "title": "Vocational versus general education: Employment and earnings over the life course in Switzerland",
+     "url": "https://www.centre-lives.ch/sites/default/files/2020-11/lives_wp_57_korber_oesch_2016_0.pdf",
+     "year": "2016"
+    }
+   ]
+  },
+  {
+   "claim": "Une grande partie de l'écart observé entre diplômés du qualifiant et du général relève de la sélection et non de la filière : quand on neutralise la sélection, les différences d'emploi et de salaire s'effondrent.",
+   "what_it_is": "Deux stratégies d'identification indépendantes : une discontinuité de régression exploitant une réforme qui a déplacé massivement des élèves du professionnel vers le général, et une variable instrumentale exploitant la faillite d'entreprises formatrices.",
+   "evidence_level": "quasi-expérimental (régression sur discontinuité ; variable instrumentale)",
+   "effect_size": "Roumanie, réforme de 1973 : les cohortes affectées sont significativement moins souvent employées dans des métiers manuels ou artisanaux, mais AUCUNE différence significative sur le chômage, le non-emploi, le revenu familial et les salaires (recensements 1992 et 2002, enquêtes ménages 1995-2000). Autriche : les rendements estimés par variable instrumentale sont « similaires ou supérieurs » aux rendements MCO, ce qui indique peu de sélection dans ce contexte — la valeur numérique exacte du rendement par année d'apprentissage n'a pas pu être vérifiée sur la source primaire consultée.",
+   "concrete_practice": "Conséquence pour AKT et pour la FWB : tout indicateur de type « X % des diplômés du qualifiant sont en emploi à 18 mois » ne dit rien de l'effet propre de la filière tant qu'il n'est pas comparé à un contrefactuel crédible. Les évaluations doivent utiliser des appariements sur données administratives (Banque Carrefour de la Sécurité Sociale) plutôt que des enquêtes de satisfaction post-diplôme.",
+   "concrete_example": "Roumanie, réforme de 1973 : le gouvernement Ceausescu a brutalement réorienté une large fraction d'une cohorte des écoles professionnelles vers les lycées généraux. Malamud (Chicago) et Pop-Eleches (Columbia) comparent les cohortes de part et d'autre du seuil d'application. Vingt à trente ans plus tard, les cohortes « poussées vers le général » travaillent moins souvent comme ouvriers qualifiés mais gagnent autant et ne sont pas plus au chômage. Conclusion des auteurs : les écarts transversaux habituellement attribués à la filière sont « largement une conséquence de la sélection ».",
+   "conditions": "La Roumanie de 1973-2002 est une économie planifiée puis en transition : la transférabilité à une économie de marché ouverte est limitée et les auteurs le reconnaissent. Le résultat autrichien, à l'inverse, vaut pour des apprentis de PME dans un marché dual mature.",
+   "contested": "Les deux études pointent dans des directions partiellement opposées sur l'ampleur de la sélection (forte en Roumanie, faible en Autriche), ce qui suggère que la sélection dépend du prestige de la filière : là où l'apprentissage est valorisé (Autriche, Suisse), il recrute large et la sélection est faible ; là où il est une voie de relégation, la sélection domine — ce qui est précisément la situation documentée en FWB. Le design roumain est sensible au choix de la fenêtre autour de la discontinuité.",
+   "sources": [
+    {
+     "author": "Ofer Malamud, Cristian Pop-Eleches",
+     "org": "Review of Economics and Statistics 92(1)",
+     "title": "General Education versus Vocational Training: Evidence from an Economy in Transition",
+     "url": "https://www.columbia.edu/~cp2124/papers/VocRomania_RESTAT_article.pdf",
+     "year": "2010"
+    },
+    {
+     "author": "Josef Fersterer, Jörn-Steffen Pischke, Rudolf Winter-Ebmer",
+     "org": "Scandinavian Journal of Economics 110(4)",
+     "title": "Returns to Apprenticeship Training in Austria: Evidence from Failed Firms",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9442.2008.00559.x",
+     "year": "2008"
+    }
+   ]
+  },
+  {
+   "claim": "Le système dual suisse tient parce qu'il est rentable pour l'entreprise formatrice pendant la formation elle-même : plus de 70 % des contrats d'apprentissage dégagent un bénéfice net pour l'entreprise, sans subvention à l'embauche.",
+   "what_it_is": "Enquête coûts-bénéfices récurrente auprès d'un large échantillon d'entreprises formatrices et non formatrices : coûts bruts (salaire de l'apprenti, temps des formateurs, infrastructure) contre contribution productive de l'apprenti.",
+   "evidence_level": "descriptif quantitatif rigoureux (enquête d'échantillon représentative, comptabilité analytique standardisée) — pas d'identification causale",
+   "effect_size": "Année de formation 2022/23 : bénéfice net moyen d'environ 4 500 CHF par année d'apprentissage et par contrat. Plus de 70 % des contrats dégagent un bénéfice net ; environ 30 % sont à perte pendant la formation. Sur la durée totale : +9 630 CHF pour un AFP de 2 ans, +13 940 CHF pour un CFC de 3 ans, +17 510 CHF pour un CFC de 4 ans. Les apprentissages avec maturité professionnelle rapportent environ 3 000 CHF de moins mais restent positifs.",
+   "concrete_practice": "L'entreprise ne « sponsorise » pas l'apprenti : elle l'emploie. Le modèle repose sur (a) un salaire d'apprenti très inférieur au salaire d'entrée d'un qualifié, (b) une montée en productivité rapide dès la 2e année, (c) la possibilité pour l'entreprise de choisir son apprenti, (d) des ordonnances de formation écrites par les branches, donc une productivité effectivement utilisable.",
+   "concrete_example": "Cinquième enquête coûts-bénéfices de la Haute école fédérale en formation professionnelle (EHB/HEFP), publiée en novembre 2025 : 6 686 entreprises formatrices et 3 655 entreprises non formatrices interrogées (taux de réponse 39 % et 31 %), année de référence 2022/23. Exemple métier par métier : pour un employé de commerce CFC, les coûts bruts sur la formation sont de 89 820 CHF et les prestations productives de l'apprenti de 102 570 CHF, soit un bénéfice net de 12 750 CHF. Pour un assistant socio-éducatif CFC : 66 860 CHF de coûts bruts, 89 260 CHF de prestations productives, soit 22 400 CHF de bénéfice net sur trois ans. L'enquête mesure pour la première fois la qualité de la formation : plus de 60 % des entreprises offrent une qualité satisfaisante à bonne, 25 % une qualité excellente, 15 % se situent sous la moyenne sur toutes les dimensions.",
+   "conditions": "Trois conditions institutionnelles rendent cette rentabilité possible et ne sont pas réunies partout : salaires d'apprentis bas et négociés par branche ; ordonnances de formation conçues par les organisations du monde du travail, donc alignées sur la production réelle ; durée de 3-4 ans permettant d'amortir l'investissement initial. Là où le droit du travail impose un salaire proche du minimum légal ou une durée courte, le calcul s'inverse (cas allemand : la majorité des entreprises formatrices sont en coût net, compensé par la rétention post-formation).",
+   "contested": "Le bénéfice net moyen masque une dispersion très forte : environ 30 % des contrats sont à perte, et les métiers à haute technicité (informatique, polymécanique) le sont structurellement. Hanushek et al. rapportent, citant Wolter & Ryan (2011), qu'en Suisse 60 % des entreprises formatrices dégagent un bénéfice net alors qu'en Allemagne 93 % supportent un coût net — le modèle suisse n'est donc PAS le modèle allemand, et l'argument « l'alternance est gratuite pour l'entreprise » n'est valable que sous des conditions salariales et réglementaires précises. L'enquête est déclarative et repose sur l'auto-évaluation du temps des formateurs, ce qui peut sous-estimer les coûts.",
+   "sources": [
+    {
+     "author": "Anna Gehret, Andreas Kuhn, Jürg Schweri",
+     "org": "Eidgenössische Hochschule für Berufsbildung EHB / HEFP",
+     "title": "Lohnt sich die Ausbildung von Lernenden? Kosten, Nutzen und Ausbildungsqualität aus Sicht der Betriebe 2025",
+     "url": "https://www.ehb.swiss/forschung/kosten-nutzen-erhebung/2025",
+     "year": "2025"
+    },
+    {
+     "org": "EHB / HEFP",
+     "title": "Lehrbetriebe investieren in ihren Nachwuchs (communiqué de résultats, 5e enquête coûts-bénéfices)",
+     "url": "https://www.ehb.swiss/news/lehrbetriebe-investieren-ihren-nachwuchs",
+     "year": "2025"
+    },
+    {
+     "author": "Anna Gehret, Manuel Aepli, Andreas Kuhn, Jürg Schweri",
+     "org": "EHB",
+     "title": "Lohnt sich die Lehrlingsausbildung für die Betriebe? Resultate der vierten Kosten-Nutzen-Erhebung",
+     "url": "https://www.ehb.swiss/forschung/obs/kosten-nutzen-berufsbildung-2019",
+     "year": "2019"
+    }
+   ]
+  },
+  {
+   "claim": "La perméabilité vers le supérieur est ce qui empêche la filière duale d'être une impasse — mais en Suisse même elle reste minoritaire et très concentrée sur quelques métiers.",
+   "what_it_is": "La maturité professionnelle (Berufsmaturität) est un complément de formation générale, suivi pendant l'apprentissage (BM1) ou après (BM2), qui ouvre l'accès sans examen aux hautes écoles spécialisées.",
+   "evidence_level": "descriptif sur données administratives de cohorte (suivi longitudinal de la cohorte des diplômés CFC 2012 jusqu'en 2017)",
+   "effect_size": "Sur les ~55 000 jeunes ayant obtenu un CFC en 2012 : 13 % ont obtenu une BM1 pendant l'apprentissage et 10 % une BM2 dans les cinq ans, soit 23 % au total. Deux tiers des titulaires d'une maturité professionnelle entrent ensuite dans une haute école. Taux de réussite des filières BM jusqu'en 2017 : 68 % pour la BM1, 84 % pour la BM2. 35 % des entrées en haute école s'accompagnent d'un changement de domaine par rapport à la formation professionnelle initiale. Environ 14 500 maturités professionnelles délivrées par an.",
+   "concrete_practice": "Concrètement, l'apprenti suit une journée de cours supplémentaire par semaine (BM1) ou une année à plein temps après le CFC (BM2), avec un programme de langues, mathématiques et sciences sociales évalué par un examen fédéral. L'entreprise formatrice doit accepter de libérer l'apprenti.",
+   "concrete_example": "Rapport de tendance n° 4 de l'Observatoire de la formation professionnelle de la HEFP/EHB sur la maturité professionnelle : suivi de la cohorte complète des 55 000 diplômés CFC de 2012. Le rapport montre que les titulaires de BM se concentrent sur un très petit nombre de métiers — trois quarts des BM1 sont délivrées dans seulement 8 des quelque 230 métiers, et les BM2 dans 15 métiers. Les employés de commerce représentent environ 20 % des apprentis CFC mais 40 % des titulaires de BM. Entre 2014 et 2023, la BM1 (intégrée à l'apprentissage) a reculé de 13 % tandis que la BM2 (après l'apprentissage) a progressé de 12,5 % malgré le recul démographique.",
+   "conditions": "La BM1 dépend entièrement de la disponibilité des entreprises à former des apprentis en maturité professionnelle : l'enquête coûts-bénéfices 2025 montre que ces contrats rapportent environ 3 000 CHF de moins à l'entreprise. Le système tient parce que les entreprises concernées se déclarent néanmoins aussi satisfaites du rapport coût-bénéfice que les autres. Sans ce consentement patronal, la perméabilité s'effondre — c'est un point directement actionnable pour une fédération patronale.",
+   "contested": "La perméabilité reste minoritaire (23 %) et socialement filtrée : les apprentis en BM viennent des formations scolairement les plus exigeantes et présentent une confiance en soi et une motivation supérieures à la moyenne, ce qui rend l'effet propre de la BM difficile à isoler des caractéristiques individuelles. Le recul de la BM1 sur dix ans suggère que l'articulation apprentissage + formation générale exigeante est fragile même dans le pays qui l'a le mieux institutionnalisée. Aucune évaluation contrefactuelle du rendement de la BM n'a été identifiée.",
+   "sources": [
+    {
+     "org": "Eidgenössische Hochschule für Berufsbildung EHB / Observatorium OBS",
+     "title": "Trendbericht 4: Berufsmaturität",
+     "url": "https://www.ehb.swiss/sites/default/files/trendbericht_4_de_v1-web.pdf",
+     "year": "2021"
+    },
+    {
+     "org": "EHB / HEFP",
+     "title": "Trend im Fokus: Berufsmaturität",
+     "url": "https://www.ehb.swiss/forschung/obs/trend-im-fokus-berufsmaturitaet",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "La gouvernance paritaire par métier — et non le pilotage administratif — est le mécanisme qui aligne les référentiels sur la production réelle ; son prix est la lenteur.",
+   "what_it_is": "En Allemagne, les référentiels de formation (Ausbildungsordnungen) sont élaborés par le BIBB avec les experts désignés par les organisations patronales et syndicales, selon un principe de consensus : sans accord des faîtières, le règlement n'est pas promulgué.",
+   "evidence_level": "descriptif institutionnel (documentation officielle de l'agence fédérale compétente) — aucune évaluation d'impact identifiée",
+   "effect_size": "non disponible : aucune étude n'isole l'effet causal du mode de gouvernance sur la qualité des référentiels. Données de structure : 328 métiers reconnus au répertoire 2024 ; durée type d'une procédure de rénovation d'environ deux ans jusqu'à l'entrée en vigueur, dont environ douze mois entre la saisine du BIBB et la séance commune, avec quatre à cinq réunions d'experts de deux jours.",
+   "concrete_practice": "Une branche constate une évolution technologique ; les faîtières (côté employeurs le Kuratorium der Deutschen Wirtschaft für Berufsbildung, côté syndical le DGB) déposent une demande conjointe ; les ministères fédéraux compétents donnent mandat au BIBB ; des experts désignés par les partenaires sociaux réécrivent le profil et le plan-cadre ; le texte ne sort que si les deux faîtières approuvent.",
+   "concrete_example": "Le répertoire officiel des métiers reconnus publié par le BIBB recense 328 métiers de formation en 2024, couvrant l'industrie, l'artisanat, la fonction publique, l'économie domestique, l'agriculture, la navigation maritime et les professions libérales. Le BIBB documente publiquement la procédure : le « Konsensprinzip » y est décrit comme « la base essentielle de la coopération de tous les participants », garantissant que le métier rénové sera soutenu par tous les acteurs — donc que les entreprises formeront effectivement selon le nouveau référentiel. Les rénovations de métiers sont publiées annuellement, avec une liste des métiers nouveaux ou modernisés par année.",
+   "conditions": "Suppose des organisations patronales et syndicales structurées par branche, légitimes et capables de désigner des experts techniques ; suppose aussi que l'État accepte de ne pas trancher. Dans un système où l'employeur n'a pas d'organisation de branche outillée, la « gouvernance paritaire » se réduit à une consultation formelle.",
+   "contested": "Le principe de consensus est aussi un droit de veto : la procédure prend environ deux ans, ce qui est incompatible avec des cycles technologiques courts, et une branche divisée peut bloquer la modernisation d'un métier. Aucune évaluation causale ne démontre que ce mode de gouvernance produit de meilleurs résultats d'insertion que des référentiels rédigés par l'administration. La documentation disponible est produite par l'institution elle-même, ce qui limite son statut probant.",
+   "sources": [
+    {
+     "org": "Bundesinstitut für Berufsbildung (BIBB)",
+     "title": "Verzeichnis der anerkannten Ausbildungsberufe 2024",
+     "url": "https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/regulation/ab2_1_verzeichnis_2024.pdf",
+     "year": "2024"
+    },
+    {
+     "org": "BIBB",
+     "title": "Wie eine Ausbildungsordnung entsteht",
+     "url": "https://www.bibb.de/de/136147.php",
+     "year": "2024"
+    },
+    {
+     "org": "BIBB",
+     "title": "Akteure im Ordnungsverfahren",
+     "url": "https://www.bibb.de/de/170105.php",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "L'engagement des entreprises n'est pas un acquis : en Allemagne, la proportion d'entreprises formatrices tombe sous 19 % et le marché de l'apprentissage souffre simultanément de places vacantes et de jeunes non placés.",
+   "what_it_is": "Suivi statistique annuel du marché de l'apprentissage allemand : nombre d'entreprises formatrices, taux d'entreprises formatrices (part des établissements habilités qui forment effectivement), places non pourvues, candidats non placés, ruptures de contrat.",
+   "evidence_level": "descriptif sur données administratives exhaustives (statistique fédérale de la formation professionnelle, enquête BIBB au 30 septembre)",
+   "effect_size": "402 800 entreprises formatrices en 2023, en baisse de 5 900 (-1,4 %) sur un an ; taux d'entreprises formatrices de 18,8 % (18,9 % en 2022), le recul venant des micro et petites entreprises. En 2024 : 69 400 places d'apprentissage non pourvues (12,8 % de l'offre des entreprises, contre 13,4 % en 2023) et simultanément 70 400 jeunes toujours sans place au 30 septembre, soit 12,6 % de la demande non satisfaite. Taux de rupture de contrat de 29,7 % en 2023 (29,5 % en 2022).",
+   "concrete_practice": "Le problème n'est pas le volume global mais l'appariement : les places vacantes et les candidats non placés coexistent géographiquement et sectoriellement (« Passungsprobleme »). Les leviers testés portent sur la mobilité, les stages d'orientation préalables, et l'accompagnement des petites entreprises dans la fonction tutorale.",
+   "concrete_example": "Bilan du marché de l'apprentissage 2024 publié par le BIBB : au 30 septembre 2024, 69 400 places restent vacantes — première baisse depuis 2019 — tandis que 70 400 jeunes maintiennent leur demande de placement. Le BIBB souligne explicitement que le taux de rupture de 29,7 % « n'est pas un taux d'abandon », beaucoup d'apprentis signant ensuite un nouveau contrat dans le système dual ; mais la statistique ne permet pas de distinguer les deux, ce qui est en soi un défaut de pilotage.",
+   "conditions": "Le retrait des micro-entreprises est la variable critique : ce sont elles qui portent le gros de l'offre en nombre d'établissements. Les facteurs identifiés sont le coût de la fonction tutorale, l'incertitude économique et la difficulté à recruter des candidats jugés « formables ».",
+   "contested": "Le taux de rupture de 29,7 % est l'objet d'une controverse publique en Allemagne : présenté par certains comme un record d'abandons, il est défendu par le BIBB comme un indicateur de mobilité entre entreprises et non d'échec. Les deux lectures s'appuient sur la même statistique ; aucune source consultée ne fournit un taux d'abandon définitif du système dual, ce qui est une lacune sérieuse pour quiconque veut comparer la rétention du dual à celle du qualifiant scolaire.",
+   "sources": [
+    {
+     "org": "Bundesinstitut für Berufsbildung (BIBB)",
+     "title": "Die Entwicklung des Ausbildungsmarktes im Jahr 2024",
+     "url": "https://www.bibb.de/de/201811.php",
+     "year": "2024"
+    },
+    {
+     "org": "BIBB",
+     "title": "Datenreport zum Berufsbildungsbericht 2025",
+     "url": "https://www.bibb.de/dienst/publikationen/download/20621",
+     "year": "2025"
+    },
+    {
+     "org": "BIBB",
+     "title": "Vorzeitige Vertragslösungen / Ausbildungsabbruch",
+     "url": "https://www.bibb.de/de/92251.php",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "Quand l'entreprise manque, les filets de sécurité publics (apprentissage supra-entreprise) évitent le décrochage mais produisent des résultats d'insertion nettement inférieurs : ils ne sont pas un substitut à l'engagement patronal.",
+   "what_it_is": "L'Überbetriebliche Lehrausbildung (ÜBA) autrichienne offre une formation de type apprentissage, financée publiquement et organisée en atelier-école, aux jeunes qui ne trouvent pas de place en entreprise ; elle est adossée à la garantie de formation autrichienne.",
+   "evidence_level": "descriptif comparatif / quasi-expérimental faible (synthèse de résultats empiriques nationaux, comparaisons non appariées sujettes à un biais de sélection majeur)",
+   "effect_size": "non disponible sous forme chiffrée vérifiée : les sources consultées indiquent que l'apprentissage en entreprise atteint « une part très élevée d'intégration sur le marché du travail » tandis que l'ÜBA atteint « un degré d'intégration considérablement inférieur », sans chiffre que j'aie pu vérifier sur la source primaire.",
+   "concrete_practice": "Le jeune est accueilli dans un centre de formation, suit le même référentiel et passe le même examen final que l'apprenti en entreprise, avec un objectif explicite de transfert vers une entreprise en cours de parcours. Le dispositif cible prioritairement les décrocheurs, les jeunes en difficulté d'apprentissage et ceux sans soutien familial.",
+   "concrete_example": "L'ÜBA autrichienne est recensée par le Cedefop dans sa boîte à outils VET contre le décrochage précoce comme un dispositif de second filet à l'échelle nationale ; elle a fait l'objet d'un contrôle de la Cour des comptes autrichienne (Rechnungshof) centré sur la Haute-Autriche et Vienne. Une synthèse des résultats empiriques publiée dans Empirical Research in Vocational Education and Training (2020) conclut que l'ÜBA constitue possiblement un « nouveau pilier » du système, qu'elle réduit effectivement l'écart entre offre et demande de places d'apprentissage, mais que l'intégration professionnelle de ses sortants est sensiblement moins bonne.",
+   "conditions": "Le dispositif n'a de sens que s'il reste résiduel et transitoire (passage vers l'entreprise en cours de formation) ; s'il devient une filière permanente, il reproduit une voie scolaire de relégation coûteuse. Il suppose un financement public stable, ce qui est précisément la contrainte forte en FWB.",
+   "contested": "Le public de l'ÜBA est par construction plus fragile que celui de l'apprentissage en entreprise : la comparaison brute des taux d'insertion est donc biaisée et ne mesure PAS l'effet causal du dispositif. Aucune évaluation contrefactuelle crédible de l'ÜBA n'a été identifiée dans cette revue ; affirmer que l'ÜBA « fonctionne moins bien » est donc prématuré, mais affirmer qu'elle équivaut à l'apprentissage en entreprise l'est tout autant. C'est une zone d'incertitude réelle.",
+   "sources": [
+    {
+     "org": "Cedefop",
+     "title": "Supra-Company Training (Überbetriebliche Lehrausbildung) — VET toolkit for tackling early leaving",
+     "url": "https://www.cedefop.europa.eu/en/tools/vet-toolkit-tackling-early-leaving/resources/supra-company-training-uberbetriebliche",
+     "year": "2023"
+    },
+    {
+     "org": "Empirical Research in Vocational Education and Training",
+     "title": "Supra-company apprenticeship training in Austria: a synopsis of empirical findings on a possibly early phase of a new pillar within VET",
+     "url": "https://ervet-journal.springeropen.com/articles/10.1186/s40461-020-00102-y",
+     "year": "2020"
+    },
+    {
+     "org": "Rechnungshof Österreich",
+     "title": "Überbetriebliche Lehrausbildung mit Schwerpunkt Oberösterreich und Wien",
+     "url": "https://www.rechnungshof.gv.at/rh/home/news/Ueberbetriebliche_Lehrausbildung_mit_Schwerpunkt_Oberoester.html",
+     "year": "2022"
+    }
+   ]
+  },
+  {
+   "claim": "Les transpositions du modèle dual échouent le plus souvent parce qu'elles doivent séduire simultanément les entreprises et les jeunes, et n'y parviennent pas : le cas espagnol montre un dispositif resté marginal dix ans après sa création.",
+   "what_it_is": "Introduction par décret d'une « FP Dual » en Espagne en 2012, dans un cadre juridique volontairement souple laissant aux communautés autonomes le soin de décider si et comment l'appliquer.",
+   "evidence_level": "descriptif sur données administratives + revue de littérature systématique sur les obstacles à l'implantation",
+   "effect_size": "Les élèves en FP Dual ne représentent que 4,4 % de l'ensemble des élèves de la formation professionnelle espagnole en 2023, contre environ 60 % des élèves de formation professionnelle optant pour la voie duale en Allemagne. Cinq ans après le décret (2017), le dispositif atteignait environ 24 000 apprentis, 10 000 entreprises et 900 centres, soit à peine 3 % des élèves.",
+   "concrete_practice": "Le décret royal 1529/2012 crée un contrat de formation et d'apprentissage et autorise les centres à signer des conventions avec des entreprises, sans obligation, sans financement dédié pérenne, sans organisation de branche chargée des référentiels et sans statut clair du tuteur en entreprise.",
+   "concrete_example": "Décret royal 1529/2012 : cadre « vague et fragmenté » selon la littérature, déléguant aux communautés autonomes la décision d'appliquer ou non le dispositif, ce qui a produit dix-sept régimes différents et une méconnaissance généralisée du dispositif. Le relais a été pris non par l'État mais par un acteur privé, la Fundación Bertelsmann, qui a créé en 2015 l'Alianza para la FP Dual — un réseau d'entreprises, d'écoles et d'administrations — documenté dans son bilan « 10 years promoting quality Dual VET for Spain » (2025). Dix ans plus tard, le dispositif reste sous 5 % des effectifs de la formation professionnelle.",
+   "conditions": "Valiente & Scandurra identifient, sur revue de la littérature OCDE, la difficulté centrale : rendre l'apprentissage dual attractif À LA FOIS pour les employeurs et pour les élèves. Les facteurs déterminants recensés sont l'implication des employeurs, la capacité institutionnelle de contrôler la qualité de la formation en entreprise, la réputation de la filière et la coopération des partenaires sociaux.",
+   "contested": "La comparaison Espagne/Allemagne est contestable car les définitions de « dual » diffèrent : la réforme espagnole de 2022 (LOFP) a redéfini toute la formation professionnelle comme duale, ce qui rend les séries non comparables dans le temps. Par ailleurs, le rôle d'une fondation privée allemande comme entrepreneur de politique publique en Espagne est lui-même critiqué dans la littérature académique récente comme un cas de transfert de politique porté par des acteurs non représentatifs. Enfin, le lien entre faible uptake et mauvaise conception du décret est plausible mais non établi causalement.",
+   "sources": [
+    {
+     "author": "Oscar Valiente, Rosario Scandurra",
+     "org": "Springer, in Vocational Education and Training in Times of Economic Crisis",
+     "title": "Challenges to the Implementation of Dual Apprenticeships in OECD Countries: A Literature Review",
+     "url": "https://link.springer.com/chapter/10.1007/978-3-319-47856-2_3",
+     "year": "2017"
+    },
+    {
+     "org": "Fundación Bertelsmann",
+     "title": "Alianza para la FP Dual: 10 years promoting quality Dual VET for Spain",
+     "url": "https://www.fundacionbertelsmann.org/wp-content/uploads/2025/08/Alianza-para-la-FP-Dual_10-years-promoting-quality-Dual-VET-for-Spain_online.pdf",
+     "year": "2025"
+    },
+    {
+     "org": "International Journal for Research in Vocational Education and Training (IJRVET)",
+     "title": "Beyond Traditional Governance Actors in VET Policy Transfer: An Analysis of Fundación Bertelsmann's Role as a Policy Entrepreneur in Dual VET Adoption in Spain",
+     "url": "https://journals.suub.uni-bremen.de/index.php/ijrvet/article/view/500",
+     "year": "2025"
+    }
+   ]
+  },
+  {
+   "claim": "Subventionner massivement l'alternance en crée beaucoup, mais une part majoritaire de la hausse n'est pas imputable à la subvention, et la dépense dérive vers l'enseignement supérieur — le contre-exemple budgétaire le plus coûteux d'Europe.",
+   "what_it_is": "Réforme française de 2018 (libéralisation de l'offre de CFA, aide unique aux employeurs), amplifiée par l'aide exceptionnelle du plan « 1 jeune 1 solution » à partir de 2020.",
+   "evidence_level": "quasi-expérimental (différences de discontinuité autour du seuil de 250 salariés, données ASP et DECA) pour l'effet emploi ; descriptif budgétaire pour les coûts",
+   "effect_size": "879 000 nouveaux contrats signés en 2024 contre 306 000 en 2017, plus d'un million d'apprentis sous contrat fin 2024. Coût public d'environ 15 Md€ en 2023, soit 14 700 € par apprenti — « nettement supérieur » aux pays à forte tradition d'apprentissage comme l'Allemagne. Effet propre estimé de l'aide exceptionnelle de 2020 : environ 80 000 embauches supplémentaires (55 000 au-dessus du bac, 25 000 au niveau bac ou infra), à partir d'une semi-élasticité estimée de 7,2 %. L'aide n'explique qu'environ 40 % de la hausse observée chez les apprentis les plus diplômés (et environ 60 % chez les moins diplômés).",
+   "concrete_practice": "Aide forfaitaire à l'employeur versée la première année (montants moyens perçus passés de 3 410 € à 5 400 € par embauche d'apprenti post-bac entre 2019 et 2020), cumulée à une libéralisation de l'ouverture des centres de formation d'apprentis.",
+   "concrete_example": "Évaluation du Comité d'évaluation du plan France Relance (France Stratégie, rapport final janvier 2024, volume II, chapitre 11) : les auteurs exploitent le fait que l'aide exceptionnelle de 2020 a été étendue aux entreprises de plus de 250 salariés, jusque-là exclues de l'aide unique, pour identifier l'effet par différences de discontinuité. Résultat : environ 80 000 contrats supplémentaires en 2020, concentrés dans l'information-communication (environ 27 000), le commerce (15 600), la construction et l'industrie (environ 11 000 chacun). L'étude montre aussi qu'il n'y a PAS eu de substitution : ni les contrats temporaires, ni les contrats de professionnalisation, ni les stages n'ont reculé.",
+   "conditions": "Le dispositif fonctionne comme subvention à l'emploi des jeunes diplômés du supérieur plutôt que comme politique de qualification des jeunes peu qualifiés. Une transposition en FWB sous contrainte budgétaire devrait cibler explicitement les niveaux infra-bac, où l'effet propre et le rendement en insertion sont les plus élevés.",
+   "contested": "L'estimation d'effet suppose une semi-élasticité constante entre niveaux de diplôme et secteurs, hypothèse explicitement posée par les auteurs et non testée. La Cour des comptes juge « indispensable » d'engager la baisse du soutien de l'État, et l'IGF a mené une revue de dépenses en 2024 ; la soutenabilité est donc contestée en France même. Le Royaume-Uni fournit un contre-exemple symétrique : l'apprenticeship levy, prélèvement sur la masse salariale, a coïncidé avec une baisse des entrées d'apprentis jeunes et de niveau 2 (plus bas niveau en quatre ans en 2024) et une hausse du nombre de jeunes NEET, de 791 000 (11,2 %) début 2017 à 923 000 (12,5 %) fin 2024 — corrélation, pas causalité, mais elle invalide l'idée qu'un instrument financier suffit.",
+   "sources": [
+    {
+     "author": "Vincent Barde, Tristan Gantois, Joceran Gouy-Waz, Blaise Leclair",
+     "org": "Direction générale du Trésor, Trésor-Éco n° 376",
+     "title": "L'apprentissage en France : quel bilan pour quels objectifs ?",
+     "url": "https://www.tresor.economie.gouv.fr/Articles/8e3bcd40-cec3-4bd2-88b6-e5e7a8087d39/files/fd39940b-b32e-4245-9daf-21211b1df4e1",
+     "year": "2025"
+    },
+    {
+     "org": "France Stratégie, Comité d'évaluation du plan France Relance",
+     "title": "Rapport final, volume II — chapitre 11, Le plan 1 jeune 1 solution",
+     "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2024-rapport-france_relance_vol_ii_11_1j1s_0.pdf",
+     "year": "2024"
+    },
+    {
+     "org": "Fabian Society / Youth Futures Foundation",
+     "title": "Levying Up: How to make the Growth and Skills Levy work",
+     "url": "https://youthfuturesfoundation.org/wp-content/uploads/2025/08/Policy-report_Levying-Up-How-to-make-the-Growth-and-Skills-Levy-work_Fabian-Society_Aug-2025-PDF.pdf",
+     "year": "2025"
+    }
+   ]
+  },
+  {
+   "claim": "Le rendement de l'alternance en insertion est massif au niveau infra-bac et s'annule dans le supérieur : c'est là que doit se concentrer l'effort public.",
+   "what_it_is": "Comparaison de l'insertion à 18 mois des sortants d'apprentissage et des sortants de la voie scolaire à diplôme équivalent, du CAP au master, sur données administratives françaises appariées.",
+   "evidence_level": "corrélationnel contrôlé (comparaisons à caractéristiques observables comparables : genre, permis de conduire, domaine de formation) — pas d'identification causale",
+   "effect_size": "Au niveau CAP, parmi les jeunes sortis d'études en 2021 : 63 % des apprentis sont en emploi 18 mois après leur apprentissage, contre 36 % des scolaires, soit 27 points d'écart. L'effet décroît à mesure que le niveau de diplôme augmente et « apparaît limité au niveau master » — la littérature ne trouve plus d'effet positif significatif sur l'insertion pour les diplômés du supérieur, toutes choses égales par ailleurs.",
+   "concrete_practice": "Le mécanisme identifié est la rétention : l'apprenti diplômé est directement embauché par son entreprise formatrice. Dans le supérieur, ce mécanisme disparaît parce que les étudiants de la voie classique réalisent eux aussi un stage long de fin d'études qui produit le même effet de mise en relation.",
+   "concrete_example": "Notes d'information DEPP-DARES n° 24.30 et 24.31 (2024) sur l'insertion des sortants 2021 : 71 % des apprentis de niveau CAP à BTS sont en emploi salarié privé en juillet 2023, contre 55 % des lycéens professionnels de mêmes niveaux. Le Trésor note en revanche un biais peu discuté : les taux de réussite au diplôme diffèrent selon le statut — en 2023 les apprentis en CAP réussissaient plus souvent que les scolaires (86,9 % contre 84,6 %) mais les apprentis en BTS moins souvent (73,1 % contre 80,4 %) — et les études d'insertion ne corrigent pas de cet écart.",
+   "conditions": "Le résultat suppose un tissu de PME capables d'embaucher leur apprenti. Il suppose aussi que l'alternance au niveau CAP ne serve pas de voie de sortie du système éducatif : la comparaison porte sur des sortants d'études, pas sur l'ensemble d'une cohorte.",
+   "contested": "Contesté sur la sélection : les apprentis de niveau CAP ne sont pas les mêmes jeunes que les élèves de lycée professionnel, et aucun des travaux cités (Sollogoub & Ulrich 1999, Simonnet & Ulrich 2000, Abriac-Rathelot-Sanchez 2009, Le Rhun & Marchal 2017, Cahuc & Hervelin 2020) ne dispose d'un instrument. Le Trésor souligne lui-même que ces études « ne tiennent pas compte des différences de taux de réussite au diplôme ». Pour le supérieur, la meilleure qualité d'emploi des alternants (CDI, statut cadre, salaire) pourrait s'expliquer par le secteur de formation et non par l'alternance.",
+   "sources": [
+    {
+     "author": "Direction générale du Trésor",
+     "org": "Trésor-Éco n° 376",
+     "title": "L'apprentissage en France : quel bilan pour quels objectifs ?",
+     "url": "https://www.tresor.economie.gouv.fr/Articles/8e3bcd40-cec3-4bd2-88b6-e5e7a8087d39/files/fd39940b-b32e-4245-9daf-21211b1df4e1",
+     "year": "2025"
+    },
+    {
+     "author": "E. Lemaire, C. Loiseau, E. Jounin",
+     "org": "DEPP-DARES, Note d'Information n° 24.31",
+     "title": "Insertion professionnelle des apprentis de niveau CAP à BTS deux ans après leur sortie d'études en 2021",
+     "year": "2024"
+    },
+    {
+     "author": "E. Lemaire, C. Loiseau, E. Jounin",
+     "org": "DEPP-DARES, Note d'Information n° 24.30",
+     "title": "Insertion professionnelle des lycéens professionnels de niveau CAP à BTS deux ans après leur sortie d'études en 2021",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "claim": "Le partenariat école-entreprise structuré dans l'établissement (et non délégué à l'entreprise) produit des gains de revenus durables — c'est la preuve causale la plus solide disponible sur ce levier, et elle est américaine.",
+   "what_it_is": "Les Career Academies sont de petites communautés d'apprentissage à l'intérieur du lycée, organisées autour d'un thème professionnel, combinant enseignement académique et technique et adossées à des partenariats avec des employeurs locaux offrant des expériences d'apprentissage en situation de travail.",
+   "evidence_level": "essai contrôlé randomisé avec suivi longitudinal de huit ans",
+   "effect_size": "Gains de revenus soutenus, en moyenne 11 % (2 088 $) de plus par an pour le groupe Academy que pour le groupe témoin, soit 16 704 $ cumulés sur huit ans (dollars 2006). Effet concentré sur les jeunes hommes : +3 731 $ par an (+17 %), soit près de 30 000 $ sur huit ans, par combinaison de salaires horaires, d'heures travaillées et de stabilité d'emploi plus élevés.",
+   "concrete_practice": "Équipe d'enseignants stable suivant la même cohorte sur plusieurs années ; programme académique complet doublé d'une séquence technique thématique ; employeurs partenaires fournissant intervenants, visites, mentorat et stages ; effectifs réduits par académie à l'intérieur d'un grand lycée.",
+   "concrete_example": "Évaluation MDRC lancée en 1993 : affectation aléatoire dans neuf lycées américains socialement défavorisés, plus de 1 400 jeunes suivis, dont environ 85 % hispaniques ou afro-américains, avec relevé des revenus jusqu'à huit ans après la sortie prévue du lycée (rapport Kemple, 2008). Résultat central : gains de revenus persistants, sans effet sur la réussite scolaire ni sur l'accès à l'enseignement supérieur.",
+   "conditions": "Le dispositif marche là où l'école reste maîtresse du contenu académique : l'entreprise apporte l'exposition au monde du travail et le réseau, pas la formation technique principale. Il suppose des équipes enseignantes stables sur plusieurs années, condition organisationnelle rarement remplie dans un système à pénurie d'enseignants.",
+   "contested": "Deux limites majeures. (1) L'essai ne trouve AUCUN effet sur le niveau d'études atteint, ni sur la diplomation secondaire, ni sur l'accès au supérieur : c'est un dispositif d'insertion, pas de réussite scolaire. (2) L'effet est nul pour les jeunes femmes, ce qui est rarement mentionné par les promoteurs du modèle. Page (2012) a par ailleurs réanalysé les données pour distinguer l'effet de l'affectation de celui de la fréquentation effective, ce qui rappelle que l'intention de traiter sous-estime l'effet mais que les non-conformités sont importantes. Enfin, le contexte est celui du marché du travail américain des années 1990-2000.",
+   "sources": [
+    {
+     "author": "James J. Kemple",
+     "org": "MDRC",
+     "title": "Career Academies: Long-Term Impacts on Labor Market Outcomes, Educational Attainment, and Transitions to Adulthood",
+     "url": "https://www.mdrc.org/sites/default/files/full_49.pdf",
+     "year": "2008"
+    },
+    {
+     "author": "Lindsay C. Page",
+     "org": "Evaluation Review",
+     "title": "Understanding the Impact of Career Academy Attendance",
+     "url": "https://doi.org/10.1177/0193841X12447248",
+     "year": "2012"
+    },
+    {
+     "author": "Nils Saniter, Thomas Siedler",
+     "org": "IZA Discussion Paper No. 8141",
+     "title": "Door Opener or Waste of Time? The Effects of Student Internships on Labor Market Outcomes",
+     "url": "https://www.iza.org/publications/dp/8141/door-opener-or-waste-of-time-the-effects-of-student-internships-on-labor-market-outcomes",
+     "year": "2014"
+    }
+   ]
+  },
+  {
+   "claim": "Les outils d'anticipation des besoins en compétences sont utiles pour cadrer un débat mais impropres à piloter mécaniquement l'offre de formation : leurs producteurs eux-mêmes reconnaissent des marges d'erreur larges, et les élèves ne les utilisent presque pas.",
+   "what_it_is": "Systèmes de prévision de l'emploi par métier et par diplôme, traduits en indicateurs destinés aux élèves (Pays-Bas) ou en listes de métiers prioritaires destinées aux opérateurs de formation (Wallonie, Bruxelles).",
+   "evidence_level": "descriptif institutionnel + évidence expérimentale exploratoire de très petite taille sur la réception par les élèves",
+   "effect_size": "Prévisions ROA : 35 régions, 21 secteurs, 114 professions, 97 types de qualification, horizon de six ans, publication bisannuelle. SBB publie annuellement la « chance de travail » pour 468 métiers du MBO. Cedefop reconnaît explicitement que ses estimations détaillées sont « sujettes à des marges d'erreur possiblement larges et incertaines » et « ne doivent pas être prises au pied de la lettre ». Sur la réception : dans une étude pilote par oculométrie de Fouarge et al. sur 63 élèves, le temps passé à regarder l'information sur le marché du travail est corrélé à l'importance accordée à l'emploi futur, mais seule une petite part des élèves prévoit d'utiliser cette information dans son choix de formation.",
+   "concrete_practice": "Aux Pays-Bas, l'indicateur « Kans op werk » est intégré à la « Studie in Cijfers », une fiche standardisée remise aux élèves, parents et conseillers d'orientation, comportant six indicateurs dont la chance de stage, la chance d'emploi et le salaire de départ. Aucun mandat n'oblige les établissements de formation professionnelle à suivre ces prévisions pour ouvrir ou fermer une option.",
+   "concrete_example": "En FWB/Wallonie, les Instances Bassin Enseignement qualifiant – Formation – Emploi (IBEFE), créées par l'accord de coopération du 20 mars 2014 entre la Région wallonne, la FWB et la COCOF et mises en œuvre en 2015, constituent exactement ce dispositif : dix instances (neuf en Wallonie, une à Bruxelles), chacune structurée en deux chambres (Emploi-Formation et Enseignement), qui établissent une liste de métiers prioritaires et des recommandations aux opérateurs d'enseignement qualifiant et de formation, et animent des « pôles de synergies ». Le dispositif est consultatif : il recommande, il ne décide pas de l'ouverture des options.",
+   "conditions": "Les prévisions sont utiles là où elles alimentent une négociation entre opérateurs et financeurs, et là où un acteur a la capacité juridique de fermer une option. Dans un système à réseaux multiples et liberté d'enseignement, la recommandation sans levier de financement reste sans effet mécanique.",
+   "contested": "Sévèrement limité. (1) Cedefop lui-même relativise la précision de ses chiffres et précise que sa méthode harmonisée privilégie la comparabilité entre pays sur la précision nationale. (2) L'évaluation de la fiabilité des prévisions SBB de demande de diplômés du MBO a été lancée au printemps 2022 avec publication annoncée en 2023 ; je n'ai pas pu vérifier les résultats publiés, et les chiffres d'exactitude qui circulent (environ 40 % de caractérisations correctes, environ 80 % correctes ou voisines) n'ont pas pu être confirmés sur une source primaire — ils ne doivent donc pas être cités. (3) L'étude d'oculométrie de Fouarge et al. porte sur 63 élèves : c'est un pilote, sans valeur probante généralisable. (4) Aucune évaluation de l'effet des IBEFE sur l'offre réelle de formation en FWB n'a été identifiée.",
+   "sources": [
+    {
+     "org": "Cedefop",
+     "title": "Skills anticipation in the Netherlands (2023 Update)",
+     "url": "https://www.cedefop.europa.eu/en/data-insights/skills-anticipation-netherlands-2023-update",
+     "year": "2023"
+    },
+    {
+     "org": "Cedefop",
+     "title": "Skills Forecast Methodological Framework",
+     "url": "https://www.cedefop.europa.eu/files/skills_forecast_methodological_framework.pdf",
+     "year": "2021"
+    },
+    {
+     "org": "SBB (Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven)",
+     "title": "Kans op stage, leerbaan en werk",
+     "url": "https://www.s-bb.nl/en/kans",
+     "year": "2024"
+    },
+    {
+     "org": "IBEFE Bruxelles / Instances Bassin EFE",
+     "title": "Qui sommes-nous ? (accord de coopération du 20 mars 2014, mise en œuvre 2015)",
+     "url": "https://ibefe.brussels/qui-sommes-nous",
+     "year": "2024"
+    },
+    {
+     "org": "OCDE",
+     "title": "Getting Skills Right: Assessing and Anticipating Changing Skill Needs",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/04/getting-skills-right-assessing-and-anticipating-changing-skill-needs_g1g649ca/9789264252073-en.pdf",
+     "year": "2016"
+    }
+   ]
+  },
+  {
+   "claim": "La certification modulaire et la validation progressive sont largement déployées — y compris en FWB depuis 2014 — mais restent l'un des leviers les moins évalués du dossier : l'évidence d'impact est quasi inexistante.",
+   "what_it_is": "Découpage de la qualification en unités d'acquis d'apprentissage validées séparément et capitalisées jusqu'à la certification finale, avec interdiction de réévaluer un acquis déjà validé ; famille élargie incluant les micro-certifications.",
+   "evidence_level": "descriptif réglementaire ; aucune évaluation d'impact quasi-expérimentale ou randomisée identifiée",
+   "effect_size": "non disponible. L'OCDE constate que « les preuves sur la valeur et l'impact des micro-certifications restent rares, ce qui limite l'engagement des parties prenantes », et pointe un « manque persistant de preuves sur les résultats et les impacts ».",
+   "concrete_practice": "À l'issue de chaque unité d'acquis d'apprentissage, une épreuve de qualification valide les acquis ; ceux-ci ne peuvent plus être réévalués et se capitalisent au fil des unités jusqu'à la certification finale. Le dispositif s'accompagne en principe d'un suivi individualisé et de remédiation.",
+   "concrete_example": "Fédération Wallonie-Bruxelles : décret organisant la Certification par Unités d'acquis d'apprentissage (CPU) dans l'enseignement secondaire qualifiant. Le dispositif s'applique aux options des 4e, 5e et 6e années du qualifiant — plein exercice, enseignement spécialisé de forme 4 et alternance — et s'inscrit dans un plan de refondation du qualifiant visant explicitement le décrochage scolaire prématuré. Des outils de remédiation CPU ont été diffusés aux écoles par Wallonie-Bruxelles Enseignement et le dispositif a été précisé par circulaires successives (circulaires 6652 du 14/05/2018 et 6851 du 03/10/2018).",
+   "conditions": "La modularisation ne vaut que si les unités sont reconnues par les employeurs et transférables entre opérateurs (enseignement qualifiant, CEFA, IFAPME, formation des adultes) ; sinon elle produit des attestations partielles sans valeur d'échange. Elle suppose aussi une capacité d'organisation d'épreuves de qualification fréquentes, donc un coût en temps enseignant.",
+   "contested": "Critiqué frontalement en FWB : l'analyse du Grain asbl soutient que la CPU opère « une valorisation des acquis au détriment de la qualification et de l'émancipation », c'est-à-dire qu'elle fragmente la formation en compétences employables au détriment d'une qualification complète. Je n'ai identifié AUCUNE évaluation quantitative de la CPU en FWB (ni sur le décrochage, ni sur la certification, ni sur l'insertion) : c'est une réforme déployée à l'échelle d'un système depuis plus de dix ans sans preuve d'impact publique accessible, ce qui constitue en soi un constat pour une note de position. Au niveau international, l'OCDE relève en outre la difficulté d'aligner les micro-certifications sur les besoins du marché faute de renseignement fiable sur les compétences.",
+   "sources": [
+    {
+     "org": "Parlement de la Fédération Wallonie-Bruxelles",
+     "title": "Décret organisant la Certification par Unités d'Acquis d'Apprentissage (CPU) dans l'enseignement secondaire qualifiant",
+     "url": "https://www.pfwb.be/documents-parlementaires/document-decccf-001380270",
+     "year": "2014"
+    },
+    {
+     "org": "Fédération Wallonie-Bruxelles — enseignement.be",
+     "title": "La Certification Par Unités",
+     "url": "http://www.enseignement.be/index.php/index.php?navi=3310&page=26558",
+     "year": "2023"
+    },
+    {
+     "org": "Le Grain asbl",
+     "title": "La certification par unités (CPU) : une valorisation des acquis au détriment de la qualification et de l'émancipation ?",
+     "url": "https://www.legrainasbl.org/analyse/la-certification-par-unites-cpu-une-valorisation-des-acquis-au-detriment-de-la-qualification-et-de-l-emancipation/",
+     "year": "2016"
+    },
+    {
+     "org": "OCDE",
+     "title": "Micro-credentials for Lifelong Learning and Employability",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/micro-credentials-for-lifelong-learning-and-employability_13dd81a9/9c4b7b68-en.pdf",
+     "year": "2023"
+    }
+   ]
+  },
+  {
+   "claim": "En FWB, l'alternance est aujourd'hui résiduelle et le qualifiant recule : la base de départ n'est pas un système dual affaibli mais un système scolaire qualifiant avec une marge d'alternance marginale.",
+   "what_it_is": "État des lieux chiffré de l'enseignement qualifiant et de l'alternance en Fédération Wallonie-Bruxelles, avec ses deux opérateurs distincts (CEFA relevant de l'enseignement, IFAPME/EFP relevant de la formation) et la réforme systémique engagée en 2024.",
+   "evidence_level": "descriptif sur données administratives et enquêtes d'opérateurs (sans contrefactuel)",
+   "effect_size": "Au 3e degré de l'enseignement secondaire ordinaire : 39 % en enseignement général, 27 % en technique de qualification, 23 % en professionnel, 7 % en technique de transition et 3 % en alternance (CEFA). Évolution récente : progression des sections de transition (+6,8 %) et recul des sections de qualification (-7,2 %). 43 CEFA en FWB, plus de 100 formations. Côté IFAPME : 11 384 entreprises et indépendants ont accueilli au moins un apprenant en 2025.",
+   "concrete_practice": "Le modèle CEFA est un 2 jours en école / 3 jours en entreprise. Le jeune obtient un certificat de qualification spécifique, et non le CESS, ce qui limite structurellement la perméabilité vers le supérieur — exactement le paramètre que la maturité professionnelle suisse corrige.",
+   "concrete_example": "Réforme systémique de l'enseignement qualifiant, de l'enseignement pour adultes et de la formation professionnelle : note d'orientation approuvée conjointement par le Gouvernement wallon et le Gouvernement de la FWB le 26 septembre 2024, dont le pilotage a été confié à l'OFFA (Office francophone de la formation en alternance) — une note de synthèse de 13 axes de travail transmise fin octobre 2025, un directeur de la réforme entrant en fonction début janvier 2026, et le recrutement de trois chefs de projet. Les trois défis affichés sont l'élévation du niveau de qualification, l'amélioration de l'insertion professionnelle et la réponse aux pénuries sectorielles.",
+   "conditions": "La réforme engagée est une réforme de gouvernance transversale à deux entités fédérées (Région wallonne et FWB) et à plusieurs réseaux : sa réussite dépend d'un pilotage opérationnel doté, dans un contexte de déficit budgétaire, et de l'adhésion des réseaux, l'État ne pouvant pas imposer l'offre.",
+   "contested": "Les chiffres d'insertion publiés par les opérateurs eux-mêmes doivent être maniés avec prudence : l'IFAPME annonce que 88,8 % des diplômés d'apprentissage sont en emploi (66,5 %) ou en poursuite de formation (22,3 %) selon son enquête d'insertion 2024, mais il s'agit d'une enquête d'opérateur, sans groupe de comparaison, sujette à un biais de non-réponse et sans correction de la sélection à l'entrée — elle ne mesure PAS l'effet de la formation. La littérature belge francophone décrit par ailleurs le système de filières comme un système de relégation, dans lequel c'est l'échec plutôt qu'un choix positif qui oriente vers le qualifiant : si ce constat est exact, il invalide toute transposition directe du modèle suisse, où le prestige de la filière est la condition première du recrutement large.",
+   "sources": [
+    {
+     "org": "IWEPS",
+     "title": "Indicateur statistique : enseignement secondaire ordinaire et en alternance",
+     "url": "https://www.iweps.be/indicateur-statistique/enseignement-secondaire-ordinaire-alternance/",
+     "year": "2020"
+    },
+    {
+     "org": "Fédération Wallonie-Bruxelles — enseignement.be",
+     "title": "L'enseignement en alternance (CEFA)",
+     "url": "http://www.enseignement.be/index.php?page=23820",
+     "year": "2025"
+    },
+    {
+     "org": "OFFA / formationalternance.be",
+     "title": "Réforme systémique de l'enseignement qualifiant, de l'enseignement pour adultes et de la formation professionnelle",
+     "url": "https://www.formationalternance.be/contents/actualites/reforme-systemique-de-l-enseignement-qualifiant-de-l-enseignement-pour-adultes-et-de-la-formation-professionnelle.html",
+     "year": "2025"
+    },
+    {
+     "org": "IFAPME",
+     "title": "Enquête insertion 2024 : les formations IFAPME mènent rapidement à l'emploi",
+     "url": "https://www.ifapme.be/actualites/enquete-insertion-2024-les-formations-ifapme-menent-rapidement-lemploi",
+     "year": "2024"
+    },
+    {
+     "org": "Fédération Wallonie-Bruxelles",
+     "title": "Les indicateurs de l'enseignement 2023 (18e édition)",
+     "url": "http://www.enseignement.be/public/docs/les-indicateurs-de-l-enseignement-2023-m-j-du-05-03-2024-.pdf",
+     "year": "2024"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui ne se transpose PAS tel quel. (1) La rentabilité du dual suisse repose sur des salaires d'apprentis bas et négociés par branche, sur des durées de 3-4 ans et sur des ordonnances écrites par les organisations du monde du travail : c'est un équilibre de droit social et de négociation collective, pas un dispositif pédagogique. Sans ces trois paramètres, le calcul coûts-bénéfices bascule et l'entreprise devient demandeuse de subvention — ce qui est exactement le chemin français, à 14 700 € par apprenti et 15 Md€ par an, incompatible avec un déficit FWB de 1,5 Md€. (2) Le prestige de la filière est la variable cachée. En Suisse, deux tiers d'une cohorte entrent dans le dual par choix, ce qui rend la sélection faible et les rendements réels ; en FWB, la littérature décrit un système de relégation où c'est l'échec qui oriente vers le qualifiant, et où 3 % seulement des élèves du 3e degré sont en alternance. Transposer les dispositifs sans déplacer le prestige revient à importer le tuyau sans la pression. Or le prestige ne se décrète pas : il se construit par la perméabilité (maturité professionnelle), par la sélectivité à l'entrée de certains métiers, et par le fait que des entreprises attractives recrutent effectivement par cette voie — trois leviers sur lesquels une fédération patronale a une prise directe, contrairement à l'autorité publique. (3) La gouvernance paritaire par métier suppose des organisations de branche outillées et capables de désigner des experts techniques, et un État qui accepte de ne pas trancher. En système à réseaux multiples et liberté d'enseignement, ce mode de décision est en réalité PLUS compatible avec la FWB qu'un pilotage centralisé : c'est le seul levier qui contourne l'impossibilité constitutionnelle d'imposer l'offre, puisqu'il fait porter la norme par le référentiel de métier et la certification, non par l'injonction aux réseaux. Les IBEFE en sont l'embryon, mais consultatif et sans levier de financement. (4) Ce qui se transpose le mieux, à coût modéré : la perméabilité (accès au supérieur depuis le qualifiant, qui corrige à la fois le déficit de prestige et le risque d'obsolescence documenté par Hanushek et al.) ; le ciblage des moyens sur les niveaux infra-bac, où le rendement en insertion est de l'ordre de 27 points de taux d'emploi à 18 mois alors qu'il est nul dans le supérieur ; et le modèle Career Academy, qui garde l'école maîtresse du contenu académique et n'exige de l'entreprise qu'une exposition et un réseau — gains de revenus de 11 % sur huit ans, mais nuls pour les jeunes femmes et sans effet sur la poursuite d'études. (5) Enfin, deux mises en garde sur la preuve elle-même : le renversement de cycle de vie de Hanushek et al. est contredit sur l'emploi par Korber & Oesch en Suisse, et la certification modulaire (CPU), déployée en FWB depuis 2014 à l'échelle d'un système, n'a fait l'objet d'aucune évaluation d'impact publiquement accessible que j'aie pu identifier. Une note de position honnête doit poser l'évaluation contrefactuelle comme un chantier à part entière, pas comme un supplément."
+}

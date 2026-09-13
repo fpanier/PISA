@@ -1,0 +1,97 @@
+# Enseignement qualifiant, alternance et lien avec le monde du travail
+
+L'alternance duale achète une entrée rapide dans l'emploi ; son prix est une courbe salariale plate et, selon les économies, une adaptabilité moindre en fin de carrière. Elle ne tient qu'à trois conditions : un intérêt économique mesuré pour l'entreprise formatrice, des référentiels écrits par les branches, une perméabilité préservée vers le supérieur. Section établie après vérification des sources primaires : une quinzaine d'affirmations du matériau initial ont été corrigées, requalifiées ou retirées.
+
+## Ce que l'alternance achète, et son prix sur un cycle de vie
+
+Hanushek, Schwerdt, Woessmann et Zhang (*Journal of Human Resources*, 2017) apportent une preuve quasi-expérimentale : l'identification repose sur l'interaction entre type d'éducation et âge, non sur le niveau moyen d'emploi des filières. Sur onze pays (enquête IALS), pour les hommes ayant au moins achevé le secondaire, les diplômés du général sont initialement (référence 16 ans) **6,9 points de pourcentage moins souvent en emploi** ; l'écart se referme de **2,1 points par décennie**, soit un croisement vers **49 ans**. Le Microcensus allemand 2006 donne **-13,6 points** au départ et un croisement à **43 ans**. Le phénomène est le plus marqué dans les trois pays d'apprentissage (Allemagne, Danemark, Suisse). Le volet autrichien écarte la retraite anticipée : après une fermeture d'établissement — choc exogène —, l'écart de réemploi entre ouvriers et employés se dégrade de **0,7 point par année d'âge au licenciement**, et le résultat tient hors métiers physiquement exigeants : obsolescence des compétences, non usure du corps.
+
+**Correction majeure.** Le matériau présentait le calcul en revenus comme aggravant le verdict contre l'alternance ; c'est l'inverse dans un cas sur trois. La valeur actualisée des revenus sur la vie entière favorise le général de **24 % en Allemagne** et **6 % au Danemark**, mais favorise **la voie professionnelle de 8 % en Suisse** : le verdict dépend du rythme de transformation de l'économie, non de la pédagogie.
+
+**La contre-épreuve suisse.** Korber et Oesch (*Advances in Life Course Research*, 2019) rejouent le test là où la voie professionnelle est la plus répandue (60 % d'une cohorte en apprentissage dual). Preuve plus faible : cohortes de naissance, **sans instrument**. Sur la cohorte née en 1954-1966, les hommes du professionnel devancent ceux du général de **20 points à 25 ans**, l'avantage s'amenuise vers **40 ans** et **ils ne sont jamais rattrapés**. *(Le matériau situait la convergence à 33 ans, âge qui concerne la cohorte née en 1967-1979.)* Le prix est pécuniaire : à **40 ans, les diplômés du général gagnent 12 % (hommes) à 13 % (femmes) de plus par heure**, la courbe de revenu des diplômés professionnels devenant « presque aussi plate que celle des personnes sans formation post-obligatoire ».
+
+## La sélection explique une part majeure de l'écart apparent
+
+Malamud et Pop-Eleches (*Review of Economics and Statistics*, 2010) exploitent, par régression sur discontinuité, la réforme roumaine de 1973 qui a réorienté vers le lycée général les élèves nés après le 1er janvier 1959. Vingt à trente ans plus tard, les hommes affectés travaillent significativement moins souvent comme ouvriers ou artisans — la réforme a bien changé les trajectoires — mais **sans différence significative de chômage, de non-emploi, de revenu familial ni de salaire**. Les écarts entre filières sont, concluent-ils, « principalement déterminés par la sélection ».
+
+Même avertissement sur données françaises, absent du matériau : par appariement des fichiers de l'Éducation nationale et de l'emploi, France Stratégie (2024) établit qu'**environ la moitié de l'écart de taux d'emploi entre sortants d'apprentissage et de lycée professionnel tient aux caractéristiques des populations**, non à la voie suivie.
+
+## La condition économique : l'entreprise doit y trouver son compte
+
+Preuve descriptive, sans identification causale : 5e enquête coûts-bénéfices de la HEFP (2025), **6 686 entreprises formatrices et 3 655 non formatrices**, année 2022/23. Bénéfice net moyen d'environ **4 500 CHF par contrat et par année** ; **plus de 70 % des contrats sont bénéficiaires**, près de 30 % à perte, le gain cumulé allant de **9 630 CHF** (2 ans) à **17 510 CHF** (4 ans). *(Les exemples métier par métier du matériau n'ont pu être confirmés et sont retirés.)*
+
+Cette rentabilité est un trait du modèle **suisse**, non du modèle dual : citant Wolter et Ryan (2011), Hanushek et al. rappellent qu'**en Allemagne 93 % des entreprises formatrices supportent un coût net**, compensé par la rétention. Trois paramètres font la différence : salaires d'apprentis bas et négociés par branche, référentiels écrits par les organisations professionnelles, durée de trois à quatre ans.
+
+## La perméabilité vers le supérieur
+
+Suivi administratif de cohorte (Observatoire de la formation professionnelle, HEFP, 2021) : sur les **quelque 55 000 diplômés d'un CFC en 2012**, **13 % ont obtenu une maturité professionnelle pendant l'apprentissage et 10 % dans les cinq ans suivants, soit 23 %**. Les deux tiers entrent en haute école, contre **95 % des titulaires d'une maturité gymnasiale**. Deux limites : la perméabilité reste minoritaire et **très concentrée** — trois quarts des maturités intégrées à l'apprentissage relèvent de **huit** des quelque 230 métiers — et socialement filtrée, si bien qu'**aucune évaluation contrefactuelle de son rendement propre n'a été identifiée**. Ces contrats rapportant environ 3 000 CHF de moins à l'entreprise, elle repose sur un consentement patronal explicite.
+
+## Gouvernance paritaire et engagement patronal
+
+En Allemagne, les référentiels sont élaborés par le BIBB avec des experts désignés par les faîtières patronales et syndicales : sans accord des deux côtés, rien n'est promulgué. Preuve **descriptive, produite par l'institution elle-même ; aucune évaluation causale ne démontre que ce mode de gouvernance améliore l'insertion.** Son coût est un droit de veto et une procédure d'environ deux ans par métier.
+
+L'engagement patronal n'est pas acquis (BIBB, *Datenreport* 2025, données administratives exhaustives) : en 2023, **402 800 entreprises formatrices, en baisse de 1,4 %**, pour un taux d'entreprises formatrices de **18,8 %**, le recul venant **entièrement des micro et petites entreprises** ; taux de rupture anticipée de **29,7 %**, le BIBB précisant qu'« un taux de rupture n'est pas un taux d'abandon ». En 2024, **69 400 places non pourvues** coexistent avec **70 400 jeunes sans place** ; donnée absente du matériau, les places vacantes reculent de 5,5 % tandis que les jeunes non placés augmentent de 10,5 % : la tension se déplace vers les jeunes.
+
+## Ce que produit l'argent public : France et Royaume-Uni
+
+**879 000 nouveaux contrats en 2024 contre 306 000 en 2017**, plus d'un million d'apprentis fin 2024, pour un coût public d'environ **15 Md€ en 2023, soit 14 700 € par apprenti** (Trésor-Éco n° 376, 2025). Par différences de discontinuité au seuil de 250 salariés, France Stratégie (2024) estime que **1 000 € d'aide augmentent les embauches de 7,2 %**, soit environ **80 000 contrats supplémentaires en 2020, à peu près la moitié de la hausse observée** ; l'aide n'explique qu'environ **40 % de la hausse chez les plus diplômés contre 60 % chez les moins diplômés**. *(Correction : les montants moyens perçus, de 3 410 € en 2019 à 5 400 € en 2020, concernent les apprentis préparant un diplôme inférieur au baccalauréat, et non post-bac.)*
+
+Le rendement en insertion est très inégal : au niveau CAP, parmi les sortants de 2021, **63 % des apprentis sont en emploi dix-huit mois plus tard contre 36 % des scolaires, soit 27 points**, mais l'effet décroît avec le niveau et « apparaît limité au niveau master ». Chiffre **corrélationnel** : la moitié de l'écart tient à la composition.
+
+Contre-exemple britannique : depuis l'*apprenticeship levy*, les entrées de **niveau 2 ont chuté de 73 %** tandis que les niveaux 4 et plus **triplaient (+234 %)** ; les jeunes NEET passent sur la même période de **791 000 (11,2 %) début 2017 à 923 000 (12,5 %) fin 2024** (Fabian Society / Youth Futures Foundation, 2025). Corrélation tirée d'un rapport de plaidoyer, non évaluation causale — mais un instrument purement financier déplace la dépense vers le haut du système.
+
+## Le partenariat école-entreprise piloté par l'école
+
+Seule preuve véritablement causale du dossier, et elle est américaine. Les *Career Academies* sont de petites communautés d'apprentissage thématiques au sein du lycée, adossées à des employeurs locaux : **essai contrôlé randomisé** démarré en 1993 dans neuf lycées défavorisés, plus de 1 400 jeunes suivis huit ans (Kemple, MDRC, 2008) : gains de revenus de **2 088 $ par an (+11 %), 16 704 $ cumulés**, **concentrés sur les jeunes hommes (+3 731 $ par an, +17 %)**, sans effet significatif pour les jeunes femmes — et **sans aucun effet sur la diplomation secondaire ni sur l'accès au supérieur**. Dispositif d'insertion, non de réussite scolaire, et supposant des équipes enseignantes stables sur plusieurs années.
+
+## Anticipation des besoins, certification modulaire et base de départ en FWB
+
+Le Cedefop reconnaît que ses prévisions détaillées sont « sujettes à des marges d'erreur possiblement larges et incertaines ». En FWB, les Instances Bassin (2014) recommandent des métiers prioritaires **sans pouvoir de décision sur l'ouverture des options, ni évaluation identifiée de leur effet réel**. La certification par unités d'acquis d'apprentissage relève du décret du **12 juillet 2012** — et non 2014 comme l'indiquait le matériau — et **aucune évaluation d'impact publiquement accessible n'a pu être identifiée** ; la seule critique documentée est qualitative (Le Grain asbl, 2016).
+
+Au troisième degré de l'ordinaire : **39 % en général, 27 % en technique de qualification, 23 % en professionnel, 7 % en technique de transition, 3 % en alternance (CEFA)** — chiffres IWEPS datés de **mars 2019**, à réactualiser avant tout usage public. La base de départ n'est donc pas un système dual affaibli mais un système scolaire qualifiant à marge d'alternance marginale. Le CEFA débouche sur un certificat de qualification et non sur le CESS, ce qui limite structurellement la perméabilité. La réforme systémique du qualifiant, approuvée par les Gouvernements wallon et de la FWB le **26 septembre 2024**, est pilotée par l'OFFA : treize axes, directeur en fonction depuis janvier 2026.
+
+## Controverses et limites
+
+**Le renversement de cycle de vie est contesté.** Hanushek et al. et Korber et Oesch mesurent la même chose sur le même pays et trouvent des résultats opposés sur l'emploi. Les données IALS datent de 1994-1998 : la génération observée a été formée dans les années 1960-1970, et les auteurs écrivent eux-mêmes que « l'estimation des âges de croisement est assez imprécise et varie selon les spécifications ». Ce débat n'établit pas que « l'alternance enferme », mais que **le risque d'obsolescence croît avec le rythme de transformation de l'économie** — argument pour le socle général et la formation continue, non contre l'alternance.
+
+**La sélection domine les écarts d'insertion**, résultat le plus robuste du dossier — mais les données roumaines valent pour une économie planifiée puis en transition. En Autriche à l'inverse, les rendements estimés par variable instrumentale (Fersterer, Pischke, Winter-Ebmer, 2008) suggèrent peu de sélection là où la filière est prestigieuse ; **leur valeur exacte n'a pu être vérifiée et n'est donc pas citée.**
+
+**Affirmations retirées faute de vérification.** Les chiffres de diffusion de la formation duale espagnole (4,4 % des élèves du professionnel en 2023 ; 24 000 apprentis en 2017) ne figurent dans aucune des sources citées. Le cas reste instructif — décret de 2012 laissant aux communautés autonomes le soin d'appliquer ou non, sans financement dédié ni statut du tuteur — mais la réforme de 2022 ayant redéfini toute la formation professionnelle comme duale, les séries ne sont plus comparables.
+
+**Deux incertitudes assumées.** L'apprentissage supra-entreprise autrichien accueille un public par construction plus fragile et **aucune évaluation contrefactuelle crédible n'a été identifiée** : le juger inférieur à l'apprentissage en entreprise est aussi prématuré que le juger équivalent. Et les chiffres d'opérateurs ne mesurent pas d'effet : l'IFAPME annonce, sur son enquête 2024 (1 530 répondants), 88,8 % de diplômés en emploi ou en formation ; sans groupe de comparaison ni correction de la sélection, ce chiffre décrit une population, il ne mesure pas l'apport de la formation.
+
+## Ce que cela signifie pour la Fédération Wallonie-Bruxelles
+
+**Ce qui ne se transpose pas.** La rentabilité du dual suisse est un équilibre de droit social et de négociation collective — salaires d'apprentis bas et négociés par branche, durée de trois à quatre ans, référentiels écrits par les organisations professionnelles — non un dispositif pédagogique. Sans ces paramètres, l'entreprise devient demandeuse de subvention : c'est le chemin français, hors d'atteinte pour une entité dont le déficit atteint 1,5 Md€ et dont l'enseignement pèse 54 % des dépenses.
+
+**La variable cachée est le prestige.** En Suisse, deux tiers d'une cohorte entrent dans la voie duale par choix, ce qui maintient la sélection faible et les rendements réels ; en FWB, la littérature décrit un système où c'est l'échec qui oriente vers le qualifiant. Transposer les dispositifs sans déplacer le prestige revient à importer le tuyau sans la pression. Or le prestige se construit par la perméabilité, par la sélectivité à l'entrée de certains métiers et par le fait que des entreprises attractives recrutent par cette voie — leviers sur lesquels une fédération patronale a une prise plus directe que l'autorité publique.
+
+**Le paradoxe de la gouvernance.** Dans un système à réseaux multiples et à liberté d'enseignement constitutionnelle, la gouvernance paritaire par métier est **plus compatible** avec la FWB qu'un pilotage centralisé, non moins : elle fait porter la norme par le référentiel et la certification plutôt que par l'injonction aux réseaux, contournant l'impossibilité d'imposer l'offre. Les Instances Bassin en sont l'embryon, consultatif et sans levier de financement.
+
+**Ce qui se transpose le mieux, à coût modéré.** D'abord la **perméabilité** : ouvrir depuis le qualifiant un accès effectif au supérieur corrige à la fois le déficit de prestige et le risque d'obsolescence — sachant que le CEFA ne délivre pas le CESS et que, même en Suisse, elle plafonne à 23 %. Ensuite le **ciblage des moyens sur les niveaux infra-bac**, où le rendement en insertion est le plus élevé et nul dans le supérieur, l'écart brut de 27 points étant pour moitié un effet de composition. Enfin le **modèle Career Academy**, qui laisse l'école maîtresse du contenu académique et n'exige de l'entreprise qu'une exposition et un réseau : seule preuve randomisée disponible, mais américaine et sans gain de diplomation.
+
+**L'évaluation est un chantier à part entière.** La certification par unités est déployée depuis 2012 sans évaluation d'impact accessible, les Instances Bassin n'ont pas été évaluées, et les chiffres d'insertion disponibles sont des enquêtes d'opérateurs. Une note de position crédible doit poser l'appariement sur données administratives — de type Banque Carrefour de la Sécurité Sociale — comme un chantier en soi.
+
+## Sources
+
+- Hanushek, Schwerdt, Woessmann, Zhang, JHR 52(1), 2017. https://hanushek.stanford.edu/sites/default/files/publications/Hanushek%2BSchwerdt%2BWoessmann%2BZhang%202017%20JHR%2052(1)_0.pdf
+- Korber, Oesch, Advances in Life Course Research 40, 2019. https://people.unil.ch/danieloesch/files/2019/04/Korber_Oesch_2019_Vocational_versus_general_education_over_the_life_course.pdf
+- Malamud, Pop-Eleches, Review of Economics and Statistics 92(1), 2010. https://www.columbia.edu/~cp2124/papers/VocRomania_RESTAT_article.pdf
+- Fersterer, Pischke, Winter-Ebmer, Scandinavian Journal of Economics 110(4), 2008. https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9442.2008.00559.x
+- HEFP/EHB, 5e enquête coûts-bénéfices, 2025. https://www.ehb.swiss/forschung/kosten-nutzen-erhebung/2025
+- HEFP/EHB, Observatoire, Trendbericht 4 (maturité professionnelle), 2021. https://www.ehb.swiss/sites/default/files/trendbericht_4_de_v1-web.pdf
+- BIBB, Datenreport 2025. https://www.bibb.de/dienst/publikationen/download/20621
+- BIBB, marché de l'apprentissage 2024. https://www.bibb.de/de/201811.php
+- BIBB, procédure d'élaboration des référentiels. https://www.bibb.de/de/136147.php
+- Direction générale du Trésor, Trésor-Éco n° 376, 2025. https://www.tresor.economie.gouv.fr/Articles/8e3bcd40-cec3-4bd2-88b6-e5e7a8087d39/files/fd39940b-b32e-4245-9daf-21211b1df4e1
+- France Stratégie, plan France Relance, rapport final vol. II ch. 11, 2024. https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2024-rapport-france_relance_vol_ii_11_1j1s_0.pdf
+- DEPP-DARES, Notes d'Information n° 24.30 et 24.31, 2024.
+- Fabian Society / Youth Futures Foundation, Levying Up, 2025. https://youthfuturesfoundation.org/wp-content/uploads/2025/08/Policy-report_Levying-Up-How-to-make-the-Growth-and-Skills-Levy-work_Fabian-Society_Aug-2025-PDF.pdf
+- Kemple, MDRC, 2008. https://www.mdrc.org/work/publications/career-academies-long-term-impacts-work-education-and-transitions-adulthood (le full_49.pdf du matériau est le rapport de 2004)
+- Martínez-Izquierdo, Torres Sánchez, IJRVET 13(2), 2026. https://journals.suub.uni-bremen.de/index.php/ijrvet/article/view/500
+- Cedefop, Überbetriebliche Lehrausbildung. https://www.cedefop.europa.eu/en/tools/vet-toolkit-tackling-early-leaving/resources/supra-company-training-uberbetriebliche
+- Parlement de la FWB, décret CPU, 12 juillet 2012. https://www.pfwb.be/documents-parlementaires/document-decccf-001380270
+- Le Grain asbl, CPU, 2016. https://www.legrainasbl.org/analyse/la-certification-par-unites-cpu-une-valorisation-des-acquis-au-detriment-de-la-qualification-et-de-l-emancipation/
+- IWEPS, enseignement secondaire et alternance (mars 2019). https://www.iweps.be/indicateur-statistique/enseignement-secondaire-ordinaire-alternance/
+- OFFA, réforme systémique, 2025. https://www.formationalternance.be/contents/actualites/reforme-systemique-de-l-enseignement-qualifiant-de-l-enseignement-pour-adultes-et-de-la-formation-professionnelle.html
+- IFAPME, enquête insertion 2024. https://www.ifapme.be/actualites/enquete-insertion-2024-les-formations-ifapme-menent-rapidement-lemploi

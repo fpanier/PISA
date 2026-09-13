@@ -1,0 +1,522 @@
+{
+ "topic": "Décrochage scolaire : prédiction précoce, indicateurs d'alerte et interventions évaluées",
+ "headline": "Le décrochage n'est pas un accident de fin de parcours mais l'aboutissement d'un processus repérable dès le début du secondaire par trois signaux simples (absences, comportement, échec en cours) ; le cas le mieux documenté au monde — l'indicateur Freshman OnTrack de Chicago — montre qu'un indicateur partagé, des données en temps réel et une équipe dédiée à la première année du secondaire peuvent faire bouger un système entier (taux « on-track » 57 % → 82 %, diplomation 60 % → 82 %), alors que les programmes achetés « sur étagère » (mentorat structuré type Check & Connect) échouent aussi souvent qu'ils réussissent en essai randomisé.",
+ "searches_run": 22,
+ "items": [
+  {
+   "claim": "Le décrochage se laisse prédire dès le début du secondaire (voire dès la fin du primaire) par trois familles de signaux administratifs déjà présents dans les bases de données des écoles : absentéisme (A), comportement/sanctions (B), performance en cours (C) — le « modèle ABC ». Un petit nombre d'indicateurs binaires suffit à identifier la majorité des futurs non-diplômés, bien avant la sortie effective.",
+   "what_it_is": "Un système d'alerte précoce (early warning system) consiste à calculer, à intervalles fixes (mensuels ou par période), des drapeaux binaires par élève : taux de présence sous un seuil (souvent <80 % ou <90 %), au moins une sanction disciplinaire, échec en français ou en mathématiques. Les élèves porteurs d'au moins un drapeau sont placés en suivi. Le système ne diagnostique pas les causes : il déclenche une conversation structurée sur des élèves nommés.",
+   "evidence_level": "corrélationnel/prédictif longitudinal sur cohortes administratives complètes (pas de causalité)",
+   "effect_size": "À Philadelphie, quatre indicateurs relevés en 6e année (équivalent 1re secondaire FWB) — présence <80 %, note de comportement insuffisante, échec en mathématiques, échec en anglais — identifient environ 60 % des élèves qui ne décrocheront pas leur diplôme de secondaire, sur une cohorte de 12 037 élèves de 6e année du district.",
+   "concrete_practice": "Le district produit un rapport mensuel par école listant nommément les élèves porteurs d'un drapeau. Une équipe (direction adjointe, conseiller, un enseignant par discipline-clé) examine la liste, attribue chaque élève à un adulte référent, et vérifie à la période suivante si le drapeau est levé. Le coût marginal est celui du temps de réunion et de l'extraction de données : aucun programme n'est acheté.",
+   "concrete_example": "École publique de Philadelphie, School District of Philadelphia, fin des années 1990-2000 : Robert Balfanz, Liza Herzog et Douglas Mac Iver suivent l'intégralité de la cohorte de 12 037 élèves entrés en 6e année en 1996-1997 jusqu'à la fin du secondaire. Les élèves présentant un seul des quatre drapeaux ont une probabilité de diplomation de l'ordre de 10 à 20 % ; ceux n'en présentant aucun, de l'ordre de 56 %. Ces résultats ont ensuite servi de base aux systèmes d'alerte précoce déployés dans plusieurs centaines de districts américains via le Everyone Graduates Center (Johns Hopkins).",
+   "conditions": "Trois conditions : (1) un identifiant élève unique et longitudinal permettant de suivre l'élève d'une école à l'autre ; (2) une saisie des absences et des notes fiable, fréquente et centralisée (un relevé annuel est inutile) ; (3) un temps institutionnel protégé où une équipe regarde la liste. Sans ce troisième élément, le système produit des tableaux de bord que personne n'ouvre.",
+   "contested": "Un indicateur prédictif n'est pas une cause. Les seuils sont spécifiques au contexte : ils doivent être recalibrés localement sous peine de faux positifs massifs (un seuil trop laxiste produit des listes de 40 % des élèves, ingérables). Surtout, le What Works Clearinghouse a classé la recommandation « surveiller les progrès de tous les élèves et intervenir précocement » au niveau de preuve le plus faible (« minimal evidence ») dans son guide 2017 — non parce qu'elle serait fausse, mais parce qu'aucun essai n'établit qu'elle change les résultats par elle-même. Balfanz et al. 2007 est une étude descriptive : elle ne dit rien de ce qu'il faut faire des élèves repérés.",
+   "sources": [
+    {
+     "author": "Robert Balfanz, Liza Herzog, Douglas J. Mac Iver",
+     "title": "Preventing Student Disengagement and Keeping Students on the Graduation Path in Urban Middle-Grades Schools: Early Identification and Effective Interventions",
+     "org": "Educational Psychologist, 42(4), 223-235",
+     "year": "2007",
+     "url": "https://www.attendanceworks.org/preventing-student-disengagement-and-keeping-students-on-the-graduation-path-in-urban-middle-grades-schools/"
+    },
+    {
+     "title": "Early Warning Indicators and Intervention Systems: State of the Field",
+     "org": "Pathways to Adult Success / Everyone Graduates Center",
+     "year": "2021",
+     "url": "https://pathwaystoadultsuccess.org/wp-content/uploads/2021/03/EWSStateoftheField.pdf"
+    },
+    {
+     "author": "Russell Rumberger et al.",
+     "title": "Preventing Dropout in Secondary Schools (IES Educator's Practice Guide, WWC 2017-4028)",
+     "org": "Institute of Education Sciences / What Works Clearinghouse",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/24"
+    }
+   ]
+  },
+  {
+   "claim": "Sur l'ensemble de la littérature, le facteur de risque de décrochage le mieux établi statistiquement n'est ni l'origine sociale ni le climat de l'école : c'est le redoublement antérieur. Les facteurs liés au parcours scolaire de l'élève dominent nettement les facteurs institutionnels mesurés.",
+   "what_it_is": "Méta-analyse multiniveaux des facteurs de risque d'absentéisme et de décrochage, agrégeant les corrélations publiées entre un facteur et le fait de décrocher, et testant si la force du lien varie selon le domaine (enfant, famille, école, pairs).",
+   "evidence_level": "méta-analyse de 75 études (corrélationnelles), 1 416 tailles d'effet",
+   "effect_size": "Pour le décrochage (33 études, 635 tailles d'effet), trois domaines atteignent un effet fort (r ≥ 0,30) : antécédent de redoublement r = 0,348 ; faible QI / troubles d'apprentissage r = 0,326 ; faibles résultats scolaires r = 0,316. Les facteurs scolaires (climat négatif, qualité de l'enseignement) pèsent nettement moins : r = 0,147 à 0,162. Les facteurs familiaux (statut socio-économique, implication parentale) : r = 0,134 à 0,226.",
+   "concrete_practice": "Conséquence opérationnelle directe : si l'on ne devait retenir qu'une variable pour cibler un dispositif de prévention, ce serait le fait d'avoir déjà redoublé — information disponible gratuitement, immédiatement, dans tout système d'information scolaire, y compris en FWB via le retard scolaire.",
+   "concrete_example": "Jeanne Gubbels, Claudia van der Put et Mark Assink (Université d'Amsterdam) ont codé 75 études publiées (43 sur l'absentéisme, 33 sur le décrochage), essentiellement nord-américaines et européennes, et extrait 1 416 tailles d'effet, analysées par modèle multiniveau à trois niveaux permettant de conserver plusieurs effets par étude. Publié en 2019 dans le Journal of Youth and Adolescence (accès libre via PubMed Central).",
+   "conditions": "Ces corrélations décrivent des associations, pas des mécanismes manipulables. Le redoublement est à la fois marqueur (il signale un élève déjà en difficulté) et, selon les études causales, cause additionnelle (voir item sur le redoublement). La méta-analyse ne permet pas de trancher la part de chacun.",
+   "contested": "Limite majeure reconnue par les auteurs : le corpus est dominé par des études états-uniennes, où la définition du dropout (sortie sans diplôme de high school) ne recouvre pas la définition européenne de l'abandon scolaire précoce (18-24 ans sans CITE 3 et hors formation). L'hétérogénéité entre études est élevée. Enfin, la faiblesse apparente des facteurs scolaires peut refléter une mesure médiocre du climat scolaire plutôt qu'un effet réellement faible : les variables individuelles sont mieux mesurées que les variables institutionnelles, ce qui les avantage mécaniquement.",
+   "sources": [
+    {
+     "author": "Jeanne Gubbels, Claudia E. van der Put, Mark Assink",
+     "title": "Risk Factors for School Absenteeism and Dropout: A Meta-Analytic Review",
+     "org": "Journal of Youth and Adolescence",
+     "year": "2019",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6732159/"
+    }
+   ]
+  },
+  {
+   "claim": "L'indicateur Freshman OnTrack de Chicago est défini très précisément : un élève de première année du secondaire est « on-track » s'il a validé au moins cinq crédits annuels (soit dix crédits semestriels) et n'a pas plus d'un échec semestriel dans une discipline centrale (anglais, mathématiques, sciences, sciences humaines). Cet indicateur prédit la diplomation mieux que l'origine ethnique, la pauvreté et les scores aux tests réunis.",
+   "what_it_is": "Un indicateur binaire calculable à la fin de la première année du secondaire à partir des seuls bulletins. Il ne mesure ni les compétences ni la motivation : il mesure la position administrative de l'élève par rapport au diplôme. Sa force est d'être compréhensible par un enseignant, un parent et un élève en une phrase, et actionnable pendant l'année.",
+   "evidence_level": "étude prédictive sur cohortes administratives complètes d'un district (validée ensuite par réplication externe dans deux autres districts du Midwest par le REL Midwest)",
+   "effect_size": "Les élèves « on-track » à la fin de la 1re année du secondaire ont plus de 3,5 fois (Allensworth & Easton 2005) — près de 4 fois dans les cohortes ultérieures — plus de chances d'obtenir leur diplôme en quatre ans que les élèves « off-track ». Pour les élèves à besoins spécifiques, le rapport va de 3 à 6 fois.",
+   "concrete_practice": "Le district publie le taux « on-track » de chaque école, l'inscrit dans son système de reddition de comptes (2007) et diffuse des rapports mensuels par école listant les élèves en risque de basculer off-track — permettant d'agir avant que l'échec ne soit consommé, et non de le constater en juin.",
+   "concrete_example": "Chicago Public Schools, ~400 000 élèves. Elaine Allensworth et John Q. Easton (Consortium on Chicago School Research, Université de Chicago) publient en juin 2005 « The On-Track Indicator as a Predictor of High School Graduation », puis en 2007 « What Matters for Staying On-Track and Graduating in Chicago Public Schools », qui établit que la présence et les notes de 1re année expliquent l'essentiel de la variance de diplomation, davantage que les scores de 8e année. Le Regional Educational Laboratory Midwest a répliqué la validité prédictive de l'indicateur dans deux autres districts urbains du Midwest (REL 2012-No. 134).",
+   "conditions": "L'indicateur n'est transposable que si le système compte les acquis en unités capitalisables comparables d'une école à l'autre (crédits, ou années validées avec mention des disciplines échouées) et si ces données remontent en cours d'année. Dans un système où la décision de réussite est prise en conseil de classe en juin, sans trace intermédiaire exploitable, l'équivalent doit être reconstruit — par exemple sur les échecs constatés en décembre et en mars dans les disciplines certificatives.",
+   "contested": "Un indicateur inscrit dans un dispositif de reddition de comptes est par construction manipulable : le Consortium lui-même a testé l'hypothèse que les enseignants transforment des « F » en « D » (voir item suivant). Par ailleurs, l'indicateur porte sur la diplomation, pas sur les apprentissages : un système peut améliorer son taux on-track sans que le niveau monte. Enfin, sa validité prédictive n'a pas été testée en Europe continentale ; aucune étude publiée n'établit sa performance en FWB, et je n'ai trouvé aucune tentative de validation d'un équivalent belge francophone.",
+   "sources": [
+    {
+     "author": "Elaine Allensworth, John Q. Easton",
+     "title": "The On-Track Indicator as a Predictor of High School Graduation",
+     "org": "UChicago Consortium on School Research",
+     "year": "2005",
+     "url": "https://consortium.uchicago.edu/publications/track-indicator-predictor-high-school-graduation"
+    },
+    {
+     "author": "Elaine Allensworth, John Q. Easton",
+     "title": "What Matters for Staying On-Track and Graduating in Chicago Public Schools",
+     "org": "UChicago Consortium on School Research",
+     "year": "2007",
+     "url": "https://consortium.uchicago.edu/publications/what-matters-staying-track-and-graduating-chicago-public-schools"
+    },
+    {
+     "title": "Using the Freshman On-Track Indicator to Predict Graduation in Two Urban Districts in the Midwest Region (REL 2012-No. 134)",
+     "org": "Regional Educational Laboratory Midwest / IES",
+     "year": "2012",
+     "url": "https://eric.ed.gov/?id=ED531421"
+    }
+   ]
+  },
+  {
+   "claim": "C'est le cas le plus convaincant de la littérature sur le décrochage : quand les écoles de Chicago ont commencé à agir sur l'indicateur OnTrack, les taux de diplomation ont effectivement suivi quatre ans plus tard, dans les mêmes écoles, sans dégradation des résultats aux tests et sans indice de complaisance dans la notation.",
+   "what_it_is": "Non pas un programme, mais un dispositif de pilotage : un indicateur unique, des rapports de données mensuels envoyés aux écoles, un coordinateur de 1re année dans chaque établissement, des équipes « Freshman Success », des programmes de transition estivale, et la responsabilisation des directions sur le taux OnTrack. Chaque école choisit sa stratégie ; le district impose l'indicateur et fournit les données.",
+   "evidence_level": "quasi-expérimental (comparaison de cohortes consécutives dans les mêmes écoles, avec tests de falsification sur les caractéristiques d'entrée, la distribution des notes et les scores ACT) — pas d'assignation aléatoire",
+   "effect_size": "À l'échelle du district, le taux OnTrack passe de 57 % (2007) à 82 % (2013), et le taux de diplomation de 60 % (2007) à 82 % (2019), soit +22 points. Dans les 3 écoles « primary movers » (+≥10 points de taux OnTrack en 2008), la diplomation bondit de +8 à +20 points en 2011. Dans les 17 écoles « secondary movers » (+11 points en moyenne en 2009), la diplomation progresse de +13 points en moyenne en 2012. Les gains d'OnTrack sont les plus forts chez les élèves les plus faibles à l'entrée (score EXPLORE <12, quartile inférieur : +24,5 points) et chez les garçons afro-américains (43,1 % → 71,4 % entre 2005 et 2013, soit +28,3 points).",
+   "concrete_practice": "Dans une école « mover » type : chaque mois, l'équipe de direction reçoit un rapport listant les élèves de 1re année par nombre d'absences et par échec en cours ; une réunion hebdomadaire des enseignants de 1re année passe la liste en revue ; chaque élève « à risque » est attribué à un adulte qui appelle la famille, réorganise un tutorat, ou négocie une remise de travail. Le Network for College Success (Université de Chicago) fournit un coaching aux directions et un « Freshman OnTrack Toolkit » de protocoles de réunion.",
+   "concrete_example": "Chicago Public Schools, 2007-2013. Melissa Roderick, Thomas Kelley-Kemple, David W. Johnson et Nicole O. Beechum (Consortium, avril 2014, « Preventable Failure ») isolent 20 lycées ayant amélioré leur taux OnTrack assez tôt (2008 et 2009) pour observer la diplomation quatre ans plus tard. Juarez, Kenwood et Steinmetz sont les trois « primary movers ». Les auteurs vérifient que les cohortes entrantes n'étaient pas meilleures (scores de 8e année non significativement supérieurs), que les notes se sont améliorées à tous les niveaux (part d'élèves avec des D ou F : 33 % → 22 % ; part avec des B ou mieux : 28 % → 37 % dans les 17 écoles secondaires movers), et que les scores ACT de 11e année n'ont pas baissé alors même que davantage d'élèves faibles atteignaient cette année.",
+   "conditions": "Quatre conditions rendent le cas de Chicago reproductible ou non : (1) un indicateur simple, public et commun à toutes les écoles ; (2) des données remontées mensuellement, pas annuellement ; (3) un temps de concertation d'équipe explicitement dédié aux élèves de 1re année ; (4) une latitude laissée aux écoles sur la stratégie — le district impose la cible, pas la méthode. Le coût marginal est faible (temps de coordination, système d'information), ce qui explique pourquoi le dispositif a survécu à plusieurs changements de direction du district.",
+   "contested": "Trois objections sérieuses. (1) Il n'y a pas de contrefactuel propre : des cohortes consécutives dans les mêmes écoles, pas un groupe témoin randomisé ; d'autres réformes simultanées à Chicago (fermetures d'écoles, ouverture de charter schools) peuvent contribuer. (2) La fiabilité des taux de diplomation de CPS a été mise en cause : en 2015, l'inspecteur général du district a établi que les taux publiés étaient gonflés, et CPS a dû réviser à la baisse quatre années de données — le Consortium utilise ses propres calculs, mais l'épisode fragilise le récit public. (3) La montée des taux de diplomation s'est accompagnée d'un recours massif au credit recovery en ligne, dont une évaluation du Consortium a montré qu'il produisait de moins bons résultats que le rattrapage en présentiel ; et les taux de maîtrise mesurés au SAT restent très faibles (de l'ordre de 11 % en lecture et 8 % en mathématiques pour les diplômés noirs en 2019 selon des analyses critiques). Autrement dit : plus de diplômes, pas nécessairement plus de compétences.",
+   "sources": [
+    {
+     "author": "Melissa Roderick, Thomas Kelley-Kemple, David W. Johnson, Nicole O. Beechum",
+     "title": "Preventable Failure: Improvements in Long-Term Outcomes when High Schools Focused on the Ninth Grade Year (Research Summary)",
+     "org": "UChicago Consortium on Chicago School Research",
+     "year": "2014",
+     "url": "https://consortium.uchicago.edu/sites/default/files/2018-10/On-Track%20Validation%20RS.pdf"
+    },
+    {
+     "author": "Jenny Nagaoka, Shelby Mahaffie, Alexandra Usher, Alex Seeskin",
+     "title": "The Educational Attainment of Chicago Public Schools Students: 2019",
+     "org": "UChicago Consortium on School Research / To&Through Project",
+     "year": "2020",
+     "url": "https://consortium.uchicago.edu/publications/the-educational-attainment-of-Chicago-Public-Schools-students-2019"
+    },
+    {
+     "title": "Chicago Public Schools Inflates Graduation Rate Data",
+     "org": "Government Technology",
+     "year": "2015",
+     "url": "https://www.govtech.com/education/k-12/Chicago-Public-Schools-Inflates-Graduation-Rate-Data.html"
+    },
+    {
+     "title": "Freshman OnTrack Toolkit",
+     "org": "Network for College Success, University of Chicago",
+     "year": "2018",
+     "url": "https://toandthrough.uchicago.edu/freshman-ontrack-toolkit"
+    }
+   ]
+  },
+  {
+   "claim": "Installer un système d'alerte précoce ne suffit pas : le seul essai randomisé à grande échelle d'un système d'alerte complet (EWIMS) n'a fait bouger, après un an, que l'absentéisme chronique — et rien d'autre. L'indicateur est une condition nécessaire, pas suffisante.",
+   "what_it_is": "L'Early Warning Intervention and Monitoring System (EWIMS) est un processus en sept étapes : constituer une équipe, installer l'outil de données, examiner les drapeaux, hiérarchiser les élèves, affecter des interventions, suivre les élèves, évaluer le dispositif. C'est exactement la version « industrialisée » de ce que Chicago a fait de façon plus organique.",
+   "evidence_level": "essai contrôlé randomisé en grappes (73 lycées randomisés)",
+   "effect_size": "Après un an, la part d'élèves en absentéisme chronique passe de 14 % à 10 % dans les écoles traitées par rapport aux témoins. Aucun effet détectable sur la part d'élèves avec une moyenne faible, avec au moins une exclusion, ou avec une accumulation insuffisante de crédits.",
+   "concrete_practice": "Chaque lycée traité reçoit l'outil EWIMS gratuitement, une formation, et un coaching à distance ; une équipe de 5 à 8 personnes se réunit périodiquement pour trier les élèves signalés. Ce sont les écoles, et non les chercheurs, qui décident des interventions déclenchées — ce qui est à la fois le réalisme et la faiblesse du design.",
+   "concrete_example": "Indiana, Michigan et Ohio, année scolaire 2014-2015 : 73 lycées sont tirés au sort pour implanter EWIMS ou servir de témoins, couvrant 37 671 élèves de 9e et 10e année. L'étude est conduite par Ann-Marie Faria et ses collègues pour le Regional Educational Laboratory Midwest (rapport REL 2017-272, « Getting Students on Track for Graduation »).",
+   "conditions": "La différence entre Chicago et EWIMS est instructive : à Chicago, le district a imposé l'indicateur, l'a rendu public, a responsabilisé les directions dessus et l'a maintenu plus de dix ans. Dans EWIMS, on offre un outil à des écoles volontaires pendant un an, sans enjeu institutionnel et sans imposer d'intervention en aval. La leçon opérationnelle est que l'effet vient de ce que l'organisation fait des listes, pas des listes.",
+   "contested": "Un an est très court pour juger : Chicago n'a vu bouger la diplomation que quatre ans après le mouvement de l'indicateur. Mais l'absence d'effet sur les crédits et les notes dès la première année contraste avec Chicago, où la distribution des notes bougeait immédiatement. Ce contraste alimente une critique sérieuse du storytelling « on-track » : le succès de Chicago pourrait tenir autant à la combinaison locale (coaching du Network for College Success, pression d'accountability, durée) qu'à l'indicateur lui-même, et n'être donc pas un produit exportable.",
+   "sources": [
+    {
+     "author": "Ann-Marie Faria et al.",
+     "title": "Getting Students on Track for Graduation: Impacts of the Early Warning Intervention and Monitoring System after One Year (REL 2017-272)",
+     "org": "Regional Educational Laboratory Midwest / Institute of Education Sciences",
+     "year": "2017",
+     "url": "https://ies.ed.gov/sites/default/files/migrated/rel/infographics/pdf/REL_MW_Early_Warning_Intervention_and_Monitoring_System.pdf"
+    },
+    {
+     "author": "Russell Rumberger et al.",
+     "title": "Preventing Dropout in Secondary Schools (IES Educator's Practice Guide)",
+     "org": "What Works Clearinghouse / IES",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/24"
+    }
+   ]
+  },
+  {
+   "claim": "Check & Connect est le seul programme de prévention du décrochage que le What Works Clearinghouse classe comme ayant des « effets positifs » sur le maintien à l'école — mais ce verdict repose sur deux petites études anciennes portant sur des élèves à besoins spécifiques, et les deux essais randomisés les plus récents et les plus grands n'ont trouvé aucun effet sur le décrochage ou la diplomation.",
+   "what_it_is": "Check & Connect affecte à chaque élève ciblé un « moniteur » (mentor salarié, non bénévole) pendant au moins deux ans. Le volet « Check » consiste en un suivi hebdomadaire systématique des absences, retards, sanctions et notes. Le volet « Connect » consiste en des interventions graduées : intervention de base pour tous les suivis, intervention intensive (résolution de problèmes, médiation avec les enseignants, contact famille) pour ceux dont les indicateurs se dégradent.",
+   "evidence_level": "essais randomisés — mais avec des résultats divergents selon les populations et les échelles",
+   "effect_size": "WWC : « effets positifs » sur le maintien à l'école (staying in school), « effets potentiellement positifs » sur la progression scolaire, « aucun effet discernable » sur l'obtention du diplôme (completing school) ; 2 études sur 3 satisfont aux standards. Essai de Heppen et al. (2018), n = 553 élèves tout-venant à haut risque : aucun impact statistiquement significatif sur l'engagement, la progression, la probabilité de décrochage ou la diplomation. Essai de Guryan et al. (2021) à Chicago, 1re à 8e année : −4,2 jours d'absence (−22,9 %) en 5e-7e année, aucun effet en 1re-4e, aucun effet détectable sur les scores aux tests ou la moyenne. Coût : environ 1 955 USD par élève et par an (dollars 2017).",
+   "concrete_practice": "Un moniteur suit entre 25 et 50 élèves. Il consulte chaque semaine le tableau des absences et des notes, rencontre l'élève, appelle la famille, et enclenche des « interventions intensives » pour les élèves dont les indicateurs se dégradent. Le protocole exige une relation maintenue sur au moins deux années scolaires, y compris si l'élève change d'école.",
+   "concrete_example": "Minneapolis Public Schools, essai de Mary Sinclair, Sandra Christenson et Martha Thurlow (Exceptional Children, 2005) : 144 élèves de 9e année présentant des troubles émotionnels ou du comportement, dont 71 tirés au sort pour recevoir Check & Connect pendant toute leur scolarité secondaire et 73 en groupe témoin, suivis jusqu'à la fin de la 4e année de secondaire. Résultats : taux de décrochage et de mobilité plus faibles, assiduité et maintien en scolarité supérieurs, plans de transition plus complets dans le groupe traité. À l'opposé, l'essai de Jonathan Guryan, Sandra Christenson, Jens Ludwig et leurs collègues avec Chicago Public Schools a porté sur plusieurs milliers d'élèves de 1re à 8e année (JPAM, 2021) — le programme réduit les absences chez les 5e-7e années mais ne déplace aucun résultat d'apprentissage.",
+   "conditions": "Les deux essais positifs concernent des élèves à besoins spécifiques (troubles émotionnels ou du comportement) en milieu urbain défavorisé du Minnesota — 78 % de garçons, 62 % d'élèves noirs, 70 % bénéficiaires de repas gratuits. L'élargissement à la population tout-venant à risque ne réplique pas. Le programme suppose un adulte salarié dédié et persistant : sans le poste financé et sans la continuité pluriannuelle, ce n'est plus Check & Connect.",
+   "contested": "Fortement contesté, et c'est le point important pour un commanditaire. Le label « seul programme avec effets positifs » du WWC est tiré d'un corpus très étroit, ancien, en population particulière. Les deux essais les plus rigoureux menés depuis (Heppen et al. 2018 ; Guryan et al. 2021) sont pour l'essentiel nuls sur les résultats qui comptent (diplomation, apprentissages). Le WWC lui-même conclut à « aucun effet discernable » sur l'obtention du diplôme. Le site Social Programs That Work classe Check & Connect au « Suggestive Tier », c'est-à-dire preuve limitée. Acheter ce programme sur la foi du label WWC serait une erreur de lecture de la littérature.",
+   "sources": [
+    {
+     "title": "Check & Connect — WWC Intervention Report (Evidence Snapshot)",
+     "org": "What Works Clearinghouse / Institute of Education Sciences",
+     "year": "2015",
+     "url": "https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/78"
+    },
+    {
+     "author": "Mary F. Sinclair, Sandra L. Christenson, Martha L. Thurlow",
+     "title": "Promoting School Completion of Urban Secondary Youth with Emotional or Behavioral Disabilities",
+     "org": "Exceptional Children, 71(4), 465-482",
+     "year": "2005",
+     "url": "https://journals.sagepub.com/doi/10.1177/001440290507100405"
+    },
+    {
+     "author": "Jessica Heppen et al.",
+     "title": "Efficacy of the Check & Connect Mentoring Program for At-Risk General Education High School Students",
+     "org": "Journal of Research on Educational Effectiveness, 11(1), 56-82",
+     "year": "2018",
+     "url": "https://www.tandfonline.com/doi/full/10.1080/19345747.2017.1318990"
+    },
+    {
+     "author": "Jonathan Guryan, Sandra Christenson, Ashley Cureton, Ijun Lai, Jens Ludwig, Catherine Schwarz, Emma Shirey, Mary Clair Turner",
+     "title": "The Effect of Mentoring on School Attendance and Academic Outcomes: A Randomized Evaluation of the Check & Connect Program",
+     "org": "Journal of Policy Analysis and Management, 40(3), 841-882 / NBER WP 27661",
+     "year": "2021",
+     "url": "https://www.nber.org/papers/w27661"
+    },
+    {
+     "title": "Check and Connect — Evidence Summary",
+     "org": "Social Programs That Work (Arnold Ventures / Laura and John Arnold Foundation)",
+     "year": "2018",
+     "url": "https://evidencebasedprograms.org/programs/check-and-connect/"
+    }
+   ]
+  },
+  {
+   "claim": "Le mentorat en général produit un effet réel mais petit et non spécifique : environ un cinquième d'écart-type, réparti sur cinq domaines, avec un effet académique parmi les plus faibles. Ce n'est pas un levier de diplomation à lui seul.",
+   "what_it_is": "Programme dans lequel un adulte (bénévole ou salarié) est apparié à un jeune pour une relation suivie, à l'école ou hors école, avec des objectifs de soutien socio-émotionnel, scolaire ou professionnel.",
+   "evidence_level": "méta-analyse de 73 évaluations indépendantes (essais randomisés et quasi-expérimentaux) publiées entre 1999 et 2010",
+   "effect_size": "Effet moyen global d = 0,21 (environ 9 points de percentile), significatif dans les cinq domaines (émotionnel/psychologique, comportements à risque, compétences sociales, scolaire/éducatif, carrière/emploi). Les bénéfices se manifestent souvent moins par une progression des jeunes mentorés que par une absence de dégradation, alors que les non-mentorés déclinent.",
+   "concrete_practice": "Les caractéristiques associées aux effets les plus forts sont le recrutement de mentors ayant une expérience professionnelle d'aide, une formation initiale, un appariement fondé sur des intérêts partagés, et une durée longue. Les programmes courts et faiblement encadrés produisent des effets proches de zéro, voire négatifs quand la relation s'interrompt prématurément.",
+   "concrete_example": "David DuBois (University of Illinois at Chicago), Nelson Portillo, Jean Rhodes, Naida Silverthorn et Jeffrey Valentine ont codé 73 évaluations de programmes de mentorat pour enfants et adolescents publiées entre 1999 et 2010, publiées dans Psychological Science in the Public Interest en 2011. C'est la synthèse de référence du champ, actualisant la méta-analyse de DuBois et al. de 2002 qui avait trouvé un effet du même ordre (d ≈ 0,18).",
+   "conditions": "Le mentorat est un dispositif d'appariement humain : sa qualité dépend entièrement du recrutement, de la formation et de la rétention des mentors. Dans un système sous contrainte budgétaire, la tentation est de recourir à des bénévoles non formés et à des relations d'un an — précisément la configuration où les effets s'évanouissent.",
+   "contested": "Trois critiques. (1) d = 0,21 est petit : rapporté au différentiel de diplomation entre élèves off-track et on-track à Chicago (rapport de 1 à 3,5), le mentorat ne joue pas dans la même catégorie. (2) Le corpus souffre d'un biais de publication classique et les évaluations sont souvent conduites par les promoteurs des programmes. (3) L'essai randomisé le plus grand du champ appliqué à un programme de mentorat structuré (Guryan et al. 2021, Chicago, Check & Connect) n'a trouvé aucun effet sur les apprentissages, ce qui est cohérent avec un effet académique faible dans la méta-analyse. Je n'ai pas identifié d'essai randomisé de mentorat conduit en Belgique francophone ; je ne peux donc rien affirmer sur sa performance locale.",
+   "sources": [
+    {
+     "author": "David L. DuBois, Nelson Portillo, Jean E. Rhodes, Naida Silverthorn, Jeffrey C. Valentine",
+     "title": "How Effective Are Mentoring Programs for Youth? A Systematic Assessment of the Evidence",
+     "org": "Psychological Science in the Public Interest, 12(2), 57-91",
+     "year": "2011",
+     "url": "https://journals.sagepub.com/doi/10.1177/1529100611414806"
+    }
+   ]
+  },
+  {
+   "claim": "Envoyer aux parents des courriers personnalisés indiquant le nombre exact d'absences de leur enfant et le comparant à la moyenne de la classe réduit l'absentéisme chronique d'environ 10 %, pour un coût par absence évitée de un ou deux ordres de grandeur inférieur aux autres interventions connues. C'est le meilleur rapport effet/coût documenté du champ — et l'effet reste petit.",
+   "what_it_is": "Une intervention comportementale de correction de croyances : les parents sous-estiment systématiquement le nombre d'absences cumulées de leur enfant (ils se souviennent des absences récentes, pas du cumul). Le courrier corrige cette croyance en affichant le compteur, et ajoute une norme sociale descriptive (la moyenne de la classe).",
+   "evidence_level": "essai contrôlé randomisé à grande échelle, avec réplication indépendante multi-districts",
+   "effect_size": "Rogers & Feller (2018), 28 080 élèves de la maternelle à la 12e année à haut risque d'absentéisme : les versions les plus efficaces réduisent l'absentéisme chronique de 10 % ou plus. Réplication de Robinson, Lee, Dearing & Rogers (2018) dans 10 districts urbains, suburbains et ruraux d'un grand comté de Californie, n = 10 504 : effet significatif sur la réduction des absences, taille d'effet ES = +0,10. Coût : les auteurs estiment l'intervention plus d'un ordre de grandeur plus coût-efficace que les meilleures pratiques existantes de réduction de l'absentéisme (mentors dédiés, agents de contrôle de l'assiduité).",
+   "concrete_practice": "Cinq envois postaux au cours de l'année scolaire. Chaque courrier indique en clair : « Votre enfant a manqué X jours cette année. Les élèves de sa classe ont manqué Y jours en moyenne. » Pas de menace, pas de sanction, pas de rendez-vous obligatoire. L'ensemble est automatisable à partir du système d'information scolaire existant.",
+   "concrete_example": "School District of Philadelphia, année scolaire 2014-2015 : Todd Rogers (Harvard Kennedy School) et Avi Feller randomisent les familles de 28 080 élèves identifiés à risque d'absentéisme élevé entre trois variantes de traitement informationnel répété et un groupe témoin sans envoi supplémentaire. Publié dans Nature Human Behaviour en 2018. L'intervention a ensuite été industrialisée par EveryDay Labs, dont Rogers est cofondateur — ce qui constitue un conflit d'intérêts à signaler.",
+   "conditions": "Trois prérequis : (1) un compteur d'absences fiable et centralisé au niveau de l'élève, remontant en cours d'année ; (2) des adresses parentales à jour ; (3) un cadre juridique permettant l'envoi automatisé d'informations nominatives aux responsables légaux. En FWB, le décret du 16 mai 2024 impose précisément l'encodage centralisé des absences injustifiées via une application unique — ce qui crée pour la première fois le substrat technique de ce type d'intervention.",
+   "contested": "Très contesté sur la taille d'effet à l'échelle. DellaVigna & Linos (Econometrica, 2022) ont réuni 126 essais randomisés couvrant 23 millions d'individus, dont tous les essais menés par les deux plus grandes « nudge units » américaines : l'effet moyen des nudges publiés dans les revues académiques est de 8,7 points de pourcentage (+33 % relatifs), contre 1,4 point de pourcentage (+8 %) dans les essais des unités opérationnelles — un écart d'un facteur 6, attribué au biais de publication et à la sélection des interventions. Par ailleurs, la revue rapide de l'Education Endowment Foundation (mars 2022), qui a examiné 72 études sur les interventions d'assiduité, conclut que la qualité globale du corpus est faible, que la majorité des études sont américaines, et qu'aucune n'a été conduite dans un contexte post-pandémique. La prudence commande donc d'anticiper un effet réel plus proche de 2-5 % que de 10 %.",
+   "sources": [
+    {
+     "author": "Todd Rogers, Avi Feller",
+     "title": "Reducing student absences at scale by targeting parents' misbeliefs",
+     "org": "Nature Human Behaviour, 2, 335-342",
+     "year": "2018",
+     "url": "https://www.nature.com/articles/s41562-018-0328-1"
+    },
+    {
+     "author": "Carly D. Robinson, Monica G. Lee, Eric Dearing, Todd Rogers",
+     "title": "Reducing Student Absenteeism in the Early Grades by Targeting Parental Beliefs / A randomized experiment using absenteeism information to 'nudge' attendance (REL 2017-252)",
+     "org": "Regional Educational Laboratory Mid-Atlantic / IES",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/rel/regions/midatlantic/pdf/REL_2017252.pdf"
+    },
+    {
+     "author": "Stefano DellaVigna, Elizabeth Linos",
+     "title": "RCTs to Scale: Comprehensive Evidence from Two Nudge Units",
+     "org": "Econometrica, 90(1), 81-116",
+     "year": "2022",
+     "url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18709"
+    },
+    {
+     "title": "Attendance interventions rapid evidence assessment",
+     "org": "Education Endowment Foundation",
+     "year": "2022",
+     "url": "https://d2tic4wvo1iusb.cloudfront.net/documents/pages/Attendance-REA-report.pdf?v=1674658557"
+    }
+   ]
+  },
+  {
+   "claim": "L'absence n'est pas seulement un signal précoce de décrochage : elle en est une cause directe par la perte d'apprentissage qu'elle provoque. Chaque jour d'absence coûte environ 0,05 écart-type en mathématiques, ce qui peut expliquer jusqu'à un quart de l'écart de résultats lié au revenu.",
+   "what_it_is": "Identification causale de l'effet de l'absence individuelle sur les apprentissages, distincte de l'effet du temps d'instruction perdu collectivement. L'astuce méthodologique : les chutes de neige modérées provoquent des absences individuelles, les chutes extrêmes provoquent la fermeture de l'école — deux sources de perte de temps d'instruction, mais une seule individuelle.",
+   "evidence_level": "quasi-expérimental — variables instrumentales exploitant un choc météorologique exogène",
+   "effect_size": "Chaque absence induite par la météo réduit le résultat en mathématiques de 0,05 écart-type. Les fermetures d'école coordonnées (jours de neige) n'ont, elles, aucun effet détectable. L'auteur estime que l'assiduité peut expliquer jusqu'à un quart de l'écart de résultats entre niveaux de revenu.",
+   "concrete_practice": "Conséquence opérationnelle : la perte d'apprentissage provient de la désynchronisation de l'élève avec la classe, pas du volume d'heures perdu. Un enseignant gère bien une interruption collective (il reprend le programme) et mal une absence individuelle (il ne reprend pas pour un seul élève). Cela justifie de traiter l'absence comme un problème pédagogique — rattrapage ciblé de la séquence manquée — et pas seulement comme un problème disciplinaire.",
+   "concrete_example": "Massachusetts, données administratives de l'État (tous les élèves testés, années 2000). Joshua Goodman (alors Harvard Kennedy School) apparie les relevés d'absence et les scores aux tests standardisés de l'État avec les données météorologiques quotidiennes par commune, et compare les effets des chutes de neige modérées (qui font monter l'absentéisme individuel) et extrêmes (qui ferment l'école). NBER Working Paper 20221, 2014.",
+   "conditions": "L'instrument (la neige) suppose un climat où les épisodes neigeux sont fréquents et variables — la généralisation à d'autres causes d'absence (maladie chronique, refus scolaire anxieux, travail familial) n'est pas automatique, puisque ces absences sont corrélées à d'autres désavantages. L'estimation est donc un effet local, valable pour les absences « aléatoires ».",
+   "contested": "Contesté sur la généralisabilité : les absences provoquées par la météo sont de courte durée et non sélectives, alors que l'absentéisme chronique réel est concentré sur quelques élèves et lié à des causes structurelles — lesquelles continueraient à produire leurs effets même si l'élève était présent. L'effet causal de « faire venir » un élève chroniquement absent est donc probablement inférieur à 0,05 écart-type par jour. C'est cohérent avec l'essai de Guryan et al. (2021), où Check & Connect a réduit les absences de 22,9 % sans déplacer les scores aux tests — résultat directement contradictoire avec une lecture mécanique de Goodman.",
+   "sources": [
+    {
+     "author": "Joshua Goodman",
+     "title": "Flaking Out: Student Absences and Snow Days as Disruptions of Instructional Time",
+     "org": "National Bureau of Economic Research, Working Paper 20221",
+     "year": "2014",
+     "url": "https://www.nber.org/papers/w20221"
+    },
+    {
+     "author": "Jonathan Guryan et al.",
+     "title": "The Effect of Mentoring on School Attendance and Academic Outcomes",
+     "org": "Journal of Policy Analysis and Management, 40(3)",
+     "year": "2021",
+     "url": "https://www.nber.org/papers/w27661"
+    }
+   ]
+  },
+  {
+   "claim": "Le redoublement au secondaire augmente causalement le décrochage. C'est l'un des résultats les mieux identifiés de l'économie de l'éducation, et il porte précisément sur le levier que la FWB active massivement — au coût direct d'environ 400 millions d'euros par an.",
+   "what_it_is": "Le redoublement consiste à faire refaire une année entière à un élève jugé en échec. Ses effets causaux sont identifiés par régression sur discontinuité : on compare les élèves juste en dessous et juste au-dessus d'un seuil automatique de redoublement, dont l'écart de performance est inférieur à la marge d'erreur de l'épreuve — donc quasi aléatoire.",
+   "evidence_level": "quasi-expérimental (régression sur discontinuité), confirmé par méta-analyse corrélationnelle",
+   "effect_size": "Uruguay (Manacorda 2012, Review of Economics and Statistics) : l'échec de l'année provoque, quatre à cinq ans plus tard, une perte d'environ 0,8 année de scolarité et une hausse substantielle du décrochage. Chicago (Jacob & Lefgren 2009, American Economic Journal: Applied Economics) : le redoublement en 8e année augmente significativement la probabilité de décrocher, alors que le redoublement en 6e année n'a pas d'effet significatif — l'âge auquel on fait redoubler est décisif. Méta-analyse Gubbels et al. 2019 : l'antécédent de redoublement est le facteur de risque de décrochage le plus fort du corpus (r = 0,348).",
+   "concrete_practice": "En FWB, le redoublement n'est pas une décision marginale mais le mode ordinaire de gestion de l'échec : selon l'expertise commanditée au Parlement FWB en 2014 par Baye, Chenu, Crahay, Lafontaine et Monseur (Université de Liège), 40 % des élèves sont en retard dès la 1re secondaire, plus de 50 % en 3e secondaire, et près de 60 % en 6e secondaire, dont près de 30 % avec plus d'un an de retard.",
+   "concrete_example": "Uruguay, enseignement secondaire inférieur : Marco Manacorda (Queen Mary / LSE) exploite une règle administrative faisant échouer automatiquement tout élève ayant plus de trois matières en échec. En comparant les élèves à trois matières échouées et à quatre, il isole l'effet causal du redoublement. Résultat : une perte d'environ 0,8 année de scolarité quatre à cinq ans plus tard, par abandon. Côté FWB, un contre-exemple positif documenté : la réforme du 1er degré (décrets de 2006 et 2007) et l'obligation du CEB à partir de 2008 ont conduit à traiter les élèves sans CEB dans un 1er degré différencié à grille horaire spécifique plutôt qu'à les orienter par défaut vers le professionnel. Entre 2000 et 2012, la proportion d'élèves de 15 ans très faibles en lecture à PISA est passée de 28,2 % à 19,2 %, revenant à la moyenne OCDE, sans que la moyenne globale ne baisse.",
+   "conditions": "Deux conditions changent le signe du résultat. D'abord l'âge : le redoublement précoce (maternelle, début primaire) a des effets moins négatifs voire légèrement positifs à court terme, alors que le redoublement en fin de primaire et au secondaire est clairement nocif sur la diplomation. Ensuite l'accompagnement : les dispositifs américains ayant produit des effets positifs à court terme (Chicago, New York, Floride) étaient accompagnés de mesures coûteuses — formation, personnel supplémentaire, réduction de la taille de classe, écoles d'été. À Chicago, Russo (2004) estime le coût du dispositif de remédiation accompagnant le retour au redoublement à 8 400 dollars par élève, pour environ 10 000 élèves par an. Plusieurs auteurs (Allensworth 2004 ; Dong 2010) concluent que l'effet venait du soutien, pas de la répétition.",
+   "contested": "Le résultat n'est pas unanime et il faut le dire. Guido Schwerdt, Martin West et Marcus Winters (Journal of Public Economics, 2017), en régression sur discontinuité sur la politique de promotion sur test de Floride (3e année, données administratives de tout l'État), trouvent que le redoublement améliore les résultats à court terme — effets qui s'évanouissent entièrement en cinq ans lorsqu'on compare à des élèves du même âge — améliore les notes au secondaire, et n'a aucun effet sur le taux de diplomation. Autrement dit : en 3e année primaire, avec remédiation obligatoire associée, le redoublement ne provoque pas de décrochage. Jacob & Lefgren trouvent de même un effet nul en 6e année. Le verdict solide est donc plus étroit qu'on ne le dit souvent : le redoublement tardif nuit à la diplomation ; le redoublement précoce accompagné est neutre. Ce qui reste indiscutable, c'est le coût : en FWB, le surcoût du redoublement est estimé autour de 400 millions d'euros par an, soit un peu plus de 6 % du budget de l'enseignement — sans bénéfice d'apprentissage démontré.",
+   "sources": [
+    {
+     "author": "Marco Manacorda",
+     "title": "The Cost of Grade Retention",
+     "org": "Review of Economics and Statistics, 94(2), 596-606",
+     "year": "2012",
+     "url": "https://eprints.lse.ac.uk/19563/1/The_Cost_of_Grade_Retention.pdf"
+    },
+    {
+     "author": "Brian A. Jacob, Lars Lefgren",
+     "title": "The Effect of Grade Retention on High School Completion",
+     "org": "American Economic Journal: Applied Economics, 1(3), 33-58 / NBER WP 13514",
+     "year": "2009",
+     "url": "https://www.nber.org/papers/w13514"
+    },
+    {
+     "author": "Guido Schwerdt, Martin R. West, Marcus A. Winters",
+     "title": "The effects of test-based retention on student outcomes over time: Regression discontinuity evidence from Florida",
+     "org": "Journal of Public Economics, 152, 154-169",
+     "year": "2017",
+     "url": "https://www.nber.org/papers/w21509"
+    },
+    {
+     "author": "Ariane Baye, Florent Chenu, Marcel Crahay, Dominique Lafontaine, Christian Monseur",
+     "title": "Le redoublement en Fédération Wallonie-Bruxelles — Rapport d'expertise",
+     "org": "Université de Liège (aSPe) / ORBi",
+     "year": "2014",
+     "url": "https://orbi.uliege.be/bitstream/2268/165801/1/Le%20redoublement%20en%20FWB.pdf"
+    },
+    {
+     "title": "Redoublement : un surcoût d'environ 400 millions d'euros pour la FWB",
+     "org": "L'Avenir",
+     "year": "2022",
+     "url": "https://www.lavenir.net/cnt/dmf20220225_01667985/redoublement-un-surcout-d-environ-400-millions-d-euros-pour-la-fwb"
+    }
+   ]
+  },
+  {
+   "claim": "En FWB, le décrochage se joue massivement dans la filière qualifiante, non parce que le qualifiant serait mauvais en soi, mais parce qu'il est une destination d'échec : six ans après leur entrée en 3e professionnelle, près de 57 % des élèves sont sortis sans certification, contre 9 % en 3e générale.",
+   "what_it_is": "La relégation désigne l'orientation par l'échec : l'élève n'est pas admis dans la filière de son choix, il est envoyé dans celle qui l'accepte. Le qualifiant devient alors le réceptacle des redoublants et des élèves sans CEB, ce qui cumule dans les mêmes classes et les mêmes établissements les élèves les plus fragiles — effet d'agrégation.",
+   "evidence_level": "descriptif longitudinal sur cohorte administrative complète de la FWB (pas de causalité) + preuves causales importées sur le design des filières",
+   "effect_size": "Cohorte des élèves inscrits en 3e secondaire en FWB en 2004-2005, situation six ans plus tard (fin 2009-2010) : tous élèves confondus, 23 % sortis sans certification de l'enseignement de plein exercice. Par filière : 3e générale 9 % ; 3e technique de transition 18 % ; 3e technique de qualification 29 % ; 3e professionnelle 57 %. Certifiés à six ans : 88 % en 3G, 76 % en 3TT, 63 % en 3TQ, 37 % en 3P.",
+   "concrete_practice": "Le mécanisme est administratif : un élève qui échoue au 1er degré, ou qui n'obtient pas son CEB, se voit proposer une orientation vers le qualifiant par défaut. Les données FWB montrent que la 3e technique de qualification concentre le taux de redoublement le plus élevé de toutes les filières. Le Pacte pour un Enseignement d'excellence a fait de la « réforme de l'enseignement qualifiant » un chantier explicite, avec l'objectif de transformer le qualifiant en choix positif.",
+   "concrete_example": "Fédération Wallonie-Bruxelles : Florent Chenu et Christiane Blondin (Service d'analyse des systèmes et des pratiques d'enseignement, Université de Liège) ont produit pour la FWB la mise en perspective européenne « Décrochage et abandon scolaire précoce », qui exploite les Indicateurs de l'enseignement 2011 pour suivre la cohorte entrée en 3e secondaire en 2004-2005 jusqu'en 2009-2010. Ils citent Lafontaine & Crahay (2004) décrivant le décrochage comme « le dernier maillon de la chaîne, l'ultime réponse que l'élève apporte lorsqu'aucune autre porte de sortie ne s'offre plus, souvent au terme d'un long parcours d'échecs où se succèdent d'abord les redoublements, ensuite les changements d'orientation ou d'école ».",
+   "conditions": "Le design du système détermine si la voie professionnelle prévient ou produit le décrochage. Deux résultats causaux encadrent le sujet. (1) Caroline Hall (IFAU, Journal of Human Resources 2012) évalue le programme pilote suédois qui, sur six ans et dans une partie des communes, a allongé les filières professionnelles et augmenté fortement leur contenu académique : la réforme a accru la probabilité de décrocher chez les élèves les plus faibles. Rendre le qualifiant plus « général » sans autre changement peut donc augmenter le décrochage. (2) Eric Hanushek, Guido Schwerdt, Ludger Woessmann et Lei Zhang (Journal of Human Resources 2017), sur micro-données de 11 pays, établissent un arbitrage robuste sur le cycle de vie : la formation professionnelle améliore l'insertion des jeunes mais dégrade l'employabilité aux âges élevés, surtout dans les pays à apprentissage dual.",
+   "contested": "Deux précautions. D'abord, les 57 % de sortie sans certification en 3P ne prouvent pas que le qualifiant cause le décrochage : ces élèves y arrivent déjà en difficulté, l'effet de sélection est massif et aucune étude causale belge francophone ne le démêle à ma connaissance. Ensuite, la thèse « il faut académiser le qualifiant » est contredite par l'évaluation suédoise de Hall ; et la thèse inverse « il faut développer l'apprentissage dual » est nuancée par le résultat de Hanushek et al. sur l'arbitrage de cycle de vie. La position défendable est donc étroite : ce qui compte n'est ni le contenu académique ni le contenu professionnel pris isolément, mais le fait que l'entrée dans la filière soit un choix et non une sanction — proposition pour laquelle je n'ai pas trouvé d'évaluation causale directe.",
+   "sources": [
+    {
+     "author": "Florent Chenu, Christiane Blondin",
+     "title": "Décrochage et abandon scolaire précoce — Mise en perspective européenne de la situation en Fédération Wallonie-Bruxelles",
+     "org": "Service d'analyse des systèmes et des pratiques d'enseignement (aSPe), Université de Liège / Fédération Wallonie-Bruxelles",
+     "year": "2013",
+     "url": "http://accrochagescolaire.brussels/sites/default/files/documentation/decrochage_et_abandon_scolaire_precoce_ressource_10182.pdf"
+    },
+    {
+     "author": "Caroline Hall",
+     "title": "The Effects of Reducing Tracking in Upper Secondary School: Evidence from a Large-Scale Pilot Scheme",
+     "org": "Journal of Human Resources, 47(1), 237-269 / IFAU Working Paper 2009:9",
+     "year": "2012",
+     "url": "https://www.ifau.se/globalassets/pdf/se/2009/wp09-09.pdf"
+    },
+    {
+     "author": "Eric A. Hanushek, Guido Schwerdt, Ludger Woessmann, Lei Zhang",
+     "title": "General Education, Vocational Education, and Labor-Market Outcomes over the Life-Cycle",
+     "org": "Journal of Human Resources, 52(1), 48-87",
+     "year": "2017",
+     "url": "https://hanushek.stanford.edu/sites/default/files/publications/Hanushek%2BSchwerdt%2BWoessmann%2BZhang%202017%20JHR%2052(1)_0.pdf"
+    },
+    {
+     "title": "La réforme de l'enseignement qualifiant",
+     "org": "Pacte pour un Enseignement d'excellence, Fédération Wallonie-Bruxelles",
+     "year": "2024",
+     "url": "https://pactepourunenseignementdexcellence.cfwb.be/mesures/la-reforme-de-lenseignement-qualifiant/"
+    }
+   ]
+  },
+  {
+   "claim": "Le dispositif d'alternance le mieux évalué au monde — les Career Academies américaines — n'augmente pas le taux de diplomation dans l'ensemble, mais maintient à l'école les élèves entrés à haut risque de décrochage, et produit des gains de revenus durables. C'est le résultat qui doit être cité par quiconque défend le qualifiant : les bénéfices sont réels mais ne portent pas là où on les attend.",
+   "what_it_is": "Une Career Academy est une « école dans l'école » : 150 à 200 élèves, une équipe stable d'enseignants sur trois ou quatre ans, un curriculum combinant programme général et thématique professionnelle (santé, finance, technologie), et des partenariats avec des employeurs locaux fournissant stages, mentors et intervenants.",
+   "evidence_level": "essai contrôlé randomisé individuel avec suivi de huit ans après la fin du secondaire (l'un des plus longs suivis du champ éducatif)",
+   "effect_size": "Sur l'ensemble de l'échantillon : gains de revenus soutenus de 11 % en moyenne annuelle (2 088 dollars de 2006 par an), soit 16 704 dollars cumulés sur huit ans de suivi. Effet concentré sur les hommes (+17 %), non significatif pour les femmes. Aucun effet significatif sur le taux de diplomation du secondaire dans l'ensemble. Pour le sous-groupe entré à haut risque de décrochage : hausse de la probabilité de rester scolarisé jusqu'à la fin de la 12e année, amélioration de l'assiduité et du nombre de crédits accumulés.",
+   "concrete_practice": "Les élèves candidatent ; en cas de sur-demande, l'admission se fait par tirage au sort — ce qui a permis l'essai randomisé. L'équipe pédagogique suit la même cohorte plusieurs années, ce qui produit la personnalisation. Les employeurs partenaires fournissent des stages rémunérés en été. Le point d'attention : seuls 55 % des élèves admis sont restés dans l'académie jusqu'à la fin du secondaire (15 % ne s'y sont jamais inscrits, 30 % l'ont quittée en route).",
+   "concrete_example": "Neuf lycées américains à forte proportion d'élèves défavorisés, depuis 1993 : MDRC randomise plus de 1 400 candidats aux Career Academies (environ 85 % d'élèves hispaniques ou afro-américains) entre admission et liste d'attente, puis les suit pendant huit ans après la date prévue de diplomation. Résultats publiés par James Kemple (MDRC) en 2004 (« Impacts on Labor Market Outcomes and Educational Attainment ») et 2008 (« Long-Term Impacts on Work, Education, and Transitions to Adulthood »).",
+   "conditions": "Le dispositif suppose (1) une taille de cohorte suffisante pour constituer une équipe stable d'enseignants dédiée, (2) un tissu d'employeurs locaux prêts à fournir des stages, (3) une admission qui reste un choix de l'élève. Ce dernier point est structurant : les Career Academies sont sur-demandées, ce qui est l'inverse exact de la position du qualifiant en FWB.",
+   "contested": "Résultat inconfortable pour les promoteurs de l'alternance : le programme ne fait pas monter la diplomation. Le WWC classe d'ailleurs la recommandation la mieux étayée de son guide 2017 (« preuve forte ») comme étant d'« engager les élèves en reliant le travail scolaire à la réussite dans les études supérieures et la carrière » — mais l'effet démontré porte sur les revenus, pas sur le diplôme. Lindsay Page (2012, Evaluation Review) a par ailleurs montré que l'interprétation des impacts est compliquée par le très fort taux de non-conformité au traitement (45 % des admis n'ont pas suivi le programme jusqu'au bout), ce qui signifie que l'effet de l'intention de traiter sous-estime l'effet sur les participants effectifs — mais aussi que le dispositif est difficile à maintenir.",
+   "sources": [
+    {
+     "author": "James J. Kemple, Judith Scott-Clayton",
+     "title": "Career Academies: Impacts on Labor Market Outcomes and Educational Attainment",
+     "org": "MDRC",
+     "year": "2004",
+     "url": "https://www.mdrc.org/sites/default/files/full_49.pdf"
+    },
+    {
+     "author": "James J. Kemple",
+     "title": "Career Academies: Long-Term Impacts on Work, Education, and Transitions to Adulthood",
+     "org": "MDRC",
+     "year": "2008",
+     "url": "https://www.educationandemployers.org/wp-content/uploads/2014/06/career-academies-longterm-impacts-2008.pdf"
+    },
+    {
+     "author": "Lindsay C. Page",
+     "title": "Understanding the Impact of Career Academy Attendance: An Application of the Principal Stratification Framework",
+     "org": "Evaluation Review, 36(2), 99-132",
+     "year": "2012",
+     "url": "https://doi.org/10.1177/0193841X12447248"
+    }
+   ]
+  },
+  {
+   "claim": "Restructurer la première année du secondaire — petites communautés, équipe enseignante stable, double dose de français et de mathématiques — produit des gains immédiats et durables sur les crédits et la promotion, sans essai randomisé mais avec un design de comparaison solide. C'est la variante « structurelle » de la stratégie on-track.",
+   "what_it_is": "Talent Development High School est un modèle de restructuration complète des grands lycées urbains : une « Ninth Grade Academy » séparée physiquement du reste de l'école, des équipes interdisciplinaires d'enseignants partageant les mêmes élèves, un programme de transition de trois semaines, des cours de rattrapage en lecture et mathématiques qui doublent le temps d'instruction, et un développement professionnel intensif des enseignants.",
+   "evidence_level": "quasi-expérimental (comparaison avec écoles appariées + comparaison de cohortes avant/après dans les mêmes écoles)",
+   "effect_size": "Part des élèves de 9e année validant le curriculum académique de base : 43 % avant la mise en œuvre, 56 % après. Taux de promotion en 10e année : +6 points de pourcentage dans les écoles Talent Development, contre −4 points dans les écoles de comparaison, soit un différentiel d'environ 10 points. Améliorations modestes de l'assiduité. Avantages maintenus sur les années suivantes ; premiers signes d'amélioration aux épreuves standardisées de 11e année pour les cohortes plus tardives et premiers indices d'effet sur la diplomation.",
+   "concrete_practice": "Concrètement : les élèves de 1re année occupent un étage ou une aile séparée, avec leurs propres enseignants, et ne croisent pas les élèves plus âgés. Quatre enseignants (français, mathématiques, sciences, sciences humaines) partagent le même groupe d'environ 150 élèves et disposent d'un temps de concertation commun quotidien. Les élèves en retard scolaire suivent deux périodes de mathématiques et deux de français au lieu d'une.",
+   "concrete_example": "School District of Philadelphia, cinq premiers lycées ayant adopté le modèle (fin des années 1990-début 2000). MDRC (James Kemple, Corinne Herlihy, Thomas Smith) conduit une évaluation indépendante comparant l'évolution des cohortes de ces cinq écoles à celle d'écoles de comparaison appariées du même district, rapportée dans « Making Progress Toward Graduation: Evidence from the Talent Development High School Model » (2005).",
+   "conditions": "Le modèle est lourd : il suppose de pouvoir réorganiser les locaux, les horaires et les affectations d'enseignants, et d'ajouter des heures de cours (la « double dose »). Il est conçu pour de très grands établissements urbains à faible performance. Dans un système à établissements plus petits et à autonomie de réseau comme la FWB, c'est la composante « équipe d'enseignants partageant les mêmes élèves de 1re année avec un temps de concertation dédié » qui est transposable — pas l'architecture complète.",
+   "contested": "Aucun essai randomisé : le design compare des écoles volontaires à des écoles appariées, ce qui laisse ouverte la possibilité que les écoles adoptantes aient été plus dynamiques au départ. Les effets sur la diplomation ne sont décrits par MDRC que comme des « indices précoces », pas comme un résultat établi. Le WWC classe la recommandation correspondante (« créer de petites communautés personnalisées dans les écoles à forte concentration d'élèves à risque ») au niveau « preuve modérée », pas « preuve forte ». Enfin, le coût de la double dose horaire est réel et n'est pas chiffré dans la plupart des présentations du modèle.",
+   "sources": [
+    {
+     "author": "James J. Kemple, Corinne M. Herlihy, Thomas J. Smith",
+     "title": "Making Progress Toward Graduation: Evidence from the Talent Development High School Model",
+     "org": "MDRC",
+     "year": "2005",
+     "url": "https://files.eric.ed.gov/fulltext/ED485348.pdf"
+    },
+    {
+     "author": "Russell Rumberger et al.",
+     "title": "Preventing Dropout in Secondary Schools (IES Educator's Practice Guide)",
+     "org": "What Works Clearinghouse / IES",
+     "year": "2017",
+     "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/24"
+    }
+   ]
+  },
+  {
+   "claim": "Pour les jeunes déjà sortis, le raccrochage fonctionne, mais il est cher et son effet passe surtout par la certification et l'emploi, pas par le retour à l'école ordinaire. Le seul grand essai randomisé du champ montre des effets soutenus à trois ans.",
+   "what_it_is": "Le National Guard Youth ChalleNGe est un programme quasi-militaire de 17 mois pour jeunes de 16 à 18 ans déjà décrocheurs : deux semaines d'orientation et d'évaluation, 20 semaines en internat avec discipline militaire, préparation au GED, service communautaire et activités physiques, puis une année de suivi avec un mentor recruté par le jeune lui-même dans sa communauté.",
+   "evidence_level": "essai contrôlé randomisé multi-sites, suivi à trois ans",
+   "effect_size": "Trois ans après l'entrée dans le programme, les participants ont significativement plus de chances que le groupe témoin d'avoir obtenu un GED ou un diplôme secondaire, d'avoir accumulé des crédits d'enseignement supérieur, et d'être en emploi. Les effets sont plus marqués pour les participants les plus âgés. Le Clearinghouse for Labor Evaluation and Research (US Department of Labor) classe la qualité de la preuve causale comme « élevée ».",
+   "concrete_practice": "Le jeune est retiré de son environnement pendant cinq mois. La phase post-résidentielle est la clé du dispositif et la plus fragile : le jeune doit identifier lui-même un mentor adulte de sa communauté, formé et suivi par le programme, qui le suit pendant douze mois.",
+   "concrete_example": "Dix sites du National Guard Youth ChalleNGe à travers les États-Unis, 1 173 jeunes décrocheurs de 16 à 18 ans tirés au sort entre admission et groupe témoin. Évaluation conduite par MDRC (Megan Millenky, Dan Bloom, Sara Muller-Ravett, Joseph Broadus) ; résultats à trois ans publiés dans « Staying on Course » (2011) et dans Journal of Adolescent Health / littérature à comité de lecture.",
+   "conditions": "Le dispositif repose sur un cadre institutionnel — la Garde nationale — qui n'a aucun équivalent en Europe continentale francophone, et sur une culture de l'internat disciplinaire. Le GED (certification par examen, sans scolarité) n'a pas non plus d'équivalent exact en FWB ; le jury central et les épreuves de l'enseignement de promotion sociale en sont les analogues les plus proches.",
+   "contested": "Trois réserves. (1) Le programme est coûteux et intensif : cinq mois d'internat à temps plein. Le comparer à des interventions préventives à faible coût (courriers aux parents, suivi de l'indicateur on-track) sur le seul critère de la taille d'effet est trompeur — il faut comparer les ratios coût/effet. (2) Une large part de l'effet éducatif passe par le GED, dont la littérature économique américaine (notamment les travaux de James Heckman) conteste la valeur sur le marché du travail par rapport à un vrai diplôme. (3) L'effet porte sur des volontaires ayant candidaté : la généralisation aux décrocheurs qui ne candidatent pas n'est pas établie.",
+   "sources": [
+    {
+     "author": "Megan Millenky, Dan Bloom, Sara Muller-Ravett, Joseph Broadus",
+     "title": "Staying on Course: Three-Year Results of the National Guard Youth ChalleNGe Evaluation",
+     "org": "MDRC",
+     "year": "2011",
+     "url": "https://www.mdrc.org/sites/default/files/full_434.pdf"
+    },
+    {
+     "author": "Megan Millenky, Dan Bloom, Colleen Dillon",
+     "title": "Supporting the transition to adulthood among high school dropouts: an impact study of the National Guard Youth ChalleNGe program",
+     "org": "Prevention Science (PubMed 23543360)",
+     "year": "2013",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23543360/"
+    },
+    {
+     "title": "Staying on Course: Three-Year Results of the National Guard Youth ChalleNGe Evaluation — study review",
+     "org": "CLEAR, U.S. Department of Labor",
+     "year": "2011",
+     "url": "https://clear.dol.gov/study/staying-course-three-year-results-national-guard-youth-challenge-evaluation-millenky-et-al"
+    }
+   ]
+  },
+  {
+   "claim": "Un décrocheur coûte à la collectivité environ 340 000 euros net sur sa vie active, dont 259 000 euros de seul manque à gagner fiscal et social — soit, pour une génération de décrocheurs, environ 26 milliards d'euros par an en France. C'est l'estimation la plus récente et la plus documentée dans un système socio-fiscal continental comparable à la Belgique.",
+   "what_it_is": "Une comptabilité différentielle : on compare, poste par poste, les recettes publiques générées et les dépenses publiques occasionnées par deux populations — les personnes dont le diplôme le plus élevé est le brevet (décrocheurs) et les titulaires d'au moins un CAP — sur la période 25-65 ans, soit 40 ans de vie active.",
+   "evidence_level": "descriptif/comptable, fondé sur des écarts de moyennes entre groupes — non causal (hypothèse forte : l'écart observé est attribué au décrochage)",
+   "effect_size": "Surcoût total net par décrocheur sur la vie active : 340 000 € (euros 2025). Décomposition : manque à gagner fiscal et cotisations 259 000 € (dont cotisations patronales 157 000 €, CSG-CRDS 46 000 €, TVA 29 000 €, impôt sur le revenu 27 000 €) ; justice 49 000 € ; aides sociales 48 000 € (aides au logement 27 000 €, RSA 19 000 €, complémentaire santé solidaire 2 000 €) ; chômage 29 000 € ; santé 11 000 € ; moins l'économie de dépenses de scolarité non engagées, −56 000 €. Rapporté à une génération de décrocheurs (environ 76 000 jeunes par an en France) : environ 26 milliards d'euros par an. L'estimation précédente du même cabinet, en 2012, était de 230 000 €.",
+   "concrete_practice": "Usage opérationnel : ce chiffre permet de calculer un seuil de rentabilité pour un dispositif de prévention. Le même rapport documente des dispositifs de remédiation dont le coût par jeune s'établit entre 7 125 € et 9 100 € par an — soit un rapport de 1 à 40 avec le surcoût d'un décrochage évité.",
+   "concrete_example": "France, mai 2025 : l'équipe du Boston Consulting Group, mandatée par la fondation Apprentis d'Auteuil, actualise l'estimation de référence de 2012. Le rapport « Décrochage scolaire : gâchis silencieux, urgence collective » documente en annexe la méthodologie complète et analyse plusieurs dispositifs de terrain — par exemple le Dispositif 4R (Remobilisation, Raccrochage, Réorientation, Réussite) du collège Saint-Jacques à Fournes-en-Weppes (Nord), qui accueille jusqu'à 12 jeunes pour un budget annuel de 78 400 €, soit 7 125 € par jeune ; ou un autre dispositif à 9 100 € par jeune, dont près des deux tiers financés par l'Éducation nationale, plus 9 ETP mis à disposition (environ 41 000 €).",
+   "conditions": "Le chiffre est directement transposable en ordre de grandeur à la Belgique francophone — système socio-fiscal continental, protection sociale comparable, structure d'imposition proche — mais pas au centime : les taux de cotisation, les prestations (RSA n'a pas d'équivalent exact) et les coûts de justice diffèrent. Une transposition honnête consisterait à refaire le calcul sur données belges plutôt qu'à importer les 340 000 €.",
+   "contested": "Contesté sur le plan méthodologique, et les auteurs le reconnaissent. (1) L'approche compare des moyennes entre groupes : elle attribue au décrochage l'intégralité de l'écart, alors qu'une partie tient à des caractéristiques antérieures (origine sociale, santé, environnement familial) qui auraient produit des écarts même sans décrochage. C'est une borne haute, pas un effet causal. (2) L'estimation n'est pas exhaustive et repose sur une sélection de postes. (3) Les comparaisons internationales divergent fortement : le rapport cite l'étude australienne de 2017 « Counting the costs of lost opportunity in Australian education » aboutissant à 335 k€ de surcoûts fiscaux et 615 k€ de surcoûts sociaux, soit 950 k€ au total — près du triple. Les auteurs présentent leur propre chiffre comme prudent, mais l'écart signale surtout que ces estimations dépendent entièrement des conventions retenues. (4) Une partie de la hausse de 230 k€ à 340 k€ est de l'inflation, une autre de la dégradation des inégalités — le rapport ne les décompose pas clairement.",
+   "sources": [
+    {
+     "author": "Boston Consulting Group",
+     "title": "Décrochage scolaire : gâchis silencieux, urgence collective",
+     "org": "Fondation Apprentis d'Auteuil / BCG / Learning Planet Institute",
+     "year": "2025",
+     "url": "https://www.apprentis-auteuil.org/sites/default/files/medias/file/2025/09/AA_2025_rapport-decrochage-scolaire.pdf"
+    },
+    {
+     "title": "Décrochage Scolaire: Gâchis Silencieux, Urgence Collective (page de publication)",
+     "org": "Boston Consulting Group",
+     "year": "2025",
+     "url": "https://www.bcg.com/publications/2025/france-decrochage-scolaire-gachis-silencieux-urgence-collective"
+    },
+    {
+     "author": "Henry Levin, Clive Belfield",
+     "title": "The Price We Pay: Economic and Social Consequences of Inadequate Education",
+     "org": "Brookings Institution Press",
+     "year": "2007",
+     "url": "https://fordhaminstitute.org/national/commentary/price-we-pay-economic-and-social-consequences-inadequate-education"
+    }
+   ]
+  },
+  {
+   "claim": "La FWB dispose depuis 2024 d'un cadre légal et, pour la première fois, d'un encodage centralisé des absences injustifiées — c'est-à-dire du substrat technique nécessaire à un indicateur de type On-Track. Mais elle mesure aujourd'hui le décrochage par un seuil d'absentéisme (9 demi-jours injustifiés), pas par la performance scolaire, ce qui la prive de la moitié du modèle ABC.",
+   "what_it_is": "Le décret du 16 mai 2024 relatif à la réduction du décrochage scolaire et à la lutte contre l'absentéisme des élèves instaure un accompagnement individualisé à trois niveaux d'intervention selon l'évolution de la situation de l'élève, une coordination renforcée entre écoles, centres PMS et aide à la jeunesse, et un encodage centralisé des absences via une application unique. Il a été adapté en 2026 pour réduire la charge administrative et les encodages pesant sur les équipes, avec entrée en vigueur en 2026 pour le fondamental et 2027 pour le secondaire.",
+   "evidence_level": "descriptif — dispositif non encore évalué, aucune donnée d'impact disponible",
+   "effect_size": "Non disponible : le dispositif n'est pas encore pleinement en vigueur et n'a fait l'objet d'aucune évaluation d'impact. Grandeurs de cadrage : 93 000 élèves considérés en situation de décrochage en 2023-2024, soit 13,2 % de la population scolaire (seuil retenu : 9 demi-jours d'absence injustifiée sur une année scolaire) ; objectif du Pacte pour un Enseignement d'excellence : réduire le décrochage de 50 % d'ici 2030. Côté abandon scolaire précoce au sens européen (18-24 ans), Eurostat 2024 : Belgique 7,0 %, Wallonie 8,1 %, Région de Bruxelles-Capitale 9,8 %, moyenne UE 9,3 %.",
+   "concrete_practice": "Écart à combler par rapport au modèle de Chicago : l'indicateur FWB est mono-dimensionnel (absentéisme) et à seuil bas (9 demi-jours), ce qui produit un signalement très large — 1 élève sur 8 — sans hiérarchisation. Le modèle ABC combine absences, comportement et échec en cours, ce qui permet de prioriser les élèves cumulant plusieurs drapeaux. La FWB dispose en outre, via le retard scolaire et les échecs certificatifs, des données du volet « C » — non intégrées à l'indicateur actuel.",
+   "concrete_example": "Fédération Wallonie-Bruxelles, 2024-2027 : le décret du 16 mai 2024 crée l'obligation d'encodage centralisé des absences injustifiées, le Dossier d'accompagnement de l'élève (DAccE, décret du 31 mars 2022) fournit le véhicule de suivi individuel, et les Services d'accrochage scolaire (SAS) reçoivent des moyens additionnels. La ministre de l'Éducation a confirmé devant le Parlement le chiffre de 93 000 élèves en décrochage en 2023-2024. Un projet de décret adopté en commission Éducation en juillet 2026 adapte le dispositif de 2024 et allège les encodages.",
+   "conditions": "Trois conditions, tirées du cas de Chicago, ne sont pas remplies aujourd'hui : (1) l'indicateur n'est pas public par établissement ; (2) il ne combine pas absences et performance scolaire ; (3) rien ne garantit un temps de concertation protégé dans chaque école autour de la liste des élèves signalés — or c'est la variable qui distingue Chicago (effet) d'EWIMS (effet quasi nul en un an).",
+   "contested": "Le dispositif fait l'objet d'une contestation politique explicite : l'opposition parlementaire a dénoncé, lors de l'adoption des mesures de juillet 2026, la création d'« une école à deux vitesses ». Sur le fond, le seuil de 9 demi-jours injustifiés produit un taux de signalement de 13,2 % qui n'est pas un taux de décrochage — la confusion entre les deux notions dans le débat public est un problème de mesure sérieux. Enfin, l'objectif de −50 % d'ici 2030 n'est adossé à aucune théorie du changement chiffrée ni à aucune évaluation prévue à ma connaissance : c'est une cible politique, pas une prévision.",
+   "sources": [
+    {
+     "title": "Décrochage scolaire : comment lutter contre le fait que près d'1 élève sur 8 a tendance à s'éloigner du chemin de l'école ?",
+     "org": "Moustique",
+     "year": "2026",
+     "url": "https://www.moustique.be/notre-epoque/nos-explications/2026/08/26/retrouver-le-chemin-de-lecole-2HXV5BCEPVAZ3PS2BWPJLOYZDM/"
+    },
+    {
+     "title": "Projet de décret portant modification du Code de l'enseignement fondamental et de l'enseignement secondaire, du décret du 31 mars 2022 (DAccE) et du décret du 16 mai 2024 relatif à la réduction du décrochage scolaire et à la lutte contre l'absentéisme des élèves",
+     "org": "Parlement de la Fédération Wallonie-Bruxelles",
+     "year": "2026",
+     "url": "https://www.pfwb.be/documents-parlementaires/document-pjd-001857421"
+    },
+    {
+     "title": "Education and Training Monitor 2025 — Belgium",
+     "org": "Commission européenne, Direction générale de l'éducation et de la culture",
+     "year": "2025",
+     "url": "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/belgium.html"
+    }
+   ]
+  }
+ ],
+ "transposability_fwb": "Ce qui se transpose presque tel quel, à coût quasi nul. (1) L'indicateur de type On-Track : il ne requiert aucun programme, aucun achat, aucun poste — seulement une définition commune, une remontée de données infra-annuelle et un temps de concertation protégé sur la 1re année du secondaire. La FWB dispose déjà de la brique manquante depuis le décret du 16 mai 2024 (encodage centralisé des absences injustifiées) et du DAccE comme véhicule de suivi individuel ; il resterait à ajouter le volet « performance » (échecs en français et mathématiques constatés en décembre et mars) et à définir un seuil calibré sur données belges — ce qui est un travail statistique de quelques mois sur les bases de l'ETNIC, pas une réforme. (2) Les courriers aux parents sur le cumul d'absences : automatisables à partir du même encodage, coût marginal quasi nul, effet attendu petit (2-5 % plutôt que les 10 % publiés, compte tenu de DellaVigna & Linos 2022) mais dont le rapport coût/effet reste inégalé. (3) La logique d'équipe de 1re année partageant les mêmes élèves avec un temps de concertation commun, extraite du modèle Talent Development sans son architecture complète.\n\nCe qui ne se transpose pas. Le pilotage par reddition de comptes qui a fait la force de Chicago — publication du taux OnTrack par école et responsabilisation des directions — se heurte frontalement à la liberté d'enseignement constitutionnelle et à la gouvernance partagée entre réseaux. La voie praticable n'est pas l'imposition mais la convention : un indicateur commun défini avec les fédérations de pouvoirs organisateurs, une publication agrégée par réseau plutôt que nominative par école dans un premier temps, et un adossement aux plans de pilotage et contrats d'objectifs déjà prévus par le Pacte. Le modèle National Guard Youth ChalleNGe n'a aucun équivalent institutionnel (Garde nationale, internat quasi-militaire, certification par examen type GED) et son coût par jeune est hors de portée d'un budget sous contrainte. Check & Connect, à environ 1 955 dollars par élève et par an, coûterait pour 10 % d'une cohorte de 900 000 élèves plus de 170 millions d'euros annuels — pour un effet dont les deux essais les plus récents et les plus grands sont nuls sur la diplomation. C'est précisément le type de dépense qu'il faut refuser.\n\nLe point de friction spécifiquement belge francophone. Le facteur de risque le mieux établi statistiquement (le redoublement antérieur, r = 0,348) est aussi la pratique la plus intensive du système — 35 % des élèves de 15 ans en retard, environ 400 millions d'euros par an, sans bénéfice d'apprentissage démontré. Et la filière qui concentre le décrochage (57 % de sortie sans certification six ans après une entrée en 3e professionnelle, contre 9 % en 3e générale) est alimentée par cette même pratique via la relégation. Toute stratégie anti-décrochage en FWB qui ne toucherait pas au couple redoublement-relégation traiterait les symptômes en laissant la machine à produire des décrocheurs intacte. À l'inverse, la FWB dispose d'un précédent interne encourageant et rarement cité : la réforme du 1er degré (décrets de 2006-2007) combinée à l'obligation du CEB a fait passer la proportion d'élèves de 15 ans très faibles en lecture à PISA de 28,2 % (2000) à 19,2 % (2012), en substituant à l'orientation par défaut vers le qualifiant un parcours différencié avec objectif certificatif commun — soit exactement la logique « garder tout le monde dans le couloir du diplôme, en adaptant le chemin » qui sous-tend l'approche de Chicago.\n\nEnfin, une mise en garde sur la mesure. La FWB compte aujourd'hui 93 000 élèves « en décrochage » (13,2 %) au sens d'un seuil de 9 demi-jours d'absence injustifiée, à côté d'un taux d'abandon scolaire précoce Eurostat de 8,1 % en Wallonie et 9,8 % à Bruxelles. Ces deux chiffres ne mesurent pas la même chose et leur confusion dans le débat public rendra toute évaluation de la cible « −50 % d'ici 2030 » ininterprétable. Fixer, avant d'agir, un indicateur unique, calculable annuellement, publié et stable dans le temps — c'est la première leçon de Chicago, et elle est gratuite."
+}
