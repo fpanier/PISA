@@ -36,8 +36,9 @@ quasi-expérimentale par appariement sur 1 878 écoles élémentaires californie
 l'automne 2008 et 2009 ; des effets positifs apparaissent aussi en 4e et surtout en 5e année. Les auteurs
 soulignent que l'écart est « éducativement significatif, d'autant qu'il s'agit d'un effet à l'échelle de
 l'école et qu'il s'obtient à un coût marginal effectivement nul » (Koedel, Li, Polikoff, Hardaway et Wrabel,
-*AERA Open*, 2017). Cette étude n'est toutefois pas certifiée : le What Works Clearinghouse la classe « Does
-Not Meet Evidence Standards » (ERIC, Institute of Education Sciences, 2017).
+*AERA Open*, 2017). Cette étude n'est toutefois pas certifiée : réexaminée par le What Works Clearinghouse en février 2022
+sous les standards 4.1, elle est classée « Does Not Meet WWC Standards », faute d'équivalence établie au
+départ entre les écoles traitées et les écoles témoins (WWC, fiche d'étude 90504 ; notice ERIC EJ1194198).
 
 La réplication la plus large disponible ne retrouve rien. Pooling les adoptions de manuels et les scores de
 plus de 6 000 écoles de six États — Californie, Louisiane, Maryland, New Jersey, Nouveau-Mexique et
@@ -85,13 +86,21 @@ institutions non formelles, avec des impacts rapportés de 0,6 à 1,0 écart-typ
 niveau de preuve : seul PRIMR était un essai randomisé ; l'évaluation de Tusome à l'échelle nationale repose
 sur un design nettement plus faible.
 
-Sobral, commune de 85 écoles et près de 34 000 élèves dans le Ceará — l'État au cinquième produit intérieur
-brut par habitant le plus faible du Brésil — offre le cas le plus complet d'alignement. Un diagnostic public
-en 2000 montre que seuls 48 % des élèves de fin de 2e année savent lire ; la part atteint 92 % en 2004, puis
-une moyenne de 95 % jusqu'aux fermetures d'écoles de 2020 (Barton et Lee, Center on Reinventing Public
-Education, 2024). Au classement national IDEB, Sobral passe de la 1 366e place en 2005 à la 1re sur 5 570
-communes en 2017, et son IDEB du secondaire inférieur de 5,8 à 7,2 entre 2013 et 2017 (Banque mondiale,
-2020). Le mécanisme : la secrétaire à l'éducation Izolda Cela fait construire un ensemble aligné — manuels,
+Sobral, commune du Ceará — l'État au cinquième produit intérieur brut par habitant le plus faible du
+Brésil — offre le cas le plus complet d'alignement : 17 000 élèves scolarisés dans le réseau communal au
+moment du diagnostic, près de 34 000 dans 85 écoles aujourd'hui (Cruz et Loureiro, Banque mondiale, 2020 ;
+Barton et Lee, Center on Reinventing Public Education, 2024). Une évaluation externe passée en 2000 sur
+75 % des élèves finissant la 2e année établit que 48 % d'entre eux ne savent pas lire, au sens strict
+retenu par l'épreuve : ils ne reconnaissent aucun son dans les mots, même s'ils nomment les lettres
+(Coelho, 2005 et INEP, 2005, repris par McNaught, RISE, 2022). La part des enfants de 7 ans lisant un texte
+avec aisance passe ensuite de 49,1 % en 2001 à 91,7 % en 2004 (Maia, 2006, repris par McNaught, RISE,
+2022). La formulation inverse, qui fait des 48 % de 2000 une part de lecteurs portée à 92 % en 2004 puis à
+95 % en moyenne jusqu'en 2020, circule dans les reprises du cas (Barton et Lee, 2024) : elle contredit les
+sources d'origine et ne doit pas être reprise. Au classement national IDEB, Sobral passe de la 1 366e place
+en 2005 à la 1re sur 5 570 communes en 2017, et son IDEB du secondaire inférieur de 5,8 à 7,2 entre 2013 et
+2017 (Banque mondiale, 2020). Le mécanisme : le secrétariat à l'éducation, tenu par Ivo Gomes avec Izolda
+Cela comme secrétaire adjointe (elle n'en prendra la tête qu'en 2005), fait construire un ensemble aligné
+— manuels,
 cahiers élèves, plans de leçon, formation et évaluations formatives — séquencé de la conscience phonémique
 à la compréhension ; les enseignants reçoivent une journée entière de formation adossée aux leçons du mois à
 venir et une journée de planification collective par semaine ; des évaluations formatives sont passées tous
@@ -102,7 +111,8 @@ descriptive avec séries temporelles : il n'y a pas de groupe témoin.
 La transposition d'un curriculum resserré « de maîtrise » dans un système occidental a, elle, été testée par
 essais randomisés. Deux essais indépendants de l'Education Endowment Foundation sur *Mathematics Mastery*
 (programme d'Ark, inspiré de Singapour) donnent : en primaire, 4 176 élèves dans 83 écoles anglaises, effet
-de +0,10 écart-type, soit environ deux mois de progrès ; en début de secondaire, 5 938 élèves dans 44
+de +0,10 écart-type — soit environ deux mois de progrès selon la conversion de l'EEF, mais un effet non
+significatif (IC 95 % : −0,01 à +0,21 ; p = 0,07) ; en début de secondaire, 5 938 élèves dans 44
 écoles, +0,06 écart-type, soit un mois ; méta-analyse des deux, 10 114 élèves dans 127 écoles, +0,073
 écart-type, soit un mois (Jerrim et Vignoles, Education Endowment Foundation, 2015). Point essentiel, omis
 de la plupart des reprises : aucun des deux essais pris isolément n'atteint la significativité à 5 % ; seule
@@ -316,6 +326,11 @@ facile.
 - Koedel, C., Li, D., Polikoff, M. S., Hardaway, T., Wrabel, S. L. (2017). Mathematics Curriculum Effects on
   Student Achievement in California. *AERA Open*, 3(1), 1-22.
   https://files.eric.ed.gov/fulltext/EJ1194198.pdf
+- McNaught, T. (2022). *A Problem-Driven Approach to Education Reform: The Story of Sobral in Brazil*. RISE
+  Insight Note 2022/039, Building State Capability / Center for International Development, Harvard
+  University. DOI 10.35489/BSG-RISE-RI_2022/039.
+  https://riseprogramme.org/sites/default/files/2022-03/Problem_driven_approach_education_reform_Sobral.pdf
+  (Coelho, 2005 ; INEP, 2005 et Maia, 2006 ne sont connus que par les citations qu'en fait cette note.)
 - Piper, B., DeStefano, J., Kinyanjui, E. M., Ong'ele, S. (2018). Scaling up successfully: Lessons from
   Kenya's Tusome national literacy program. *Journal of Educational Change*, 19(3), 293-321.
   https://www.rti.org/publication/scaling-successfully-lessons-kenya-tusome-national-literacy-program

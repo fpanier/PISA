@@ -139,7 +139,7 @@ Deux avertissements encadrent ce tableau. Les tailles d'effet publiées sont fra
 
 **11. Supprimer ou alléger la mesure au nom de la flexibilité.** Huit ans sans épreuve externe au Portugal (voir section 5) ; la Finlande a réformé son curriculum sans capacité d'observation de la classe (voir section 13) ; supprimer l'information comparative publique coûte 0,23 ET au niveau de l'école, d'abord aux écoles les plus pauvres (voir section 28).
 
-**12. Importer un dispositif détaché de son substrat.** Le transfert de la pédagogie de Shanghai a coûté dix ans et 76 M£ pour aucun effet détectable en évaluation contrôlée (voir section 7, Shanghai) ; le Vietnam lui-même a échoué à faire durer l'importation d'un modèle étranger pourtant bien financé (voir section 12, Vietnam).
+**12. Importer un dispositif détaché de son substrat.** Le transfert de la pédagogie de Shanghai a coûté dix ans et 220,86 M£ de dépenses publiques — le coût du réseau des Maths Hubs qui l'a porté, de 2014/15 à 2023/24 — pour aucun effet détectable en évaluation contrôlée (voir section 7, Shanghai) ; le Vietnam lui-même a échoué à faire durer l'importation d'un modèle étranger pourtant bien financé (voir section 12, Vietnam).
 
 **13. Ne pas construire le contrefactuel dès le départ.** Les réformateurs polonais « n'ont pas pensé à évaluer soigneusement » : nul ne peut démontrer ce que l'abrogation de 2017 a coûté (voir section 4) ; l'Ontario a transféré 288 M$ CAD sans savoir quels leviers fonctionnaient (voir section 6) ; le débat portugais sur l'éducation prioritaire reste indécidable après trente ans (voir section 5).
 
