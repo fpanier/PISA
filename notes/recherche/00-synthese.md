@@ -28,13 +28,41 @@ Sobral (section 22, curriculum). La démonstration inverse est la plus nette du 
 américaine du *lesson study*, ce sont les ressources sur les fractions, non le dispositif collaboratif, qui
 ont amélioré l'enseignement observé (section 8, Japon et lesson study).
 
-**Une mesure externe et comparable, restituée à l'école.** L'Ontario disposait de l'EQAO avant de lancer sa
-stratégie (section 6) ; Sobral commence par une évaluation externe rendue publique par le maire
-(section 11) ; le Portugal s'est privé de toute mesure externe en fin de primaire de 2016 à 2024, exactement
-la période de son décrochage (section 5) ; la Finlande a supprimé son inspection en 1991 et n'a rien vu
-venir (section 13, systèmes en déclin). Le pays de Galles, qui a cessé de publier ses tableaux en 2001,
-perd 0,23 écart-type au niveau de l'école par rapport à l'Angleterre, d'abord dans les écoles les plus
-pauvres (section 28, conduite du changement).
+**Le système pouvait se voir avant d'agir.** Deux dispositifs distincts sont en jeu, et il faut les
+séparer : la capacité de mesurer, et la décision de rendre la mesure publique. Ils n'ont ni la même
+fonction ni le même niveau de preuve.
+
+*La capacité de mesurer* est un préalable, pas un levier : elle ne fait rien progresser par elle-même,
+elle rend visible ce qui ne va pas assez tôt pour qu'on puisse corriger. L'Ontario disposait de l'EQAO,
+évaluation externe annuelle, avant de lancer sa stratégie (section 6) ; Sobral a commencé par commander
+une évaluation externe de la lecture, qui a établi que 48 % des élèves de fin de deuxième année ne
+lisaient pas, et le maire l'a rendue publique (section 11). À l'inverse, la Finlande a supprimé son
+inspection en 1991 et ne conserve que des évaluations sur échantillon : quand sa réforme curriculaire de
+2016 s'est mal déployée, rien dans le système ne permettait de s'en apercevoir avant les résultats
+internationaux, à huit ans de distance (section 13). Le Portugal a supprimé en 2016 ses épreuves
+certificatives de quatrième et sixième années et n'a rétabli un dispositif censitaire qu'en juillet 2024 ;
+son décrochage recouvre exactement cette période, mais la section qui l'examine conclut que **le conflit
+d'interprétation n'est pas tranchable avec les données disponibles** (section 5). Ce n'est donc pas une
+preuve, c'est une coïncidence qu'on ne peut ni confirmer ni écarter — et c'est précisément ce qu'une
+absence de mesure produit.
+
+*La publication de comparaisons entre écoles* est autre chose : un mécanisme d'incitation, et le seul
+des deux à disposer d'une estimation causale solide. En 2001, le pays de Galles a cessé de publier les
+tableaux de performance de ses écoles secondaires quand l'Angleterre a continué. Burgess, Wilson et Worth
+(*Journal of Public Economics*, 2013) estiment la perte en différence de différences, avec une triple
+différence exploitant l'absence de réforme équivalente au primaire : **1,92 point de GCSE par élève et
+par an**, soit **0,23 écart-type mesuré au niveau de l'école** et **0,086 au niveau de l'élève**. L'effet
+est nul dans le quartile d'écoles le plus favorisé et le plus négatif dans le quartile le plus pauvre.
+Niveau de preuve élevé (section 28).
+
+Deux réserves encadrent ce résultat, et les auteurs eux-mêmes posent la première : supprimer
+l'information comparative publique dégrade les résultats, **ce qui ne démontre pas qu'instaurer des
+palmarès produirait un gain symétrique**. La seconde tient à la forme de l'indicateur. Quand la mesure
+publiée est un taux d'élèves franchissant un seuil, les équipes concentrent rationnellement leur effort
+sur les élèves qui en sont proches : à Chicago, sous ce régime, les élèves des déciles 3 à 7 gagnent
+près de 0,10 écart-type en lecture et plus de 0,13 en mathématiques, pendant que le décile inférieur
+recule d'environ 0,04 (Neal et Schanzenbach, *Review of Economics and Statistics*, 2010 ; section 28).
+Aucune malveillance n'est nécessaire : il suffit que l'indicateur soit un seuil.
 
 **Un échelon intermédiaire doté de personnes crédibles.** *Student Achievement Officers* détachés en
 Ontario, *Challenge Advisers* du City Challenge, écoles-pôles des *English Hubs*, coachs en littératie du
