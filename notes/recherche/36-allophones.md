@@ -18,11 +18,11 @@ habituellement à la maison une autre langue que celle du test**, contre 12,0 % 
 cette allophonie n'est pas intérieure au pays, puisque **seuls 2 % parlent à la maison une autre langue
 nationale**. Les écarts de score associés sont considérables : 492 contre 433 points en lecture (**59
 points**), 504 contre 455 en mathématiques (**49 points**), 495 contre 438 en sciences (**57 points**). La
-Communauté flamande, à proportion d'allophones identique (17,4 %), affiche des écarts nettement plus grands
-(81, 66 et 78 points) : la proportion d'allophones ne détermine pas mécaniquement la performance d'un
-système. À statut socio-économique égal, l'effet de la langue reste plus important en Flandre qu'en FWB,
-sans que le coefficient soit publié (Bricteux & Quittre, sous la direction de Lafontaine, ULiège, 2020).
-Niveau de preuve : comparaison internationale descriptive, corrélationnelle.
+Communauté flamande, à proportion d'allophones identique, affiche des écarts bien plus grands (81, 66 et 78
+points) : cette proportion ne détermine pas mécaniquement la performance d'un système. À statut
+socio-économique égal, l'effet de la langue reste plus important en Flandre qu'en FWB, sans que le
+coefficient soit publié (Bricteux & Quittre, sous la direction de Lafontaine, ULiège, 2020). Comparaison
+internationale descriptive, corrélationnelle.
 
 Le seul chiffrage *net* sur données belges vient de l'analyse multiniveaux de Danhier et Jacobs sur PISA
 2015. Dans un modèle contrôlant l'appartenance communautaire, le statut migratoire, l'indice
@@ -33,12 +33,12 @@ même travail, la proportion d'élèves sous le niveau 2 de lecture en FWB passe
 28,6 % en deuxième génération et 37,0 % en première (GERME-ULB pour la Fondation Roi Baudouin, 2017).
 Association nette, non causale ; le modèle agrège FWB et Flandre.
 
-Le lien avec le redoublement est établi de façon inhabituellement précise. En 2018, les élèves d'origine
-immigrée ont en FWB **2,83 fois** plus de risque d'être en retard à quinze ans que les natifs ; et **1,89
-fois** plus de risque *une fois contrôlés à la fois leur score de lecture et leur niveau socio-économique* —
-la valeur la plus élevée de la série 2003-2018 (Bricteux & Quittre, ULiège, 2020). Le contrôle par la
-performance en lecture est décisif : à compétence lue égale et à milieu égal, ces élèves redoublent
-davantage. Une partie du problème se situe donc du côté de la décision scolaire, non du français.
+Le lien avec le redoublement est établi précisément. En 2018, les élèves d'origine immigrée ont en FWB
+**2,83 fois** plus de risque d'être en retard à quinze ans que les natifs ; et **1,89 fois** plus de risque
+*une fois contrôlés à la fois leur score de lecture et leur niveau socio-économique*, valeur la plus élevée
+de la série 2003-2018 (Bricteux & Quittre, ULiège, 2020). Le contrôle par la performance en lecture est
+décisif : à compétence lue égale et à milieu égal, ces élèves redoublent davantage. Une partie du problème
+est donc du côté de la décision scolaire, non du français.
 
 **Ce que l'administration ne sait pas.** Le rapport national produit pour le projet européen EDINA établit
 que les données relatives au répertoire linguistique des élèves ne peuvent pas être collectées par
@@ -71,8 +71,7 @@ programme bilingue dès que vingt élèves à maîtrise limitée de l'anglais so
 une même langue. Chin, Daysal et Imberman exploitent ce seuil en régression sur discontinuité : **aucun
 effet significatif** des programmes bilingues sur les scores standardisés des élèves dont la langue du foyer
 est l'espagnol, mais des **effets de débordement positifs significatifs sur leurs camarades non concernés**
-(*Journal of Public Economics*, 107, 2013). Ce résultat contredit frontalement la synthèse de 2005 et doit
-être cité avec elle.
+(*Journal of Public Economics*, 107, 2013) — résultat qui contredit frontalement la synthèse de 2005.
 
 **L'immersion duale, elle, tient devant une loterie.** À Portland (Oregon), les programmes d'immersion à
 deux langues sont sursouscrits et les places attribuées par tirage au sort. Steele et ses collègues
@@ -84,14 +83,13 @@ septième année**, l'effet étant plus fort lorsque la langue maternelle de l'�
 partenaire (*American Educational Research Journal*, 54(1 suppl.), 2017). Limite majeure : la population est
 celle des familles qui ont *postulé*, et l'effet en lecture porte sur l'ensemble des candidats, pas
 seulement sur les allophones. Convergence observationnelle plus faible, sujette au biais de sélection :
-Umansky et Reardon trouvent que les élèves latinos apprenants d'anglais scolarisés en programmes bilingues
-sont **reclassés plus lentement au primaire mais à un taux global plus élevé** (*American Educational
-Research Journal*, 51(5), 2014).
+Umansky et Reardon trouvent les élèves latinos des programmes bilingues **reclassés plus lentement au
+primaire mais à un taux global plus élevé** (*American Educational Research Journal*, 51(5), 2014).
 
 ## 3. Dispositifs séparés ou inclusifs : aucun essai randomisé, des indices concordants
 
 Personne, à notre connaissance, n'a randomisé l'affectation d'élèves nouvellement arrivés entre classe
-d'accueil séparée et classe ordinaire avec soutien ; le dossier repose sur des comparaisons entre régimes
+séparée et classe ordinaire avec soutien ; le dossier repose sur des comparaisons entre régimes
 réglementaires et des études de perception.
 
 L'étude allemande ReGES compare cinq Länder aux règles différentes, sur 2 415 adolescents arrivés depuis
@@ -173,17 +171,17 @@ Un établissement qui organise un DASPA reçoit en outre un forfait de **12 pér
 tranche complète de douze élèves supplémentaires (articles 5 § 3 et 6 § 3). **La durée de passage en DASPA
 est comprise entre une semaine et un an, prolongeable de six mois, et de six mois supplémentaires pour les
 élèves non alphabétisés** — soit dix-huit mois au maximum en règle générale (article 13). L'horaire du DASPA
-comprend au minimum vingt-huit périodes hebdomadaires, dont au moins seize pour le français intensif, la
-culture scolaire et les sciences humaines (article 14, § 2). L'intégration progressive en classe d'âge
+comprend au minimum vingt-huit périodes hebdomadaires, dont seize au moins pour le français intensif et la
+culture scolaire (article 14, § 2). L'intégration progressive en classe d'âge
 devient obligatoire à hauteur d'**au moins six périodes hebdomadaires après dix mois, douze après douze
 mois, dix-huit après dix-huit mois** (article 15).
 
-Le décret a créé deux innovations réelles. Le statut d'« assimilé au primo-arrivant » rattache le bénéfice du
-dispositif à la date de scolarisation plutôt qu'à celle d'arrivée sur le territoire. Surtout, le dispositif
-« français langue d'apprentissage » (FLA) ouvre, **dans le fondamental, un droit fondé sur le seul critère
-de la maîtrise insuffisante du français, indépendamment de la nationalité** : un enfant belge et francophone
-peut en bénéficier ; dans le secondaire, il reste réservé aux élèves assimilés. Des outils d'évaluation
-adossés au CECR ont été construits et passés dès septembre 2019 (Meunier & Gloesener, ULiège, 2020).
+Deux innovations sont réelles. Le statut d'« assimilé au primo-arrivant » rattache le bénéfice du dispositif
+à la date de scolarisation plutôt qu'à celle d'arrivée sur le territoire. Surtout, le dispositif « français
+langue d'apprentissage » (FLA) ouvre, **dans le fondamental, un droit fondé sur le seul critère de la
+maîtrise insuffisante du français, indépendamment de la nationalité** : un enfant belge et francophone peut
+en bénéficier ; dans le secondaire, il reste réservé aux assimilés. Des outils d'évaluation adossés au CECR
+ont été construits et passés dès septembre 2019 (Meunier & Gloesener, ULiège, 2020).
 
 **Le volume réel.** En 2018-2019, la FWB comptait 75 DASPA (30 dans le fondamental, 45 dans le secondaire) ;
 au 1er octobre 2019, 3 726 élèves primo-arrivants et assimilés étaient recensés, 2 024 en Wallonie et 1 702
@@ -220,8 +218,8 @@ sept à huit années-élèves d'accompagnement FLA, ou environ 1,7 année de DAS
 qualité de l'enseignement ; leur propre essai randomisé conclut à une convergence complète en quatrième
 primaire ; et la meilleure évaluation quasi-expérimentale disponible, celle du Texas, ne trouve aucun effet
 sur les élèves visés. Quiconque affirme que la question est réglée se trompe, dans un sens ou dans l'autre.
-Quant au résultat de Portland, ses gains concernent l'ensemble des candidats à la loterie, majoritairement
-anglophones natifs ; le résultat propre aux apprenants d'anglais est la reclassification, et il est modeste.
+Les gains de Portland, eux, concernent l'ensemble des candidats à la loterie, majoritairement anglophones
+natifs ; le résultat propre aux apprenants d'anglais est la reclassification, et il est modeste.
 
 **Le résultat le plus robuste du dossier est un résultat nul.** La méta-analyse de l'EEF, sur près de cent
 mille observations d'élèves allophones issues d'essais randomisés, ne détecte aucun effet différentiel entre
@@ -277,10 +275,10 @@ fondé sur le test, non sur le statut.
 même langue partenaire et un vivier d'enseignants bilingues certifiés. En FWB, les langues du foyer sont
 dispersées sur plus de cent quatre-vingts nationalités (Meunier & Gloesener, 2020, sur données ETNIC) :
 aucun programme dual généralisé n'est concevable, et même localement à Bruxelles la contrainte serait le
-recrutement d'enseignants bilingues qualifiés, dans un marché que la section 35 montre déjà en pénurie. Le
-mécanisme floridien, lui, suppose un test-seuil d'État et le pouvoir d'imposer une organisation horaire : la
-FWB n'a ni l'un ni l'autre. Ce qui se transpose est la logique : du temps d'enseignement linguistique
-intensif acheté délibérément, plutôt que subi sous forme d'année redoublée.
+recrutement d'enseignants bilingues qualifiés, dans un marché que la section 35 montre en pénurie. Le
+mécanisme floridien suppose un test-seuil d'État et le pouvoir d'imposer une organisation horaire : la FWB
+n'a ni l'un ni l'autre. Ce qui se transpose est la logique : du temps d'enseignement linguistique intensif
+acheté délibérément, plutôt que subi sous forme d'année redoublée.
 
 **L'obstacle propre au système à réseaux.** Les périodes FLA et DASPA sont attribuées par implantation, sur
 comptage au 30 septembre et au 15 janvier, et retirées dès qu'un établissement n'accueille plus d'élèves
@@ -291,11 +289,10 @@ d'enseignants spécialisés — la condition que Cheung et Slavin jugent décisi
 langue d'enseignement.
 
 **Le risque à nommer.** Les 1,89 fois plus de risque de retard à score de lecture et milieu social égaux
-signifient qu'une part du désavantage des élèves allophones ne tient pas à leur français mais à la décision
-du conseil de classe : renforcer le soutien linguistique sans toucher à cette décision laisserait cette part
-intacte. Inversement, la promesse d'un soutien étendu ne doit pas servir d'argument à un maintien prolongé
-en dispositif séparé — le *cooling out* documenté en Flandre montre ce qu'un accueil prolongé fait aux
-aspirations.
+signifient qu'une part du désavantage ne tient pas au français mais à la décision du conseil de classe :
+renforcer le soutien linguistique sans toucher à cette décision laisserait cette part intacte. Inversement,
+la promesse d'un soutien étendu ne doit pas servir d'argument à un maintien prolongé en dispositif séparé —
+le *cooling out* documenté en Flandre montre ce qu'un accueil prolongé fait aux aspirations.
 
 ## Sources
 
@@ -304,7 +301,6 @@ aspirations.
 - Chin, A., Daysal, N. M., & Imberman, S. A. (2013). *Impact of bilingual education programs on limited English proficient students and their peers: Regression discontinuity evidence from Texas*. Journal of Public Economics, 107, 63-78. https://doi.org/10.1016/j.jpubeco.2013.08.008 — version de travail : NBER Working Paper 18197, https://www.nber.org/papers/w18197
 - Danhier, J., & Jacobs, D. (2017). *Aller au-delà de la ségrégation scolaire. Analyse des résultats à l'enquête PISA 2015 en Flandre et en Fédération Wallonie-Bruxelles*. GERME-ULB pour la Fondation Roi Baudouin. https://media.kbs-frb.be/fr/media/7534/20170828NT.pdf (écarts natifs/immigrés p. 41-42 ; analyse multiniveaux, tableau 2, p. 46-49)
 - Décret du 7 février 2019 visant à l'accueil, la scolarisation et l'accompagnement des élèves qui ne maîtrisent pas la langue dans l'enseignement organisé ou subventionné par la Communauté française, Moniteur belge du 18 mars 2019. Texte coordonné, base Gallilex : https://www.gallilex.cfwb.be/document/pdf/46275_000.pdf (art. 4 : 0,4 période et 24 mois ; art. 5 § 3 et 6 § 3 : forfaits DASPA ; art. 13 : durée ; art. 14 : horaire ; art. 15 : intégration progressive)
-- De Koninck, Z., & Armand, F. (2012). *Entre métropole et régions, un même raisonnement peut-il soutenir un choix de modèles de services différent pour l'intégration des élèves allophones ?* Diversité urbaine, 12(1), 69-85. https://doi.org/10.7202/1019212ar (cité uniquement pour l'existence d'une pluralité de modèles de services au Québec ; enquête descriptive, aucune donnée d'effet)
 - Emery, L., Spruyt, B., & Van Avermaet, P. (2022). *"That way there are no surprises in the end": the cooling out function of reception education for newly arrived migrant students in Flanders*. Educational Review, 75(7), 1349-1368. https://doi.org/10.1080/00131911.2021.2023472
 - Erling, E. J., Gitschthaler, M., & Schwab, S. (2022). *Is Segregated Language Support Fit for Purpose? Insights From German Language Support Classes in Austria*. European Journal of Educational Research, 11(1), 573-586. https://doi.org/10.12973/eu-jer.11.1.573
 - Fédération Wallonie-Bruxelles / ETNIC (2025). *Les indicateurs de l'enseignement 2025*, 20e édition. https://www.enseignement.be/fileadmin/portail_age/uploads/Systeme_educatif/Chiffres-cles/Indicateurs/indicateurs-enseignement_2025.pdf (effectifs DASPA du secondaire et évolution depuis 2018-2019, indicateur « population scolaire » ; dépenses unitaires par niveau, indicateur « coût unitaire »)
@@ -321,7 +317,5 @@ aspirations.
 - Umansky, I. M., & Reardon, S. F. (2014). *Reclassification Patterns Among Latino English Learner Students in Bilingual, Dual Immersion, and English Immersion Classrooms*. American Educational Research Journal, 51(5), 879-912. https://doi.org/10.3102/0002831214545110
 - Uwimpuhwe, G., Kang, S., Singh, A., Sayari, M., Akhter, N., Coolen-Maturi, T., & Einbeck, J. (2025). *IPD meta-analysis: The impact of EEF-funded trials on the educational attainment of pupils with English as an additional language (2011-2024)*. Education Endowment Foundation / Durham Research Methods Centre, novembre 2025. https://files.eric.ed.gov/fulltext/ED677298.pdf
 - Will, G., Becker, R., & Winkler, O. (2022). *Educational Policies Matter: How Schooling Strategies Influence Refugee Adolescents' School Participation in Lower Secondary Education in Germany*. Frontiers in Sociology, 7, 842543. https://doi.org/10.3389/fsoc.2022.842543
-- Woltran, F., Hassani, S., & Schwab, S. (2024). *Pull-Out Classes for Newly Arrived Students from Ukraine – An Obstacle to Social Inclusion*. Journal of Immigrant & Refugee Studies. https://doi.org/10.1080/15562948.2024.2433515
-- Alais, M., Lucchini, S., El Karouni, S., Maravelaki, A., & Oger, É. (2020). *Dissocier allophonie et vulnérabilité : de la nécessité d'interroger les catégories*. Circula : revue d'idéologies linguistiques, 12. https://doi.org/10.17118/11143/18444 (cité pour la critique des catégories administratives belges francophones ; analyse conceptuelle, sans données d'effet)
 
 *Sources écartées faute d'accès au texte : Wolf, K., Stanat, P., & Wendt, W. (2011), « Evaluation der kompensatorischen Sprachförderung : Abschlussbericht » (dépôt SSOAR, accès refusé) ; aucune évaluation quantitative des dispositifs OKAN flamands n'a pu être retrouvée.*
